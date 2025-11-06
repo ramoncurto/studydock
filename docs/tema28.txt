@@ -1,0 +1,153 @@
+28. Sistema d’actuació urbanística per expropiació. L’ocupació directa. 
+Visió global
+L'execució del planejament urbanístic, és a dir, la transformació material del territori per complir les previsions del pla, es realitza mitjançant instruments de gestió denominats sistemes d'actuació urbanística. El Text refós de la Llei d'urbanisme de Catalunya (TRLUC) n'estableix dos: la reparcel·lació i l'expropiació. El sistema d'expropiació és un mecanisme de gestió integrada pel qual l'Administració adquireix la totalitat dels terrenys d'un polígon d'actuació, pagant el justipreu corresponent, per executar directament les obres d'urbanització i les cessions.
+Paral·lelament, l'ocupació directa (OD) no és un sistema d'actuació en si mateix, sinó una tècnica específica d'obtenció de sòl. L'article 156 del TRLUC la defineix com l'obtenció anticipada de terrenys destinats a sistemes urbanístics (viaris, zones verdes, equipaments) de cessió obligatòria. La seva característica fonamental és que no extingeix el dret econòmic del propietari: en lloc d'un justipreu pel sòl, el propietari conserva el seu dret a l'aprofitament urbanístic, el qual materialitzarà posteriorment en la reparcel·lació del sector. És una eina que permet a l'Administració executar obres públiques urgents respectant el principi d'equidistribució.
+Checklist d’estudi
+Diferenciar conceptualment "Sistema d'Expropiació" (Art. 121 TRLUC) de "Tècnica d'Ocupació Directa" (Art. 156 TRLUC).
+Identificar l'àmbit d'aplicació de l'OD: exclusivament terrenys afectats a sistemes urbanístics (generals o locals).
+Dominar el procediment administratiu detallat de l'OD, regulat als articles 215 a 218 del Reglament de la Llei d'urbanisme (RUC).
+Comprendre la naturalesa, contingut i efectes jurídics de l'Acta d'Ocupació (Art. 215.7 RUC).
+Analitzar la posició jurídica del propietari: què cobra immediatament (indemnitzacions per danys, RUC 218) i què conserva a futur (dret a l'aprofitament, RUC 216).
+Memoritzar la garantia clau del propietari davant la inacció de l'Administració: el termini de quatre anys des de l'Acta d'Ocupació (Art. 156.3 TRLUC).
+Entendre la conseqüència de l'incompliment d'aquest termini: l'activació de l'expropiació per ministeri de la llei (Art. 114 TRLUC).3
+Desenvolupament
+1) Conceptes clau i definicions
+Sistema d'actuació urbanística: Instrument jurídic per a l'execució integrada del planejament en un polígon d'actuació. El TRLUC en defineix dos: reparcel·lació i expropiació.
+Sistema d'expropiació: Sistema d'actuació en què l'Administració actuant adquireix la totalitat dels béns i drets inclosos en el polígon d'actuació, mitjançant el pagament del justipreu, per executar el planejament.
+Causa expropiandi: Justificació legal (utilitat pública o interès social) que legitima la privació forçosa de la propietat. En matèria urbanística, la causa expropiandi per aplicar el sistema d'expropiació és l'aprovació definitiva del pla d'ordenació urbanística que detalla l'àmbit.
+Ocupació directa (OD): Tècnica d'obtenció anticipada de terrenys destinats a sistemes de domini públic (viari, parcs, etc.). No és un sistema d'actuació, sinó una eina per avançar l'execució d'elements públics. No es paga justipreu pel sòl, sinó que es reconeix al propietari el seu dret a participar en el repartiment de beneficis i càrregues del sector.
+Equidistribució (Repartiment de beneficis i càrregues): Principi fonamental de l'urbanisme (recollit al TRLSR estatal 7 i al TRLUC) que imposa que tots els propietaris d'un polígon d'actuació han de participar de forma justa i proporcional tant en els beneficis (l'aprofitament urbanístic que els atorga el pla) com en les càrregues (les cessions de sòl per a sistemes i els costos d'urbanització).
+Aprofitament urbanístic: Mesura abstracta del potencial edificable o lucratiu que el planejament atorga a un terreny. És el principal valor econòmic del sòl. En l'OD, aquest és el dret que el propietari conserva.
+2) Estructura / Esquemes
+Esquema 1: Els Sistemes d'Actuació (TRLUC Art. 121)
+
+
+Sistema de Reparcel·lació (Gestió per propietaris o Administració)
+Modalitat: Compensació Bàsica (Junta de Compensació).
+Modalitat: Compensació per Concertació.
+Modalitat: Cooperació (l'Administració gestiona).
+
+
+Sistema d'Expropiació (Gestió pública mitjançant pagament de justipreu).
+Esquema 2: Taula Comparativa (Clau d'Examen): Expropiació vs. Ocupació Directa
+Criteri
+Sistema d'Expropiació (Art. 121 TRLUC)
+Tècnica d'Ocupació Directa (Art. 156 TRLUC)
+Finalitat
+Executar tot un polígon d'actuació.
+Obtenir anticipadament terrenys per a sistemes.
+Objecte
+Qualsevol terreny inclòs al polígon (privat o dotacional).
+Només terrenys qualificats de Sistema (viari, parc, equipament).
+Pagament / Dret
+El propietari rep un Justipreu (valor econòmic del bé).
+El propietari rep el reconeixement del seu Aprofitament Urbanístic equivalent.
+Materialització
+En diners (o en espècie, si s'acorda).
+En la futura reparcel·lació (en sòl edificable de resultat o en diners).
+Efecte Legal
+Extinció de la propietat i del dret d'aprofitament.
+Pèrdua de la propietat física, però conservació del dret d'aprofitament.
+Normativa Clau
+LEF , TRLSR [9], TRLUC (Taxació Conjunta).
+TRLUC (Art. 156 ) i RUC (Arts. 215-218 ).
+
+Esquema 3: Flux del Procediment d'Ocupació Directa (basat en RUC 215)
+Inici: L'Administració actuant acorda iniciar el procediment (d'ofici o a instància).
+Document Tècnic: Formulació de la "Relació de Béns i Drets Afectats". Ha d'incloure: justificació, àmbit de reparcel·lació futura, càlcul de l'aprofitament atribuït i indemnitzacions per danys.
+Garantia Registral: Se sol·licita nota marginal de l'afecció al Registre de la Propietat.
+Publicitat: Informació pública (mínim 15 dies) i audiència simultània als propietaris afectats.
+Aprovació: Resolució de les al·legacions i aprovació de la Relació.
+Efectes de l'Aprovació: Aquesta aprovació implica automàticament la declaració de necessitat d'ocupació i la declaració d'urgència de l'ocupació.
+Pagament Previ (Danys): Pagament o consignació de les indemnitzacions per danys, perjudicis o extinció de drets incompatibles (mai pel valor del sòl).
+Formalització: Signatura de l'Acta d'Ocupació (amb el contingut mínim del RUC 215.7).2
+Inscripció Registral: L'Acta s'inscriu al Registre. La finca s'inscriu a nom de l'Administració i, simultàniament, s'inscriu l'aprofitament a favor del propietari en un foli independent.
+3) Principis / Regles
+Principi d'Equidistribució: És el pilar de l'OD. Aquesta tècnica seria injusta (confiscatòria) si no existís l'equidistribució. L'OD permet a l'Administració obtenir el sòl públic (càrrega) sense que el propietari afectat perdi el seu dret al benefici (aprofitament), ja que el seu dret es conserva intacte per al repartiment final.8
+Principi de Causa Expropiandi: En el sistema d'expropiació, la justificació de la privació de la propietat és l'aprovació del propi pla urbanístic.
+Regla de la Conservació de l'Aprofitament: És la regla d'or de l'OD (Art. 156 TRLUC ). El propietari no rep un justipreu pel sòl, sinó el reconeixement formal del seu dret a l'aprofitament urbanístic en el sector.
+Regla de la Declaració d'Urgència: L'aprovació de la relació de béns en l'OD implica automàticament la declaració d'urgència de l'ocupació (Art. 215.6 RUC). Això permet a l'Administració prendre possessió del terreny de forma immediata (previ pagament de les indemnitzacions del RUC 218) sense seguir el procediment d'urgència ordinari de la LEF (Art. 52 LEF).
+4) Procediment i aplicació administrativa
+Un arquitecte tècnic de l'Administració ha de conèixer els detalls procedimentals d'ambdues figures.
+A. El Sistema d'Expropiació: La Taxació Conjunta
+L'Administració pot triar aquest sistema per raons d'interès públic, quan la reparcel·lació no és viable o quan els propietaris incompleixen els seus deures. Tot i que es regeix per la LEF , l'urbanisme té un procediment especial molt més àgil: la taxació conjunta.6
+Consisteix en l'elaboració d'un únic expedient (Projecte de Taxació Conjunta) que inclou la relació de béns, els titulars i els fulls de justipreu individualitzats per a cada finca del polígon.
+Se sotmet a informació pública, es notifica als interessats i la seva aprovació definitiva implica la declaració de la necessitat d'ocupació dels béns i la declaració d'urgència per a l'ocupació.
+B. Procediment detallat de l'Ocupació Directa (RUC Arts. 215-218)
+El procediment (esquematitzat al punt 2) té elements tècnics crítics:
+La Relació de Béns i Drets (RUC 215.3): És el document tècnic-jurídic clau. L'arquitecte tècnic sovint participarà en la seva redacció. Ha de contenir:
+Justificació de la necessitat de l'ocupació (ex: executar un viari urgent).
+Concreció del polígon d'actuació on el propietari exercirà els seus drets.
+Càlcul de l'aprofitament urbanístic que s'atribueix al propietari (el "pagament en drets").
+Quantificació de les indemnitzacions (RUC 218) per danys, collites, arrendaments, etc..
+L'Acta d'Ocupació (RUC 215.7): És el document que formalitza la transferència de possessió. L'article 215.7 del RUC exigeix que contingui, com a mínim:
+Lloc, data i identificació de l'Administració i els titulars.
+Descripció dels béns (incloses plantacions, drets, etc.).
+Superfície ocupada.
+Determinació de l'aprofitament urbanístic corresponent als terrenys ocupats (l'element essencial).
+Efectes Registrals (RUC 215.8): Aquest és el mecanisme de garantia jurídica. L'Acta d'Ocupació és títol inscriptible. El Registrador de la Propietat:
+Inscriu la finca (el sistema públic) a nom de l'Administració.
+Obre un nou foli registral independent a nom del propietari, on s'inscriu el seu dret a l'aprofitament. Aquest dret esdevé un valor patrimonial autònom, que pot ser transmès o hipotecat abans de la reparcel·lació.
+C. Drets i Garanties del Propietari en l'OD
+Dret a l'Aprofitament (RUC 216): El propietari té dret a l'adjudicació de finques de resultat en la futura reparcel·lació. Aquest aprofitament és "provisional" (216.2), ja que el càlcul final es farà en el projecte de reparcel·lació, però el seu dret a participar-hi ja està garantit.
+Dret a Indemnització (RUC 218): L'Administració ha de pagar abans de l'ocupació efectiva. Aquesta indemnització cobreix l'extinció de drets incompatibles (llogaters, collites, drets de pas) o els perjudicis per l'ocupació. L'article 218.1 és taxatiu: "aquestes indemnitzacions mai no comprenen el valor del sòl".
+Garantia per Mora de l'Administració (El termini de 4 anys): Què passa si l'Administració ocupa el terreny però triga indefinidament a tramitar la reparcel·lació? El propietari es troba sense terreny i amb un dret d'aprofitament "congelat".
+La Solució (Art. 156.3 TRLUC i Art. 217 RUC ): Transcorreguts quatre anys des de l'atorgament de l'Acta d'Ocupació, si no s'ha aprovat definitivament la reparcel·lació, el propietari pot actuar.
+L'Acció: El propietari ha d'advertir l'Administració competent del seu propòsit d'iniciar l'expedient de justipreu (taxació).
+La Conseqüència (Art. 114 TRLUC ): Aquesta advertència activa l'expropiació "per ministeri de la llei". L'Administració queda obligada a iniciar un expedient expropiatori (ara sí, pagant amb diners) per taxar i pagar el valor d'aquell dret d'aprofitament que el propietari tenia reconegut.12
+5) Normativa essencial (sigles — nom oficial — any/versió)
+TRLUC: Decret Legislatiu 1/2010, de 3 d'agost, pel qual s'aprova el Text refós de la Llei d'urbanisme de Catalunya.
+RUC: Decret 305/2006, de 18 de juliol, pel qual s'aprova el Reglament de la Llei d'urbanisme.13
+TRLSR: Reial Decret Legislatiu 7/2015, de 30 d'octubre, pel qual s'aprova el text refós de la Llei de Sòl i Rehabilitació Urbana (Normativa bàsica estatal).9
+LEF: Llei de 16 de desembre de 1954, sobre Expropiació Forçosa (Normativa bàsica estatal).5
+6) Exemples i casos
+Exemple (Test): Segons l'article 215.7 del RUC, quin dels següents elements és contingut essencial de l'Acta d'Ocupació Directa?
+a) El preu justipreu del sòl.
+b) La data d'inici de les obres del sistema.
+c) La determinació de l'aprofitament urbanístic corresponent als terrenys.
+d) L'ordre de demolició de les construccions preexistents.
+(Resposta: c)
+Micro-cas: Un Ajuntament necessita urgentment obrir un nou carrer (sistema viari) previst al POUM, que afecta una finca privada. El sector (polígon) on s'ubica no es desenvoluparà (reparcel·larà) fins d'aquí a uns anys. L'Ajuntament opta per l'Ocupació Directa. El propietari pregunta si cobrarà ara el valor del terreny.
+Orientació de resposta: No. L'Ajuntament no li pagarà el valor del sòl. L'Ajuntament iniciarà el procediment del RUC 215 , li pagarà només les indemnitzacions per danys/perjudicis immediats (RUC 218) , i aixecarà una Acta d'Ocupació (RUC 215.7) on se li reconeixerà el seu dret a l'aprofitament urbanístic. Conservarà aquest dret per exercir-lo en la futura reparcel·lació (RUC 216).
+7) Errors típics i mnemotècnies
+Error Típic 1: Confondre OD amb Ocupació Urgent (Art. 52 LEF). Són diferents. L'Ocupació Urgent de la LEF és un pas dins d'una expropiació normal (s'ocupa ràpid i després es paga el justipreu). L'Ocupació Directa del RUC és una figura autònoma (s'ocupa i mai es paga justipreu pel sòl, sinó que es reconeix aprofitament).
+Error Típic 2: Pensar que la indemnització del RUC 218 paga el sòl. No. L'article 218.1 RUC és explícit: "mai no comprenen el valor del sòl". Només cobreix danys i drets incompatibles.
+Error Típic 3: Confondre el termini de 4 anys. El termini de 4 anys (TRLUC 156.3) no és per a l'ocupació; és la garantia que té el propietari després de ser ocupat, per si l'Administració no compleix amb la reparcel·lació.
+Mnemotècnia:
+EXPROPIACIÓ = Paga i Adéu (Diners per Sòl).
+OD (Ocupació Directa) = Ocupa i Deu (Ocupa el sòl i Deu l'aprofitament).
+8) Glossari mínim
+Acta d'ocupació: Document administratiu (RUC 215.7) que formalitza la presa de possessió del sòl en una OD i serveix de títol per inscriure l'aprofitament urbanístic a favor del propietari.
+Equidistribució: Principi (TRLUC/TRLSR) pel qual tots els propietaris d'un polígon participen equitativament en els beneficis (aprofitament) i càrregues (cessions, urbanització).8
+Sistema (urbanístic): Elements de domini públic definits pel planejament (viari, parcs, equipaments comunitaris) que es poden obtenir per OD.
+Taxació conjunta: Procediment especial d'expropiació en urbanisme (regulat al TRLUC i RUC) que unifica en un sol expedient la determinació del justipreu de totes les finques d'un polígon.6
+Resum final
+Aquests apunts han cobert els dos mecanismes d'obtenció de sòl: el sistema d'expropiació i la tècnica de l'ocupació directa. L'expropiació (Art. 121 TRLUC) és un sistema de gestió complet que extingeix la propietat a canvi de justipreu, sovint pel tràmit àgil de taxació conjunta. En canvi, l'ocupació directa (Art. 156 TRLUC) és una eina diferent: una tècnica d'obtenció anticipada, exclusiva per a sistemes públics, que no paga justipreu pel sòl. Respecta el principi d'equidistribució 8 conservant el dret del propietari a l'aprofitament (RUC 216). El procediment (RUC 215) i les garanties per mora (4 anys, TRLUC 114/156) 1 són punts crítics d'examen.
+Bloc d’examen
+Preguntes Tipus Test
+Quina és la diferència fonamental entre el sistema d'expropiació i l'ocupació directa (OD) segons el TRLUC?
+a) L'expropiació requereix pagament i l'OD és sempre una cessió gratuïta.
+b) L'expropiació paga justipreu pel sòl extingint el dret; l'OD reconeix l'aprofitament urbanístic per a una futura reparcel·lació.
+c) L'expropiació només s'aplica a sòl urbà i l'OD a sòl urbanitzable.
+d) L'expropiació és un sistema estatal (LEF) i l'OD és un sistema exclusivament català (TRLUC).
+Segons l'article 215.6 del RUC, l'aprovació definitiva de la relació de béns i drets en una ocupació directa implica automàticament:
+a) L'inici del termini de 4 anys per al pagament del justipreu.
+b) La declaració de necessitat d'ocupació i la declaració d'urgència.
+c) La suspensió de llicències a tot el municipi.
+d) L'aprovació del projecte de reparcel·lació del sector.
+Un propietari ha estat objecte d'una Ocupació Directa. Han passat 5 anys des de l'Acta d'Ocupació i l'Ajuntament no ha aprovat la reparcel·lació. Quina acció li atorga la legislació? (TRLUC Art. 156.3 i RUC 217).1
+a) Res, ha d'esperar indefinidament a que s'aprovi la reparcel·lació.
+b) El terreny reverteix automàticament a la seva propietat.
+c) Advertir l'Administració per iniciar l'expedient de justipreu per ministeri de la llei (via TRLUC Art. 114).
+d) Demanar només la indemnització per danys i perjudicis de l'article 218 del RUC.
+Micro-cas pràctic
+L'Ajuntament de "Vila-plana" aprova un POUM que preveu una nova zona verda (sistema local) en un sector de sòl urbanitzable. Per executar el parc ràpidament, abans de desenvolupar el sector, utilitza l'Ocupació Directa sobre la finca del Sr. Bosc. El Sr. Bosc té allà una petita explotació agrícola (horta) en actiu i un contracte d'arrendament rústic vigent.
+Preguntes:
+És correcte l'ús de l'Ocupació Directa?
+Què ha de rebre el Sr. Bosc abans que l'Ajuntament ocupi físicament la finca?
+Què passa amb el valor del sòl del Sr. Bosc?
+Punts clau de resolució:
+Sí, l'ús és correcte. L'objecte és un sistema (zona verda) i l'OD és una tècnica d'obtenció anticipada permesa per l'Art. 156 TRLUC.
+Abans de l'ocupació efectiva, l'Ajuntament ha de pagar o consignar les indemnitzacions de l'Art. 218 RUC. Això inclouria la indemnització per l'extinció de drets incompatibles (el valor de l'explotació agrícola o la collita pendent) i els drets de l'arrendatari. Aquest pagament "mai no comprèn el valor del sòl".
+El valor del sòl (el seu dret de propietat) es transforma. El Sr. Bosc perd la propietat física, però se li reconeixerà el seu aprofitament urbanístic mitjançant l'Acta d'Ocupació (Art. 215.7 RUC). Aquest dret s'inscriurà al Registre (Art. 215.8 RUC) i li permetrà rebre una finca de resultat (o compensació econòmica) en la futura reparcel·lació del sector (Art. 216 RUC).
+

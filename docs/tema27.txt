@@ -1,0 +1,183 @@
+27. Modalitats del sistema d’actuació per reparcel·lació. Entitats urbanístiques col·laboradores. 
+Visió global
+La gestió urbanística és la funció pública d'executar el planejament urbanístic. Aquesta execució implica transformar el sòl per materialitzar les previsions del pla, principalment mitjançant dos sistemes d'actuació a Catalunya: l'expropiació (execució pública) i la reparcel·lació (execució amb participació privada). El sistema de reparcel·lació és l'eina clau per aplicar el principi d'equidistribució de beneficis i càrregues.1 Aquest sistema assegura que tots els propietaris d'un polígon d'actuació (PAU) contribueixin equitativament als costos de la urbanització (cessions de sòl per a carrers, zones verdes, etc.) i rebin, a canvi, solars edificables en proporció als seus drets. El Text Refós de la Llei d'Urbanisme de Catalunya (TRLUC) articula la reparcel·lació en quatre modalitats flexibles.5 L'execució d'aquestes modalitats, especialment les d'iniciativa privada, es vehicula a través d'Entitats Urbanístiques Col·laboradores (EUCs), com les Juntes de Compensació, que agrupen els propietaris sota la tutela de l'Administració.
+Checklist d’estudi (Punts de memòria obligatoris)
+Diferenciar els 2 sistemes d'actuació: Reparcel·lació (equidistribució) vs. Expropiació (execució pública directa).
+Memoritzar les 4 modalitats de reparcel·lació: Compensació Bàsica, Compensació per Concertació, Cooperació, i Sectors d'Urbanització Prioritària (SUP).2
+Associar la iniciativa: Privada (Bàsica, Concertació) vs. Pública (Cooperació, SUP).
+Dominar els llindars d'iniciativa privada (percentatges de superfície del polígon):
+Compensació Bàsica: Requereix propietaris que representin > 50%.
+Compensació per Concertació: Requereix propietaris que representin > 25%.
+Associar cada modalitat amb la seva entitat col·laboradora principal:
+Bàsica -> Junta de Compensació.
+Concertació -> Junta de Concertació.
+Cooperació -> Associació Administrativa de Cooperació.
+Conèixer l'existència d'altres EUCs (com les Juntes de Conservació), que tenen finalitats diferents (manteniment post-urbanització) i són un distractor comú en exàmens.
+Entendre la funció i el contingut bàsic del Projecte de Reparcel·lació (l'instrument tècnic-jurídic).
+Identificar el concepte d'Entitat Provisional i la seva regulació clau (Art. 123.3 TRLUC, Art. 196 RLUC).
+Estar al dia de la modificació recent: DL 02/2025, que imposa noves obligacions de publicitat i registre telemàtic dels instruments de gestió.
+Desenvolupament
+1) Conceptes clau i definicions
+Gestió urbanística: La funció pública dirigida a executar els plans i les actuacions de les administracions urbanístiques. Inclou les operacions jurídiques (reparcel·lar) i físiques (urbanitzar) per transformar el sòl segons el planejament.
+Sistema d'actuació: El conjunt de procediments legals que l'Administració, o els particulars sota la seva tutela, utilitzen per executar el planejament en un polígon d'actuació. A Catalunya són la Reparcel·lació i l'Expropiació.2
+Reparcel·lació: L'operació jurídica i econòmica de distribució equitativa de beneficis (aprofitament urbanístic) i càrregues (costos d'urbanització i cessions) derivats del planejament. Implica agrupar finques aportades, deduir les cessions obligatòries i l'aprofitament municipal, i adjudicar noves finques resultants als propietaris en proporció al seu dret.3
+Entitat Urbanística Col·laboradora (EUC): Entitat de caràcter administratiu, integrada per propietaris d'un polígon, amb personalitat jurídica pròpia, que té com a finalitat participar en la gestió urbanística (executar obres, redactar projectes) sota la supervisió de l'Administració actuant.
+Projecte de Reparcel·lació: L'instrument tècnic i jurídic que defineix, calcula i formalitza l'operació de reparcel·lació. Ha de contenir, com a mínim: memòria, descripció de finques aportades (titulars, càrregues) i resultants, criteris de valoració i adjudicació, i el compte de liquidació provisional.
+Polígon d'Actuació Urbanística (PAU): L'àmbit territorial delimitat pel planejament per a l'execució urbanística integrada. És la unitat de gestió.4
+2) Estructura / Esquemes
+La legislació catalana (TRLUC) estructura les modalitats de reparcel·lació principalment en funció de qui té la iniciativa: els propietaris (gestió indirecta) o l'Administració (gestió directa o pública).1 Les modalitats de "Compensació" (Bàsica i Concertació) són d'iniciativa privada; la "Cooperació" i els SUP són d'iniciativa pública.
+Per a un opositor, la confusió entre les quatre modalitats és un error d'examen molt comú. L'eina més eficaç és una anàlisi comparativa directa, com la següent:
+TAULA 1: Comparativa de les Modalitats de Reparcel·lació (TRLUC/RLUC)
+
+Característica
+Compensació Bàsica
+Compensació per Concertació
+Cooperació
+Sectors d'Urbanització Prioritària (SUP)
+Normativa (TRLUC)
+Art. 123-125
+Art. 123, 126-128
+Art. 123, 129-130
+Art. 131-133
+Iniciativa
+Privada
+Privada
+Pública
+Pública (Declaració expressa)
+Llindar d'Iniciativa
+Propietaris que representin > 50% de la superfície del PAU.
+Propietaris que representin > 25% de la superfície del PAU.
+Decisió de l'Administració actuant.
+Decisió de l'Administració actuant (en Sòl Urbà No Consolidat o Urbanitzable).
+Qui executa?
+Els propietaris, a través de la Junta de Compensació.10
+Els propietaris (i/o promotors) que concerten amb l'Admin..
+L'Administració actuant (executa les obres).
+L'Administració actuant.
+Qui finança?
+Els propietaris (paguen quotes a la Junta).
+Els propietaris (segons les Bases de Concertació).
+Els propietaris (paguen quotes a l'Administració).
+Els propietaris (paguen quotes a l'Administració).
+Entitat Col·laboradora
+Junta de Compensació (obligatòria).
+Junta de Concertació (resultat del conveni).
+Associació Administrativa de Cooperació (opcional, per col·laborar).
+(S'aplica el sistema de Cooperació).
+Document Clau
+Estatuts i Bases d'Actuació.11
+Projecte de Bases de Concertació (aprovat per l'Admin.).
+Bases de l'Actuació (aprovades per l'Admin.).
+Acord de declaració del SUP.
+Règim no-adherits
+Expropiació forçosa (Beneficiari: la Junta de Compensació).
+Expropiació forçosa o pagament de quotes amb terrenys.
+N/A (Tots hi són inclosos d'ofici).
+N/A (Tots hi són inclosos d'ofici).
+
+3) Principis / Regles
+Principi d'Equidistribució: És la regla fonamental del sistema de reparcel·lació. Implica un repartiment just de beneficis (aprofitament urbanístic) i càrregues (costos d'urbanització i cessions de sòl) entre tots els propietaris del polígon, en proporció als seus drets inicials.1
+Principi de Col·laboració i Tutela Administrativa: En les modalitats d'iniciativa privada (compensació), els propietaris assumeixen l'execució (col·laboració), però l'Administració manté sempre la potestat de supervisió, control i, en última instància, l'expropiació dels no adherits (tutela).10
+Principi de Cessió Obligatòria i Gratuïta: L'aprovació definitiva del Projecte de Reparcel·lació produeix automàticament la cessió de dret, lliure de càrregues, a favor de l'Administració, dels terrenys destinats a sistemes (vials, zones verdes, equipaments) i del sòl corresponent a l'aprofitament municipal.
+4) Procediment i aplicació administrativa
+Per a un Arquitecte Tècnic municipal, la diferència entre modalitats no és teòrica, sinó procedimental. Determina quins documents ha de revisar, quins terminis ha de controlar i quines notificacions ha de practicar. L'error en un tràmit pot invalidar tot el procés.
+A. Modalitat de Compensació Bàsica (>50%)
+Iniciativa: Propietaris que sumen més del 50% de la superfície del PAU sol·liciten a l'Ajuntament l'aprovació de la modalitat.
+Documentació Essencial (per a la Junta): Els promotors han de presentar un projecte d'Estatuts (regles internes de la Junta) i de Bases d'Actuació (regles de la reparcel·lació: criteris de valoració, quotes, terminis, etc.).11
+Tramitació (Admin.): L'Ajuntament tramita i aprova els Estatuts i Bases, amb un període d'informació pública.
+Constitució de la Junta: Un cop aprovats, els propietaris constitueixen la Junta de Compensació mitjançant escriptura pública.11 Aquesta s'inscriu al Registre d'Entitats Urbanístiques Col·laboradores (REUC).
+Règim de no-adherits: Els propietaris que no s'hi adhereixen en el termini fixat poden ser expropiats per l'Administració, sent la Junta de Compensació la beneficiària de l'expropiació.
+Execució: La Junta (ja constituïda) formula el Projecte de Reparcel·lació i el Projecte d'Urbanització, i els presenta a l'Ajuntament per a la seva aprovació definitiva.
+B. Modalitat de Compensació per Concertació (>25%)
+Aquesta modalitat és més flexible, sovint utilitzada quan un promotor o un grup minoritari (però significatiu, >25%) vol liderar el procés, possiblement en associació amb una empresa urbanitzadora externa. El procés es basa en un "concert" o conveni amb l'Administració.
+Iniciativa: Propietaris (>25% superfície) presenten a l'Ajuntament la iniciativa.
+Documentació Essencial: Es presenta un Projecte de Bases de Concertació. Aquest document és crucial, ja que ha d'especificar (segons Art. 136 TRLUC / 175 RLUC): terminis, estimació de costos, garanties ofertes, criteris de selecció de contractistes, etc..
+Tramitació (Admin.): L'Ajuntament sotmet la iniciativa i les Bases a informació pública (1 mes) i, molt important, a audiència personal als propietaris afectats. Aquest és un tràmit essencial d'aquesta modalitat.
+Règim de no-incorporats: Durant l'audiència, els altres propietaris poden adherir-se. Si no ho fan, els seus terrenys seran expropiats o, alternativament, rebran finques resultants a canvi de pagar les despeses d'urbanització (sovint mitjançant la cessió de més sòl).
+Aprovació i Gestió: L'Administració aprova les Bases (el "concert") i es constitueix la Junta de Concertació per executar el projecte.
+C. Modalitat de Cooperació (Iniciativa Pública)
+Iniciativa: L'Administració decideix executar el polígon.
+Execució: L'Administració formula i aprova d'ofici el Projecte de Reparcel·lació i executa les obres d'urbanització.
+Finançament: Els propietaris reben les finques resultants però han de pagar a l'Administració les quotes d'urbanització corresponents.
+Entitat: Els propietaris poden constituir una Associació Administrativa de Cooperació per col·laborar amb l'Administració, supervisar l'execució o fins i tot proposar el Projecte de Reparcel·lació, però no tenen potestats executives.1
+D. Entitats Provisionals
+Regulació: Art. 123.3 TRLUC i Art. 196 RLUC.
+Finalitat: Permeten als propietaris organitzar-se i avançar tràmits (p.ex., formular documents) abans que el planejament que s'ha d'executar sigui definitiu, agilitzant la constitució definitiva.
+Durada: Es constitueixen per un termini màxim de 3 anys.
+Risc Administratiu (Cas pràctic real): El cas d'una Junta Provisional a Vilanova i la Geltrú il·lustra un problema administratiu real: una Junta Provisional constituïda el 2020 va arribar al seu termini de vigència sense haver-se convertit en definitiva. El REUC (Registre d'Entitats) va comunicar a l'Ajuntament la "finalització del termini de vigència" i va preparar la dissolució de l'entitat. Això obliga l'Ajuntament a gestionar la dissolució (Art. 196.8 i 195 RLU) o a tramitar pròrrogues, si escau, generant complexitat administrativa.
+5) Normativa essencial (sigles — nom oficial — any/versió)
+DL 1/2010 — Decret Legislatiu 1/2010, de 3 d'agost, pel qual s'aprova el Text refós de la Llei d'urbanisme (TRLUC). (Conté la regulació substantiva dels sistemes d'actuació, Art. 115 i ss.).12
+D 305/2006 — Decret 305/2006, de 18 de juliol, pel qual s'aprova el Reglament de la Llei d'urbanisme (RLUC). (Detalla el procediment, el contingut dels projectes i el règim de les entitats).14
+** DL 02/2025** — Decret Llei 02/2025, de 25 de febrer, de mesures urgents en matèria d'habitatge i urbanisme.
+Impacte recent: Aquest Decret Llei, extremadament recent, modifica el TRLUC i el RLUC per reforçar la publicitat dels instruments de gestió.
+Implicació Pràctica (Oposició): Introdueix una nova obligació per als Ajuntaments (Art. 3 bis afegit): han d'enviar a la Generalitat (Registre Urbanístic de Catalunya) una còpia completa dels instruments de gestió (com els projectes de reparcel·lació) en un termini màxim de dos mesos des de la seva fermesa administrativa, per a la seva consulta telemàtica. Això crea una nova responsabilitat de compliment de terminis per al tècnic municipal.
+6) Exemples i casos
+Exemple (test): D'acord amb el TRLUC, per impulsar una modalitat de compensació bàsica, els propietaris promotors han de representar:
+a) Més del 25% de la superfície.
+b) Més del 50% de la superfície.
+c) Més del 60% dels propietaris.
+d) El 100% de la superfície.
+Micro-cas (1) (Elecció de modalitat): Un PAU en sòl urbanitzable té 20 propietaris. Un grup de 4 propietaris, que junts sumen el 60% de la superfície, volen executar la urbanització. Un altre grup (16 propietaris, 40% de la superfície) s'hi oposa passivament.
+Pregunta: Quina modalitat d'iniciativa privada és la més adient i per què? Quina entitat hauran de constituir? Què passa amb el 40% que no vol actuar?
+Orientació de resposta: La modalitat adient és la Compensació Bàsica, ja que superen el llindar del 50%. Hauran de constituir una Junta de Compensació.10 El 40% restant serà requerit per adherir-se; si no ho fan, l'Administració (a instància de la Junta) podrà expropiar els seus terrenys, sent la Junta la beneficiària.
+Micro-cas (2) (Promotor minoritari): En el mateix PAU, un únic promotor adquireix el 30% del sòl. La resta (70%) està molt fragmentada i passiva. El promotor vol executar.
+Pregunta: Pot fer-ho? Quina via ha d'utilitzar?
+Orientació de resposta: Sí, pot. No pot usar la Compensació Bàsica (no arriba al 50%). Ha d'utilitzar la Compensació per Concertació, ja que supera el llindar del 25%. Haurà de presentar a l'Ajuntament una iniciativa i un Projecte de Bases de Concertació , que se sotmetrà a informació pública i audiència personal de la resta de propietaris.
+7) Errors típics i mnemotècnies
+Error: Confondre la Junta de Compensació (Bàsica) amb la Junta de Concertació. Són entitats diferents per a modalitats diferents.
+Error: Confondre % de superfície (per a la iniciativa) amb % de propietaris (irrellevant per a la iniciativa). La llei sempre parla de superfície.
+Error: Pensar que la modalitat de Cooperació és una iniciativa privada. És PÚBLICA. L'Associació de Cooperació només col·labora, no executa.1
+Error: Oblidar que els Sectors d'Urbanització Prioritària (SUP) no són un sistema en si mateix, sinó una declaració pública que aplica la modalitat de Cooperació.
+Mnemotècnia (Llindars):
+Bàsica = Bastant (>50%).
+Concertació = Començar (amb >25%).
+8) Glossari mínim
+Associació Administrativa de Cooperació: EUC de caràcter voluntari en la modalitat de cooperació, que agrupa propietaris per col·laborar amb l'Administració.
+Bases d'Actuació (Comp. Bàsica): Document normatiu, aprovat per l'Admin., que regeix el funcionament intern de la Junta de Compensació i els criteris de l'actuació.11
+Bases de Concertació (Comp. Concertada): Document que formalitza el "conveni" entre l'Admin. i els promotors (>25%), establint les condicions, terminis i garanties de l'execució.
+Junta de Compensació: EUC de dret públic i base privada, de caràcter obligatori en la modalitat de compensació bàsica, que assumeix la responsabilitat directa d'executar la urbanització.2
+Junta de Concertació: EUC que agrupa els propietaris que han concertat la gestió urbanística integrada amb l'Administració en la modalitat de compensació per concertació.
+Quotes d'urbanització: Les derrames econòmiques que l'entitat gestora (Junta o Administració) repercuteix als propietaris afectats per finançar el cost de les obres d'urbanització.
+Resum final
+L'execució del planejament a Catalunya es basa en els sistemes de reparcel·lació i expropiació. El sistema de reparcel·lació (TRLUC) és flexible i es divideix en modalitats segons la iniciativa (pública o privada). Les modalitats d'iniciativa privada (Bàsica >50% i Concertació >25%) són les més comunes i es gestionen mitjançant entitats urbanístiques col·laboradores (Juntes de Compensació i Concertació). Les modalitats d'iniciativa pública (Cooperació i SUP) són executades directament per l'Administració, tot i que els propietaris financen els costos. La clau per a l'opositor és distingir els requisits procedimentals, llindars i documents clau (Estatuts, Bases) de cada modalitat, així com el règim dels propietaris no adherits (expropiació).4
+Bloc d’examen
+Preguntes Tipus Test
+En un polígon d'actuació, un grup de propietaris que representa el 40% de la superfície vol impulsar el desenvolupament. Quina modalitat de reparcel·lació ha d'utilitzar segons el TRLUC?
+a) Compensació Bàsica.
+b) Compensació per Concertació.
+c) Cooperació.
+d) No pot impulsar-la, ja que no supera el 50%.
+*Resposta correcta: b) *
+En la modalitat de Compensació Bàsica, quin és el destí dels terrenys dels propietaris que decideixen no adherir-se a la Junta de Compensació?
+a) Esdevenen sòl de cessió obligatòria a l'Ajuntament.
+b) L'Administració els ocupa directament.
+c) Són objecte d'expropiació forçosa, sent la Junta de Compensació la beneficiària.
+d) Romanen com a finques privades excloses de la urbanització.
+*Resposta correcta: c) *
+Quin és el termini màxim que estableix el TRLUC (i RLU) per a la vigència d'una Entitat Urbanística Col·laboradora constituïda de forma provisional?
+a) 1 any, prorrogable a 2.
+b) 2 anys.
+c) 3 anys.
+d) No tenen termini, duren fins a l'aprovació definitiva del planejament.
+*Resposta correcta: c) *
+Segons el recent Decret Llei 02/2025, quina nova obligació s'imposa als Ajuntaments en relació amb els instruments de gestió (p.ex. projectes de reparcel·lació) aprovats definitivament?
+a) Han de publicar-los al tauler d'edictes durant 6 mesos.
+b) Han d'enviar una còpia completa al Registre Urbanístic de Catalunya en un termini màxim de 2 mesos.
+c) Han de sol·licitar un informe vinculant a la Comissió Territorial d'Urbanisme.
+d) Han de garantir la seva execució en un termini màxim d'1 any.
+*Resposta correcta: b) *
+Micro-cas pràctic
+Supòsit de fet: Vostè és l'Arquitecte Tècnic de l'Ajuntament de "Vilateca". S'ha aprovat definitivament el Pla Parcial d'un PAU de 100.000 $m^2$ (Sòl Urbanitzable). El sistema d'actuació assignat pel Pla és "Reparcel·lació". L'Ajuntament rep dues propostes simultànies:
+La promotora "Terrafort, SA" (propietària de 35.000 $m^2$) presenta una iniciativa per a la Compensació per Concertació, adjuntant un Projecte de Bases de Concertació molt detallat.
+L'associació "Veïns de Can Rústic" (propietaris de 51.000 $m^2$) presenta una iniciativa per a la Compensació Bàsica, adjuntant un esborrany d'Estatuts i Bases d'Actuació.
+Preguntes (orientades a l'actuació tècnica):
+Com ha d'actuar l'Ajuntament davant la concurrència de dues iniciatives?
+Quina iniciativa té prioritat legal segons el TRLUC?
+Si s'acaba tramitant la proposta 2 (Compensació Bàsica), quins són els passos procedimentals immediats que ha de fer l'Ajuntament abans que la Junta pugui constituir-se?
+Quins documents clau haurà de presentar la Junta (un cop constituïda) per a l'aprovació municipal?
+Punts clau de la resolució:
+(Concurrència): L'Ajuntament ha d'aplicar les regles de prelació establertes al TRLUC per a la concurrència d'iniciatives.
+(Prioritat): L'Art. 124.1 del TRLUC estableix que la iniciativa de Compensació Bàsica (que supera el 50%) té preferència sobre la de Concertació (que supera el 25%). Per tant, l'Ajuntament ha de donar prioritat i tramitar la Proposta 2.
+(Passos immediats Ajuntament): L'Ajuntament ha de sotmetre l'expedient (iniciativa + esborrany d'Estatuts i Bases d'Actuació) a informació pública i aprovar-los (inicialment i definitivament).
+(Documents futurs): Un cop aprovats els Estatuts i Bases, la Junta es constitueix formalment (Escriptura).11 Llavors, haurà de formular i presentar per a aprovació municipal els dos instruments tècnics clau: el Projecte de Reparcel·lació i el Projecte d'Urbanització.
+

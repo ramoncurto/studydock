@@ -351,21 +351,21 @@ export default function StudyApp() {
   const utteranceRef = useRef<SpeechSynthesisUtterance | null>(null);
   const audioRef = useRef<HTMLAudioElement | null>(null);
 
-  // Theme colors - Professional neutral palette
+  // Theme colors - Professional neutral palette with improved dark mode contrast
   const theme = {
-    bg: isDark ? 'bg-neutral-950' : 'bg-neutral-50',
-    text: isDark ? 'text-neutral-50' : 'text-neutral-900',
-    textSecondary: isDark ? 'text-neutral-400' : 'text-neutral-600',
-    card: isDark ? 'bg-neutral-900' : 'bg-white',
-    cardHover: isDark ? 'hover:bg-neutral-850' : 'hover:bg-neutral-100',
-    button: isDark ? 'bg-primary-600 text-white hover:bg-primary-700' : 'bg-primary-600 text-white hover:bg-primary-700',
-    buttonSecondary: isDark ? 'bg-neutral-800 hover:bg-neutral-750 border-neutral-700' : 'bg-white hover:bg-neutral-50 border-neutral-300',
-    border: isDark ? 'border-neutral-800' : 'border-neutral-200',
-    success: isDark ? 'bg-emerald-900/50 border-emerald-800' : 'bg-emerald-50 border-emerald-200',
-    error: isDark ? 'bg-rose-900/50 border-rose-800' : 'bg-rose-50 border-rose-200',
-    progressBar: isDark ? 'bg-neutral-800' : 'bg-neutral-200',
-    progressFill: isDark ? 'bg-primary-600' : 'bg-primary-600',
-    accent: isDark ? 'text-primary-400' : 'text-primary-600'
+    bg: isDark ? 'bg-slate-900' : 'bg-neutral-50',
+    text: isDark ? 'text-slate-100' : 'text-neutral-900',
+    textSecondary: isDark ? 'text-slate-400' : 'text-neutral-600',
+    card: isDark ? 'bg-slate-800' : 'bg-white',
+    cardHover: isDark ? 'hover:bg-slate-700' : 'hover:bg-neutral-100',
+    button: isDark ? 'bg-blue-600 text-white hover:bg-blue-700' : 'bg-primary-600 text-white hover:bg-primary-700',
+    buttonSecondary: isDark ? 'bg-slate-700 hover:bg-slate-600 border-slate-600' : 'bg-white hover:bg-neutral-50 border-neutral-300',
+    border: isDark ? 'border-slate-700' : 'border-neutral-200',
+    success: isDark ? 'bg-emerald-900/70 border-emerald-700' : 'bg-emerald-50 border-emerald-200',
+    error: isDark ? 'bg-rose-900/70 border-rose-700' : 'bg-rose-50 border-rose-200',
+    progressBar: isDark ? 'bg-slate-700' : 'bg-neutral-200',
+    progressFill: isDark ? 'bg-blue-500' : 'bg-primary-600',
+    accent: isDark ? 'text-blue-400' : 'text-primary-600'
   };
 
   // Authentication listener
@@ -1228,7 +1228,7 @@ export default function StudyApp() {
             onClick={() => setScreen('notes')}
             className={`w-full card-hover p-5 flex items-center gap-4 transition-all`}
           >
-            <div className={`p-3 rounded-xl ${isDark ? 'bg-primary-900/30' : 'bg-primary-50'}`}>
+            <div className={`p-3 rounded-xl ${isDark ? 'bg-blue-500/20' : 'bg-blue-50'}`}>
               <BookOpen size={24} className={theme.accent} />
             </div>
             <div className="text-left flex-1">
@@ -1242,7 +1242,7 @@ export default function StudyApp() {
             onClick={() => setScreen('tests')}
             className={`w-full card-hover p-5 flex items-center gap-4 transition-all`}
           >
-            <div className={`p-3 rounded-xl ${isDark ? 'bg-primary-900/30' : 'bg-primary-50'}`}>
+            <div className={`p-3 rounded-xl ${isDark ? 'bg-blue-500/20' : 'bg-blue-50'}`}>
               <Edit3 size={24} className={theme.accent} />
             </div>
             <div className="text-left flex-1">
@@ -1256,7 +1256,7 @@ export default function StudyApp() {
             onClick={() => setScreen('audiobooks')}
             className={`w-full card-hover p-5 flex items-center gap-4 transition-all`}
           >
-            <div className={`p-3 rounded-xl ${isDark ? 'bg-primary-900/30' : 'bg-primary-50'}`}>
+            <div className={`p-3 rounded-xl ${isDark ? 'bg-blue-500/20' : 'bg-blue-50'}`}>
               <Headphones size={24} className={theme.accent} />
             </div>
             <div className="text-left flex-1">
@@ -1270,7 +1270,7 @@ export default function StudyApp() {
             onClick={() => setScreen('stats')}
             className={`w-full card-hover p-5 flex items-center gap-4 transition-all`}
           >
-            <div className={`p-3 rounded-xl ${isDark ? 'bg-primary-900/30' : 'bg-primary-50'}`}>
+            <div className={`p-3 rounded-xl ${isDark ? 'bg-blue-500/20' : 'bg-blue-50'}`}>
               <BarChart3 size={24} className={theme.accent} />
             </div>
             <div className="text-left flex-1">
@@ -1284,7 +1284,7 @@ export default function StudyApp() {
             onClick={() => setScreen('sharing')}
             className={`w-full card-hover p-5 flex items-center gap-4 transition-all`}
           >
-            <div className={`p-3 rounded-xl ${isDark ? 'bg-primary-900/30' : 'bg-primary-50'}`}>
+            <div className={`p-3 rounded-xl ${isDark ? 'bg-blue-500/20' : 'bg-blue-50'}`}>
               <Share2 size={24} className={theme.accent} />
             </div>
             <div className="text-left flex-1">
@@ -1461,7 +1461,7 @@ export default function StudyApp() {
                     <div className="flex items-center gap-1">
                       <button
                         onClick={() => startEditingNote(note)}
-                        className={`p-2 rounded-lg ${isDark ? 'text-primary-400 hover:bg-primary-900/30' : 'text-primary-600 hover:bg-primary-50'} transition`}
+                        className={`p-2 rounded-lg ${isDark ? 'text-blue-400 hover:bg-blue-500/20' : 'text-primary-600 hover:bg-blue-50'} transition`}
                       >
                         <Edit3 size={18} />
                       </button>
@@ -1658,7 +1658,7 @@ export default function StudyApp() {
               }
               if (item.type === 'formula') {
                 return (
-                  <div key={idx} className={`my-4 p-4 rounded-xl ${isDark ? 'bg-primary-950/30 border-primary-800' : 'bg-primary-50 border-primary-200'} border`}>
+                  <div key={idx} className={`my-4 p-4 rounded-xl ${isDark ? 'bg-blue-500/10 border-blue-700' : 'bg-blue-50 border-blue-200'} border`}>
                     {item.label && (
                       <div className={`text-sm font-semibold mb-2 ${theme.accent}`}>
                         <span dangerouslySetInnerHTML={{ __html: item.label || '' }} />:
@@ -1670,7 +1670,7 @@ export default function StudyApp() {
               }
               if (item.type === 'definition') {
                 return (
-                  <div key={idx} className={`my-3 p-4 rounded-xl ${isDark ? 'bg-primary-950/30' : 'bg-primary-50'} border-l-4 ${isDark ? 'border-primary-400' : 'border-primary-600'}`}>
+                  <div key={idx} className={`my-3 p-4 rounded-xl ${isDark ? 'bg-blue-500/10' : 'bg-blue-50'} border-l-4 ${isDark ? 'border-blue-400' : 'border-primary-600'}`}>
                     <div className={`font-bold mb-2 flex items-center gap-2 ${theme.text}`}>
                       <BookOpen size={18} className={theme.accent} />
                       <span dangerouslySetInnerHTML={{ __html: item.term || '' }} />
@@ -1856,7 +1856,7 @@ export default function StudyApp() {
                     <div className="flex items-center gap-1">
                       <button
                         onClick={() => startEditingTest(test)}
-                        className={`p-2 rounded-lg ${isDark ? 'text-primary-400 hover:bg-primary-900/30' : 'text-primary-600 hover:bg-primary-50'} transition`}
+                        className={`p-2 rounded-lg ${isDark ? 'text-blue-400 hover:bg-blue-500/20' : 'text-primary-600 hover:bg-blue-50'} transition`}
                       >
                         <Edit3 size={18} />
                       </button>
@@ -1934,7 +1934,7 @@ export default function StudyApp() {
               ))}
             </div>
 
-            <div className={`mt-4 p-3 ${isDark ? 'bg-primary-950/30 border-primary-800' : 'bg-primary-50 border-primary-200'} border rounded-lg`}>
+            <div className={`mt-4 p-3 ${isDark ? 'bg-blue-500/10 border-blue-700' : 'bg-blue-50 border-blue-200'} border rounded-lg`}>
               <p className={`text-sm flex items-start gap-2 ${theme.text}`}>
                 <Info size={16} className={theme.accent} />
                 <span>Les preguntes s&apos;escolliran aleatòriament del conjunt total</span>
@@ -2131,7 +2131,7 @@ export default function StudyApp() {
                     <div className="flex items-center gap-1">
                       <button
                         onClick={() => startEditingAudio(audio)}
-                        className={`p-2 rounded-lg ${isDark ? 'text-primary-400 hover:bg-primary-900/30' : 'text-primary-600 hover:bg-primary-50'} transition`}
+                        className={`p-2 rounded-lg ${isDark ? 'text-blue-400 hover:bg-blue-500/20' : 'text-primary-600 hover:bg-blue-50'} transition`}
                       >
                         <Edit3 size={18} />
                       </button>

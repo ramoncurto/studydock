@@ -2696,7 +2696,7 @@ export default function StudyApp() {
             <span className="font-medium">Tornar</span>
           </button>
 
-          <h1 className="text-3xl font-bold mb-6">🤝 Compartir Materials</h1>
+          <h1 className="text-3xl font-bold mb-6">Compartir Materials</h1>
 
           {sharingMessage && (
             <div className={`mb-4 p-4 rounded-lg ${theme.card} border-2 ${theme.border}`}>

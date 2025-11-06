@@ -79,7 +79,48 @@ service cloud.firestore {
 
 4. Fes clic a "Publish"
 
-## Pas 5: Provar la Integració
+## Pas 5: Configurar Índexs de Firestore
+
+L'aplicació utilitza consultes compostes que requereixen índexs personalitzats. Els índexs necessaris estan definits a `firestore.indexes.json`.
+
+### Opció 1: Desplegar índexs automàticament (Recomanat)
+
+1. Instal·la Firebase CLI si no ho has fet:
+```bash
+npm install -g firebase-tools
+```
+
+2. Autentica't amb Firebase:
+```bash
+firebase login
+```
+
+3. Inicialitza Firebase al teu projecte (només la primera vegada):
+```bash
+firebase init firestore
+```
+- Selecciona el teu projecte existent
+- Accepta els arxius per defecte de regles i índexs
+
+4. Desplega els índexs:
+```bash
+firebase deploy --only firestore:indexes
+```
+
+### Opció 2: Crear índexs manualment
+
+Si veus errors de "query requires an index" a la consola:
+1. Fes clic a l'enllaç proporcionat a l'error (et portarà a la consola de Firebase)
+2. Revisa la configuració de l'índex i fes clic a "Create Index"
+3. Espera que l'índex es construeixi (pot trigar uns minuts)
+
+**Índex necessari per a invitacions:**
+- Col·lecció: `invitations`
+- Camps:
+  - `ownerId` (Ascending)
+  - `createdAt` (Descending)
+
+## Pas 6: Provar la Integració
 
 1. Reinicia el teu servidor de desenvolupament:
 ```bash

@@ -354,8 +354,8 @@ export default function StudyApp() {
   // Theme colors - Professional neutral palette with improved dark mode contrast
   const theme = {
     bg: isDark ? 'bg-slate-900' : 'bg-neutral-50',
-    text: isDark ? 'text-slate-100' : 'text-neutral-900',
-    textSecondary: isDark ? 'text-slate-400' : 'text-neutral-600',
+    text: isDark ? 'text-white' : 'text-neutral-900',
+    textSecondary: isDark ? 'text-slate-300' : 'text-neutral-600',
     card: isDark ? 'bg-slate-800' : 'bg-white',
     cardHover: isDark ? 'hover:bg-slate-700' : 'hover:bg-neutral-100',
     button: isDark ? 'bg-blue-600 text-white hover:bg-blue-700' : 'bg-primary-600 text-white hover:bg-primary-700',

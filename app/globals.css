@@ -2,19 +2,56 @@
 @tailwind components;
 @tailwind utilities;
 
+/* Import Inter font */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
+
+/* Base styles */
+@layer base {
+  * {
+    @apply border-neutral-200 dark:border-neutral-800;
+  }
+
+  body {
+    @apply antialiased font-sans;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-semibold tracking-tight;
+  }
+}
+
 /* Inline text formatting styles */
 .yellow-highlight {
-  @apply font-bold px-2 py-0.5 rounded text-gray-900 dark:text-gray-900 bg-yellow-300 dark:bg-yellow-400;
+  @apply font-semibold px-2.5 py-1 rounded-lg text-neutral-900 dark:text-neutral-900 bg-amber-200 dark:bg-amber-300 border border-amber-300 dark:border-amber-400;
 }
 
 .legal-ref {
-  @apply font-semibold px-1.5 py-0.5 rounded text-gray-900 dark:text-gray-900 bg-yellow-300 dark:bg-yellow-400;
+  @apply font-semibold px-2 py-0.5 rounded-md text-neutral-900 dark:text-neutral-900 bg-amber-100 dark:bg-amber-200 border border-amber-200 dark:border-amber-300;
 }
 
 .date-ref {
-  @apply font-medium px-1 py-0.5 rounded text-purple-700 dark:text-purple-300 bg-purple-50 dark:bg-purple-900/20;
+  @apply font-medium px-2 py-0.5 rounded-md text-primary-700 dark:text-primary-300 bg-primary-50 dark:bg-primary-950/40 border border-primary-100 dark:border-primary-900;
 }
 
 .number-ref {
-  @apply font-semibold text-pink-600 dark:text-pink-400;
+  @apply font-semibold text-primary-600 dark:text-primary-400;
+}
+
+/* Professional button styles */
+@layer components {
+  .btn-primary {
+    @apply inline-flex items-center justify-center gap-2 px-4 py-2.5 rounded-xl font-medium transition-all duration-200 bg-primary-600 text-white hover:bg-primary-700 focus:ring-4 focus:ring-primary-100 dark:focus:ring-primary-900 shadow-soft hover:shadow-medium;
+  }
+
+  .btn-secondary {
+    @apply inline-flex items-center justify-center gap-2 px-4 py-2.5 rounded-xl font-medium transition-all duration-200 bg-white dark:bg-neutral-800 text-neutral-700 dark:text-neutral-200 border border-neutral-300 dark:border-neutral-700 hover:bg-neutral-50 dark:hover:bg-neutral-700 focus:ring-4 focus:ring-neutral-100 dark:focus:ring-neutral-800 shadow-soft hover:shadow-medium;
+  }
+
+  .card {
+    @apply bg-white dark:bg-neutral-900 border border-neutral-200 dark:border-neutral-800 rounded-2xl shadow-soft transition-all duration-200;
+  }
+
+  .card-hover {
+    @apply card hover:shadow-medium hover:border-neutral-300 dark:hover:border-neutral-700;
+  }
 }

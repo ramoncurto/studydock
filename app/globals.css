@@ -8,7 +8,7 @@
 /* Base styles */
 @layer base {
   * {
-    @apply border-neutral-200 dark:border-neutral-800;
+    @apply border-neutral-200 dark:border-slate-700;
   }
 
   body {
@@ -30,11 +30,11 @@
 }
 
 .date-ref {
-  @apply font-medium px-2 py-0.5 rounded-md text-primary-700 dark:text-primary-300 bg-primary-50 dark:bg-primary-950/40 border border-primary-100 dark:border-primary-900;
+  @apply font-medium px-2 py-0.5 rounded-md text-blue-700 dark:text-blue-300 bg-blue-50 dark:bg-blue-950/40 border border-blue-100 dark:border-blue-800;
 }
 
 .number-ref {
-  @apply font-semibold text-primary-600 dark:text-primary-400;
+  @apply font-semibold text-blue-600 dark:text-blue-400;
 }
 
 /* Professional button styles */
@@ -44,14 +44,14 @@
   }
 
   .btn-secondary {
-    @apply inline-flex items-center justify-center gap-2 px-4 py-2.5 rounded-xl font-medium transition-all duration-200 bg-white dark:bg-neutral-800 text-neutral-700 dark:text-neutral-200 border border-neutral-300 dark:border-neutral-700 hover:bg-neutral-50 dark:hover:bg-neutral-700 focus:ring-4 focus:ring-neutral-100 dark:focus:ring-neutral-800 shadow-soft hover:shadow-medium;
+    @apply inline-flex items-center justify-center gap-2 px-4 py-2.5 rounded-xl font-medium transition-all duration-200 bg-white dark:bg-slate-700 text-neutral-700 dark:text-slate-100 border border-neutral-300 dark:border-slate-600 hover:bg-neutral-50 dark:hover:bg-slate-600 focus:ring-4 focus:ring-neutral-100 dark:focus:ring-slate-800 shadow-soft hover:shadow-medium;
   }
 
   .card {
-    @apply bg-white dark:bg-neutral-900 border border-neutral-200 dark:border-neutral-800 rounded-2xl shadow-soft transition-all duration-200;
+    @apply bg-white dark:bg-slate-800 border border-neutral-200 dark:border-slate-700 rounded-2xl shadow-soft transition-all duration-200;
   }
 
   .card-hover {
-    @apply card hover:shadow-medium hover:border-neutral-300 dark:hover:border-neutral-700;
+    @apply card hover:shadow-medium hover:border-neutral-300 dark:hover:border-slate-600 dark:hover:bg-slate-700;
   }
 }

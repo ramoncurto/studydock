@@ -1,0 +1,349 @@
+Q: Quin article de la LCSP defineix el contracte d'obres?
+- Article 12 LCSP
+- Article 13 LCSP
+- Article 14 LCSP
+- Article 15 LCSP
+A: Article 13 LCSP
+
+Q: Quin és l'objecte principal del contracte d'obres segons la LCSP?
+- La gestió d'un servei públic
+- L'execució d'una obra o realització de treballs de construcció
+- L'adquisició de productes o béns mobles
+- El desenvolupament d'una activitat de consultoria
+A: L'execució d'una obra o realització de treballs de construcció
+
+Q: En el contracte de concessió d'obres, quina és la principal contraprestació per al concessionari?
+- Un preu fix garantit per l'administració
+- El dret a explotar l'obra
+- Una subvenció pública
+- El pagament mensual del servei
+A: El dret a explotar l'obra
+
+Q: Quin és l'element definitori del contracte de concessió d'obres?
+- La transferència del risc operacional al concessionari
+- La garantia dels ingressos per part de l'administració
+- La durada màxima de 5 anys
+- L'absència de licitació pública
+A: La transferència del risc operacional al concessionari
+
+Q: Què encomana un poder adjudicador en un contracte de concessió de serveis?
+- L'execució d'una obra pública
+- La gestió d'un servei de la seva competència
+- L'adquisició de béns mobles
+- La redacció d'un projecte tècnic
+A: La gestió d'un servei de la seva competència
+
+Q: Com es defineix el risc operacional en les concessions de serveis?
+- L'exposició a les incerteses del mercat de demanda, d'oferta o ambdues
+- La possibilitat de fallida tècnica del projecte
+- El risc de no cobrar per part de l'administració
+- El risc de canvi de normativa
+A: L'exposició a les incerteses del mercat de demanda, d'oferta o ambdues
+
+Q: Quin article de la LCSP regula el contracte de subministrament?
+- Article 15 LCSP
+- Article 16 LCSP
+- Article 17 LCSP
+- Article 18 LCSP
+A: Article 16 LCSP
+
+Q: Què té per objecte el contracte de subministrament?
+- El desenvolupament d'una activitat de serveis
+- L'adquisició, arrendament financer o arrendament de productes o béns mobles
+- L'execució d'obres de construcció
+- La gestió de serveis públics
+A: L'adquisició, arrendament financer o arrendament de productes o béns mobles
+
+Q: El programari desenvolupat a mida normalment es considera:
+- Un contracte d'obres
+- Un contracte de subministrament
+- Un contracte de serveis
+- Un contracte de concessió
+A: Un contracte de serveis
+
+Q: Què són els contractes mixtos segons l'article 18 de la LCSP?
+- Contractes que només poden fer entitats mixtes públic-privades
+- Contractes que contenen prestacions corresponents a diferents tipus de contractes
+- Contractes que es tramiten de forma simultània
+- Contractes que combinen licitació oberta i restringida
+A: Contractes que contenen prestacions corresponents a diferents tipus de contractes
+
+Q: Quin és el procediment ordinari i preferent d'adjudicació de contractes públics?
+- Procediment restringit
+- Procediment obert
+- Procediment amb negociació
+- Contracte menor
+A: Procediment obert
+
+Q: Quina és la característica principal del procediment obert segons els articles 156-158 de la LCSP?
+- Només poden participar empreses prèviament seleccionades
+- Qualsevol empresari interessat pot presentar una proposició sense negociació
+- L'òrgan de contractació negocia els termes del contracte
+- Es requereix classificació empresarial obligatòria
+A: Qualsevol empresari interessat pot presentar una proposició sense negociació
+
+Q: Per a quins contractes s'utilitza el procediment obert simplificat?
+- Contractes per sobre dels llindars europeus
+- Contractes per sota de certs llindars, com obres ≤ 2.000.000 €
+- Només per a contractes de serveis
+- Exclusivament per a contractes menors
+A: Contractes per sota de certs llindars, com obres ≤ 2.000.000 €
+
+Q: Quin és el llindar màxim per a obres en el procediment obert simplificat abreujat?
+- 40.000 €
+- 60.000 €
+- 80.000 €
+- 100.000 €
+A: 80.000 €
+
+Q: En el procediment restringit, quin és el nombre mínim de candidats que poden presentar proposició?
+- 3 candidats
+- 5 candidats
+- 7 candidats
+- 10 candidats
+A: 5 candidats
+
+Q: Quan s'utilitza el procediment restringit?
+- Per a tots els contractes de més d'1 milió d'euros
+- Quan es requereix una preselecció per la complexitat o especialització de la prestació
+- Només per a contractes d'obres
+- Quan hi ha urgència en la contractació
+A: Quan es requereix una preselecció per la complexitat o especialització de la prestació
+
+Q: Què caracteritza el procediment amb negociació (articles 166-171)?
+- No requereix publicitat prèvia
+- L'òrgan de contractació negocia els termes amb candidats seleccionats
+- S'aplica automàticament a tots els contractes
+- Només es pot utilitzar per a contractes menors
+A: L'òrgan de contractació negocia els termes amb candidats seleccionats
+
+Q: Per a quins tipus de contractes és adequat el diàleg competitiu?
+- Contractes menors
+- Contractes especialment complexos on l'administració no pot definir les solucions tècniques a priori
+- Contractes de menys de 15.000 €
+- Només per a contractes de subministrament
+A: Contractes especialment complexos on l'administració no pot definir les solucions tècniques a priori
+
+Q: Quin és l'objectiu del procediment d'associació per a la innovació (articles 177-182)?
+- Gestionar contractes menors
+- Desenvolupar i adquirir un producte, servei o obra innovadora que no existeix al mercat
+- Simplificar la tramitació administrativa
+- Reduir els terminis de licitació
+A: Desenvolupar i adquirir un producte, servei o obra innovadora que no existeix al mercat
+
+Q: La solvència del contractista és:
+- Un criteri que atorga punts en la valoració de l'oferta
+- Un requisit mínim de "apte/no apte" que no atorga punts
+- Opcional en contractes menors
+- Només necessària per a contractes d'obres
+A: Un requisit mínim de "apte/no apte" que no atorga punts
+
+Q: Quin article de la LCSP regula la solvència econòmica i financera?
+- Article 77 LCSP
+- Article 87 LCSP
+- Article 88 LCSP
+- Article 145 LCSP
+A: Article 87 LCSP
+
+Q: Quin és el volum anual de negocis màxim que es pot exigir per acreditar la solvència econòmica?
+- El valor estimat del contracte
+- 1,5 vegades el valor estimat del contracte
+- 2 vegades el valor estimat del contracte
+- 3 vegades el valor estimat del contracte
+A: 1,5 vegades el valor estimat del contracte
+
+Q: Per acreditar la solvència tècnica en contractes d'obres, quin és el període de referència per a la relació d'obres executades?
+- 3 anys
+- 5 anys
+- 10 anys
+- 15 anys
+A: 10 anys
+
+Q: En contractes de serveis, quin és el període de referència per a la relació de serveis realitzats?
+- 1 any
+- 3 anys
+- 5 anys
+- 10 anys
+A: 3 anys
+
+Q: A partir de quin valor estimat és obligatòria la classificació empresarial per a contractes d'obres?
+- 100.000 €
+- 300.000 €
+- 500.000 €
+- 1.000.000 €
+A: 500.000 €
+
+Q: Qui atorga la classificació empresarial?
+- El Ministeri d'Hisenda
+- La Junta Consultiva de Contractació Pública
+- Cada òrgan de contractació
+- El Tribunal de Comptes
+A: La Junta Consultiva de Contractació Pública
+
+Q: Segons l'article 145 de la LCSP, què valoren els criteris d'adjudicació?
+- La capacitat de l'empresa per executar el contracte
+- La millor relació qualitat-preu de les ofertes
+- La solvència econòmica dels licitadors
+- El volum de negoci de l'empresa
+A: La millor relació qualitat-preu de les ofertes
+
+Q: Els criteris d'adjudicació atorgan punts?
+- No, són només requisits mínims
+- Sí, serveixen per valorar i comparar ofertes
+- Només en el procediment obert
+- Només en contractes de més d'1 milió d'euros
+A: Sí, serveixen per valorar i comparar ofertes
+
+Q: Quin dels següents és un criteri avaluable mitjançant fórmules automàtiques?
+- La qualitat tècnica de la proposta
+- El preu de l'oferta
+- Les característiques estètiques
+- L'organització de l'equip de treball
+A: El preu de l'oferta
+
+Q: Els criteris subjectes a judici de valor requereixen:
+- Una fórmula matemàtica automàtica
+- Una valoració tècnica per part d'un comitè d'experts
+- Només la decisió de l'òrgan de contractació
+- La participació dels licitadors
+A: Una valoració tècnica per part d'un comitè d'experts
+
+Q: Quin és el llindar màxim per a un contracte menor d'obres?
+- 15.000 €
+- 20.000 €
+- 40.000 €
+- 50.000 €
+A: 40.000 €
+
+Q: Quin és el llindar màxim per a un contracte menor de serveis o subministraments?
+- 10.000 €
+- 15.000 €
+- 20.000 €
+- 40.000 €
+A: 15.000 €
+
+Q: Quina és la durada màxima d'un contracte menor?
+- 6 mesos sense possibilitat de pròrroga
+- 1 any sense possibilitat de pròrroga
+- 1 any amb possibilitat d'una pròrroga
+- 2 anys sense possibilitat de pròrroga
+A: 1 any sense possibilitat de pròrroga
+
+Q: Quin document és imprescindible en l'expedient d'un contracte menor?
+- La classificació empresarial
+- L'informe de l'òrgan de contractació justificant la necessitat i l'absència de fraccionament
+- La constitució d'una garantia definitiva
+- La publicació al DOUE
+A: L'informe de l'òrgan de contractació justificant la necessitat i l'absència de fraccionament
+
+Q: Per a contractes menors d'obres que afectin l'estabilitat o seguretat de l'edificació, quin informe addicional es requereix?
+- Informe del Tribunal de Comptes
+- Informe de l'oficina de supervisió de projectes
+- Informe d'impacte ambiental
+- Informe del servei jurídic
+A: Informe de l'oficina de supervisió de projectes
+
+Q: Quin article de la LCSP regula el procediment obert simplificat?
+- Article 118
+- Article 145
+- Article 159
+- Article 166
+A: Article 159
+
+Q: Quin és l'àmbit d'aplicació del procediment obert simplificat per a contractes d'obres?
+- Valor estimat igual o inferior a 1.000.000 €
+- Valor estimat igual o inferior a 2.000.000 €
+- Valor estimat igual o inferior a 3.000.000 €
+- Valor estimat superior a 2.000.000 €
+A: Valor estimat igual o inferior a 2.000.000 €
+
+Q: Què és el ROLECE?
+- Registre Oficial de Licitadors i Empreses Classificades del Sector Públic
+- Registre d'Obres Públiques i Contractes Europeus
+- Registre Oficial de Licitacions Electròniques
+- Registre d'Operadors Logístics i Empreses Certificades
+A: Registre Oficial de Licitadors i Empreses Classificades del Sector Públic
+
+Q: En la tramitació urgent segons l'article 119 de la LCSP, com es modifiquen els terminis?
+- Es redueixen a un terç
+- Es redueixen a la meitat
+- Es redueixen a dos terços
+- No es modifiquen, només la prioritat
+A: Es redueixen a la meitat
+
+Q: Quan s'utilitza la tramitació d'emergència segons l'article 120 de la LCSP?
+- Per a tots els contractes de més d'1 milió d'euros
+- Per a situacions de greu perill com catàstrofes naturals
+- Per a contractes menors
+- Quan hi ha pressuposts disponibles
+A: Per a situacions de greu perill com catàstrofes naturals
+
+Q: En la tramitació d'emergència, quan es justifica la contractació?
+- Prèviament a la contractació
+- Durant la contractació
+- A posteriori
+- No cal justificació
+A: A posteriori
+
+Q: Quin és l'any de la Llei de Contractes del Sector Públic vigent?
+- 2015
+- 2017
+- 2019
+- 2021
+A: 2017
+
+Q: Quina Directiva europea regula la contractació pública general?
+- Directiva 2014/23/UE
+- Directiva 2014/24/UE
+- Directiva 2015/24/UE
+- Directiva 2017/24/UE
+A: Directiva 2014/24/UE
+
+Q: Quina Directiva europea regula els contractes de concessió?
+- Directiva 2014/23/UE
+- Directiva 2014/24/UE
+- Directiva 2014/25/UE
+- Directiva 2017/23/UE
+A: Directiva 2014/23/UE
+
+Q: Què és el perfil de contractant?
+- El document que descriu els requisits del contractista
+- L'espai web on es publica tota la informació sobre l'activitat contractual de l'òrgan
+- El registre de classificació empresarial
+- El portal europeu de contractació
+A: L'espai web on es publica tota la informació sobre l'activitat contractual de l'òrgan
+
+Q: Què significa SARA en contractació pública?
+- Sistema Automatitzat de Registre d'Adjudicacions
+- Servei d'Assessorament en Recursos Administratius
+- Subjecte a Regulació Harmonitzada
+- Societat Anònima de Responsabilitat Administrativa
+A: Subjecte a Regulació Harmonitzada
+
+Q: On s'han de publicar obligatòriament els anuncis de licitació dels contractes SARA?
+- Al BOE exclusivament
+- Al perfil de contractant
+- Al Diari Oficial de la Unió Europea (DOUE)
+- Al Butlletí Oficial de la Província
+A: Al Diari Oficial de la Unió Europea (DOUE)
+
+Q: Què és un error greu en contractació pública que pot causar nul·litat?
+- No publicar al perfil de contractant
+- Fraccionament il·legal del contracte per eludir procediments més concurrents
+- Utilitzar el procediment obert en lloc del restringit
+- No constituir garantia provisional
+A: Fraccionament il·legal del contracte per eludir procediments més concurrents
+
+Q: És legal utilitzar un requisit de capacitat de l'empresa (com la facturació anual) com a criteri per puntuar la seva oferta?
+- Sí, sempre que estigui justificat
+- No, la solvència és un filtre previ i no atorga punts
+- Sí, però només per a contractes de més d'1 milió d'euros
+- No, excepte en procediments amb negociació
+A: No, la solvència és un filtre previ i no atorga punts
+
+Q: Quina és la primera fase del procés de selecció del contractista?
+- Valoració de les ofertes
+- Verificació de l'aptitud de l'empresa (solvència)
+- Negociació dels termes
+- Adjudicació del contracte
+A: Verificació de l'aptitud de l'empresa (solvència)

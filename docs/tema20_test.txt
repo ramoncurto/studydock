@@ -1,0 +1,349 @@
+Q: Què és l'aprofitament urbanístic?
+- La superfície total d'una finca
+- La capacitat edificatòria assignada pel planejament a un àmbit, resultat de ponderar edificabilitat, usos i intensitat d'usos
+- El valor econòmic d'un terreny
+- El preu màxim de venda d'un habitatge
+A: La capacitat edificatòria assignada pel planejament a un àmbit, resultat de ponderar edificabilitat, usos i intensitat d'usos
+
+Q: Quin percentatge de l'aprofitament urbanístic d'un sector en sòl urbà no consolidat s'ha de cedir gratuïtament a l'ajuntament segons la legislació catalana vigent?
+- 100%
+- 15%
+- 10%
+- 0%, la cessió és voluntària
+A: 10%
+
+Q: Quina és la finalitat principal de la ponderació de l'aprofitament urbanístic en un polígon d'actuació amb diverses zones d'ús?
+- Augmentar l'edificabilitat total de l'àmbit
+- Homogeneïtzar el valor dels diferents usos per repartir equitativament els drets edificatoris
+- Determinar la tipologia d'habitatges protegits necessaris
+- Evitar haver de cedir sòl per equipaments
+A: Homogeneïtzar el valor dels diferents usos per repartir equitativament els drets edificatoris
+
+Q: Quin percentatge de l'aprofitament urbanístic correspon als propietaris de sòl urbanitzable delimitat?
+- 100% de l'aprofitament
+- 85% de l'aprofitament
+- 90% de l'aprofitament
+- 75% de l'aprofitament
+A: 85% de l'aprofitament
+
+Q: Quina vigència habitual té un certificat d'aprofitament urbanístic?
+- 1 mes
+- 3 mesos
+- 6 mesos
+- Indefinida
+A: 6 mesos
+
+Q: Entre les següents obligacions, quina NO correspon als propietaris en desenvolupar un sector urbanístic?
+- Cedir els terrenys per a carrers i zones verdes previstos al pla
+- Costejar les obres d'urbanització dels serveis
+- Cedir a l'ajuntament el 10% de l'aprofitament urbanístic
+- Construir gratuïtament els edificis de vivendes de protecció oficial per a l'ajuntament
+A: Construir gratuïtament els edificis de vivendes de protecció oficial per a l'ajuntament
+
+Q: Quin és el termini màxim que té un ajuntament per emetre un certificat de règim urbanístic?
+- 15 dies
+- 1 mes
+- 2 mesos
+- 3 mesos
+A: 1 mes
+
+Q: En quins casos especials pot augmentar fins al 15% la cessió d'aprofitament urbanístic?
+- En sòl urbà consolidat
+- En àrees residencials estratègiques o augments de sostre
+- En polígons industrials
+- En zones rurals
+A: En àrees residencials estratègiques o augments de sostre
+
+Q: Què són les cessions urbanístiques?
+- Venda de terrenys a l'ajuntament a preu de mercat
+- Aportacions obligatòries i gratuïtes de sòl o drets edificatoris a favor de l'administració
+- Permisos per edificar en terrenys públics
+- Transferències entre propietaris privats
+A: Aportacions obligatòries i gratuïtes de sòl o drets edificatoris a favor de l'administració
+
+Q: Quin document municipal acredita el règim urbanístic vigent d'un terreny?
+- La llicència d'obres
+- El certificat d'aprofitament urbanístic
+- L'escriptura de propietat
+- El rebut de l'IBI
+A: El certificat d'aprofitament urbanístic
+
+Q: Quina diferència hi ha entre edificabilitat i aprofitament urbanístic?
+- Són el mateix concepte
+- L'edificabilitat és el sostre edificable brut; l'aprofitament és el dret edificatori net després de repartir càrregues
+- L'edificabilitat és per habitatges; l'aprofitament per oficines
+- L'edificabilitat la fixa l'ajuntament; l'aprofitament el propietari
+A: L'edificabilitat és el sostre edificable brut; l'aprofitament és el dret edificatori net després de repartir càrregues
+
+Q: Quin principi fonamental garanteix que tots els propietaris participin proporcionalment dels drets d'edificació?
+- El principi de legalitat
+- El principi d'equidistribució de beneficis i càrregues
+- El principi de precaució
+- El principi de jerarquia normativa
+A: El principi d'equidistribució de beneficis i càrrgues
+
+Q: Què s'exclou de comptar com a aprofitament ponderat dins un àmbit?
+- L'ús residencial
+- L'ús comercial
+- El que correspon a sistemes públics (equipaments)
+- L'ús industrial
+A: El que correspon a sistemes públics (equipaments)
+
+Q: Quins tipus de sòl han de cedir obligatòriament els propietaris?
+- Només el sòl per a carrers
+- Només el sòl per a zones verdes
+- Tot el sòl reservat per a sistemes urbanístics locals i el necessari per a sistemes generals
+- Cap, les cessions són voluntàries
+A: Tot el sòl reservat per a sistemes urbanístics locals i el necessari per a sistemes generals
+
+Q: Quin text legal català regula l'aprofitament urbanístic principalment?
+- El Codi Civil
+- El Text refós de la Llei d'urbanisme de Catalunya (TRLUC)
+- La Llei de contractes del sector públic
+- La Llei d'arrendaments urbans
+A: El Text refós de la Llei d'urbanisme de Catalunya (TRLUC)
+
+Q: Què inclou l'aprofitament urbanístic a més de l'edificabilitat i els usos?
+- El preu del sòl
+- La densitat residencial (habitatges/ha)
+- Els impostos municipals
+- La valoració cadastral
+A: La densitat residencial (habitatges/ha)
+
+Q: Com es determina l'aprofitament subjectiu d'un propietari en un polígon d'actuació?
+- Segons la seva voluntat
+- Multiplicant el coeficient d'aprofitament mitjà per la superfície de sòl aportada
+- Segons l'antiguitat de la propietat
+- Per sorteig entre els propietaris
+A: Multiplicant el coeficient d'aprofitament mitjà per la superfície de sòl aportada
+
+Q: Què passa amb un propietari que té sòl qualificat com a zona verda en un polígon d'actuació?
+- Perd tots els seus drets
+- Ha de vendre el terreny a l'ajuntament
+- Rep compensació amb aprofitament edificable en altra ubicació del mateix sector
+- Pot reclamar una indemnització judicial
+A: Rep compensació amb aprofitament edificable en altra ubicació del mateix sector
+
+Q: Quin és el procediment habitual per distribuir l'aprofitament en un sector urbanístic?
+- La compravenda entre propietaris
+- El projecte de reparcel·lació
+- L'expropiació forçosa
+- El contracte de permuta
+A: El projecte de reparcel·lació
+
+Q: Per a què es destina el percentatge d'aprofitament cedit a l'administració?
+- Exclusivament per a zones verdes
+- Per al patrimoni públic de sòl i habitatge
+- Per a carreteres
+- Per a hospitals
+A: Per al patrimoni públic de sòl i habitatge
+
+Q: Què garanteix el certificat d'aprofitament urbanístic durant la seva vigència?
+- Que no canviarà mai el planejament
+- Que es pot demanar llicència segons la normativa vigent en el moment de l'expedició, malgrat suspensions posteriors
+- Que l'ajuntament construirà les infraestructures
+- Que es pot edificar sense llicència
+A: Que es pot demanar llicència segons la normativa vigent en el moment de l'expedició, malgrat suspensions posteriors
+
+Q: Quins factors es consideren en els coeficients de ponderació d'usos diferents?
+- Només el preu del sòl
+- La intensitat d'ús, la demanda de mercat, la ubicació i els costos d'urbanització
+- Només la distància al centre urbà
+- Només la superfície total
+A: La intensitat d'ús, la demanda de mercat, la ubicació i els costos d'urbanització
+
+Q: Què és l'aprofitament mig d'un àmbit?
+- El preu mitjà del metre quadrat
+- L'aprofitament urbanístic per unitat de superfície que serveix de base per assignar drets edificatoris proporcionalment
+- La mitjana d'alçada dels edificis
+- El nombre mitjà d'habitatges
+A: L'aprofitament urbanístic per unitat de superfície que serveix de base per assignar drets edificatoris proporcionalment
+
+Q: Qui pot sol·licitar un certificat de règim urbanístic?
+- Només el propietari del terreny
+- Només els arquitectes col·legiats
+- Qualsevol interessat (propietari, comprador potencial, notari, jutjat)
+- Només l'ajuntament pot emetre'l d'ofici
+A: Qualsevol interessat (propietari, comprador potencial, notari, jutjat)
+
+Q: Què acredita el certificat d'aprofitament urbanístic?
+- Només la superfície de la finca
+- El règim urbanístic vigent, classificació, qualificació, usos permesos i edificabilitat
+- El valor econòmic del terreny
+- La situació hipotecària de la finca
+A: El règim urbanístic vigent, classificació, qualificació, usos permesos i edificabilitat
+
+Q: En quin document queda reflectit l'aprofitament urbanístic assignat a cada finca després de la gestió urbanística?
+- En el cadastre únicament
+- En el projecte de reparcel·lació i en el Registre de la Propietat
+- En la llicència d'obres
+- En el contracte de compravenda
+A: En el projecte de reparcel·lació i en el Registre de la Propietat
+
+Q: Què garanteix el principi de justa distribució en urbanisme?
+- Que tots els terrenys tinguin el mateix preu
+- Que cap propietari resulti beneficiat o perjudicat arbitràriament per les decisions de planejament
+- Que tots els propietaris edificin simultàniament
+- Que l'ajuntament compri tots els terrenys
+A: Que cap propietari resulti beneficiat o perjudicat arbitràriament per les decisions de planejament
+
+Q: Què passa si un pla destina tota una finca privada a sistema general fora d'un polígon de repartiment?
+- El propietari la perd sense compensació
+- S'ha de procedir a expropiació o compensar el propietari amb aprofitament en un altre sector
+- El propietari pot edificar igualment
+- S'anul·la automàticament el pla
+A: S'ha de procedir a expropiació o compensar el propietari amb aprofitament en un altre sector
+
+Q: Quin és el contingut mínim del certificat de règim urbanístic?
+- Només la classificació del sòl
+- Classificació, qualificació, edificabilitat, condicions d'edificació i afectacions per plans o suspensions
+- Només el preu del metre quadrat
+- Només els límits de la finca
+A: Classificació, qualificació, edificabilitat, condicions d'edificació i afectacions per plans o suspensions
+
+Q: Com es reparteixen els costos d'urbanització en un polígon d'actuació?
+- Els paga íntegrament l'ajuntament
+- Es reparteixen proporcionalment entre els propietaris segons coeficients d'aprofitament
+- Els paga només qui vol edificar primer
+- Els paga la Generalitat
+A: Es reparteixen proporcionalment entre els propietaris segons coeficients d'aprofitament
+
+Q: Què és el principi d'unitat d'actuació en gestió urbanística?
+- Que tots els edificis han de tenir el mateix ús
+- Que els polígons han d'incloure tant sòls de cessió com sòls lucratius per permetre el repartiment intern
+- Que només pot haver-hi un propietari per polígon
+- Que totes les finques han de tenir la mateixa superfície
+A: Que els polígons han d'incloure tant sòls de cessió com sòls lucratius per permetre el repartiment intern
+
+Q: Quin document estableix els paràmetres d'aprofitament per a cada zona del municipi?
+- El cadastre municipal
+- El Pla d'ordenació urbanística municipal (POUM) o Pla general
+- El Registre de la Propietat
+- El cens electoral
+A: El Pla d'ordenació urbanística municipal (POUM) o Pla general
+
+Q: Per què es fa la ponderació quan hi ha diferents usos en un sector?
+- Per augmentar els impostos
+- Per convertir les edificabilitats diverses a una unitat comuna d'aprofitament i repartir justament
+- Per eliminar alguns usos
+- Per facilitar les expropiacions
+A: Per convertir les edificabilitats diverses a una unitat comuna d'aprofitament i repartir justament
+
+Q: Què passa si un propietari rep més sòl edificable del que li correspon en una reparcel·lació?
+- No passa res, és un guany
+- Ha de compensar econòmicament els altres propietaris
+- Perd automàticament el terreny
+- L'ajuntament el sanciona
+A: Ha de compensar econòmicament els altres propietaris
+
+Q: Quina és la funció del patrimoni municipal de sòl i habitatge?
+- Només recaptar impostos
+- Gestionar el sòl i l'aprofitament cedit pels propietaris per a habitatge protegit i altres fins públics
+- Vendre terrenys al millor postor
+- Expropiar sense indemnització
+A: Gestionar el sòl i l'aprofitament cedit pels propietaris per a habitatge protegit i altres fins públics
+
+Q: Què són els sistemes urbanístics locals?
+- Les empreses locals de construcció
+- Els carrers, places, zones verdes i equipaments públics d'un àmbit concret
+- Els impostos municipals
+- Les ordenances locals
+A: Els carrers, places, zones verdes i equipaments públics d'un àmbit concret
+
+Q: Quan es considera que un sòl és urbà no consolidat?
+- Quan no té edificis
+- Quan necessita un pla de desenvolupament o actuació de transformació urbanística
+- Quan està fora del municipi
+- Quan és propietat de l'ajuntament
+A: Quan necessita un pla de desenvolupament o actuació de transformació urbanística
+
+Q: Què és un certificat d'aprofitament transferible?
+- Un document que permet pagar menys impostos
+- Un títol que acredita el dret a materialitzar edificabilitat en una finca diferent o ser indemnitzat
+- Una llicència d'obres especial
+- Un contracte de lloguer
+A: Un títol que acredita el dret a materialitzar edificabilitat en una finca diferent o ser indemnitzat
+
+Q: Quina normativa estatal estableix els principis de distribució equitativa i participació en plusvàlues?
+- La Constitució Espanyola
+- El Text refós de la Llei de Sòl i Rehabilitació Urbana (TRLSRU)
+- El Codi Civil
+- La Llei de contractes
+A: El Text refós de la Llei de Sòl i Rehabilitació Urbana (TRLSRU)
+
+Q: Quan passen formalment a domini públic els carrers i zones verdes cedits?
+- Quan s'aprova el pla urbanístic
+- Un cop acabades les obres d'urbanització
+- Quan el propietari ho decideix
+- Mai, són sempre privats
+A: Un cop acabades les obres d'urbanització
+
+Q: Què determina el planejament derivat (pla parcial o pla de millora urbana)?
+- Només els impostos del sector
+- La distribució interna de l'aprofitament, detallant sòl per sistemes i parcel·les edificables
+- Els preus de venda dels habitatges
+- Els horaris de construcció
+A: La distribució interna de l'aprofitament, detallant sòl per sistemes i parcel·les edificables
+
+Q: Per què és important obtenir un certificat d'aprofitament urbanístic abans de comprar un terreny?
+- Per pagar menys impostos
+- Per conèixer amb exactitud els drets edificatoris i evitar sorpreses per canvis de planejament
+- Perquè és obligatori per escripturar
+- Per poder accedir a subvencions
+A: Per conèixer amb exactitud els drets edificatoris i evitar sorpreses per canvis de planejament
+
+Q: Què preveu la Llei per evitar l'enriquiment injust en planejament urbanístic?
+- La prohibició d'edificar
+- El principi d'equivalència: compensació als propietaris afectats per usos públics
+- La expropiació de tots els terrenys
+- La prohibició de vendre terrenys
+A: El principi d'equivalència: compensació als propietaris afectats per usos públics
+
+Q: Com s'expressa habitualment l'aprofitament urbanístic?
+- En euros per metre quadrat
+- En m² de sostre edificable o nombre d'habitatges assignats
+- En percentatge sobre el PIB
+- En nombre d'arbres a plantar
+A: En m² de sostre edificable o nombre d'habitatges assignats
+
+Q: Què passa si l'ajuntament suspèn llicències però un promotor té un certificat urbanístic vigent?
+- No pot demanar llicència
+- Pot demanar llicència segons les condicions del certificat malgrat la suspensió
+- Ha d'esperar 10 anys
+- Perd tots els seus drets
+A: Pot demanar llicència segons les condicions del certificat malgrat la suspensió
+
+Q: Quin és l'objectiu final del sistema de cessions i repartiment d'aprofitament?
+- Recaptar més impostos
+- Garantir un urbanisme just i transparent on el creixement beneficia tant propietaris com la societat
+- Eliminar la propietat privada del sòl
+- Impedir el desenvolupament urbà
+A: Garantir un urbanisme just i transparent on el creixement beneficia tant propietaris com la societat
+
+Q: Què són els sistemes generals en urbanisme?
+- Els mètodes de construcció
+- Les infraestructures o espais públics d'interès general inclosos pel planejament general
+- Els sistemes informàtics municipals
+- Els equips de bombers
+A: Les infraestructures o espais públics d'interès general inclosos pel planejament general
+
+Q: Quin reglament desenvolupa les regles de ponderació de l'aprofitament a Catalunya?
+- El Reglament del Cadastre
+- El Reglament de la Llei d'urbanisme (RLUC)
+- El Reglament del Registre
+- El Reglament d'Hipoteques
+A: El Reglament de la Llei d'urbanisme (RLUC)
+
+Q: Què garanteix la publicitat del règim d'aprofitament urbanístic?
+- Que tothom pugui edificar on vulgui
+- Que les transaccions immobiliàries i iniciatives edificatòries es facin amb coneixement de causa
+- Que els preus siguin públics
+- Que no calgui demanar llicències
+A: Que les transaccions immobiliàries i iniciatives edificatòries es facin amb coneixement de causa
+
+Q: En un sector mixt amb ús residencial i industrial, com s'assegura l'equitat en el repartiment?
+- Donant més terreny als propietaris industrials
+- Aplicant coeficients de ponderació que reflecteixin el valor relatiu de cada ús
+- Venent tot el terreny a un únic promotor
+- Expropiant tot el sector
+A: Aplicant coeficients de ponderació que reflecteixin el valor relatiu de cada ús

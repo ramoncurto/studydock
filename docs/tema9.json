@@ -1,0 +1,442 @@
+{
+  "metadata": {
+    "title": "La comarca del Montsià: Municipis, Demografia i Territori",
+    "subject": "Geografia i Ordenació Territorial",
+    "topic": "Comarca del Montsià",
+    "keywords": [
+      "Montsià",
+      "demografia",
+      "territori",
+      "municipis",
+      "Delta de l'Ebre",
+      "planejament territorial"
+    ],
+    "difficulty": "mitjà",
+    "estimatedTime": "40 min"
+  },
+  "sections": [
+    {
+      "id": "visio-global",
+      "title": "Visió Global",
+      "level": 1,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "El Montsià és la comarca més meridional de Catalunya, integrada a la província de Tarragona i a l'àmbit territorial de les Terres de l'Ebre. La seva capital és Amposta, el principal nucli demogràfic i de serveis. El territori s'articula sobre una dualitat geogràfica molt marcada: la plana al·luvial del Delta de l'Ebre a l'est, un espai d'altíssim valor ecològic i agrari, i els relleus muntanyosos de la serra del Montsià i els Ports de Tortosa a l'oest. Aquesta configuració condiciona una economia basada en el sector primari (arròs, citricultura, pesca), amb una indústria especialitzada (moble) i un sector turístic en creixement lligat al seu patrimoni natural."
+        }
+      ]
+    },
+    {
+      "id": "checklist",
+      "title": "Checklist d'Estudi",
+      "level": 1,
+      "content": [
+        {
+          "type": "list",
+          "title": "Punts clau per dominar el tema",
+          "items": [
+            "Municipis: 12 (Alcanar, Amposta, Freginals, la Galera, Godall, Mas de Barberans, Masdenverge, la Ràpita, Sant Jaume d'Enveja, Santa Bàrbara, la Sénia, Ulldecona)",
+            "Capital: Amposta",
+            "Població comarcal (2024): Aproximadament 71.500 habitants",
+            "Superfície comarcal: 735,4 km²",
+            "Elements geogràfics clau: Delta de l'Ebre, serra del Montsià, port dels Alfacs, Ports de Tortosa",
+            "Municipis principals (població): Amposta, la Ràpita, Alcanar",
+            "Instruments de planejament superiors: Pla Territorial Parcial de les Terres de l'Ebre (PTPTE) i la normativa del Parc Natural del Delta de l'Ebre",
+            "Activitats econòmiques principals: Cultiu d'arròs i cítrics, pesca, indústria del moble (la Sénia)",
+            "Infraestructures viàries principals: AP-7, N-340 i C-12 (Eix de l'Ebre)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "marc-administratiu",
+      "title": "Marc Administratiu",
+      "level": 1,
+      "content": [
+        {
+          "type": "subsection",
+          "title": "Definicions Bàsiques",
+          "items": [
+            {
+              "type": "definition",
+              "term": "Localització i Límits",
+              "details": [
+                "La comarca se situa a l'extrem sud de Catalunya",
+                "Limita al nord amb el Baix Ebre, a l'est amb la mar Mediterrània",
+                "Al sud i oest amb el País Valencià (província de Castelló)"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Divisió Municipal",
+              "details": [
+                "Està formada per 12 municipis",
+                "Sant Jaume d'Enveja es va segregar de Tortosa (Baix Ebre) i es va incorporar al Montsià l'any 1990",
+                "Aquest fet és rellevant per a l'anàlisi històrica de dades i planejament"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Capitalitat",
+              "details": [
+                "Amposta exerceix com a capital comarcal",
+                "Concentra l'Administració, els serveis i una part important de l'activitat econòmica"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Entitats Supramunicipals",
+              "details": [
+                "El Montsià pertany a la província de Tarragona",
+                "Forma part de l'Àmbit de Planificació Territorial de les Terres de l'Ebre",
+                "El planejament urbanístic municipal ha de seguir les directrius del Pla Territorial Parcial de les Terres de l'Ebre (PTPTE)",
+                "Gran part del territori forma part de la Reserva de la Biosfera de les Terres de l'Ebre, declarada per la UNESCO"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "unitats-geografiques",
+      "title": "Grans Unitats Geogràfiques",
+      "level": 1,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "El territori comarcal es divideix en quatre grans paisatges que defineixen els usos del sòl i les possibilitats de desenvolupament:"
+        },
+        {
+          "type": "subsection",
+          "title": "Zones Geogràfiques",
+          "items": [
+            {
+              "type": "definition",
+              "term": "El Delta de l'Ebre",
+              "details": [
+                "Plana al·luvial de cota molt baixa, dominada pel cultiu de l'arròs",
+                "Inclou les llacunes com l'Encanyissada i la Tancada i els ecosistemes costaners",
+                "La seva fragilitat ecològica i el risc d'inundació són condicionants urbanístics de primer ordre"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "La Plana Interior",
+              "details": [
+                "Espai de transició entre el delta i les muntanyes, com el pla de la Galera",
+                "Zona dedicada principalment a l'agricultura de secà",
+                "Cultius d'oliveres, garrofers i ametllers"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "El Litoral i la Serra del Montsià",
+              "details": [
+                "La façana marítima acull el port dels Alfacs, un dels ports naturals més grans d'Europa",
+                "Protegit per la península de la Banya i l'istme del Trabucador",
+                "La serra del Montsià (764 m) actua com una barrera visual i climàtica paral·lela a la costa"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Els Ports de Tortosa",
+              "details": [
+                "El sector occidental de la comarca, especialment el terme de la Sénia",
+                "Correspon als contraforts del massís dels Ports",
+                "Àrea muntanyosa i forestal de gran valor natural"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "demografia",
+      "title": "Estructura Demogràfica",
+      "level": 1,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "La comarca presenta un model demogràfic dual. La població total l'any 2024 és de 71.460 habitants, amb una densitat mitjana de 97,2 hab/km², inferior a la mitjana catalana. La distribució és molt desigual:"
+        },
+        {
+          "type": "subsection",
+          "title": "Característiques Demogràfiques",
+          "items": [
+            {
+              "type": "definition",
+              "term": "Concentració",
+              "details": [
+                "Els tres municipis més poblats (Amposta, la Ràpita i Alcanar) sumen gairebé el ==70%== de la població total",
+                "Concentració a la zona deltaica i litoral"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Dispersió i despoblament",
+              "details": [
+                "Els municipis interiors, especialment els més petits com Freginals (388 habitants) o Mas de Barberans (556 habitants), presenten densitats molt baixes",
+                "Risc elevat de despoblament"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Envelliment",
+              "details": [
+                "L'estructura d'edat mostra un procés d'envelliment",
+                "Percentatge de població major de 65 anys superior a la mitjana catalana",
+                "Especialment accentuat als nuclis rurals"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Població Estrangera",
+              "details": [
+                "Gairebé 14.500 residents estrangers el 2024",
+                "Representen més del ==20%== del total",
+                "La immigració és un factor demogràfic clau per sostenir l'activitat agrària i de serveis"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "economia",
+      "title": "Estructura Econòmica i d'Infraestructures",
+      "level": 1,
+      "content": [
+        {
+          "type": "subsection",
+          "title": "Sectors Econòmics",
+          "items": [
+            "El sector primari (arròs, horta, cítrics, pesca) té un pes en el Valor Afegit Brut (VAB) molt superior a la mitjana catalana",
+            "L'ocupació en aquest sector ha disminuït",
+            "La indústria destaca a la Sénia (moble) i a Amposta i Ulldecona (agroindústria, transformats no metàl·lics)",
+            "El sector serveis i el turisme són el principal motor de creixement, especialment a la Ràpita i Alcanar",
+            "Turisme basat en l'oferta de sol i platja i en l'ecoturisme vinculat al Parc Natural del Delta de l'Ebre"
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "Infraestructures",
+          "items": [
+            "El territori està vertebrat per un eix nord-sud format per l'autopista AP-7 i la carretera N-340",
+            "Aquest corredor ha potenciat històricament el desenvolupament de la franja litoral",
+            "El PTPTE identifica com a estratègics la millora de la connectivitat interior a través de la C-12 (Eix de l'Ebre)",
+            "Desenvolupament de noves centralitats logístiques com el port comercial d'Alcanar i la plataforma LOGIS Ebre a l'entorn de l'Aldea",
+            "Aquestes actuacions busquen reequilibrar el territori i diversificar l'economia més enllà del model costaner"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jerarquia-normativa",
+      "title": "==jerarquia normativa==",
+      "level": 1,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "El desenvolupament urbanístic i territorial del Montsià està fortament regulat per una jerarquia de normes que un tècnic ha de conèixer amb precisió. L'ordenació del territori es regeix per un sistema de planejament en cascada:"
+        },
+        {
+          "type": "subsection",
+          "title": "Normativa Aplicable",
+          "items": [
+            {
+              "type": "definition",
+              "term": "Legislació d'Urbanisme",
+              "details": [
+                "El marc general l'estableix el ==Text refós== de la Llei d'urbanisme de Catalunya (Decret Legislatiu 1/2005)",
+                "Defineix les classes de sòl (urbà, urbanitzable i no urbanitzable)",
+                "Estableix els drets i deures dels propietaris"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Planejament Territorial (PTPTE)",
+              "details": [
+                "El Pla Territorial Parcial de les Terres de l'Ebre (aprovat el 2001 i modificat el 2010)",
+                "Figura de rang superior que estableix el model territorial per a la comarca",
+                "Les seves directrius són vinculants per als municipis"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Planejament Urbanístic Municipal (==POUM==)",
+              "details": [
+                "Cada municipi desenvolupa el seu propi ==POUM==",
+                "Classifica el sòl i defineix els usos i les condicions d'edificació",
+                "Ha de respectar el que marca el PTPTE i la legislació sectorial"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "directrius-ptpte",
+      "title": "Directrius Estratègiques del PTPTE",
+      "level": 1,
+      "content": [
+        {
+          "type": "subsection",
+          "title": "Protecció d'Espais Oberts",
+          "items": [
+            "El PTPTE classifica gairebé tot el sòl no urbà en categories de protecció (especial, territorial o preventiva)",
+            "Preserva els valors naturals, agraris i paisatgístics",
+            "Garanteix la connectivitat ecològica entre els Ports i el Delta",
+            "Limita dràsticament la construcció fora dels nuclis urbans"
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "Model d'Assentaments",
+          "items": [
+            "Per evitar la dispersió i combatre el despoblament, el Pla aposta per un model de creixement concentrat",
+            "Designa els nuclis principals (Amposta, la Ràpita, Ulldecona, etc.) com a àrees de 'creixement potenciat'",
+            "On s'ha d'orientar el desenvolupament residencial i econòmic"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "parc-natural",
+      "title": "Regulació del Parc Natural del Delta de l'Ebre",
+      "level": 1,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Creat pel Decret 357/1983, el Parc Natural i les figures de protecció associades (Xarxa Natura 2000, Reserva de la Biosfera) imposen un règim d'usos molt restrictiu. Qualsevol actuació dins del seu àmbit, o fins i tot a la seva àrea d'influència, està subjecta a informes vinculants de l'òrgan gestor del Parc. Actualment, s'està tramitant un nou Pla de Protecció del Medi Natural i el Paisatge que actualitzarà i endurirà la normativa vigent, un fet de gran transcendència per al planejament futur."
+        }
+      ]
+    },
+    {
+      "id": "aplicacio-practica",
+      "title": "Aplicació Pràctica - Estudi de Casos",
+      "level": 1,
+      "content": [
+        {
+          "type": "subsection",
+          "title": "El Rol del ==POUM==",
+          "items": [
+            "És l'eina clau per a un tècnic municipal",
+            "Tradueix les directrius generals del PTPTE en una normativa concreta i cartografiada a escala local",
+            "Defineix què es pot construir, on i com",
+            "Estableix les zones (claus urbanístiques), els usos permesos (residencial, industrial, comercial)",
+            "Fixa l'edificabilitat, les alçades màximes i les cessions obligatòries per a espais verds i equipaments"
+          ]
+        },
+        {
+          "type": "example",
+          "label": "==POUM== d'Amposta (Aprovació definitiva 2007)",
+          "text": "Aquest pla ordena el creixement de la capital comarcal. La seva documentació (memòria, normativa, plànols) és pública i de consulta obligada per a qualsevol projecte. Un exemple recent de la seva aplicació és la modificació puntual per regular els habitatges d'ús turístic, limitant-ne el nombre a 10 llicències per cada 100 habitants per fer front a la tensió del mercat de l'habitatge. Això demostra com el planejament municipal respon a problemàtiques socials i econòmiques concretes."
+        },
+        {
+          "type": "example",
+          "label": "==POUM== de la Ràpita",
+          "text": "Les modificacions d'aquest ==POUM== il·lustren la seva flexibilitat com a eina de gestió. S'ha modificat per facilitar la implantació d'un hotel en un solar estratègic (l'antic escorxador), eliminant càrregues urbanístiques que en dificultaven el desenvolupament. També s'ha adaptat per donar una solució legal a edificis que van quedar inacabats durant la crisi immobiliària, permetent-ne la finalització sota la nova normativa."
+        }
+      ]
+    },
+    {
+      "id": "normativa",
+      "title": "Normativa Essencial",
+      "level": 1,
+      "content": [
+        {
+          "type": "list",
+          "items": [
+            "TRLUC - ==Text refós== de la Llei d'urbanisme de Catalunya - Decret Legislatiu 1/2005",
+            "PTPTE - Pla Territorial Parcial de les Terres de l'Ebre - Aprovat per Acord de ==Govern== de 15/05/2001, ==text refós== de 2010",
+            "PNDE - Decret de creació del Parc Natural del Delta de l'Ebre - Decret 357/1983",
+            "==POUM== - ==Pla d'Ordenació Urbanística Municipal== - Específic de cada municipi (ex. ==POUM== d'Amposta, aprovació definitiva 2007)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "errors-mnemo",
+      "title": "Errors Típics i Mnemotècnies",
+      "level": 1,
+      "content": []
+    },
+    {
+      "id": "glossari",
+      "title": "Glossari Mínim",
+      "level": 1,
+      "content": [
+        {
+          "type": "subsection",
+          "title": "Termes Fonamentals",
+          "items": [
+            {
+              "type": "definition",
+              "term": "Comarca",
+              "details": [
+                "Entitat local de caràcter territorial formada per l'agrupació de municipis, amb competències pròpies"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Vegueria",
+              "details": [
+                "Divisió territorial de Catalunya prevista a l'Estatut d'autonomia",
+                "Serveix com a marc per al ==Govern== intermunicipal i la descentralització de serveis de la Generalitat",
+                "El Montsià pertany a la vegueria de les Terres de l'Ebre"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "PTPTE",
+              "details": [
+                "Pla Territorial Parcial de les Terres de l'Ebre",
+                "Instrument de planejament de rang superior al municipal que fixa les directrius generals d'ordenació del territori"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "==POUM==",
+              "details": [
+                "==Pla d'Ordenació Urbanística Municipal==",
+                "Norma urbanística principal d'un municipi que classifica el sòl i regula els usos i l'edificació"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "==Sòl no urbanitzable== de protecció especial",
+              "details": [
+                "Categoria de sòl definida pel PTPTE",
+                "Inclou espais amb valors naturals, ecològics o paisatgístics",
+                "Han de mantenir-se aliens al desenvolupament urbanístic"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "resum",
+      "title": "Resum Final",
+      "level": 1,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "El Montsià és una comarca de contrastos, definida per la plana deltaica i les serres interiors. La seva estructura demogràfica i econòmica és desigual, amb una forta concentració al litoral. El desenvolupament del territori està rigorosament marcat per una ==jerarquia normativa== on el PTPTE i la protecció del Parc Natural del Delta de l'Ebre són determinants. Per a un tècnic, és essencial dominar aquesta interrelació entre planejament territorial, normativa ambiental i gestió urbanística municipal per actuar amb eficàcia en un context complex i de gran valor estratègic."
+        }
+      ]
+    },
+    {
+      "id": "bloc-examen",
+      "title": "Bloc d'Examen",
+      "level": 1,
+      "content": [
+        {
+          "type": "example",
+          "label": "Micro-cas pràctic",
+          "text": "Un promotor presenta a l'Ajuntament de Sant Jaume d'Enveja un projecte per construir un complex d'apartaments turístics en un sòl classificat pel ==POUM== com a urbanitzable. El solar es troba dins dels límits del Parc Natural del Delta de l'Ebre. Indiqueu, de forma raonada, la viabilitat urbanística del projecte i els principals informes sectorials que serien necessaris. Punts clau de resolució: 1) Viabilitat inicial: Tot i que el sòl sigui urbanitzable segons el ==POUM==, la seva ubicació dins del Parc Natural del Delta de l'Ebre és el factor determinant. La normativa del Parc preval sobre el planejament municipal i és extremadament restrictiva amb nous desenvolupaments urbanístics. 2) Normativa aplicable: S'hauria de consultar: 1) el ==POUM== de Sant Jaume d'Enveja, 2) el PTPTE, i 3) de forma prioritària, la normativa específica del Parc Natural (Decret 357/1983 i el futur Pla de Protecció). 3) Informes sectorials: El projecte requeriria, com a mínim, un informe vinculant i previsiblement desfavorable de l'òrgan gestor del Parc Natural del Delta de l'Ebre. També serien necessaris informes de l'Agència Catalana de l'Aigua (risc d'inundabilitat) i possiblement de la Comissió Territorial d'Urbanisme de les Terres de l'Ebre. 4) Conclusió: El projecte té una viabilitat urbanística molt baixa o nul·la, ja que la protecció ambiental del Parc Natural preval sobre la classificació del sòl del ==POUM==."
+        }
+      ]
+    }
+  ]
+}

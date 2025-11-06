@@ -1,0 +1,211 @@
+{
+  "metadata": {
+    "title": "Fotosíntesi i Respiració Cel·lular",
+    "subject": "Biologia",
+    "topic": "Metabolisme Cel·lular",
+    "keywords": ["fotosíntesi", "respiració", "ATP", "glucosa", "cloroplast", "mitocondri"],
+    "difficulty": "mitjà",
+    "estimatedTime": "45 min"
+  },
+  "sections": [
+    {
+      "id": "intro",
+      "title": "Introducció",
+      "level": 1,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "La fotosíntesi i la respiració cel·lular són dos processos metabòlics fonamentals per a la vida a la Terra. Aquests processos estan íntimament relacionats i representen el flux d'energia a través dels éssers vius."
+        },
+        {
+          "type": "highlight",
+          "importance": "high",
+          "items": [
+            "La fotosíntesi captura energia solar i la converteix en energia química",
+            "La respiració cel·lular allibera aquesta energia per a les funcions vitals",
+            "Aquests processos són complementaris i essencials per al cicle del carboni"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fotosintesi",
+      "title": "Fotosíntesi",
+      "level": 1,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "La fotosíntesi és el procés pel qual les plantes, algues i alguns bacteris converteixen l'energia lumínica en energia química emmagatzemada en forma de glucosa."
+        },
+        {
+          "type": "formula",
+          "label": "Equació general de la fotosíntesi",
+          "text": "6 CO₂ + 6 H₂O + energia lumínica → C₆H₁₂O₆ + 6 O₂"
+        },
+        {
+          "type": "subsection",
+          "title": "Fases de la Fotosíntesi",
+          "items": [
+            {
+              "type": "definition",
+              "term": "Fase Lumínica (Reaccions fotoquímiques)",
+              "details": [
+                "Lloc: membrana dels tilacoides del cloroplast",
+                "Productes: ATP, NADPH i O₂",
+                "Requereix llum solar directa",
+                "Utilitza clorofil·la per capturar energia"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Fase Fosca (Cicle de Calvin)",
+              "details": [
+                "Lloc: estroma del cloroplast",
+                "Producte principal: glucosa (C₆H₁₂O₆)",
+                "No requereix llum directa (però depèn dels productes de la fase lumínica)",
+                "Fixa el CO₂ atmosfèric en molècules orgàniques"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Factors que afecten la fotosíntesi",
+          "items": [
+            "Intensitat lumínica: més llum generalment incrementa la taxa fotosintètica",
+            "Concentració de CO₂: nivells més alts augmenten la producció",
+            "Temperatura: òptima entre 25-35°C per a la majoria de plantes",
+            "Disponibilitat d'aigua: essencial com a matèria primera",
+            "Concentració de clorofil·la: determina la capacitat de captura de llum"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "respiracio",
+      "title": "Respiració Cel·lular",
+      "level": 1,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "La respiració cel·lular és el procés metabòlic que allibera energia dels nutrients, principalment la glucosa, per produir ATP (adenosina trifosfat), la moneda energètica de la cèl·lula."
+        },
+        {
+          "type": "formula",
+          "label": "Equació general de la respiració",
+          "text": "C₆H₁₂O₆ + 6 O₂ → 6 CO₂ + 6 H₂O + energia (36-38 ATP)"
+        },
+        {
+          "type": "subsection",
+          "title": "Etapes de la Respiració Cel·lular",
+          "items": [
+            {
+              "type": "definition",
+              "term": "Glicòlisi",
+              "details": [
+                "Lloc: citoplasma",
+                "Procés: descomposició de glucosa en 2 molècules de piruvat",
+                "Rendiment: 2 ATP nets + 2 NADH",
+                "No requereix oxigen (anaeròbica)"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Cicle de Krebs (Cicle de l'àcid cítric)",
+              "details": [
+                "Lloc: matriu mitocondrial",
+                "Procés: oxidació completa del piruvat",
+                "Rendiment: 2 ATP + 6 NADH + 2 FADH₂ per glucosa",
+                "Requereix oxigen (aeròbica)"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Cadena de Transport d'Electrons",
+              "details": [
+                "Lloc: membrana interna mitocondrial",
+                "Procés: transferència d'electrons i síntesi d'ATP",
+                "Rendiment: aproximadament 32-34 ATP",
+                "Producte final: H₂O (aigua)"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "label": "Rendiment energètic total",
+          "text": "D'una molècula de glucosa s'obtenen aproximadament 36-38 molècules d'ATP:\n- Glicòlisi: 2 ATP\n- Cicle de Krebs: 2 ATP\n- Cadena de transport d'electrons: 32-34 ATP"
+        }
+      ]
+    },
+    {
+      "id": "relacio",
+      "title": "Relació entre Fotosíntesi i Respiració",
+      "level": 1,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "La fotosíntesi i la respiració cel·lular són processos inversos que mantenen l'equilibri d'oxigen i diòxid de carboni a l'atmosfera."
+        },
+        {
+          "type": "highlight",
+          "importance": "high",
+          "items": [
+            "Els productes de la fotosíntesi (glucosa i O₂) són els reactius de la respiració",
+            "Els productes de la respiració (CO₂ i H₂O) són els reactius de la fotosíntesi",
+            "Aquest cicle és essencial per a la vida a la Terra"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Diferències clau",
+          "items": [
+            "Fotosíntesi: procés anabòlic (construeix molècules), emmagatzema energia",
+            "Respiració: procés catabòlic (descompon molècules), allibera energia",
+            "Fotosíntesi: només en organismes fotosintètics",
+            "Respiració: en tots els organismes aeròbics",
+            "Fotosíntesi: requereix llum",
+            "Respiració: es produeix constantment"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "conceptes-clau",
+      "title": "Conceptes Clau per Recordar",
+      "level": 1,
+      "content": [
+        {
+          "type": "highlight",
+          "importance": "high",
+          "items": [
+            "ATP és la moneda energètica universal de les cèl·lules",
+            "Els cloroplasts són els orgànuls de la fotosíntesi",
+            "Els mitocondris són els orgànuls de la respiració cel·lular",
+            "La fotosíntesi i respiració són processos acoblats i complementaris",
+            "El cicle del carboni depèn d'aquests dos processos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "preguntes",
+      "title": "Preguntes de Revisió",
+      "level": 1,
+      "content": [
+        {
+          "type": "list",
+          "items": [
+            "Quina és l'equació completa de la fotosíntesi?",
+            "On es produeix el Cicle de Krebs?",
+            "Quin és el rendiment total d'ATP en la respiració aeròbica?",
+            "Quines són les dues fases de la fotosíntesi i on es produeixen?",
+            "Per què la fotosíntesi i la respiració es consideren processos complementaris?",
+            "Quina és la funció de la clorofil·la en la fotosíntesi?",
+            "Què és l'ATP i per què és important?"
+          ]
+        }
+      ]
+    }
+  ]
+}

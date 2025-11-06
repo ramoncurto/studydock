@@ -1,0 +1,177 @@
+16. El règim urbanístic del sòl. Classificació i qualificació del sòl. Règim urbanístic del subsol.
+Visió global
+El règim urbanístic del sòl constitueix la pedra angular de l'ordenació del territori. És la funció pública que defineix el contingut del dret de propietat, establint què es pot fer, on i com, en cada porció del territori.1 Aquesta regulació s'articula mitjançant dues tècniques fonamentals: la classificació, que assigna a cada terreny un règim jurídic general, i la qualificació, que en detalla els usos i paràmetres edificatoris concrets. L'objectiu final és garantir un desenvolupament urbanístic sostenible, que equilibri les necessitats de creixement amb la protecció dels valors ambientals i la cohesió social.4 El marc normatiu opera a dos nivells: la legislació estatal, principalment el Text Refós de la Llei de Sòl i Rehabilitació Urbana (TRLSRU), estableix les condicions bàsiques i les situacions fàctiques del sòl; mentre que la legislació autonòmica, a Catalunya el Text Refós de la Llei d'Urbanisme (TRLUC), desenvolupa el sistema de planejament propi. L'instrument clau d'aplicació és el Pla d'Ordenació Urbanística Municipal (POUM), que tradueix aquestes lleis en un mapa detallat de drets i deures per a tot el terme municipal.
+Checklist d’estudi
+Dominar la diferència conceptual entre classificació (règim general del sòl) i qualificació (ús i edificabilitat concrets).6
+Memoritzar les tres classes de sòl del TRLUC: sòl urbà (consolidat/no consolidat), sòl urbanitzable (delimitat/no delimitat) i sòl no urbanitzable.9
+Comprendre les dues situacions bàsiques del sòl del TRLSRU (rural i urbanitzat) i la seva relació amb les classes catalanes.12
+Identificar els drets i deures dels propietaris per a cada classe i subclasse de sòl, especialment les obligacions de cessió i de costejament de la urbanització.10
+Conèixer els usos i construccions permeses en sòl no urbanitzable, segons l'article 47 del TRLUC.15
+Entendre el règim jurídic del subsol, incloent les limitacions i servituds per a serveis públics.3
+Esquematitzar les fases clau del procediment d'aprovació d'un POUM.17
+Definir amb precisió conceptes clau: solar, aprofitament urbanístic, cessió, sistemes i zones.
+Desenvolupament
+1) Conceptes clau i definicions
+Per a una correcta comprensió del règim urbanístic, és imprescindible dominar una sèrie de conceptes fonamentals que estructuren tota la disciplina.
+La distinció fonamental: Classificació vs. Qualificació
+Aquests dos conceptes, tot i que relacionats, responen a moments i finalitats diferents dins del planejament. La seva confusió és un error comú i greu en un examen.
+Classificació del sòl: És l'operació urbanística primordial que realitza el POUM. Consisteix a dividir la totalitat del sòl d'un terme municipal en tres grans categories o classes, que són mútuament excloents: sòl urbà, sòl urbanitzable i sòl no urbanitzable.6 Aquesta decisió defineix el model de territori i estableix el règim jurídic general de drets i deures per a cada terreny. La classificació respon a la pregunta estratègica: "Aquest sòl forma part de la ciutat existent, està previst per al seu creixement futur, o ha de ser preservat de la transformació urbanística?". Les classes de sòl estan taxades per la llei; el planejament no en pot crear de noves.18
+Qualificació del sòl: És l'operació de detall que succeeix a la classificació. Consisteix a assignar a cada terreny, especialment en sòl urbà i urbanitzable, uns usos concrets (residencial, industrial, comercial), una intensitat (edificabilitat, densitat d'habitatges) i una tipologia edificatòria (edificació aïllada, en filera).6 La qualificació és, en essència, la tècnica de zonificació (zoning). Respon a la pregunta operativa: "Què es pot construir exactament aquí, i amb quines condicions?".
+Les eines de la qualificació: Sistemes i Zones
+La qualificació es materialitza mitjançant la distinció entre sistemes i zones.19
+Sistemes: Són els terrenys qualificats per a satisfer necessitats col·lectives i estructurar el territori. Constitueixen l'esquelet funcional de la ciutat i es destinen a un ús públic o d'interès general.6 Inclouen la xarxa viària, els espais lliures (parcs i jardins), i els equipaments comunitaris (escoles, centres sanitaris, etc.). Poden ser de titularitat pública o, en certs casos, privada (equipaments privats).
+Zones: Són els terrenys qualificats per a usos susceptibles d'aprofitament privat, com l'habitatge, l'activitat industrial o el comerç.6 La normativa de cada zona regula detalladament els paràmetres d'edificació i ús permesos.
+El marc normatiu dual
+El règim del sòl a Catalunya s'ha d'entendre des d'una doble perspectiva legal, fruit de la distribució de competències entre l'Estat i la Generalitat.
+Marc Estatal (TRLSRU): Les situacions bàsiques del sòl. La legislació estatal no entra a classificar el sòl (competència autonòmica), sinó que defineix la seva situació fàctica o real. L'article 21 del TRLSRU estableix dues úniques situacions bàsiques:
+Sòl Urbanitzat: Aquell que està efectivament integrat en la malla urbana, comptant amb els serveis i infraestructures requerits per la legislació urbanística.12
+Sòl Rural: Tot el sòl que no compleix les condicions per ser considerat urbanitzat. Aquesta categoria inclou tant el sòl protegit com el sòl que el planejament destina a ser urbanitzat, mentre aquesta transformació no s'hagi completat.12
+Marc Català (TRLUC): Les classes de sòl. La legislació catalana, en exercici de la seva competència exclusiva en urbanisme, estableix un sistema de planejament basat en la classificació del sòl en les tres classes esmentades (urbà, urbanitzable, no urbanitzable).9 Aquestes classes defineixen el destí i el potencial urbanístic del sòl.
+La relació entre ambdós marcs és jeràrquica i conceptualment clau. Les "situacions bàsiques" estatals defineixen un estatut de propietat primari, mentre que les "classes" catalanes defineixen un règim urbanístic de futur. Per exemple, un terreny classificat pel POUM com a sòl urbanitzable es troba, a efectes de la llei estatal, en la situació de sòl rural fins que les obres d'urbanització no estiguin completament executades i rebudes per l'administració. Aquesta distinció té implicacions directes en matèria de valoracions i de drets i deures dels propietaris.
+2) Estructura / Esquemes
+Per facilitar la comprensió de l'ordenament jurídic i del règim de cada classe de sòl, es presenten els següents esquemes.
+Diagrama de la jerarquia normativa
+L'ordenament urbanístic s'estructura de forma jeràrquica. Un instrument de rang inferior ha de respectar sempre les determinacions dels de rang superior. L'esquema bàsic és el següent:
+Bloc Constitucional: Constitució Espanyola (especialment Arts. 33 i 47 sobre la funció social de la propietat i la participació de la comunitat en les plusvàlues) i Estatut d'Autonomia de Catalunya.
+Legislació Bàsica Estatal: TRLSRU - RDLeg 7/2015 (regula les condicions bàsiques del dret de propietat del sòl i les seves situacions bàsiques).
+Legislació Autonòmica Catalana:
+TRLUC - DL 1/2010 (estableix el sistema de planejament, les classes de sòl i el règim urbanístic a Catalunya).
+RLUC - Decret 305/2006 (desenvolupa reglamentàriament el TRLUC).
+Planejament Territorial (Supramunicipal): Plans territorials generals o parcials (estableixen directrius d'ordenació a escala regional o subregional que vinculen el planejament municipal).
+Planejament Urbanístic Municipal:
+Pla d'Ordenació Urbanística Municipal (POUM): Instrument integral que classifica i qualifica tot el sòl del municipi.
+Planejament Derivat: Plans Parcials (per a sòl urbanitzable), Plans de Millora Urbana i Plans Especials (per a sòl urbà o no urbanitzable).
+Taula comparativa de les classes de sòl a Catalunya
+La següent taula sintetitza i compara les característiques essencials de les tres classes de sòl definides pel TRLUC, un element clau per a la preparació de l'examen.
+
+Característica
+Sòl Urbà (Arts. 26-32 TRLUC)
+Sòl Urbanitzable (Arts. 33-34 TRLUC)
+Sòl No Urbanitzable (Arts. 47-52 TRLUC)
+Definició Operativa
+Terrenys ja integrats en el teixit urbà que disposen dels serveis urbanístics bàsics o que estan consolidats per l'edificació.9
+Terrenys que el planejament considera necessaris i adequats per garantir el creixement ordenat de la ciutat.[6, 11]
+Terrenys que el planejament exclou del procés de transformació urbanística per raó dels seus valors (agrícoles, forestals, paisatgístics, etc.) o per riscos naturals.[6, 23]
+Subcategories
+Consolidat (SUC): Té la condició de solar o li manquen obres menors per assolir-la. No Consolidat (SUNC): Requereix actuacions de transformació urbanística (reforma, renovació, millora).9
+Delimitat (SUD): Sectors previstos per a una transformació a curt o mitjà termini. No Delimitat (SUND): Reserva estratègica de sòl per a creixements futurs a llarg termini.11
+No té subcategories formals, però el seu règim varia segons el nivell de protecció que li atorgui el planejament (protecció especial, preventiva, etc.).23
+Drets Bàsics del Propietari
+Dret a edificar si el terreny té la condició de solar, prèvia llicència. En SUNC, dret a participar en l'actuació de transformació.[10]
+Dret a promoure la transformació urbanística del sector mitjançant l'aprovació del Pla Parcial corresponent i el projecte de reparcel·lació.
+Dret a l'ús i gaudi del terreny d'acord amb la seva naturalesa rústica. Dret a realitzar les construccions expressament permeses per l'Art. 47 del TRLUC.15
+Deures Bàsics del Propietari
+SUC: Completar la urbanització si cal, edificar en els terminis fixats i conservar l'edificació. SUNC: Cedir sòl per a vials i sistemes locals, cedir el 10% de l'aprofitament urbanístic mitjà, i costejar la urbanització.14
+Cedir tot el sòl per a sistemes generals i locals inclosos en el sector, cedir entre el 10% i el 15% de l'aprofitament urbanístic, i costejar íntegrament la urbanització del sector.
+Conservar els valors naturals i paisatgístics, no realitzar parcel·lacions urbanístiques, i abstenir-se de qualsevol acte que transformi la seva naturalesa rústica.[24]
+Instrument de Desenvolupament
+SUC: Llicència urbanística directa. SUNC: Pla de Millora Urbana (PMU) o Pla Especial Urbanístic (PEU).
+SUD: Pla Parcial Urbanístic (PPU). SUND: Requereix un Pla Parcial Urbanístic de Delimitació (PPUD) previ al PPU.
+Pla Especial Urbanístic (PEU) per a actuacions específiques d'interès públic o per a la implantació d'activitats permeses.
+
+Aquesta taula evidencia un gradient clar: el sòl urbà consolidat representa la fi del procés urbanitzador, amb màxims drets i mínims deures pendents. A l'altre extrem, el sòl no urbanitzable té drets de desenvolupament mínims i deures màxims de preservació. El sòl urbanitzable i el sòl urbà no consolidat són fases intermèdies on el dret a edificar està condicionat al compliment de deures significatius, materialitzant el principi de participació de la comunitat en les plusvàlues generades pel planejament.
+3) Principis / Regles: El règim jurídic de cada classe de sòl
+A continuació, es detalla el règim jurídic específic per a cada classe de sòl, aprofundint en els drets i deures que defineixen l'estatut del propietari.
+Sòl Urbà (SU)
+És el sòl que ja forma part de la ciutat. El TRLUC el divideix en dues categories clau segons el seu grau de consolidació.
+Sòl Urbà Consolidat (SUC): Són els terrenys que tenen la condició de solar, és a dir, parcel·les aptes per a l'edificació que disposen de tots els serveis urbanístics bàsics (accés rodat pavimentat, subministrament d'aigua, evacuació d'aigües residuals i subministrament d'energia elèctrica).9 També s'inclouen aquells terrenys als quals només els falten obres menors per assolir aquesta condició, que es poden executar simultàniament a l'edificació. El dret fonamental del propietari d'un solar és el d'edificar, prèvia obtenció de la llicència corresponent. Els deures principals són edificar en els terminis que estableixi el planejament per evitar l'especulació amb solars buits, i posteriorment, conservar l'edificació en condicions de seguretat, salubritat i ornament.
+Sòl Urbà No Consolidat (SUNC): Comprèn la resta del sòl urbà. Són àmbits que, tot i estar dins la trama urbana, requereixen actuacions de transformació urbanística per assolir una configuració definitiva. Aquestes actuacions poden ser de reforma interior, renovació urbana, millora o dotació de serveis.9 En aquests terrenys, el dret a edificar està suspès fins que no s'executi l'actuació urbanística corresponent, normalment a través d'un Pla de Millora Urbana. Els deures del propietari són substancials i reflecteixen la plusvàlua que generarà l'actuació:
+Reparcel·lar: Participar en la redistribució de les parcel·les per adequar-les a la nova ordenació.
+Costejar la urbanització: Finançar les obres necessàries per dotar l'àmbit de tots els serveis i convertir les parcel·les en solars.
+Cedir sòl per a vials i sistemes locals: Lliurar gratuïtament a l'Ajuntament els terrenys destinats a carrers, places, parcs i equipaments que donin servei a l'àmbit.
+Cedir el 10% de l'aprofitament urbanístic: Lliurar gratuïtament a l'Ajuntament terrenys ja urbanitzats equivalents al 10% de l'aprofitament mitjà de l'àmbit, que es destinaran principalment a habitatge protegit o patrimoni públic de sòl.14
+Sòl Urbanitzable (SUD/SUND)
+És el sòl destinat a absorbir el creixement futur de la ciutat. La seva transformació de sòl rústic a urbà és un procés complex i altament regulat.
+Sòl Urbanitzable Delimitat (SUD): Són sectors de terreny que el POUM considera aptes per a ser urbanitzats a curt o mitjà termini. El seu desenvolupament s'ha de fer obligatòriament a través d'un Pla Parcial Urbanístic (PPU), que n'estableix l'ordenació detallada (traçat de carrers, zones verdes, usos de les parcel·les, etc.).11
+Sòl Urbanitzable No Delimitat (SUND): És una reserva estratègica de sòl per a creixements a llarg termini no previstos inicialment pel POUM. Per poder desenvolupar-se, requereix un pas previ: l'aprovació d'un Pla Parcial Urbanístic de Delimitació (PPUD) que el converteixi en sòl urbanitzable delimitat. Posteriorment, es desenvoluparà amb un PPU ordinari.11
+En ambdues categories de sòl urbanitzable, els deures dels propietaris són els més exigents de tot l'ordenament, ja que són els promotors i financers de la creació d'un nou tros de ciutat:
+Costejar i executar la totalitat de la urbanització del sector, incloent les connexions amb els sistemes generals existents.
+Cedir gratuïtament tot el sòl destinat a sistemes locals (carrers, parcs, equipaments del sector).
+Cedir gratuïtament el sòl destinat a sistemes generals que el POUM inclogui en l'àmbit del sector.
+Cedir gratuïtament i lliure de càrregues d'urbanització a l'Ajuntament un percentatge de l'aprofitament urbanístic del sector, que a Catalunya se situa generalment en el 15%.
+Sòl No Urbanitzable (SNU)
+És el sòl que mereix una protecció especial i que, per tant, s'ha de preservar del procés de transformació urbanística.23 La regla general és la prohibició d'urbanitzar i edificar. No obstant això, l'article 47 del TRLUC admet, de forma taxada i restrictiva, determinats usos i construccions, sempre que siguin compatibles amb la naturalesa rústica del sòl i no lesionin els valors que es volen protegir.15 Les actuacions permeses inclouen:
+Construccions agrícoles, ramaderes o forestals: Directament vinculades a l'explotació dels recursos naturals.
+Rehabilitació de masies i cases rurals: Es poden rehabilitar edificacions tradicionals catalogades per a usos com habitatge familiar, turisme rural o activitats de restauració.
+Actuacions d'interès públic: Equipaments o serveis que, per la seva naturalesa, s'hagin d'emplaçar en medi rural (per exemple, instal·lacions d'energies renovables, infraestructures de telecomunicacions, etc.). Aquestes actuacions requereixen normalment la tramitació d'un Pla Especial Urbanístic.
+Règim del Subsol
+El dret de propietat del sòl s'estén, en principi, al subsol. No obstant això, aquesta facultat no és absoluta. L'urbanisme és una funció pública que abasta l'ordenació i el control de l'ús del sòl, del subsol i del vol.2 La legislació estatal (Art. 11 TRLSRU) i l'autonòmica (Art. 1 TRLUC) habiliten el planejament urbanístic per imposar limitacions i servituds al subsol per raons d'interès general.16
+Aquesta potestat és essencial per al funcionament de la ciutat. El planejament pot establir reserves de subsol per a la implantació i el manteniment d'infraestructures i serveis públics.27 Això inclou galeries de serveis, col·lectors de sanejament, xarxes d'aigua i energia, línies de metro o ferrocarril, i infraestructures de telecomunicacions. Aquestes reserves poden implicar una limitació a la construcció de soterranis o altres usos privats, o bé la imposició de servituds de pas que els propietaris afectats han de tolerar, amb la corresponent indemnització si es produeix una expropiació efectiva del dret d'ús.
+4) Procediment i aplicació administrativa
+El POUM és el document normatiu que materialitza la classificació i qualificació del sòl. El seu procediment d'elaboració i aprovació és llarg i complex, garantint la participació ciutadana i el control de legalitat.
+Esquema del procediment d'aprovació d'un POUM
+El procediment, regulat en el TRLUC, consta de les següents fases principals 17:
+Avanç del Pla: L'Ajuntament elabora un document inicial amb els criteris, objectius i solucions generals del nou planejament. Se sotmet a un procés de participació ciutadana i consulta pública per recollir propostes i suggeriments.
+Aprovació Inicial: El Ple de l'Ajuntament aprova inicialment el projecte de POUM. Aquest acord comporta, de manera automàtica, la suspensió de llicències en aquelles àrees on el nou planejament preveu modificacions, per un termini màxim de dos anys.
+Informació Pública i Informes Sectorials: El document aprovat inicialment se sotmet a un període d'informació pública (mínim 45 dies) perquè qualsevol persona interessada pugui presentar al·legacions. Simultàniament, se sol·liciten informes preceptius a les administracions sectorials afectades (carreteres, costes, patrimoni cultural, medi ambient, etc.).
+Aprovació Provisional: Un cop analitzades les al·legacions i rebuts els informes sectorials, el Ple de l'Ajuntament aprova provisionalment el POUM, incorporant les modificacions que consideri oportunes.
+Aprovació Definitiva: L'expedient complet es tramet a l'òrgan competent de la Generalitat de Catalunya, que és la Comissió de Territori corresponent (o la Subcomissió, segons el municipi). Aquest òrgan realitza el control de legalitat i de coherència amb el planejament territorial supramunicipal i atorga l'aprovació definitiva.29 L'aprovació pot ser total, parcial (deixant àmbits en suspens) o condicionada a la correcció de deficiències.
+Publicació i Entrada en Vigor: L'acord d'aprovació definitiva i la normativa del POUM es publiquen al Diari Oficial de la Generalitat de Catalunya (DOGC), moment a partir del qual el pla entra en vigor i esdevé executiu.
+Actors principals
+Ajuntament: És l'administració que té la iniciativa i la competència per a la formulació i tramitació del POUM, realitzant les aprovacions inicial i provisional.
+Generalitat de Catalunya (Comissió de Territori): És l'administració que exerceix la tutela de legalitat i d'interès supramunicipal, atorgant l'aprovació definitiva.
+5) Normativa essencial
+TRLSRU — Real Decreto Legislativo 7/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley de Suelo y Rehabilitación Urbana.31
+TRLUC — Decret Legislatiu 1/2010, de 3 d'agost, pel qual s'aprova el Text refós de la Llei d'urbanisme de Catalunya.3
+RLUC — Decret 305/2006, de 18 de juliol, pel qual s'aprova el Reglament de la Llei d'urbanisme.2
+POUM — Pla d'Ordenació Urbanística Municipal (instrument específic de cada municipi).
+6) Exemples i casos
+Exemple (test): Un terreny situat dins la trama urbana d'un municipi disposa de tots els serveis urbanístics excepte la pavimentació completa de la vorera a la qual dóna front. El POUM el delimita dins d'un polígon d'actuació urbanística per a la millora de la urbanització i la reordenació de les alineacions. Segons el TRLUC, aquest terreny es classifica com a:
+a) Sòl urbà consolidat, ja que només li falten obres menors.
+b) Sòl urbanitzable delimitat, perquè requereix una actuació.
+c) Sòl urbà no consolidat, perquè està inclòs en un àmbit de millora urbana.
+d) Sòl rústic en situació de sòl rural.
+(Orientació de resposta: La correcta és la c). La inclusió en un polígon d'actuació per a la millora o reforma de la urbanització és un dels criteris que defineix el sòl urbà com a no consolidat, implicant deures de cessió i costejament).
+Micro-cas: Un promotor adquireix una gran finca rústica adjacent al nucli urbà, classificada pel POUM com a sòl urbanitzable delimitat (SUD) dins del Sector "Can Pi". Quins són els principals deures que haurà d'assumir abans de poder edificar habitatges?
+(Orientació de resposta: Haurà de promoure un Pla Parcial Urbanístic; costejar i executar totes les obres d'urbanització del sector; cedir gratuïtament a l'Ajuntament tots els terrenys per a carrers, zones verdes i equipaments del sector; i cedir gratuïtament el 15% de l'aprofitament urbanístic del sector per a finalitats públiques).
+7) Errors típics i mnemotècnies
+Error 1: Confondre situació (estatal) amb classe (catalana).
+Mnemotècnia: La Situació és un fet Sobrevingut (està urbanitzat o no). La Classe és una deCisió del planejament Català (què pot arribar a ser).
+Error 2: Confondre classificació amb qualificació.
+Mnemotècnia: Primer classifico els grans contenidors (Urbà, Urbanitzable, No Urbanitzable). Després qualifico el que hi ha a dins (Zona residencial, Sistema d'equipaments). La classificació és el continent; la qualificació és el contingut.
+Error 3: Assumir que tot el sòl urbà permet edificar immediatament.
+Recordatori: Només el sòl urbà consolidat (SUC) amb condició de solar permet llicència directa. El sòl urbà no consolidat (SUNC) requereix una actuació urbanística prèvia (PMU, reparcel·lació, etc.) abans de poder edificar.
+8) Glossari mínim
+Aprofitament urbanístic: Unitat de mesura de la intensitat d'ús del sòl, expressada normalment en metres quadrats de sostre edificable per metre quadrat de sòl ($m^2st/m^2s$). És el principal atribut econòmic que assigna el planejament.
+Solar: Parcel·la classificada com a sòl urbà consolidat, legalment apta per a l'edificació per disposar de tots els serveis urbanístics necessaris i tenir les alineacions i rasants definides.
+Pla Parcial Urbanístic (PPU): Instrument de planejament derivat que desenvolupa les determinacions del POUM en un sector de sòl urbanitzable, establint-ne l'ordenació detallada.
+Cessió: Deure legal del propietari de sòl en transformació de transmetre gratuïtament a l'Administració una part dels seus terrenys (per a vials, zones verdes, equipaments) o del seu aprofitament urbanístic.
+Resum final
+El règim urbanístic del sòl a Catalunya és un sistema jeràrquic i regulat que busca l'equilibri entre el dret de propietat i l'interès general. El POUM, emmarcat en el TRLUC i respectant les bases del TRLSRU, classifica tot el territori en sòl urbà, urbanitzable o no urbanitzable, definint així el seu destí. Aquesta classificació determina un estatut de drets i deures per al propietari. En sòls on el planejament atorga un increment de valor significatiu (sòl urbà no consolidat i sòl urbanitzable), la llei imposa deures proporcionals de cessió de sòl i de finançament de la urbanització. Aquest mecanisme assegura que el desenvolupament sigui ordenat, sostenible i que part de les plusvàlues generades reverteixin en la comunitat. El sòl no urbanitzable es manté sota un règim de protecció, i el subsol es configura com un espai estratègic per a les infraestructures públiques.
+Bloc d’examen
+Preguntes tipus test
+1. Segons el TRLUC, quina de les següents afirmacions sobre el sòl urbà no consolidat (SUNC) és CORRECTA?
+a) Permet l'obtenció de llicència d'edificació directa si disposa de tots els serveis bàsics.
+b) El seu desenvolupament es realitza mitjançant un Pla Parcial Urbanístic.
+c) Els propietaris tenen el deure de cedir a l'Ajuntament el 10% de l'aprofitament urbanístic mitjà de l'àmbit.
+d) Està exempt del deure de costejar les obres d'urbanització, que són a càrrec de l'Ajuntament.
+2. La tècnica urbanística que assigna a una parcel·la un ús específic (p. ex., residencial unifamiliar) i uns paràmetres concrets d'edificabilitat i alçada s'anomena:
+a) Classificació.
+b) Qualificació.
+c) Reparcel·lació.
+d) Expropiació.
+3. Un terreny classificat pel POUM com a sòl urbanitzable delimitat (SUD), a efectes del TRLSRU estatal i mentre no es completi la seva urbanització, es troba en:
+a) Situació de sòl urbanitzat.
+b) Situació de sòl rural.
+c) Situació de sòl urbà no consolidat.
+d) No està subjecte a les situacions bàsiques estatals.
+4. La reserva del subsol d'una finca privada per al pas d'un col·lector de sanejament municipal és una potestat que el planejament urbanístic pot exercir basant-se en:
+a) El dret de superfície.
+b) La funció pública de l'urbanisme que abasta el sòl, el vol i el subsol.
+c) El principi de repartiment equitatiu de beneficis i càrregues.
+d) Només es pot fer mitjançant un conveni urbanístic amb el propietari.
+(Respostes correctes: 1-c, 2-b, 3-b, 4-b)
+Micro-cas pràctic
+Un Pla de Millora Urbana (PMU) afecta un àmbit de sòl urbà no consolidat (SUNC) de 10.000 $m^2$. L'àmbit està format per 5 parcel·les privades. El PMU preveu la creació d'un nou vial i una petita zona verda, que ocuparan 2.000 $m^2$. L'aprofitament urbanístic mitjà de l'àmbit es fixa en 1,0 $m^2st/m^2s$.
+Identifiqui i quantifiqui els principals deures de cessió que hauran d'assumir conjuntament els propietaris de l'àmbit.
+Punts clau de la resolució:
+Identificació dels deures: En un SUNC, els propietaris tenen dos deures principals de cessió:
+Cessió de sòl per a sistemes locals (vials i zones verdes).
+Cessió del 10% de l'aprofitament urbanístic mitjà de l'àmbit.
+Quantificació de la cessió per a sistemes locals: El PMU determina que els nous vials i la zona verda ocupen 2.000 $m^2$. Aquest sòl ha de ser cedit gratuïtament a l'Ajuntament.
+Quantificació de la cessió del 10% de l'aprofitament:
+Superfície de l'àmbit: 10.000 $m^2$.
+Aprofitament urbanístic total de l'àmbit: $10.000 \, m^2 \times 1,0 \, m^2st/m^2s = 10.000 \, m^2st$.
+Cessió del 10%: $10.000 \, m^2st \times 0,10 = 1.000 \, m^2st$.
+Materialització de la cessió d'aprofitament: Aquests 1.000 $m^2st$ s'han de materialitzar en una o diverses parcel·les ja urbanitzades, lliures de càrregues, que es lliuraran a l'Ajuntament. La superfície de sòl corresponent a aquesta cessió serà el resultat de dividir l'aprofitament a cedir per l'aprofitament mitjà: $1.000 \, m^2st / 1,0 \, m^2st/m^2s = 1.000 \, m^2$ de sòl.
+Conclusió: Els propietaris hauran de cedir un total de $2.000 \, m^2$ per a vials i zones verdes, més $1.000 \, m^2$ de sòl amb un aprofitament de 1.000 $m^2st$ corresponents a la participació de la comunitat en les plusvàlues. A més, hauran de costejar totes les obres d'urbanització.

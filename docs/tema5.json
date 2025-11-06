@@ -1,0 +1,506 @@
+{
+  "metadata": {
+    "title": "L'acte administratiu: concepte, classes i invalidesa",
+    "subject": "Dret Administratiu",
+    "topic": "Actes administratius",
+    "keywords": [
+      "acte administratiu",
+      "motivació",
+      "eficàcia",
+      "executivitat",
+      "notificació",
+      "nul·litat",
+      "anul·labilitat",
+      "convalidació"
+    ],
+    "difficulty": "avançat",
+    "estimatedTime": "50 min"
+  },
+  "sections": [
+    {
+      "id": "conceptes-clau",
+      "title": "Conceptes Clau i Definicions",
+      "level": 1,
+      "content": [
+        {
+          "type": "subsection",
+          "title": "Definició d'Acte Administratiu",
+          "items": [
+            {
+              "type": "definition",
+              "term": "Acte administratiu",
+              "details": [
+                "Tota declaració unilateral de voluntat, judici, coneixement o desig, realitzada per una Administració Pública en l'exercici d'una potestat administrativa diferent de la potestat ==reglament==ària",
+                "Produeix efectes jurídics concrets: crea, modifica o extingeix drets i obligacions de manera unilateral i executiva",
+                "Exemple: la resolució d'un departament d'urbanisme que concedeix una llicència d'edificació és una declaració de voluntat que crea un dret per al promotor"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "Diferenciació amb Altres Figures",
+          "items": [
+            {
+              "type": "definition",
+              "term": "Actuacions materials",
+              "details": [
+                "Operacions tècniques o físiques sense caràcter de declaració jurídica",
+                "Exemple: La inspecció física d'una obra no és un acte administratiu, però l'acta d'inspecció que ordena mesures correctores sí que ho és"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "reglaments",
+              "details": [
+                "Normes de caràcter general que innoven l'ordenament jurídic",
+                "L'acte administratiu aplica aquestes normes a un cas concret"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "Classes d'Actes Administratius",
+          "items": [
+            "La classificació dels actes és fonamental per entendre'n el règim jurídic aplicable:",
+            {
+              "type": "definition",
+              "term": "Pels seus efectes sobre l'interessat",
+              "details": [
+                "Favorables o declaratius de drets: Amplien l'esfera jurídica del ciutadà. Exemples: concessió d'una llicència, autorització o subvenció",
+                "De gravamen: Restringeixen drets o imposen obligacions. Exemples: ordre de demolició, multa per infracció urbanística, denegació d'una llicència"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Per la seva forma d'expressió",
+              "details": [
+                "Expressos: Es manifesten de forma explícita, normalment per escrit",
+                "Tàcits (o presumptes): Són conseqüència del silenci administratiu. La regla general en procediments iniciats per l'interessat és el silenci positiu (estimatori), però amb excepcions importants. En procediments iniciats d'ofici susceptibles de reconèixer drets, el silenci és negatiu (desestimatori)"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Per la seva posició en el procediment",
+              "details": [
+                "Actes de tràmit: Impulsen el procediment però no resolen el fons de l'assumpte. Exemples: requeriment de documentació, informe tècnic, proposta de resolució. Com a regla general, no són recurribles de manera separada",
+                "Actes resolutoris (o definitius): Posen fi al procediment, decidint sobre el fons. Poden ser definitius en via administrativa o no, depenent de si esgoten les possibilitats de recurs davant la mateixa Administració"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Pels seus destinataris",
+              "details": [
+                "Singulars o particulars: Es dirigeixen a una persona o col·lectiu concret i identificat. Exemple: notificació al propietari de la finca X perquè repari la tanca",
+                "Generals: Es dirigeixen a una pluralitat indeterminada de subjectes que compleixen una condició. Exemple: convocatòria d'un concurs-oposició per a places d'arquitecte tècnic"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "estructura",
+      "title": "Estructura i Esquemes",
+      "level": 1,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "El cicle de vida de l'acte administratiu segueix una seqüència lògica de requisits i efectes que funciona com un sistema de garanties per al ciutadà. Cada fase és un requisit previ per a la següent; una fallada en una etapa invalida les posteriors."
+        },
+        {
+          "type": "subsection",
+          "title": "Fases del Cicle de Vida de l'Acte Administratiu",
+          "items": [
+            {
+              "type": "definition",
+              "term": "① Producció (Arts. 34-36)",
+              "details": [
+                "L'acte neix",
+                "És dictat per l'òrgan competent, amb un contingut lícit i una forma determinada (generalment, escrita i electrònica)",
+                "Si la llei ho exigeix, ha d'estar motivat"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "② Eficàcia (Art. 39)",
+              "details": [
+                "L'acte comença a produir efectes jurídics",
+                "Com a regla general, des de la data en què es dicta",
+                "La seva exigibilitat pràctica depèn del pas següent"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "③ Notificació o Publicació (Arts. 40-46)",
+              "details": [
+                "L'acte es comunica a l'interessat",
+                "Aquest pas és crucial: activa l'executivitat de l'acte i inicia el còmput de terminis per interposar recursos",
+                "Una notificació incorrecta impedeix que l'acte pugui ser executat forçosament"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "④ Presumpció de Validesa i Executivitat",
+              "details": [
+                "Un cop notificat, l'acte es presumeix vàlid i és executiu",
+                "L'Administració pot exigir-ne el compliment"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "⑤ Via de Compliment",
+              "details": [
+                "Compliment voluntari: El destinatari acata l'acte",
+                "Incompliment: L'Administració pot activar els mitjans d'execució forçosa (constrenyiment sobre el patrimoni, execució subsidiària, etc.) [Arts. 99-100]"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "⑥ Via d'Invalidesa",
+              "details": [
+                "Si l'acte pateix un vici, pot ser invàlid",
+                "Vici de nul·litat (Art. 47): El defecte és tan greu que l'acte es considera inexistent des del seu origen",
+                "Vici d'anul·labilitat (Art. 48): El defecte és menys greu. L'acte és vàlid fins que no es declara la seva anul·lació i pot ser 'sanat'"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "⑦ Sanació (Arts. 50-52)",
+              "details": [
+                "Si l'acte és anul·lable, es poden aplicar tècniques com la convalidació, la conservació o la conversió per mantenir-ne la validesa i els efectes",
+                "En aplicació del principi d'economia processal"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "principis",
+      "title": "Principis i Regles",
+      "level": 1,
+      "content": [
+        {
+          "type": "subsection",
+          "title": "Requisits de Validesa (Arts. 34, 36)",
+          "items": [
+            "Producció: Els actes els produeix l'òrgan competent seguint el procediment establert",
+            "Contingut: Ha de ser lícit, possible, determinat i adequat a la seva finalitat. Una ordre de construir en ==sòl no urbanitzable== de protecció especial tindria un contingut impossible",
+            "Forma: La regla general és la forma escrita per mitjans electrònics"
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "Motivació (Art. 35)",
+          "items": [
+            "Regla: L'acte ha d'incloure una referència succinta als fets i fonaments de dret que el justifiquen",
+            {
+              "type": "definition",
+              "term": "Obligatorietat de la motivació",
+              "details": [
+                "Actes que limitin drets subjectius o interessos legítims (ex: denegar una llicència, ordenar una demolició)",
+                "Actes que resolguin recursos, procediments de revisió d'ofici o reclamacions",
+                "Actes que se separin del criteri seguit en actuacions precedents",
+                "Acords de tramitació d'urgència o d'ampliació de terminis",
+                "Actes discrecionals",
+                "Actes que resolguin procediments sancionadors (ex: multa per obra il·legal)"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "Eficàcia i Executivitat (Arts. 38, 39)",
+          "items": [
+            {
+              "type": "definition",
+              "term": "Eficàcia (Art. 39)",
+              "details": [
+                "Els actes es presumeixen vàlids i produeixen efectes des de la data en què es dicten, llevat que s'hi disposi una altra cosa",
+                "L'eficàcia dels actes de gravamen, però, queda demorada fins a la notificació"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Executivitat (Art. 38)",
+              "details": [
+                "Els actes que estableixen una obligació són immediatament executius",
+                "Això significa que l'Administració pot imposar el seu compliment pels seus propis mitjans (autotutela executiva), sense necessitat d'autorització judicial prèvia"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "Inderogabilitat Singular (Art. 37)",
+          "items": [
+            "Les resolucions administratives de caràcter particular no poden vulnerar el que estableix una disposició de caràcter general, encara que les dicti un òrgan de rang igual o superior",
+            "Una llicència d'obres no pot contradir el ==pla general== d'ordenació urbana municipal"
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "Notificació i Publicació (Arts. 40-46)",
+          "items": [
+            "Regla: Tot acte que afecti drets o interessos ha de ser notificat als interessats. La notificació s'ha d'expedir en el termini de 10 dies des que es dicta l'acte",
+            {
+              "type": "definition",
+              "term": "Contingut de la notificació (Art. 40)",
+              "details": [
+                "Ha d'incloure el text íntegre de la resolució",
+                "La indicació de si posa fi o no a la via administrativa",
+                "Els recursos que s'hi poden interposar, l'òrgan davant el qual s'han de presentar i el termini per fer-ho",
+                "Una notificació amb contingut incomplet és defectuosa"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Pràctica de la notificació (Arts. 41-43)",
+              "details": [
+                "Preferentment per mitjans electrònics per als subjectes obligats (persones jurídiques, professionals col·legiats, etc.)",
+                "Per a les persones físiques, la notificació en paper és la via per defecte, llevat que triïn la via electrònica",
+                "Les notificacions en paper requereixen dos intents en hores diferents si el primer resulta infructuós"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Publicació (Art. 45)",
+              "details": [
+                "Substitueix la notificació individual quan els destinataris són una pluralitat indeterminada de persones",
+                "Quan es tracta d'un acte integrant d'un procediment selectiu o de concurrència competitiva",
+                "Quan una norma ho estableixi",
+                "Exemple: els resultats d'una oposició es publiquen en un diari oficial"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "invalidesa",
+      "title": "Procediment i Aplicació Administrativa: La Invalidesa",
+      "level": 1,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Els actes administratius es presumeixen vàlids. Aquesta presumpció només es pot destruir mitjançant la declaració d'invalidesa, que pot presentar dos graus de gravetat: la nul·litat de ple dret i l'anul·labilitat."
+        },
+        {
+          "type": "subsection",
+          "title": "Causes de Nul·litat de Ple Dret (Art. 47)",
+          "items": [
+            "Són una llista tancada (numerus clausus) per als vicis més greus:",
+            {
+              "type": "list",
+              "items": [
+                "a) Els que lesionin drets i llibertats susceptibles d'empara constitucional",
+                "b) Els dictats per un òrgan manifestament incompetent per raó de la matèria o del territori. ATENCIÓ: la incompetència per raó de jerarquia és només causa d'anul·labilitat",
+                "c) Els que tinguin un contingut impossible",
+                "d) Els que siguin constitutius d'infracció penal o es dictin com a conseqüència d'aquesta",
+                "e) Els dictats prescindint totalment i absolutament del procediment legalment establert",
+                "f) Els actes expressos o presumptes contraris a l'ordenament jurídic pels quals s'adquireixen facultats o drets si no es tenen els requisits essencials per adquirir-los",
+                "g) Qualsevol altre que s'estableixi expressament en una disposició amb rang de llei"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "label": "Exemple de Nul·litat de Ple Dret",
+          "text": "Un Ajuntament aprova una ordenança que regula la seguretat aèria (incompetència manifesta per raó de la matèria)."
+        },
+        {
+          "type": "subsection",
+          "title": "Causes d'Anul·labilitat (Art. 48)",
+          "items": [
+            "És la regla general: qualsevol infracció de l'ordenament jurídic, inclosa la desviació de poder, que no sigui causa de nul·litat de ple dret, constitueix una causa d'anul·labilitat",
+            "Exemples típics són els defectes de forma que causen indefensió o la manca de motivació"
+          ]
+        },
+        {
+          "type": "example",
+          "label": "Exemple d'Anul·labilitat",
+          "text": "Una resolució sancionadora per una obra il·legal dictada sense el tràmit d'audiència previ a l'interessat (defecte de procediment que causa indefensió)."
+        }
+      ]
+    },
+    {
+      "id": "tecniques-sanadores",
+      "title": "Tècniques Sanadores",
+      "level": 1,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Aquestes tècniques responen al principi de conservació dels actes i d'economia processal."
+        },
+        {
+          "type": "subsection",
+          "title": "Conversió (Art. 50)",
+          "items": [
+            "Els actes nuls o anul·lables que continguin els elements constitutius d'un altre acte diferent i vàlid, produeixen els efectes d'aquest últim",
+            "Exemple: l'Administració intenta atorgar una concessió (invàlida) quan legalment només pot donar una autorització. Si l'acte conté tots els requisits de l'autorització, es converteix en aquesta"
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "Conservació (Art. 51)",
+          "items": [
+            "L'òrgan que declara la nul·litat o anul·la les actuacions ha de disposar sempre la conservació dels actes i tràmits el contingut dels quals s'hauria mantingut igual si no s'hagués comès la infracció",
+            "Exemple: s'anul·la una llicència per un vici en la resolució final, però es conserven els informes tècnics i el període d'informació pública que es van fer correctament"
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "Convalidació (Art. 52)",
+          "items": [
+            "L'Administració pot subsanar els vicis dels actes anul·lables (mai dels nuls)",
+            "Regla: L'acte de convalidació produeix efectes des de la seva data, no amb caràcter retroactiu, excepte en supòsits taxats",
+            {
+              "type": "definition",
+              "term": "Supòsits específics de convalidació",
+              "details": [
+                "Si el vici és d'incompetència no determinant de nul·litat (ex: jeràrquica), l'òrgan competent superior pot convalidar l'acte",
+                "Si el vici consisteix en la manca d'una autorització preceptiva, l'acte es pot convalidar atorgant aquesta autorització"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "normativa",
+      "title": "Normativa Essencial",
+      "level": 1,
+      "content": [
+        {
+          "type": "list",
+          "items": [
+            "LPACAP: Llei 39/2015, d'1 d'octubre, del procediment administratiu comú de les administracions públiques",
+            "LRJSP: Llei 40/2015, d'1 d'octubre, de règim jurídic del sector públic",
+            "CE: Constitució Espanyola de 1978 (especialment arts. 103 i 106)",
+            "Legislació autonòmica i local: Lleis urbanístiques autonòmiques i ordenances municipals, que estableixen el marc substantiu per als actes que dicta un arquitecte tècnic"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "exemples-casos",
+      "title": "Exemples i Casos",
+      "level": 1,
+      "content": [
+        {
+          "type": "example",
+          "label": "Exemple (test): Incompetència jeràrquica",
+          "text": "Un acte dictat per un regidor que és incompetent per jerarquia, però dins de l'àmbit material correcte, és:\na) Nul de ple dret\nb) Anul·lable ✓\nc) Irregular no invalidant\nd) Inexistent\n\nResposta correcta: b) Anul·lable, ja que la incompetència jeràrquica és un vici subsanable i no una de les causes de nul·litat taxades a l'art. 47"
+        },
+        {
+          "type": "example",
+          "label": "Micro-cas 1: Manca de motivació",
+          "text": "Una Administració denega una llicència de primera ocupació al·legant 'incompliment del projecte', sense especificar les desviacions concretes. El promotor recorre la decisió. Quin és el principal argument jurídic de la impugnació?\n\nOrientació de resposta: L'argument principal és la manca de motivació (Art. 35 LPACAP). L'acte és de gravamen (limita el dret d'ús de la propietat) i la motivació és genèrica, sense concretar els fets i fonaments de dret. Això constitueix una causa d'anul·labilitat (Art. 48 LPACAP) perquè genera indefensió a l'interessat, que no pot conèixer les raons exactes per defensar-se."
+        },
+        {
+          "type": "example",
+          "label": "Micro-cas 2: Notificació defectuosa",
+          "text": "Un ajuntament dicta una ordre de demolició d'una estructura il·legal. La notificació s'envia al domicili del propietari i la rep i signa un familiar de 13 anys. El propietari no compleix l'ordre i l'ajuntament inicia l'execució forçosa. Pot el propietari oposar-se a l'execució?\n\nOrientació de resposta: Sí. La notificació és defectuosa. Segons l'article 42.2 de la LPACAP, qualsevol persona major de 14 anys que es trobi al domicili pot rebre la notificació. Com que el receptor tenia 13 anys, la notificació no es va practicar correctament. Aquest defecte fa que l'acte no sigui eficaç davant del propietari i impedeix l'inici legal del procediment d'execució forçosa, que requereix una notificació prèvia vàlida. El propietari pot impugnar els actes d'execució basant-se en la invalidesa del requisit previ de la notificació."
+        }
+      ]
+    },
+    {
+      "id": "errors-mnemo",
+      "title": "Errors Típics i Mnemotècnies",
+      "level": 1,
+      "content": [
+        {
+          "type": "subsection",
+          "title": "Mnemotècnia per a les causes de Nul·litat (Art. 47.1)",
+          "items": [
+            "CO-CO-CO PRO-DRET:",
+            "• CO-nstitució (lesionen ==drets fonamentals==)",
+            "• CO-mpetència (òrgan manifestament incompetent)",
+            "• CO-ntingut (impossible)",
+            "• PRO-cediment (omissió total i absoluta)",
+            "• DRET (actes contraris a l'ordenament que atorguen drets sense requisits essencials)",
+            "• (I els actes constitutius d'infracció penal)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glossari",
+      "title": "Glossari Mínim",
+      "level": 1,
+      "content": [
+        {
+          "type": "subsection",
+          "title": "Termes Fonamentals",
+          "items": [
+            {
+              "type": "definition",
+              "term": "Acte Ferm",
+              "details": [
+                "Acte administratiu contra el qual ja no es pot interposar cap recurs ordinari en via administrativa"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Autotutela Administrativa",
+              "details": [
+                "Prerrogativa de l'Administració per dictar actes que creen obligacions (autotutela declarativa)",
+                "I per executar-los pels seus propis mitjans sense intervenció judicial prèvia (autotutela executiva)"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Desviació de Poder",
+              "details": [
+                "L'exercici de potestats administratives per a una finalitat diferent de la que estableix l'ordenament jurídic",
+                "És una causa d'anul·labilitat"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Indefensió",
+              "details": [
+                "Situació en què una part d'un procediment es veu privada de la possibilitat d'al·legar i provar els seus drets",
+                "Generalment per un vici procedimental (manca de notificació, d'audiència, etc.)"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "resum",
+      "title": "Resum Final",
+      "level": 1,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "L'acte administratiu és la declaració de voluntat unilateral de l'Administració que crea efectes jurídics, sent l'eina clau en l'àmbit de l'arquitectura tècnica (llicències, sancions). La seva validesa depèn del compliment de requisits de competència, contingut, forma i, en casos clau, motivació (Art. 35)."
+        },
+        {
+          "type": "paragraph",
+          "text": "L'acte és eficaç des que es dicta, però la seva executivitat (força per a ser complert) requereix una notificació vàlida (Arts. 38-40). Els vicis o defectes en l'acte generen la seva invalidesa, que pot ser de dos graus: la nul·litat de ple dret (vicis molt greus, insubsanables, Art. 47) o l'anul·labilitat (regla general per a altres infraccions, subsanable, Art. 48)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Per salvar els actes anul·lables, la Llei 39/2015 preveu tècniques sanadores com la convalidació, la conservació i la conversió, basades en el principi d'economia processal."
+        }
+      ]
+    },
+    {
+      "id": "bloc-examen",
+      "title": "Bloc d'Examen",
+      "level": 1,
+      "content": [
+        {
+          "type": "example",
+          "label": "Micro-cas pràctic: Notificació defectuosa i execució forçosa",
+          "text": "Cas: L'Ajuntament de 'Vilaurbana' notifica al propietari d'un edifici una ordre d'execució per reparar la façana, donant-li un termini de 2 mesos. La notificació no inclou informació sobre els recursos que es poden interposar contra l'acte. El propietari no realitza les obres i, passats 3 mesos, l'Ajuntament li notifica l'inici d'un procediment d'execució subsidiària a la seva costa.\n\nPunts clau de resolució:\n• Anàlisi de l'acte inicial: L'ordre d'execució és un acte de gravamen que ha de ser notificat correctament per ser eficaç i executiu\n• Identificació del vici: La notificació és defectuosa segons l'article 40.2 de la LPACAP, ja que omet un ==contingut essencial==: la indicació dels recursos procedents, l'òrgan davant el qual s'han de presentar i el termini per interposar-los\n• Conseqüències del vici: Aquest defecte de forma pot causar indefensió i, per tant, és una causa d'anul·labilitat de l'acte (Art. 48). A més, segons l'article 40.3, una notificació defectuosa no produeix efectes (no comencen a córrer els terminis per complir ni per recórrer) fins que l'interessat realitzi actuacions que suposin el coneixement del contingut i abast de la resolució, o interposi el recurs pertinent\n• Improcedència de l'execució forçosa: Com que la notificació inicial era defectuosa i no va produir plens efectes, l'acte no era eficaç ni executiu contra el propietari. Per tant, l'Ajuntament no podia iniciar legalment el procediment d'execució subsidiària. El propietari pot impugnar l'acord d'inici de l'execució subsidiària al·legant el vici en la notificació de l'acte original"
+        }
+      ]
+    }
+  ]
+}

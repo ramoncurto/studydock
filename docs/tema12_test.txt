@@ -1,0 +1,349 @@
+Q: Què és el pressupost general de l'entitat local?
+- Un document trimestral que preveu els ingressos
+- Un document anual que preveu els ingressos i autoritza les despeses d'una entitat local per a un exercici
+- Un document plurianual que estableix les inversions
+- Un document mensual de control de despeses
+A: Un document anual que preveu els ingressos i autoritza les despeses d'una entitat local per a un exercici
+
+Q: Amb quin període temporal coincideix l'exercici pressupostari?
+- Amb l'any fiscal (abril a març)
+- Amb l'any natural (1 de gener a 31 de desembre)
+- Amb el mandat municipal (4 anys)
+- Amb el semestre natural
+A: Amb l'any natural (1 de gener a 31 de desembre)
+
+Q: Quin principi pressupostari estableix que el pressupost regeix únicament per a un exercici anual?
+- Principi d'universalitat
+- Principi d'estabilitat
+- Principi d'annualitat
+- Principi d'especialitat
+A: Principi d'annualitat
+
+Q: Segons el principi d'unitat i universalitat, què ha de fer l'ens local?
+- Formular diversos pressuposts per a cada departament
+- Formular un únic pressupost general que inclogui la totalitat de les despeses i ingressos
+- Separar els pressuposts d'ingressos i despeses
+- Crear pressuposts independents per a cada any
+A: Formular un únic pressupost general que inclogui la totalitat de les despeses i ingressos
+
+Q: Què implica el principi de no-afectació dels recursos?
+- Que tots els ingressos han de ser específics
+- Que els recursos ordinaris financen el conjunt de despeses, excepte ingressos amb destinació específica per llei
+- Que cap ingrés pot destinar-se a despeses
+- Que tots els ingressos s'han d'afectar a inversions
+A: Que els recursos ordinaris financen el conjunt de despeses, excepte ingressos amb destinació específica per llei
+
+Q: Què exigeix el principi d'equilibri pressupostari?
+- Que hi hagi sempre superàvit
+- Que el pressupost inicial no presenti dèficit
+- Que les despeses superin els ingressos
+- Que no hi hagi crèdits de despesa
+A: Que el pressupost inicial no presenti dèficit
+
+Q: Segons la LOEPSF, quin objectiu s'imposa a les entitats locals?
+- Objectiu de dèficit controlat
+- Objectiu d'estabilitat pressupostària (superàvit o equilibri estructural)
+- Objectiu de creixement il·limitat de despesa
+- Objectiu de deute màxim del 200%
+A: Objectiu d'estabilitat pressupostària (superàvit o equilibri estructural)
+
+Q: Què estableix el principi d'especialitat quantitativa del pressupost?
+- Que es poden superar els crèdits aprovats
+- Que cap partida de despesa pot excedir el seu crèdit inicial o modificat
+- Que tots els crèdits han de ser iguals
+- Que no hi ha límit de despesa
+A: Que cap partida de despesa pot excedir el seu crèdit inicial o modificat
+
+Q: Què indica l'especialitat qualitativa dels crèdits pressupostaris?
+- Que els crèdits tenen molta qualitat
+- Que els crèdits només es poden emprar en despeses de la natura i propòsit indicats
+- Que tots els crèdits són equivalents
+- Que es poden intercanviar lliurement
+A: Que els crèdits només es poden emprar en despeses de la natura i propòsit indicats
+
+Q: Quantes classificacions principals inclou l'estructura pressupostària?
+- Una: la econòmica
+- Dues: orgànica i econòmica
+- Tres: orgànica, per programes i econòmica
+- Quatre: orgànica, funcional, econòmica i temporal
+A: Tres: orgànica, per programes i econòmica
+
+Q: Què indica la classificació orgànica del pressupost?
+- Per a què es gasta
+- Qui gasta
+- Què és cada apunt
+- Quan es gasta
+A: Qui gasta
+
+Q: Què indica la classificació per programes del pressupost?
+- Qui gasta
+- Per a què es gasta (àrees de despesa, polítiques i programes)
+- Què és cada apunt
+- Quan es gasta
+A: Per a què es gasta (àrees de despesa, polítiques i programes)
+
+Q: Què indica la classificació econòmica del pressupost?
+- Qui gasta
+- Per a què es gasta
+- Què és cada apunt (naturalesa econòmica)
+- Quan es gasta
+A: Què és cada apunt (naturalesa econòmica)
+
+Q: Quants capítols té la classificació econòmica del pressupost?
+- Cinc capítols
+- Set capítols
+- Nou capítols
+- Dotze capítols
+A: Nou capítols
+
+Q: Quins capítols de la classificació econòmica es consideren operacions corrents?
+- Capítols I-III
+- Capítols I-V
+- Capítols VI-IX
+- Tots els capítols
+A: Capítols I-V
+
+Q: Quin capítol de despeses correspon a "Despeses de personal"?
+- Capítol I
+- Capítol II
+- Capítol III
+- Capítol IV
+A: Capítol I
+
+Q: Quin capítol de despeses correspon a "Inversions reals"?
+- Capítol II
+- Capítol IV
+- Capítol VI
+- Capítol VIII
+A: Capítol VI
+
+Q: Què són les bases d'execució del pressupost?
+- Les lleis estatals que regulen el pressupost
+- La normativa interna aprovada conjuntament amb el pressupost que detalla regles d'aplicació
+- Els principis constitucionals del pressupost
+- Les instruccions del Ministeri d'Hisenda
+A: La normativa interna aprovada conjuntament amb el pressupost que detalla regles d'aplicació
+
+Q: Qui és l'òrgan que forma el projecte de pressupost?
+- El Ple municipal
+- La Intervenció
+- L'alcalde/essa o president de l'entitat local
+- El secretari municipal
+A: L'alcalde/essa o president de l'entitat local
+
+Q: Abans de quina data s'ha de remetre el projecte de pressupost al Ple?
+- 1 de setembre
+- 15 d'octubre
+- 30 de novembre
+- 31 de desembre
+A: 15 d'octubre
+
+Q: Quin òrgan és competent per a l'aprovació inicial del pressupost?
+- L'alcalde/essa
+- La Junta de Govern
+- El Ple de la corporació
+- La Intervenció municipal
+A: El Ple de la corporació
+
+Q: Quant de temps ha d'estar el pressupost aprovat inicialment exposat al públic?
+- 10 dies hàbils
+- 15 dies hàbils
+- 20 dies hàbils
+- 30 dies hàbils
+A: 15 dies hàbils
+
+Q: Què passa si no es presenta cap reclamació durant el període d'exposició pública?
+- S'ha de tornar a aprovar pel Ple
+- El pressupost s'entén definitivament aprovat sense necessitat d'un nou acord
+- S'ha de repetir el procés
+- S'ha d'enviar al govern central
+A: El pressupost s'entén definitivament aprovat sense necessitat d'un nou acord
+
+Q: Què passa si no s'aprova el pressupost abans de l'1 de gener?
+- No es pot gastar res
+- Es dissol la corporació
+- Queda prorrogat automàticament el pressupost de l'exercici anterior
+- S'aplica el pressupost de l'estat
+A: Queda prorrogat automàticament el pressupost de l'exercici anterior
+
+Q: Quin article del RD 500/1990 regula la pròrroga del pressupost?
+- Article 15
+- Article 18
+- Article 21
+- Article 25
+A: Article 21
+
+Q: Quina és la primera fase de la gestió de la despesa pressupostària?
+- Disposició
+- Autorització
+- Reconeixement de l'obligació
+- Pagament
+A: Autorització
+
+Q: Què és l'autorització de la despesa (fase A)?
+- L'acte de pagar al creditor
+- L'acte administratiu que aprova la realització d'una despesa concreta fins a un import determinat
+- L'acte de contractar amb un tercer
+- L'acte de reconèixer el dret del creditor
+A: L'acte administratiu que aprova la realització d'una despesa concreta fins a un import determinat
+
+Q: Què és la disposició o compromís de la despesa (fase D)?
+- L'aprovació inicial de la despesa
+- L'acte de contracció jurídica amb un tercer que compromet fons per una quantia concreta
+- El pagament al creditor
+- La fiscalització de la despesa
+A: L'acte de contracció jurídica amb un tercer que compromet fons per una quantia concreta
+
+Q: Què és el reconeixement de l'obligació (fase O)?
+- L'acte que aprova la despesa
+- L'acte administratiu que declara el dret exigible del creditor
+- L'acte de contractar
+- L'acte de pagar
+A: L'acte administratiu que declara el dret exigible del creditor
+
+Q: Quin acrònim ajuda a recordar les fases de la despesa?
+- A-B-C-D
+- A-D-O-P
+- P-O-D-A
+- D-A-P-O
+A: A-D-O-P
+
+Q: Quin òrgan exerceix la funció interventora o fiscalització prèvia?
+- L'alcalde/essa
+- El Ple
+- La Intervenció
+- La Tresoreria
+A: La Intervenció
+
+Q: Què pot fer la Intervenció si detecta objeccions en un acte de despesa?
+- No pot fer res
+- Pot suspendre o informar desfavorablement l'acte
+- Pot aprovar-lo igualment
+- Pot modificar-lo directament
+A: Pot suspendre o informar desfavorablement l'acte
+
+Q: Què és una transferència de crèdit?
+- Un pagament a un creditor
+- Un moviment de crèdit des d'una aplicació de despesa cap a una altra
+- Una subvenció rebuda
+- Un ingrés extraordinari
+A: Un moviment de crèdit des d'una aplicació de despesa cap a una altra
+
+Q: Què és un crèdit extraordinari?
+- Un crèdit bancari
+- Un augment del pressupost per atendre una actuació nova per a la qual no existia crèdit inicial
+- Una transferència entre partides
+- Un ingrés addicional
+A: Un augment del pressupost per atendre una actuació nova per a la qual no existia crèdit inicial
+
+Q: Quin òrgan aprova els crèdits extraordinaris?
+- L'alcalde/essa
+- La Junta de Govern
+- El Ple
+- La Intervenció
+A: El Ple
+
+Q: Què és un suplement de crèdit?
+- Un nou crèdit
+- Un augment d'una partida existent quan el crèdit inicial resulta insuficient
+- Una transferència de crèdit
+- Una reducció de crèdit
+A: Un augment d'una partida existent quan el crèdit inicial resulta insuficient
+
+Q: Amb què es pot finançar un crèdit extraordinari?
+- Només amb nous impostos
+- Amb romanent líquid de tresoreria, ingressos addicionals no previstos o anul·lació d'altres crèdits
+- Només amb préstecs
+- No es pot finançar
+A: Amb romanent líquid de tresoreria, ingressos addicionals no previstos o anul·lació d'altres crèdits
+
+Q: Què és la generació de crèdit?
+- Crear un nou impost
+- Increment del pressupost de despeses finançat per ingressos específics no previstos inicialment
+- Una transferència entre partides
+- Una reducció de despesa
+A: Increment del pressupost de despeses finançat per ingressos específics no previstos inicialment
+
+Q: Què és la incorporació de romanents?
+- Gastar tot el pressupost
+- Afegir al pressupost actual crèdits que van quedar pendents en tancar l'exercici anterior
+- Crear nous crèdits
+- Reduir el pressupost
+A: Afegir al pressupost actual crèdits que van quedar pendents en tancar l'exercici anterior
+
+Q: Què és el resultat pressupostari?
+- El total d'ingressos
+- La diferència entre drets liquidats i obligacions reconegudes
+- El total de despeses
+- El deute acumulat
+A: La diferència entre drets liquidats i obligacions reconegudes
+
+Q: Què indica un romanent de tresoreria positiu?
+- Que hi ha dèficit
+- Que hi ha estalvi acumulat no gastat que es pot destinar al finançament de nous crèdits
+- Que hi ha deute
+- Que no hi ha fons disponibles
+A: Que hi ha estalvi acumulat no gastat que es pot destinar al finançament de nous crèdits
+
+Q: Què exigeix un romanent de tresoreria negatiu?
+- Celebració immediata
+- Mesures de sanejament
+- Nous impostos automàtics
+- Dissolució de la corporació
+A: Mesures de sanejament
+
+Q: Quin percentatge màxim d'endeutament municipal estableix la normativa?
+- 75% dels ingressos corrents
+- 100% dels ingressos corrents
+- 110% dels ingressos corrents
+- 150% dels ingressos corrents
+A: 110% dels ingressos corrents
+
+Q: Quin òrgan de control extern fiscalitza els comptes anuals dels ajuntaments?
+- El Ministeri d'Hisenda
+- La Sindicatura de Comptes o el Tribunal de Cuentas
+- La Diputació Provincial
+- El Congrés dels Diputats
+A: La Sindicatura de Comptes o el Tribunal de Cuentas
+
+Q: Què és el Compte General?
+- El pressupost inicial
+- Els comptes anuals que es remeten a l'òrgan de control extern
+- Una transferència de crèdit
+- Un ingrés extraordinari
+A: Els comptes anuals que es remeten a l'òrgan de control extern
+
+Q: Què és el crèdit pressupostari?
+- Un préstec bancari
+- Import màxim autoritzat en el pressupost per atendre una determinada finalitat de despesa
+- Un ingrés previst
+- Una subvenció rebuda
+A: Import màxim autoritzat en el pressupost per atendre una determinada finalitat de despesa
+
+Q: Tenen caràcter limitatiu els crèdits pressupostaris?
+- No, es poden superar lliurement
+- Sí, no es pot gastar més de l'import aprovat ni destinar-lo a una finalitat diferent sense tramitar una modificació
+- Només en despeses de personal
+- Només en inversions
+A: Sí, no es pot gastar més de l'import aprovat ni destinar-lo a una finalitat diferent sense tramitar una modificació
+
+Q: Quin és el contingut del pressupost general de l'entitat local?
+- Només despeses
+- Només ingressos
+- Els estats d'ingressos i despeses, bases d'execució i annexos
+- Només inversions
+A: Els estats d'ingressos i despeses, bases d'execució i annexos
+
+Q: Què inclou la documentació annexa del pressupost?
+- Només el resum per capítols
+- El Pla d'inversions plurianual, estat de deute i estat de consolidació pressupostària
+- Només les bases d'execució
+- Només l'estat d'ingressos
+A: El Pla d'inversions plurianual, estat de deute i estat de consolidació pressupostària
+
+Q: Quin principi pressupostari NO s'aplica als pressupostos de les entitats locals?
+- L'annualitat
+- L'estabilitat pressupostària i sostenibilitat financera
+- La unitat i universalitat pressupostària
+- La gratuïtat
+A: La gratuïtat

@@ -1,0 +1,143 @@
+2. Drets i deures fonamentals dels espanyols i les seves garanties.
+
+1) Conceptes clau i definicions
+
+Dret Fonamental: És un dret subjectiu de naturalesa pública, inherent a la dignitat de la persona (art. 10.1 CE), que atorga al seu titular un poder jurídic per exigir una determinada conducta (acció o omissió) als poders públics.1 La seva principal característica és l'eficàcia directa i immediata, és a dir, són directament aplicables sense necessitat de desenvolupament legislatiu per ser efectius.
+Contingut Essencial: Aquest concepte, recollit a l'article 53.1 CE, representa el nucli irreductible d'un dret fonamental, aquell conjunt de facultats o possibilitats d'actuació sense les quals el dret perd la seva identitat i es desnaturalitza.4 És una garantia absoluta davant del legislador, que pot regular l'exercici del dret però mai buidar-lo de contingut. El Tribunal Constitucional ha establert dues vies complementàries per identificar-lo: analitzar la naturalesa jurídica del dret i identificar els interessos que protegeix per fer-lo recognoscible.5
+Reserva de Llei: És una tècnica constitucional que exigeix que determinades matèries, especialment la regulació de l'exercici dels drets i llibertats, només puguin ser regulades per una norma amb rang de llei, aprovada pel Parlament.3 Això impedeix que el poder executiu, mitjançant reglaments, pugui limitar aquests drets, assegurant així el principi de legitimitat democràtica. La reserva pot ser de Llei Orgànica (per als drets de la Secció 1a del Capítol II) o de Llei Ordinària (per a la resta de drets del Capítol II).
+Principi de Proporcionalitat: Tot i no estar explícitament formulat a la Constitució, el Tribunal Constitucional l'ha consolidat com un principi general del Dret derivat de la clàusula de l'Estat de Dret (art. 1.1 CE) i del valor superior de la justícia.8 S'utilitza per avaluar la constitucionalitat de qualsevol mesura restrictiva de drets fonamentals. Aquest control exigeix superar un triple test 10:
+Judici d'idoneïtat: La mesura ha de ser adequada per aconseguir la finalitat legítima que es persegueix.
+Judici de necessitat: No ha d'existir una altra mesura menys restrictiva per al dret que permeti assolir el mateix objectiu amb igual eficàcia.
+Judici de proporcionalitat en sentit estricte: La mesura ha de ser ponderada o equilibrada, de manera que els beneficis que se n'obtenen per a l'interès general siguin superiors als perjudicis que causa sobre el dret fonamental afectat.
+
+2) Estructura / Esquemes
+
+El Títol I de la Constitució ("Dels drets i deures fonamentals") s'estructura en cinc capítols que organitzen jeràrquicament els drets i les seves garanties.12
+Article 10: Actua com a pòrtic del Títol. El seu apartat 1 estableix que la dignitat de la persona, els drets inviolables que li són inherents i el lliure desenvolupament de la personalitat són el fonament de l'ordre polític i la pau social. L'apartat 2 és una clàusula clau d'interpretació: tots els drets i llibertats s'han d'interpretar de conformitat amb la Declaració Universal de Drets Humans i els tractats internacionals ratificats per Espanya.14
+Capítol I (Arts. 11-13): "Dels espanyols i els estrangers". Regula la nacionalitat, la majoria d'edat i el règim de drets dels estrangers.
+Capítol II (Arts. 14-38): "Drets i llibertats". És el catàleg principal de drets i es divideix en:
+Article 14: Principi d'igualtat davant la llei, sense discriminació. Es troba aïllat per la seva importància transversal.7
+Secció 1a (Arts. 15-29): "Dels drets fonamentals i de les llibertats públiques". Inclou el nucli dur de drets civils i polítics (dret a la vida, llibertat ideològica, dret a l'honor, llibertat d'expressió, dret de reunió, associació, tutela judicial efectiva, etc.).1 Gaudeixen del màxim nivell de protecció.
+Secció 2a (Arts. 30-38): "Dels drets i deures dels ciutadans". Recull drets i deures com el de defensar Espanya, el deure de contribuir a les despeses públiques, el dret a contraure matrimoni, el dret a la propietat privada i la llibertat d'empresa.1 Tenen un nivell de protecció estàndard.
+Capítol III (Arts. 39-52): "Dels principis rectors de la política social i econòmica". Conté mandats als poders públics per promoure condicions favorables al progrés social i econòmic (protecció de la família, dret a la salut, dret a un habitatge digne, defensa dels consumidors, etc.).1 No són drets directament exigibles.
+Capítol IV (Arts. 53-54): "De les garanties de les llibertats i drets fonamentals". És el pilar del sistema de protecció.
+Capítol V (Art. 55): "De la suspensió dels drets i llibertats". Regula els supòsits excepcionals (estats d'alarma, excepció i setge) en què alguns drets poden ser suspesos.
+La següent taula sintetitza el sistema de garanties, una eina essencial per a l'estudi:
+Taula 1: Nivells de Garantia dels Drets i Llibertats (Títol I CE)
+Categoria de Dret (Articles CE)
+Vinculació Poders Públics
+Regulació (Reserva de Llei)
+Protecció Judicial
+Recurs d'Empara (TC)
+Reforma Constitucional
+Art. 14 i Secció 1a (15-29) + Art. 30.2
+Directa i immediata (Art. 53.1)
+Llei Orgànica (Art. 81)
+Procediment preferent i sumari (Art. 53.2)
+Sí (Art. 53.2)
+Agreujada (Art. 168)
+Secció 2a (30-38, excepte 30.2)
+Directa i immediata (Art. 53.1)
+Llei Ordinària (Art. 53.1)
+Procediment ordinari
+No
+Ordinària (Art. 167)
+Capítol III (39-52)
+Informen la legislació, pràctica judicial i actuació dels poders públics
+Depèn de la llei que els desenvolupi
+Al·legables segons les lleis que els desenvolupin (Art. 53.3)
+No
+Ordinària (Art. 167)
+
+Aquesta taula no és només un resum de regles, sinó un mapa del sistema de valors constitucionals. Els drets de la primera fila representen el pacte democràtic fonamental de 1978, motiu pel qual la seva modificació requereix el procediment de reforma més rígid possible, incloent la dissolució de les Corts i un referèndum.18 La reserva de Llei Orgànica assegura que la seva regulació només es pot fer amb un ampli consens parlamentari. Per a un arquitecte tècnic, aquesta jerarquia és crucial: la inviolabilitat del domicili (art. 18.2, Secció 1a) té una protecció molt superior al dret de propietat (art. 33, Secció 2a), una distinció clau en procediments d'inspecció o expropiació.
+
+3) Principis / Regles
+
+Eficàcia Directa: Els drets reconeguts al Capítol II (arts. 14-38) vinculen tots els poders públics de manera immediata, sense que calgui una llei que els desenvolupi per poder ser invocats i aplicats (art. 53.1 CE).3 Això els diferencia dels principis rectors del Capítol III.
+Interpretació Conforme al Dret Internacional: L'article 10.2 CE estableix una clàusula d'obertura a l'ordenament internacional de drets humans. Això significa que la jurisprudència del Tribunal Europeu de Drets Humans, per exemple, és una eina interpretativa fonamental per determinar l'abast dels drets reconeguts a la Constitució espanyola.14
+Límits als Drets: Cap dret és absolut. L'exercici dels drets fonamentals troba els seus límits en el respecte als drets dels altres i en la protecció de béns constitucionals com l'ordre públic, la seguretat o la salut pública.3 Qualsevol limitació ha de complir tres requisits: estar prevista per llei (reserva de llei), respectar el contingut essencial del dret i ser proporcionada a la finalitat perseguida.
+Funció Social de la Propietat: L'article 33.2 CE estableix que la funció social del dret a la propietat privada i a l'herència en delimitarà el contingut, d'acord amb les lleis.16 Aquest principi és la base constitucional que legitima la intervenció pública en l'àmbit de la propietat immobiliària. Permet a l'Administració, especialment a través de l'urbanisme i l'ordenació del territori, imposar deures, càrregues i limitacions als propietaris per tal d'adequar l'ús del sòl a l'interès general.19 La legislació urbanística, la classificació del sòl o la figura de l'expropiació forçosa són manifestacions directes d'aquesta funció social.
+
+4) Procediment i aplicació administrativa
+
+El sistema de garanties es materialitza en tres procediments principals:
+A. Tutela Judicial: Procediment Preferent i Sumari
+Objecte: Protecció dels drets reconeguts a l'article 14 i a la Secció 1a del Capítol II (arts. 15-29).13
+Característiques: És un procés judicial accelerat davant la jurisdicció ordinària (contenciosa-administrativa, laboral, civil o penal, segons la naturalesa de la vulneració). Es caracteritza per la seva tramitació prioritària sobre altres assumptes i per terminis més breus.
+Requisit Clau: És una via prèvia i obligatòria abans de poder acudir al Tribunal Constitucional. El principi de subsidiarietat del recurs d'empara exigeix haver esgotat tots els recursos judicials ordinaris.23
+B. Recurs d'Empara (Tribunal Constitucional)
+Objecte: És la darrera garantia interna per a la protecció dels drets més fonamentals (arts. 14-29 i 30.2) davant d'actes dels poders públics que els violin, un cop esgotada la via judicial ordinària.24
+Tipus (segons l'origen de la vulneració, regulats a la LOTC):
+Contra decisions parlamentàries sense valor de llei (art. 42 LOTC).
+Contra decisions governatives o administratives (art. 43 LOTC).
+Contra decisions judicials (art. 44 LOTC), que és el supòsit més habitual.25
+Procediment (Esquemàtic):
+Interposició: S'ha de presentar la demanda en un termini determinat (generalment, 30 dies hàbils des de la notificació de la darrera resolució judicial).23
+Admissió a Tràmit: El Tribunal realitza un judici d'admissibilitat molt estricte. Només admet a tràmit aquells recursos que justifiquin una "especial transcendència constitucional", és a dir, que el cas plantegi una qüestió nova o rellevant per a la interpretació de la Constitució.23
+Tramitació: Si s'admet, se sol·liciten les actuacions judicials i es dona trasllat a les parts i al Ministeri Fiscal perquè formulin al·legacions.
+Sentència: La sentència pot atorgar l'empara (declarar la nul·litat de l'acte, reconèixer el dret vulnerat i restablir el recurrent en la seva integritat) o denegar-la.25 Les seves decisions són definitives i tenen plens efectes.
+C. Defensor del Poble
+Naturalesa: És l'Alt Comissionat de les Corts Generals per a la defensa dels drets del Títol I. Actua amb independència i autonomia. No és un òrgan judicial; les seves resolucions no són sentències i no tenen força executiva, però gaudeixen d'una gran autoritat moral i política (auctoritas).27
+Funcions: Supervisa l'activitat de totes les administracions públiques (estatal, autonòmica i local).27 Està legitimat per interposar recursos d'inconstitucionalitat i d'empara.29
+Procediment de Queixa:
+Presentació: Qualsevol persona, sense necessitat d'advocat ni procurador, pot presentar una queixa per escrit. El tràmit és gratuït.32
+Investigació: Admesa la queixa, el Defensor del Poble s'adreça a l'administració implicada per demanar-li un informe. Totes les autoritats tenen l'obligació legal de col·laborar amb caràcter preferent i urgent.29
+Resolució: Si constata una actuació incorrecta, formula recomanacions, suggeriments o recordatoris de deures legals a l'administració perquè corregeixi la seva actuació. No pot anul·lar ni modificar actes administratius.29
+Informe Anual: Presenta un informe anual a les Corts Generals on detalla la seva activitat i pot assenyalar les administracions que no han col·laborat o no han acceptat les seves recomanacions.
+
+5) Normativa essencial
+
+CE: Constitución Española (1978). Text consolidat, darrera actualització 17/02/2024.12
+LOTC: Ley Orgánica 2/1979, de 3 de octubre, del Tribunal Constitucional.37
+LODP: Ley Orgánica 3/1981, de 6 de abril, del Defensor del Pueblo.29
+
+6) Exemples i casos
+
+Exemple (test): Un ciutadà considera que una nova llei autonòmica sobre habitatge vulnera el seu dret a la propietat (art. 33 CE). El recurs d'empara no és la via adequada per impugnar directament la llei, ja que el dret a la propietat no està inclòs en el nucli dur protegit per aquest recurs. La via correcta seria un recurs d'inconstitucionalitat (si es té legitimació) o impugnar un acte d'aplicació de la llei davant la jurisdicció ordinària i, si s'escau, plantejar una qüestió d'inconstitucionalitat.
+Micro-cas: Un arquitecte tècnic municipal, en l'exercici de les seves funcions, ordena l'entrada a un domicili privat per realitzar una inspecció d'obres sense el consentiment del titular ni una autorització judicial prèvia, al·legant una situació d'urgència no acreditada.
+Orientació de resposta: L'actuació vulnera el dret a la inviolabilitat del domicili (art. 18.2 CE), un dret fonamental de la Secció 1a. Aquest dret només cedeix davant el consentiment del titular, una resolució judicial o un delicte flagrant. L'arquitecte ha actuat ultra vires (més enllà de les seves competències). El titular de l'habitatge podria iniciar accions legals per la via penal i, si l'Administració no repara la vulneració, podria acudir a la tutela judicial preferent i sumària i, en darrer terme, al recurs d'empara.
+
+7) Errors típics i mnemotècnies
+
+Error Típic 1: Confondre els "Principis Rectors" (Capítol III) amb drets directament exigibles. Un ciutadà no pot demandar l'Estat per no proporcionar-li un habitatge basant-se només en l'article 47 CE. No obstant això, la recent STC 79/2024 ha matisat aquesta visió, reconeixent que el legislador estatal pot establir condicions bàsiques per garantir aquest dret, atorgant-li una nova dimensió.39
+Mnemotècnia: "Els Principis informen, no imposen directament una prestació."
+Error Típic 2: Creure que el recurs d'empara serveix per a qualsevol dret de la Constitució.
+Mnemotècnia: "L'empara és per al nucli dur: del 14 al 29 + l'objecció del 30."
+Error Típic 3: Pensar que el Defensor del Poble pot anul·lar un acte administratiu.
+Mnemotècnia: "El Defensor recomana, el jutge mana." El seu poder és persuasiu, no coercitiu.
+
+8) Glossari mínim
+
+Empara (Recurs d'): Procés constitucional davant el Tribunal Constitucional per a la protecció última dels drets fonamentals del nucli dur (arts. 14-29 i 30.2 CE) un cop esgotada la via judicial ordinària.
+Habeas Corpus: Procediment judicial especial i sumari previst a l'article 17.4 CE per a la posada a disposició judicial immediata de tota persona detinguda il·legalment.
+Tutela Judicial Efectiva: Dret fonamental (art. 24 CE) que garanteix a totes les persones l'accés als jutges i tribunals, a obtenir una resolució fundada en Dret, a l'execució d'aquesta resolució i a un procés amb totes les garanties, sense que es pugui produir indefensió.
+Resum final
+La Constitució Espanyola articula un sistema de protecció dels drets ciutadans que és alhora robust i jerarquitzat. El nivell de garantia atorgat a cada dret és directament proporcional a la seva importància dins de l'ordenament, creant una clara distinció entre un nucli de llibertats fonamentals amb protecció màxima (procediment judicial preferent, recurs d'empara, reserva de Llei Orgànica) i altres drets i principis amb una tutela estàndard o de caràcter programàtic. Dominar aquesta estructura escalonada i els procediments específics de cada nivell de garantia —des de la jurisdicció ordinària fins al Tribunal Constitucional, passant per la funció supervisora del Defensor del Poble— és imprescindible per comprendre els límits de l'actuació administrativa i els instruments de defensa del ciutadà.
+Bloc d’examen
+Preguntes tipus test
+Un Ajuntament denega una llicència d'obres al·legant una normativa urbanística. Si el sol·licitant considera que la decisió vulnera el seu dret a la propietat privada (art. 33 CE), quin mecanisme de protecció NO pot utilitzar directament per a aquest dret?
+a) Un recurs contenciós-administratiu davant els tribunals ordinaris.
+b) Una queixa davant el Defensor del Poble.
+c) Un recurs d'empara davant el Tribunal Constitucional.
+d) Sol·licitar la tutela judicial efectiva davant la jurisdicció ordinària.
+Resposta correcta: c). El dret a la propietat (art. 33) es troba a la Secció 2a del Capítol II i, per tant, no és susceptible de recurs d'empara.
+La regulació de l'exercici del dret de reunió (art. 21 CE) ha de fer-se mitjançant:
+a) Llei Ordinària.
+b) Decret Llei del Govern en cas d'urgent necessitat.
+c) Llei Orgànica.
+d) Reglament administratiu.
+Resposta correcta: c). L'article 81.1 CE estableix que el desenvolupament dels drets fonamentals i de les llibertats públiques (Secció 1a, on s'inclou l'art. 21) s'ha de fer per Llei Orgànica.
+El concepte de "contingut essencial" d'un dret fonamental (art. 53.1 CE) actua com a límit per a:
+a) Només el poder executiu.
+b) Només el poder judicial.
+c) Qualsevol poder públic, inclòs el legislador.
+d) Només els ciutadans en les seves relacions privades.
+Resposta correcta: c). El respecte al contingut essencial és una garantia que vincula tots els poders públics, i especialment el legislador, que no pot desnaturalitzar el dret en regular-ne l'exercici.
+Micro-cas pràctic
+Una associació de veïns comunica a la subdelegació del Govern la intenció de celebrar una manifestació pacífica en una plaça pública. La subdelegació prohibeix la manifestació argumentant "possibles molèsties al trànsit i al comerç local", sense aportar cap informe policial que justifiqui un risc real i fundat per a l'ordre públic. L'associació recorre la decisió davant la jurisdicció contenciosa-administrativa, però el tribunal confirma la prohibició.
+Punts clau de resolució:
+Dret vulnerat: S'ha vulnerat el dret de reunió i manifestació (art. 21 CE), que forma part del nucli dur de drets amb màxima protecció. La Constitució estableix que aquest dret només es pot prohibir per "raons fundades d'alteració de l'ordre públic, amb perill per a persones o béns", un estàndard molt més exigent que meres "molèsties".16
+Actuació administrativa: La decisió de la subdelegació sembla desproporcionada i no està suficientment motivada, ja que no acredita el perill exigit per la norma constitucional. Podria ser considerada una restricció il·legítima del dret.
+Via judicial: L'associació ha complert el requisit d'esgotar la via judicial ordinària (principi de subsidiarietat del recurs d'empara).
+Mecanisme final: Atès que la sentència judicial no ha reparat la vulneració d'un dret fonamental de la Secció 1a, l'associació està legitimada per interposar un recurs d'empara davant el Tribunal Constitucional (per la via de l'art. 44 LOTC) contra la decisió judicial. L'argument central seria que el tribunal ordinari no va protegir adequadament el dret de reunió enfront d'una limitació administrativa no justificada i desproporcionada.
+

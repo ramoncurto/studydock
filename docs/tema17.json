@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "title": "Règim urbanístic del ==sòl urbà== i urbanitzable",
+    "subject": "Urbanisme",
+    "topic": "Drets i deures de les persones propietàries",
+    "keywords": [
+      "sòl urbà",
+      "==sòl urbanitzable==",
+      "drets propietaris",
+      "deures",
+      "aprofitament",
+      "cessió",
+      "urbanització"
+    ],
+    "difficulty": "avançat",
+    "estimatedTime": "50 min"
+  },
+  "sections": [
+    {
+      "id": "visio-global",
+      "title": "Visió Global",
+      "level": 1,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "En l'ordenament urbanístic de Catalunya, la classificació del sòl (urbà, urbanitzable o no urbanitzable) determina l'estatut bàsic de la propietat del terreny, és a dir, els drets i deures que corresponen als propietaris segons cada classe de sòl."
+        },
+        {
+          "type": "paragraph",
+          "text": "En ==sòl urbà==, la propietat gaudeix del dret d'edificar els seus terrenys sempre que assoleixin la condició de solar i d'acord amb el planejament vigent. Alhora, assumeix deures com completar les obres d'urbanització pendents i edificar en termini, sota el principi d'equitat en la distribució de beneficis i càrregues."
+        },
+        {
+          "type": "paragraph",
+          "text": "En ==sòl urbanitzable==, la facultat d'edificar està condicionada al desenvolupament previ: cal planificar i executar la urbanització del sector abans d'aconseguir parcel·les aptes per edificar. Els propietaris de ==sòl urbanitzable== delimitat tenen dret a promoure'n la transformació i a obtenir l'==aprofitament urbanístic== privat assignat (aprox. el ==85%== del total), però han de complir importants deures urbanístics, com cessions obligatòries de sòl per a sistemes públics, costos d'urbanització i reserva de part de l'aprofitament per a la comunitat."
+        },
+        {
+          "type": "paragraph",
+          "text": "En suma, la propietat del sòl està condicionada per la funció social: el dret a edificar només es pot exercir complint amb les obligacions legals i el planejament, assegurant un equilibri just entre l'interès privat i l'interès públic en la ciutat."
+        }
+      ]
+    },
+    {
+      "id": "checklist",
+      "title": "Checklist d'Estudi",
+      "level": 1,
+      "content": [
+        {
+          "type": "list",
+          "title": "Punts clau per dominar el tema",
+          "items": [
+            "Classes de sòl a Catalunya: definició de ==sòl urbà== (consolidat o no) vs ==sòl urbanitzable== (delimitat o no) i implicacions de cada categoria",
+            "Drets urbanístics bàsics en ==sòl urbà==: dret a fer les obres d'urbanització pendents i a edificar els solars resultants segons planejament",
+            "Deures en ==sòl urbà== consolidat: acabar la urbanització que falti, repartir equitativament càrregues i beneficis, edificar en termini i conservar les edificacions i instal·lacions",
+            "Règim del ==sòl urbà== no consolidat: obligació de participar en projectes de millora urbana o polígons d'actuació, amb deures de cessió del ==10%== de l'==aprofitament urbanístic== generat (fins al ==15%== en certs supòsits especials)",
+            "Drets en ==sòl urbanitzable== delimitat: facultat de promoure planejaments parcials, dret a urbanitzar i obtenir fins al ~==85%== de l'aprofitament del sector, i a edificar un cop el sector estigui transformat en solars",
+            "Deures en ==sòl urbanitzable== delimitat: equidistribució, cessions obligatòries de sòl per a sistemes locals i generals, costejar i executar tota la urbanització, cedir el ==15%== de l'==aprofitament urbanístic== del sector, construir habitatge protegit si s'ha establert",
+            "==Sòl urbanitzable== no delimitat: situació de reserva sense pla parcial; no s'hi pot edificar mentre no es sectoritzi i urbanitzi",
+            "Principi de funció social de la propietat: la llei defineix que el dret de propietat sobre el sòl està limitat i condicionat pel compliment d'aquests deures per tal de garantir l'interès general"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "conceptes-clau",
+      "title": "Conceptes Clau i Definicions",
+      "level": 1,
+      "content": [
+        {
+          "type": "subsection",
+          "title": "Definicions Fonamentals",
+          "items": [
+            {
+              "type": "definition",
+              "term": "==Sòl urbà==",
+              "details": [
+                "Terreny classificat pel planejament general com a integrat en la trama urbana",
+                "Es distingeix entre ==sòl urbà== consolidat (plenament urbanitzat o amb serveis suficients) i ==sòl urbà== no consolidat (zones urbanes on cal completar reforma o nova urbanització)",
+                "Els propietaris tenen dret a edificar parcel·les que compleixin condició de solar, d'acord amb el planejament",
+                "En ==sòl urbà== consolidat, els terrenys ja disposen de serveis bàsics",
+                "En ==sòl urbà== no consolidat, cal dur a terme actuacions urbanístiques (plans de millora urbana, polígons d'actuació, etc.)"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "==Sòl urbanitzable==",
+              "details": [
+                "Terreny apte per al creixement urbà futur, que no és urbà encara",
+                "Pot ésser delimitat (el ==POUM== en defineix un sector concret a desenvolupar) o no delimitat (reservat per a creixement sense sector concret)",
+                "Abans de la transformació, el ==sòl urbanitzable== es considera funcionalment sòl rural",
+                "Els propietaris només en poden fer usos propis del ==sòl no urbanitzable== fins que hi hagi pla parcial",
+                "Quan es delimita un sector urbanitzable, els propietaris adquireixen el dret a promoure'l i a materialitzar l'==aprofitament urbanístic== assignat"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Solar",
+              "details": [
+                "Parcel·la de ==sòl urbà== que compleix les condicions legals per ser edificada",
+                "Requisits: urbanització bàsica realitzada (accés rodat, abastiment d'aigua, evacuació d'aigües, subministraments d'energia, alineacions i rasants definides)",
+                "Només els solars poden obtenir llicència d'edificació ordinària",
+                "Si un terreny urbà no és encara solar, el propietari té el dret i deure de dur a terme o finançar les obres necessàries per convertir-lo en solar abans d'edificar"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "==Aprofitament urbanístic==",
+              "details": [
+                "Quantificació del volum o sostre edificable atribuït a un àmbit segons el planejament (sovint expressat en m² de sostre o en unitats d'aprofitament)",
+                "Representa el benefici urbanístic repartible entre propietaris",
+                "En ==sòl urbanitzable== delimitat: ==85%== privat i ==15%== públic cedit",
+                "En ==sòl urbà== no consolidat: cessió del ==10%== de l'increment, amb excepcions d'augment fins al ==15%== en casos de requalificacions a l'alça"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Equidistribució",
+              "details": [
+                "Principi pel qual tots els propietaris dins un àmbit de desenvolupament urbanístic (polígon, sector, unitat d'actuació) comparteixen proporcionalment tant les càrregues (cessions de terrenys, costos d'urbanitzar) com els beneficis (aprofitament edificable) del planejament",
+                "Es materialitza mitjançant instruments de ==reparcel·lació==",
+                "Garantir l'equitat en el repartiment és un deure legal bàsic abans d'iniciar la transformació d'un sòl"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Cessió de sòl per a sistemes",
+              "details": [
+                "Obligació legal de transferir gratuïtament a l'Administració part dels terrenys privats per destinar-los a sistemes urbanístics públics",
+                "Cessions de sistemes locals: dins de l'àmbit (vials, zones verdes, equipaments locals)",
+                "Cessions per a ==sistemes generals==: terrenys destinats a infraestructures o equipaments d'interès general",
+                "Totes aquestes cessions són obligatòries i a títol gratuït"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "==Junta de compensació==",
+              "details": [
+                "Entitat urbanística col·laboradora que poden constituir els propietaris d'un sector o polígon quan s'opta pel sistema de compensació",
+                "Permet que els mateixos propietaris gestionin l'execució urbanística",
+                "Si algun propietari no vol o no pot assumir els deures, la junta pot sol·licitar la seva expropiació per garantir el desenvolupament unitari"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "estatut-sol",
+      "title": "Estatut del Sòl per Classes",
+      "level": 1,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "La llei urbanística fixa un règim urbanístic diferenciat per a cada classe de sòl, que configura els drets i deures dels propietaris."
+        },
+        {
+          "type": "subsection",
+          "title": "Procés de Transformació d'un ==Sòl Urbanitzable==",
+          "items": [
+            {
+              "type": "definition",
+              "term": "1. Planejament derivat",
+              "details": [
+                "L'Ajuntament (o els propietaris interessats) impulsa un Pla Parcial urbanístic per al sector",
+                "Defineix la ordenació detallada, zonificació, sistemes a cedir, reserves d'habitatge protegit, etc."
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "2. Gestió urbanística",
+              "details": [
+                "Es reparteixen propietats i aprofitaments mitjançant un projecte de ==reparcel·lació== (equidistribució)"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "3. Urbanització",
+              "details": [
+                "S'executen les obres d'urbanització (obertura de carrers, xarxes de serveis, enllumenat, etc.)",
+                "A càrrec dels promotors (normalment els propietaris agrupats o un urbanitzador privat)"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "4. Parcel·lació i entrega",
+              "details": [
+                "Acabades les obres, es lliuren a l'Administració les obres i les cessions",
+                "Els propietaris reben parcel·les urbanitzades (solars)"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "5. Edificació",
+              "details": [
+                "Podran sol·licitar llicències per edificar d'acord amb el planejament",
+                "Només després d'aquests passos el ==sòl urbanitzable== passa a ser ==sòl urbà== (nou barri integrat a la ciutat)"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "Diferències Urbà vs Urbanitzable",
+          "items": [
+            {
+              "type": "definition",
+              "term": "==Sòl urbà== consolidat",
+              "details": [
+                "El procés urbanitzador ja ha passat",
+                "El propietari només ha de construir seguint normes i mantenir"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "==Sòl urbà== no consolidat",
+              "details": [
+                "Queda part del procés per fer: cal un projecte d'urbanització o pla de millora i reparcel·lar si hi ha múltiples finques",
+                "Aplicant cessions (per ex., obrir un nou carrer o plaça segons pla)"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "==Sòl urbanitzable== delimitat",
+              "details": [
+                "El procés està per fer completament",
+                "Fins que no s'aprovi el pla parcial i es desenvolupi, no es pot edificar"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "==Sòl urbanitzable== no delimitat",
+              "details": [
+                "Ni tan sols hi ha un sector definit",
+                "Requerirà primer una modificació del planejament general per delimitar-lo abans d'engegar tota la transformació"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "Percentatges d'Aprofitament i Reserves",
+          "items": [
+            "La llei catalana estableix uns mínims de cessió per garantir retorn públic en les plusvàlues urbanístiques:",
+            "A més, el planejament general ha de preveure reserves mínimes d'habitatge protegit en ==sòl urbanitzable== (per exemple, la Llei 3/2012 requerí reservar part del sostre a habitatge amb protecció oficial, modulable segons municipi).",
+            "Aquestes reserves de vivenda assequible formen part dels deures dels propietaris, ja sigui cedint solars a l'Administració o construint-ne un percentatge del sostre segons indiqui el pla."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "principis",
+      "title": "Principis i Regles",
+      "level": 1,
+      "content": [
+        {
+          "type": "subsection",
+          "title": "Principis Fonamentals",
+          "items": [
+            {
+              "type": "definition",
+              "term": "Funció social de la propietat urbana",
+              "details": [
+                "La propietat del sòl no atorga un dret absolut i incondicionat a edificar, sinó que ve delimitada pel seu funció social (art. 33.2 CE)",
+                "Això es concreta en l'urbanisme mitjançant els deures legals imposats als propietaris per tal de garantir que el creixement urbà es faci d'acord amb l'interès col·lectiu",
+                "El Tribunal Constitucional ha avalat que les lleis urbanístiques defineixin el ==contingut essencial== del dret de propietat del sòl sense que això constitueixi expropiació (STC 61/1997)",
+                "Si un propietari no compleix els deures, l'Administració pot actuar per assegurar el compliment de la funció social"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Dret a participar en les plusvàlues",
+              "details": [
+                "Derivat del principi constitucional de repartir equitativament beneficis i càrregues (art. 47 CE)",
+                "La llei reconeix als propietaris la participació en les plusvàlues generades pel planejament",
+                "Si els terrenys s'urbanitzen, el propietari tindrà dret a obtenir parcel·les edificables proporcionalment al valor aportat",
+                "En ==sòl urbanitzable==: dret a l'==aprofitament urbanístic== del sector, excepte la part de cessió obligatòria",
+                "El marc legal assegura que una part d'aquella plusvàlua revertirà a la comunitat"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Principi de 'qui beneficia, paga'",
+              "details": [
+                "L'urbanisme català aplica el criteri que les despeses d'urbanització han de ser assumides pels promotors beneficiats",
+                "Cap propietari obté dret edificatori sense urbanitzar",
+                "Les obres necessàries i la connexió o reforç de xarxes externes són a costa dels propietaris de l'àmbit",
+                "L'Administració no ha de contribuir-hi econòmicament (excepte obres de ==sistemes generals== externs no imputades al sector)",
+                "Aquest principi garanteix que el creixement urbà no carregui costos sobre la resta de la ciutadania"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Publicitat i equitat en la gestió",
+              "details": [
+                "Tot procés de ==reparcel·lació== o d'imposició de càrregues es fa mitjançant procediments administratius amb garanties",
+                "Informació pública, dret d'audiència als interessats, criteris objectius de valoració",
+                "El resultat ha de ser que cada propietari contribueixi proporcionalment i rebi un lot equitatiu",
+                "Si algun propietari considera vulnerats els seus drets, pot recórrer administrativament i judicialment",
+                "No pot oposar-se al compliment dels deures per la via de fet: l'execució urbanística forçosa està prevista per evitar bloquejos"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Sostenibilitat i planejament responsable",
+              "details": [
+                "El desenvolupament de ==sòl urbanitzable== ha de ser coherent amb les necessitats reals i sostenibles",
+                "Normes com la Llei 2/2021 han reforçat mecanismes perquè els sectors urbanitzables no delimitats siguin rigorosament justificats",
+                "Es pot desclassificar sòl innecessari per evitar la urbanització extensiva injustificada",
+                "Tenir sòl classificat com urbanitzable no garanteix que es desenvoluparà immediatament"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "procediment",
+      "title": "Procediment i Aplicació Administrativa",
+      "level": 1,
+      "content": [
+        {
+          "type": "subsection",
+          "title": "Iniciativa per Desenvolupar Sectors",
+          "items": [
+            "En ==sòl urbanitzable== delimitat, els propietaris que representin la majoria de terreny poden prendre la iniciativa presentant un Pla Parcial o Proposta de ==reparcel·lació== a l'Ajuntament.",
+            "Si l'Ajuntament ho considera oportú, tramitarà i aprovarà el pla i designarà un sistema d'actuació:",
+            "- Compensació: propietaris urbanitzen",
+            "- Cooperació: Ajuntament urbanitza i repercuteix costos",
+            "- Expropiació",
+            "Els propietaris individuals tenen dret a sol·licitar l'execució del planejament quan aquest estigui aprovat i en vigor, però l'Administració pot fixar prioritats segons el PAUM o interessos públics."
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "Instrument de Gestió Urbanística",
+          "items": [
+            "En actuacions integrades (que requereixen redistribuir parcel·les i càrregues), és preceptiu aprovar un Projecte de ==reparcel·lació==.",
+            "En aquest document es concreta l'equidistribució: es calculen els drets inicials de cada propietari i es reparteixen els lots resultants.",
+            "També assigna les despeses d'urbanització proporcionalment.",
+            "Un cop aprovat, s'inscriu al Registre de la Propietat i té efectes traslatius (les finques originals s'extingeixen i s'inscriuen les noves adjudicades)."
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "Projecte d'Urbanització i Execució d'Obres",
+          "items": [
+            "Paral·lelament o posteriorment al planejament derivat, s'aprova un Projecte d'Urbanització que detalla tècnicament les obres.",
+            "La seva execució pot ser:",
+            "- A càrrec dels propietaris (sistema compensació) sota supervisió municipal",
+            "- Directament per l'Ajuntament (cooperació) repercutint contribucions especials",
+            "- Mitjançant expropiació seguida d'un urbanitzador",
+            "Fins que les obres bàsiques no estiguin completades, els terrenys no es consideren solars aptes per edificar.",
+            "L'Ajuntament, abans de recepcionar les obres, verifica el seu acabament conforme al projecte."
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "Llicència d'Edificació i de Primera Ocupació",
+          "items": [
+            "Un cop el propietari té una parcel·la en condició de solar i vol edificar, ha de demanar ==llicència urbanística== d'edificació.",
+            "L'Ajuntament comprovarà que el projecte s'ajusta al planejament i que la parcel·la és efectivament solar.",
+            "Només atorga la llicència si es compleixen les condicions.",
+            "Després, un cop construït l'edifici, cal la llicència de primera ocupació o cèdula.",
+            "L'Ajuntament també condiciona aquesta llicència al fet que les obres d'urbanització estiguin recepcionades."
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "Incompliment de Deures i Resposta Pública",
+          "items": [
+            "Si els propietaris no impulsen el desenvolupament dins dels terminis previstos al planejament, l'Administració pot intervenir:",
+            "- Pot canviar el sistema a cooperació i executar directament les obres passant la factura als propietaris",
+            "- Pot expropiar els terrenys a favor d'un tercer que compleixi la funció",
+            "- Pot integrar-los en el patrimoni públic de sòl",
+            "També existeix la figura de la venta forçosa en subhasta pública per parcel·les urbanes no edificades en termini.",
+            "Aquestes mesures pretenen evitar la retenció especulativa de sòl i garantir l'execució dels plans urbanístics."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "normativa",
+      "title": "Normativa Essencial",
+      "level": 1,
+      "content": [
+        {
+          "type": "list",
+          "title": "Legislació aplicable",
+          "items": [
+            "TRLUC — ==Text refós== de la Llei d'urbanisme de Catalunya (Decret Legislatiu 1/2010, de 3 d'agost) — versió consolidada amb modificacions fins Llei 2/2021",
+            "RLUC — ==Reglament== de la Llei d'urbanisme (Decret 305/2006, de 18 de juliol) — arts. 40-43 tracten el règim de drets i deures",
+            "LSRU — ==Text refós== de la Llei de sòl i Rehabilitació Urbana (Reial Decret Legislatiu 7/2015, de 30 d'octubre) — legislació estatal bàsica",
+            "CE — Constitució Espanyola de 1978 — art. 33 (dret de propietat i funció social), art. 47 (dret a habitatge)",
+            "Llei 3/2012 — Llei de modificació del ==text refós== de la Llei d'urbanisme (Catalunya) — va augmentar cessions d'aprofitament al ==15%=="
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bloc-examen",
+      "title": "Bloc d'Examen",
+      "level": 1,
+      "content": [
+        {
+          "type": "example",
+          "label": "Micro-cas Pràctic",
+          "text": "[object Object]\n\n[object Object]"
+        }
+      ]
+    }
+  ]
+}

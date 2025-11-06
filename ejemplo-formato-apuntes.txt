@@ -1,0 +1,78 @@
+GUÍA DE FORMATO PARA APUNTES
+
+Esta es una guía de cómo formatear tus apuntes para que se vean perfectos automáticamente.
+
+
+TÍTULOS PRINCIPALES
+
+Escribe títulos principales en MAYÚSCULAS. Se verán grandes y destacados.
+
+
+Secciones numeradas:
+
+# 1. Primera Sección
+Puedes usar # al inicio o números seguidos de punto para crear secciones.
+
+# 2. Segunda Sección
+El texto normal se verá como párrafos regulares.
+
+
+Subtítulos importantes:
+
+Usa dos puntos al final para subtítulos:
+Este es un subtítulo importante que termina con dos puntos y se destacará automáticamente.
+
+
+Listas y viñetas:
+
+- Primer elemento de la lista
+- Segundo elemento de la lista
+- Tercer elemento con más información
+
+También puedes usar:
+* Asteriscos para listas
+* Funcionan igual que los guiones
+* Se ven como viñetas
+
+
+Listas numeradas:
+
+1. Primer paso del proceso
+2. Segundo paso importante
+3. Tercer paso final
+
+
+Texto con énfasis:
+
+Puedes usar **texto entre dos asteriscos** para hacerlo **negrita** y destacarlo.
+
+También funciona con __guiones bajos dobles__ para el mismo efecto.
+
+
+EJEMPLO COMPLETO DE APUNTES
+
+Sistema Circulatorio:
+
+El sistema circulatorio es responsable de transportar **oxígeno** y **nutrientes** a todas las células del cuerpo.
+
+Componentes principales:
+
+- Corazón: bomba muscular
+- Arterias: llevan sangre del corazón
+- Venas: devuelven sangre al corazón
+- Capilares: intercambio de sustancias
+
+Funciones del sistema:
+
+1. Transporte de oxígeno
+2. Eliminación de desechos
+3. Regulación de temperatura
+4. Defensa inmunológica
+
+
+CONSEJOS FINALES
+
+- Mantén líneas en blanco entre secciones para mejor legibilidad
+- Los títulos en mayúsculas destacan más
+- Usa listas para información organizada
+- El formato se aplica automáticamente al subir el archivo

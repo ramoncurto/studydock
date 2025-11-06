@@ -1,0 +1,183 @@
+El projecte de reparcel·lació: contingut, eficàcia i efectes. Certificació dels projectes de reparcel·lació. Altres supòsits de reparcel·lació. Lliurament de les obres d’urbanització.
+Visió global
+El projecte de reparcel·lació és l'instrument de gestió urbanística fonamental per executar el planejament en sòl urbà no consolidat i sòl urbanitzable. És el mecanisme legal que transforma l'estructura de la propietat: substitueix les finques originàries (rústiques o inadequades per a l'ordenació) per noves parcel·les (urbanitzades i aptes per a l'edificació).1 La seva finalitat principal és assegurar l'equidistribució de beneficis i càrregues entre tots els propietaris afectats. Aquest tema analitza el cicle de vida complet d'una actuació urbanística: el contingut documental del projecte, els seus potents efectes jurídics, els procediments especials i la fita final, que és el lliurament de les obres d'urbanització a l'Administració per al seu manteniment públic.
+Checklist d’estudi
+Dominar el contingut documental mínim del projecte (TRLUC Art. 144 i RLUC Art. 150 ): Memòria, Plànols (origen, resultant, superposició) i Compte de Liquidació Provisional.
+Memoritzar els 3 efectes jurídics clau de l'aprovació definitiva (Art. 127 TRLUC ): 1) Subrogació real, 2) Afecció real, 3) Cessió de dret.
+Diferenciar les 3 modalitats del sistema de reparcel·lació: Compensació Bàsica (iniciativa >50% ), Compensació per Concertació (iniciativa >25% + concert 8), i Cooperació (lidera l'Administració 10).
+Conèixer els "altres supòsits" (tràmits simplificats): Reparcel·lació Voluntària (acord unànime, sense aprovació inicial ), Propietari Únic (Art. 167 RLUC 12), i Reparcel·lació Econòmica (només costos, no hi ha redistribució de sòl, Art. 165 RLUC 11).
+Entendre el procediment de recepció d'obres (Art. 169 RLUC ): termini de 3 mesos per a l'Administració i, crucialment, l'efecte de silenci administratiu positiu.
+Identificar el títol inscriptible al Registre de la Propietat: la Certificació de l'acord d'aprovació definitiva (ferm en via administrativa).6
+Desenvolupament
+1) Conceptes clau i definicions
+Reparcel·lació: Definició operativa (Art. 124 TRLUC). Instrument de gestió que té per objecte distribuir equitativament els beneficis (aprofitament) i les càrregues (cessions i costos d'urbanització) derivats de l'ordenació urbanística. A més, regularitza la configuració de les finques, situa l'aprofitament en zones aptes per a l'edificació i formalitza la cessió gratuïta dels sòls destinats a sistemes públics (vials, zones verdes, equipaments) a l'Administració.1
+Polígon d'actuació urbanística (PAU): Àmbit territorial mínim per a l'execució urbanística integrada. És la delimitació geogràfica ("el tauler de joc") on s'aplica el projecte de reparcel·lació.
+Aprofitament urbanístic: Mesura quantitativa dels drets edificatoris. És el resultat de ponderar l'edificabilitat, els usos i la intensitat dels usos que el planejament assigna al sòl. És el "benefici" objecte de repartiment equitatiu.
+Subrogació real: Efecte jurídic clau de l'aprovació definitiva. Les noves parcel·les adjudicades substitueixen legalment les finques originàries a tots els efectes. Els drets i càrregues compatibles amb el planejament (ex: una hipoteca, una servitud de pas que es manté) es traslladen automàticament de l'antiga finca a la nova.5
+Afecció real: Efecte jurídic clau. Les parcel·les resultants queden "afectades" (gravades) com a garantia real del pagament del saldo del compte de liquidació (costos d'urbanització). Si el propietari no paga, l'Administració (o la Junta de Compensació) pot executar aquesta garantia sobre la finca.
+Compte de liquidació provisional: Document econòmic essencial del projecte (Art. 144.d TRLUC ). És el balanç on es computa, per a cada propietari, el valor del que aporta (els seus drets) i el cost del que rebrà (càrregues d'urbanització, cessions, indemnitzacions), determinant un saldo final deutor o creditor.
+2) Estructura / Esquemes
+El projecte de reparcel·lació és un document complex, amb una part jurídica (drets), tècnica (plànols) i econòmica (liquidació). El seu contingut mínim està regulat als articles 144 del TRLUC i 150 del RLUC.
+Documents del Projecte de Reparcel·lació (TRLUC Art. 144 / RLUC Art. 150):
+Memòria: Ha de ser justificativa. Descriu l'àmbit, els antecedents i fonamenta els criteris adoptats. Crucialment, ha d'incloure els criteris de valoració de les finques (d'origen i resultants) i la justificació del compte de liquidació provisional.
+Relació d'interessats: Llistat de propietaris i titulars de drets afectats (arrendataris, creditors hipotecaris, etc.), segons l'Art. 129 TRLUC.
+Plànols (Documentació Gràfica Essencial): Aquesta és una part clau per a l'Arquitecte Tècnic. Segons l'Art. 150 RLUC , ha d'incloure com a mínim:
+Plànol de situació (emplaçament del PAU).
+Plànol d'ordenació (el planejament que s'executa).
+Plànol de finques aportades (estat original, sobre topogràfic).
+Plànol de finques resultants i adjudicacions (estat final, noves parcel·les).13
+Plànol de superposició (clau per visualitzar la transformació).
+Aquests plànols han de redactar-se sobre cartografia topogràfica digital, a escala entre 1:500 i 1:1.000.
+Quadres d'adjudicació: Taules que detallen la correspondència entre finques aportades i finques resultants, superfícies, aprofitaments assignats, valoracions i cessions.13
+Compte de liquidació provisional: El detall econòmic del balanç de cada propietari.
+** Modalitats del Sistema de Reparcel·lació**
+El sistema d'actuació per reparcel·lació té tres modalitats que determinen qui impulsa i gestiona el procés (la iniciativa).8
+
+Característica
+Compensació Bàsica (Art. 130 TRLUC)
+Compensació per Concertació (Art. 132 TRLUC)
+Cooperació (Art. 135 TRLUC)
+Iniciativa
+Privada (Propietaris)
+Privada (Propietaris)
+Pública (Administració) [10]
+Llindar d'iniciativa
+Propietaris amb >50% de la superfície del PAU.
+Propietaris amb >25% de la superfície del PAU.
+N/A (L'Admin actua d'ofici o a instància).
+Qui executa?
+La Junta de Compensació (entitat urbanística col·laboradora).
+Els propietaris promotors (via Junta de Concertació o altres formes).
+L'Administració actuant.11
+Qui paga?
+Els propietaris (Junta de Compensació).
+Els propietaris (en els termes del "concert").
+Els propietaris (paguen quotes d'urbanització a l'Admin).11
+Element Clau
+Autogestió dels propietaris (>50%).
+Gestió privada però pactada ("concertada") amb l'Admin.[9]
+Gestió pública, finançament privat.
+
+3) Principis / Regles
+Principi d'Equidistribució: Regla d'or de la gestió urbanística. Busca la justa distribució dels beneficis (aprofitament urbanístic) i les càrregues (cessions i costos d'urbanització) derivats del planejament entre tots els afectats.1
+Criteris d'Adjudicació (Art. 126 TRLUC): Com es reparteix l'aprofitament. La regla general, si no hi ha acord unànime, és que els propietaris tenen dret a rebre finques resultants en proporció a la superfície de les seves finques originàries aportades.14 Les diferències (si no es pot adjudicar exactament el que pertoca) es compensen en metàl·lic.
+Tractament de Càrregues i Drets Preexistents:
+Compatibles: Els drets compatibles amb el planejament (ex: hipoteques, servituds de pas no afectades) es traslladen a les finques resultants per subrogació real.
+Incompatibles: Les obres, plantacions, usos o drets incompatibles amb el nou planejament (ex: una edificació existent on ara hi va un vial) s'extingeixen. El seu titular té dret a la indemnització corresponent, que es fixa i es paga a través del compte de liquidació.
+4) Procediment i aplicació administrativa
+L'aprovació del projecte de reparcel·lació és un acte administratiu executiu que transforma la realitat jurídica i física.
+Eficàcia i Efectes Jurídics (Art. 127 TRLUC; 153 RLUC):
+L'eficàcia es produeix un cop l'acord d'aprovació definitiva és ferm en via administrativa.3 Els seus efectes són automàtics:
+Substitució real (Subrogació): El projecte aprovat és el títol que acredita la substitució de les finques velles per les noves.
+Cessió de dret: L'acord d'aprovació és el títol que permet a l'Administració inscriure al seu nom, en ple domini i lliures de càrregues, tots els terrenys de cessió obligatòria (vials, zones verdes, equipaments) i el sòl corresponent al 15% de l'aprofitament mig (en sòl urbanitzable).
+Afecció real: L'aprovació imposa automàticament l'afecció real sobre les finques adjudicades com a garantia del pagament dels costos d'urbanització.
+Extinció de drets: Provoca l'extinció dels drets i càrregues incompatibles amb el planejament.5
+Certificació i Inscripció Registral:
+El document que s'aporta al Registre de la Propietat per inscriure la nova realitat de finques no és el projecte sencer. El títol inscriptible és la "certificació de l'acord d'aprovació definitiva" emesa per l'òrgan actuant (ex: l'Ajuntament). Aquesta certificació ha d'acreditar la fermesa en via administrativa de l'acord 3 i ha d'anar acompanyada dels documents gràfics (plànols) necessaris.
+Altres Supòsits de Reparcel·lació (Casos Especials):
+El TRLUC i el RLUC preveuen supòsits que simplifiquen el procediment ordinari, sovint utilitzats en exàmens per la seva especificitat.
+Reparcel·lació Voluntària (Art. 164 RLUC):
+Requisit: Acord unànime de tots els propietaris del PAU.
+Forma: S'ha d'atorgar en escriptura pública.
+Procediment simplificat: No requereix aprovació inicial. Es presenta l'escriptura a l'Administració, que la sotmet a informació pública (1 mes) i dóna audiència a la resta d'interessats (ex: titulars de càrregues). Després, resol l'aprovació definitiva.6
+Reparcel·lació de Propietari Únic (Art. 167 RLUC):
+Situació: Tot el PAU pertany a un sol propietari.12
+Procediment: S'aplica el mateix tràmit simplificat que a la reparcel·lació voluntària (Art. 164.1 i 164.2 RLUC).7
+Reparcel·lació Econòmica (Art. 165 RLUC):
+Concepte: No és una reparcel·lació en sentit estricte. És un instrument per distribuir costos d'urbanització.11
+Àmbit típic: Sòl Urbà Consolidat (SUC), on les parcel·les ja existeixen, però cal executar o renovar serveis (ex: posar clavegueram nou, reasfaltar).11
+Característiques Clau:
+Objecte: Repartir costos d'urbanització/reurbanització.11
+Efecte: No hi ha redistribució material de finques. La proposta d'adjudicació es limita a "confirmar les titularitats originàries".11
+Document clau: El Compte de Liquidació.11
+Efecte registral: L'aprovació definitiva permet inscriure l'afecció real sobre les finques existents per garantir el pagament d'aquests costos.11
+Lliurament i Recepció d'Obres d'Urbanització (Art. 169 RLUC):
+Aquest és l'acte que tanca el procés d'urbanització, transferint la responsabilitat del manteniment dels nous serveis i vials a l'Administració.
+Procediment (Art. 169 RLUC ):
+Sol·licitud: L'entitat responsable de l'execució (ex: Junta de Compensació) notifica a l'Ajuntament la finalització de l'obra i sol·licita la recepció. La cessió s'ha d'efectuar en un termini màxim de 3 mesos des que el promotor rep l'obra del seu contractista.
+Comprovació: L'Ajuntament disposa d'un termini de 3 mesos des de la sol·licitud per comprovar que les obres s'ajusten al Projecte d'Urbanització aprovat.
+Resultat 1 (Exprés Positiu): Si tot és correcte, es formalitza l'entrega mitjançant una "Acta de Recepció" subscrita per l'Ajuntament i el responsable de l'execució.4
+Resultat 2 (Exprés amb Defectes): Si es constaten deficiències, l'Ajuntament les comunica i el promotor les ha d'esmenar abans de procedir a la recepció.
+Resultat 3 (Silenci): Si transcorre el termini de 3 mesos sense que l'Ajuntament resolgui expressament (ni acceptant ni rebutjant), la recepció s'entén produïda per silenci administratiu positiu. Aquest efecte és una garantia crucial per al promotor.
+Recepció Parcial (Art. 169.2 RLUC):
+S'admet la recepció parcial d'obres.17
+Condicions: Que la part rebuda correspongui a una fase prevista al projecte d'urbanització, o bé que constitueixi una "unitat funcional directament utilitzable" (ex: un vial complet amb tots els seus serveis operatius) 4 reforça la possibilitat de recepcions parcials, especialment en la regularització d'urbanitzacions amb dèficits.20
+5) Normativa essencial (sigles — nom oficial — any/versió)
+TRLUC: Decret Legislatiu 1/2010, de 3 d'agost, pel qual s'aprova el Text refós de la Llei d'urbanisme de Catalunya.5
+RLUC: Decret 305/2006, de 18 de juliol, pel qual s'aprova el Reglament de la Llei d'urbanisme.7
+TRLSRU: RDL 7/2015, de 30 d'octubre, pel qual s'aprova el text refós de la Llei de Sòl i Rehabilitació Urbana (Legislació estatal bàsica).
+RD 1093/1997: Reial Decret 1093/1997, de 4 de juliol, pel qual s'aproven les normes complementàries al Reglament Hipotecari sobre inscripció en el Registre de la propietat d'actes de naturalesa urbanística.
+LCSP: Llei 9/2017, de 8 de novembre, de Contractes del Sector Públic (Aplicable a la recepció i terminis de garantia en sistemes de cooperació).16
+DL 2/2025: Decret Llei 2/2025, de 25 de febrer, pel qual s'adopten mesures urgents en matèria d'habitatge i urbanisme.19
+6) Exemples i casos
+Exemple (Test 1 - Lògica del procés): 23 En un PAU en sòl urbà, la relació entre el projecte d'urbanització (PO) i el projecte de reparcel·lació (PR) és:
+a) L'aprovació definitiva del PR ha de ser sempre prèvia a la del PO.
+b) L'aprovació definitiva del PO ha de ser prèvia o simultània a la del PR.
+c) Són instruments independents i no tenen prelació.
+Orientació de resposta: (b). La reparcel·lació (PR) necessita saber el cost exacte de les obres (definit al PO) per poder fer el Compte de Liquidació.
+Exemple (Test 2 - Parcel·lacions): 23 Per practicar una parcel·lació urbanística (crear noves parcel·les edificables) es requereix:
+a) Una llicència de parcel·lació i un certificat d'innecessarietat.
+b) Una llicència urbanística (de parcel·lació) o un projecte de reparcel·lació.
+c) Només un projecte de reparcel·lació.
+Orientació de resposta: (b). La reparcel·lació és l'instrument de gestió que crea les noves parcel·les en un PAU. La llicència s'usa per a divisions o segregacions més simples que no requereixen equidistribució.
+Micro-cas (Usos provisionals): 24 Un propietari en un SUNC inclòs en el PMU-2 (Pla de Millora Urbana) que s'ha de gestionar per reparcel·lació 24, vol instal·lar dues pistes de pàdel i panells fotovoltaics a la coberta d'una nau existent abans que s'iniciï la reparcel·lació. Pot fer-ho?
+Orientació de resposta: Sí, pot sol·licitar una autorització d'usos i obres provisionals (Art. 53 TRLUC). L'ús esportiu (pàdel) i les instal·lacions d'energies renovables (plaques) estan explícitament admesos.24 Haurà de seguir el procediment de l'Art. 54 TRLUC, acceptant per escrit el seu deure de cessar l'ús i enderrocar les obres sense dret a indemnització quan ho requereixi l'execució del PMU.24
+Micro-cas (Recepció d'obres): Una Junta de Compensació finalitza les obres del PAU-1 el 30 de gener i sol·licita formalment la recepció a l'Ajuntament. L'Ajuntament no respon. El 15 de maig, l'Ajuntament emet un informe desfavorable indicant defectes. És vàlid aquest informe?
+Orientació de resposta: No, és extemporani. L'Ajuntament tenia 3 mesos per resoldre (fins al 30 d'abril). En no fer-ho, les obres es van entendre rebudes per silenci administratiu positiu (Art. 169 RLUC). La responsabilitat de manteniment ja és municipal.
+7) Errors típics i mnemotècnies
+Error: Confondre reparcel·lació (gestió, equidistribució) amb projecte d'urbanització (obres, tècnic).
+Mnemotècnia: El P. Reparcel·lació és el "notari" (canvia la propietat). El P. Urbanització és l'"enginyer" (defineix el carrer).
+Error: El silenci administratiu.
+Mnemotècnia: Gairebé tot el silenci en urbanisme és negatiu (llicències, aprovació de plans 2). L'excepció clau és la Recepció d'Obres (Art. 169 RLUC), que és positiu.
+Error: Pensar que la reparcel·lació econòmica (Art. 165 RLUC) és per a "estalviar".
+Mnemotècnia: No. És per a Sòl Consolidat on només es reparteixen costos, sense moure finques.11
+Error: Confondre els llindars d'iniciativa:
+Mnemotècnia: Compensació Bàsica: >50% (majoria "bàsica"). Compensació Concertada: >25% (cal "concertar" amb l'Admin perquè són minoria).
+8) Glossari mínim
+Acta de Recepció: Document administratiu on l'Ajuntament dóna conformitat a les obres d'urbanització executades i n'assumeix la titularitat i el manteniment.4
+Afecció real: Gravamen real que s'inscriu sobre la finca resultant com a garantia del pagament dels costos d'urbanització.
+Cessió de dret: Efecte jurídic de l'aprovació definitiva que transmet la propietat dels sòls de cessió obligatòria (vials, zones verdes, etc.) a l'Administració.
+Compte de liquidació: Document econòmic del projecte que reflecteix el balanç de deures i drets de cada propietari afectat.
+Equidistribució: Principi rector que assegura el repartiment just de beneficis i càrregues de l'actuació urbanística.
+Subrogació real: Efecte jurídic pel qual la finca resultant ocupa el lloc i la posició de la finca originària, arrossegant els drets i càrregues compatibles.
+Resum final
+El projecte de reparcel·lació és l'instrument de gestió executiva clau en l'urbanisme català. El seu contingut (Memòria, Plànols, Compte de Liquidació) assegura el principi d'equidistribució (Art. 124 TRLUC). L'aprovació definitiva (ferm en via administrativa) té potents efectes jurídics automàtics (Art. 127 TRLUC): subrogació real, afecció real i cessió de dret. El títol per a la inscripció registral és la certificació d'aquest acord (Art. 119 TRLUC). Existeixen supòsits especials que simplifiquen el tràmit (Voluntària, Propietari Únic, Art. 164 i 167 RLUC) o que en canvien l'objecte (Econòmica, Art. 165 RLUC). El procés finalitza amb el lliurament de les obres d'urbanització (Art. 169 RLUC), acte que pot produir-se per silenci positiu.
+Bloc d’examen
+Preguntes Tipus Test:
+(Modalitats) Els propietaris que representen el 40% de la superfície d'un PAU decideixen impulsar la gestió. Quina modalitat de reparcel·lació poden iniciar?
+a) Compensació bàsica.
+b) Compensació per concertació.
+c) Cooperació.
+d) Reparcel·lació voluntària.
+(Efectes) Segons l'Art. 127 del TRLUC, l'aprovació definitiva ferma d'un projecte de reparcel·lació NO comporta: 5
+a) La transmissió a l'Ajuntament dels terrenys de cessió obligatòria.
+b) L'extinció de tots els drets i càrregues preexistents, siguin compatibles o no.
+c) L'afecció real de les finques adjudicades al pagament dels costos.
+d) La subrogació real de les finques originàries per les resultants.
+(Procediment) En la tramitació d'una reparcel·lació voluntària (Art. 164 RLUC), quin tràmit NO és preceptiu?
+a) L'aprovació inicial del projecte.
+b) La informació pública per un termini d'un mes.
+c) L'audiència als altres interessats (ex: titulars de càrregues).
+d) L'atorgament d'escriptura pública per part dels propietaris.
+(Recepció Obres) Una Junta de Compensació sol·licita la recepció de les obres d'urbanització. L'Ajuntament no respon en el termini legal de 3 mesos. Quina és la conseqüència?
+a) Es produeix silenci negatiu; la sol·licitud es considera desestimada.
+b) Es produeix silenci positiu; les obres s'entenen rebudes.
+c) S'inicia un termini de 6 mesos per a la recepció per part de la Generalitat.
+d) La Junta de Compensació ha de reiterar la sol·licitud.
+(Altres supòsits) Un Ajuntament ha de repercutir el cost de la reurbanització d'un carrer (nova pavimentació i serveis) en un Sòl Urbà Consolidat, sense alterar llindars. Quin instrument és l'idoni? 11
+a) Reparcel·lació en modalitat de cooperació.
+b) Un projecte de contribucions especials.
+c) Reparcel·lació econòmica.
+d) Una combinació de (b) i (c).
+Respostes Test: 1(b), 2(b), 3(a), 4(b), 5(c).
+Micro-cas pràctic:
+Supòsit: En un projecte de reparcel·lació pel sistema de compensació bàsica, el Sr. A és propietari d'una finca originària de 1.000 m². El Sr. B és titular d'una hipoteca sobre la finca del Sr. A. El planejament qualifica part de la finca del Sr. A com a vial públic i la resta com a parcel·la edificable. A la finca hi ha una petita nau industrial que el pla qualifica com a ús incompatible.
+Preguntes:
+Què succeeix amb la propietat del Sr. A sobre la part destinada a vial?
+Què succeeix amb la hipoteca del Sr. B?
+Què succeeix amb la nau industrial incompatible?
+Punts clau de resolució:
+Vial (Cessió): La part destinada a vial és sòl de cessió obligatòria. Amb l'aprovació definitiva, el Sr. A perdrà la propietat d'aquesta part, que es transmetrà en ple domini a l'Ajuntament per cessió de dret (Art. 127 TRLUC).
+Hipoteca (Subrogació): La hipoteca és un dret compatible. Es traslladarà per subrogació real (Art. 127 TRLUC) a la nova parcel·la resultant que s'adjudiqui al Sr. A.5
+Nau (Extinció i Indemnització): La nau és una obra incompatible. El dret de propietat sobre ella s'extingirà amb l'aprovació definitiva.5 El Sr. A té dret a ser indemnitzat pel seu valor (valorat independentment del sòl). Aquesta indemnització s'inclourà en el compte de liquidació provisional del projecte, normalment com un cost més de la reparcel·lació a repartir entre tots els propietaris.
+

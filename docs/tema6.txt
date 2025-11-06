@@ -1,0 +1,200 @@
+6. Les fases del procediment administratiu comú. L’obligació de resoldre de l’Administració: El silenci administratiu.
+
+ Visió global (3–6 frases): El procediment administratiu comú consta d’un conjunt ordenat de fases i tràmits que l’Administració pública ha de seguir per adoptar decisions conforme a la lleiboe.es. S’inicia mitjançant un acord de l’òrgan competent o una sol·licitud de la persona interessada, es desenvolupa amb la instrucció (pràctica de proves, informes, audiència) i finalitza amb una resolució motivada que s’ha de notificar a l’interessat. La legislació vigent (Llei 39/2015) imposa a l’Administració el deure de resoldre expressament i de notificar la resolució en termini en tots els procediments, independentment de com hagin començatrepositori-dsf.diba.cat. Si l’Administració no dicta resolució dins del termini màxim establert, opera el mecanisme del silenci administratiu, pel qual la llei presumeix un resultat: en general s’entén estimada la petició (silenci positiu), tret dels casos taxats en què el silenci és desestimatori (negatiu)formaciooberta.eapc.gencat.catformaciooberta.eapc.gencat.cat. En procediments iniciats d’ofici (sense sol·licitant), la manca de resolució dins de termini no atribueix cap dret a l’administrat, sinó que normalment comporta la caducitat de l’expedient si es tractava d’un procediment sancionador o similarformaciooberta.eapc.gencat.cat.
+Checklist d’estudi (5–9 punts):
+Diferenciar les fases del procediment administratiu: inici (a sol·licitud de part o d’ofici), ordenació, instrucció (incloent tràmit d’audiència) i finalització (resolució i notificació).
+
+
+Requisits de la iniciació: formes de començar un expedient, dret a presentar sol·licituds i a esmenar defectes en 10 dies si cal (desistiment en cas de no esmenar)repositori-dsf.diba.cat.
+
+
+Funcions de l’ordenació: impuls d’ofici dels tràmits, principi de celeritat i possibilitat de tramitar actuacions simultàniesrepositori-dsf.diba.cat.
+
+
+Contingut de la fase d’instrucció: dret d’al·legacions, pràctica de proves pertinents, emissió d’informes tècnics (preceptius o facultatius, vinculants o no)repositori-dsf.diba.catrepositori-dsf.diba.cat, i elaboració d’una proposta de resolució.
+
+
+Garanties de participació: tràmit d’audiència previ a la resolució (posada de manifest de l’expedient i termini perquè els interessats formulin al·legacions abans de decidir)repositori-dsf.diba.cat.
+
+
+Obligació de resoldre i notificar: abast universal (tots els procediments), excepte finalització anticipada per pacte, conveni, desistiment, renúncia, caducitat o processos sotmesos només a declaració responsable/comunicació prèviarepositori-dsf.diba.cat. Incomplir el termini suposa responsabilitat disciplinària per a l’òrgan competentformaciooberta.eapc.gencat.cat.
+
+
+Terminis per resoldre: els fixats per cada procediment (no més de 6 mesos, excepte llei en contrari); si no n’hi ha, termini general de 3 mesosformaciooberta.eapc.gencat.cat. Possibilitat de suspendre el còmput en circumstàncies previstes (p. ex. esmena de deficiències, informes preceptius) i d’ampliar-lo de forma extraordinàriaformaciooberta.eapc.gencat.catboe.es.
+
+
+Silenci administratiu en procediments iniciats a sol·licitud: regla general estimatòria (silenci positiu) si venç el termini sense notificació de resolucióformaciooberta.eapc.gencat.cat. Excepcions legals de silenci desestimatòri: dret de petició, procediments que transfereixen facultats de domini públic o servei públic, activitats amb risc ambiental, responsabilitat patrimonial, impugnació d’actes (recursos) i revisió d’ofici, etc.formaciooberta.eapc.gencat.catformaciooberta.eapc.gencat.cat.
+
+
+Conseqüències de la manca de resolució d’ofici: en procediments iniciats per l’Administració que podrien crear drets en benefici de l’interessat (p. ex. atorgament d’una subvenció), el silenci és negatiuformaciooberta.eapc.gencat.cat. Si són procediments sancionadors o d’altres que puguin perjudicar l’administrat, la inacció produeix la caducitat de l’expedient, amb arxiu de les actuacionsformaciooberta.eapc.gencat.cat. En ambdós casos l’Administració ha de dictar igualment una resolució formal fora de termini declarant la desestimació presumpta o la caducitat, segons escaigui.
+
+
+Desenvolupament
+Conceptes clau i definicions
+
+
+Procediment administratiu comú: seqüència ordenada de tràmits i actuacions formalitzades que segueix l’Administració per formar la seva voluntat i dictar un acte administratiuboe.es. Constitueix la garantia que l’activitat administrativa respecta els drets dels ciutadans i els principis de legalitat i eficàcia.
+
+
+Fases del procediment: divisions lògiques del procés administratiu. Les fases clàssiques són: iniciació (apertura de l’expedient, ja sigui per acord de l’Administració –d’ofici– o a instància d’un particular), ordenació (organització i impuls dels tràmits per part de l’òrgan instructor), instrucció (realització de les diligències necessàries per conèixer els fets i fonaments: al·legacions, proves, petició d’informes, proposta de resolució, etc.) i finalització (clausura del procediment mitjançant una resolució que es notifica)repositori-dsf.diba.catrepositori-dsf.diba.cat. A més, dins la fase d’instrucció es distingeixen subfases com el tràmit d’audiència (oïment dels interessats abans de la decisió final) i la possible proposta de resolució per part de l’instructor.
+
+
+Obligació de resoldre: deure legal de l’Administració de dictar una resolució expressa que posi fi al procediment i de notificar-la en termini a l’interessat, fins i tot si el procediment va començar d’ofici o si ha operat el silenci administratiurepositori-dsf.diba.catrepositori-dsf.diba.cat. Només s’exclouen d’aquesta obligació els casos en què el procediment conclou per una altra via (p. ex. per acord entre les parts, desistiment de la sol·licitud, renúncia de drets o procediments basats només en declaracions responsables).
+
+
+Silenci administratiu: institució jurídica que assigna un efecte a la manca de resolució expressa dins del termini legal. Comporta la ficció d’un acte administratiu presumptament dictat en la data de venciment del termini, de sentit positiu (estimatori) o negatiu (desestimatori) segons estableixi la lleiformaciooberta.eapc.gencat.cat. El silenci positiu dóna lloc a un acte ferm estimatori de la sol·licitud de l’interessat, mentre que el silenci negatiu només permet a l’interessat interposar el recurs administratiu o contenciós que corresponguiboe.esboe.es. En tots els casos, la declaració tàcita per silenci no eximeix l’Administració de resoldre formalment més endavant –això sí, sense poder contrariar el sentit del silenci positiu–repositori-dsf.diba.catrepositori-dsf.diba.cat.
+
+
+Caducitat: forma anormal de finalització del procediment per falta d’una resolució en termini en procediments iniciats d’ofici quan l’objecte és l’exercici de potestats sancionadores o d’altres potestats d’intervenció que puguin produir efectes desfavorables per a l’administratformaciooberta.eapc.gencat.cat. La caducitat implica l’arxivament de l’expedient per inacció administrativa, deixant sense efecte les actuacions practicades (amb excepció dels casos en què una norma permet continuar oficiosament per interès general concret)formaciooberta.eapc.gencat.catformaciooberta.eapc.gencat.cat. Cal distingir-la del desistiment, que és la renúncia de l’interessat a continuar el procediment iniciat per ell mateix.
+
+
+Estructura / Esquemes
+
+
+Iniciació del procediment: pot començar d’ofici (per iniciativa de l’Administració, ja sigui a iniciativa pròpia, per ordre superior, a petició d’un altre òrgan o per denúncia) o a sol·licitud de part (mitjançant una instància del particular interessat)repositori-dsf.diba.cat. En la iniciació a instància de part, la sol·licitud escrita ha de contenir les dades d’identificació, els fets i la petició concreta, i s’ha de presentar preferentment pels canals habilitats (oficines de registre, seu electrònica, etc.)repositori-dsf.diba.catrepositori-dsf.diba.cat. Si la sol·licitud presenta defectes o omissions, l’Administració ha de requerir la seva esmena en un termini de 10 dies; en cas de no atendre’s el requeriment, es declararà el desistiment de la peticiórepositori-dsf.diba.cat. [AMPLIAT]
+
+
+Fase d’ordenació: l’òrgan instructor impulsa el procediment d’ofici, vetllant per la rapidesa i l’eficàcia en la tramitaciórepositori-dsf.diba.cat. Això implica realitzar d’un sol cop tots els tràmits que es puguin simultaniejar i evitar dilacions indegudes. En qualsevol moment es poden adoptar mesures provisionals per assegurar l’eficàcia de la resolució final (per exemple, la suspensió preventiva d’una activitat presumptament il·lícita), sempre que siguin proporcionades i no causin indefensiórepositori-dsf.diba.cat. [AMPLIAT]
+
+
+Fase d’instrucció: consisteix en les actuacions encaminades a determinar i verificar els fets rellevants per a la decisió finalrepositori-dsf.diba.cat. Inclou principalment: les al·legacions (escrits mitjançant els quals els interessats exposen el que considerin oportú en defensa del seu dret, en qualsevol moment abans del tràmit d’audiència)repositori-dsf.diba.cat; la pràctica de proves (per iniciativa administrativa o a sol·licitud de l’interessat, per acreditar els fets controvertits)repositori-dsf.diba.cat; i la petició d’informes interns o externs, que serveixen d’assessorament tècnic o jurídic per a la resoluciórepositori-dsf.diba.cat. Alguns informes són preceptius (obligatoris) i/o vinculants (obliguen a resoldre en el sentit que indiquin), segons ho estableixi una norma –per exemple, l’informe de l’interventor en matèria de despesa és preceptiu i vinculant en cas de falta de crèdit pressupostarirepositori-dsf.diba.catrepositori-dsf.diba.cat. En general, però, els informes no vinculants i la manca d’un informe preceptiu no impedeixen continuar el procediment un cop esgotat el termini per emetre’l (normalment 10 dies hàbils)repositori-dsf.diba.cat. Un cop instruït l’expedient amb totes les proves i informes necessaris, l’òrgan instructor pot formular una proposta de resolució, que recull els fets provats i la decisió que es preveu adoptar. [AMPLIAT]
+
+
+Tràmit d’audiència: abans de resoldre, s’ofereix als interessats la possibilitat de conèixer l’expedient i fer al·legacions finals o presentar documents addicionals en un termini no inferior a 10 dies i no superior a 15 diesrepositori-dsf.diba.cat. Aquest tràmit garanteix el principi de contradicció i evita indefensions. Es pot prescindir del tràmit d’audiència si només figuren al procediment els documents aportats pel mateix interessat o si aquest ha renunciat expressament al dret d’audiència. En procediments de caràcter general (p. ex. elaboració d’una disposició de caràcter general), l’audiència pot ser substituïda o complementada per un període d’informació pública perquè qualsevol ciutadà presenti observacionsrepositori-dsf.diba.cat. [AMPLIAT]
+
+
+Resolució i notificació: la resolució expressa és l’acte administratiu que decideix o posa fi al procediment, normalment pronunciant-se sobre la petició o assumpte de fons. Ha de ser una decisió motivada (excepte en casos de mera estimació de allò sol·licitat, on n’hi ha prou amb referir-s’hi) i incloure la cita de recursos procedents. La resolució pot ser normal (atorga o denega el que es demanava, posant fi al procediment) o anormal. Són finalitzacions anormals: el desistiment de l’interessat (retirada de la seva sol·licitud)repositori-dsf.diba.cat, la renúncia al dret que s’havia demanat exercirrepositori-dsf.diba.cat, la caducitat per inactivitat de l’interessat en tràmits indispensablesrepositori-dsf.diba.cat, la finalització per pacte o conveni entre Administració i interessat, o el silenci administratiu (positiu o negatiu) que hem explicat. En tots aquests casos, l’òrgan competent dicta una resolució declarativa (no de fons) que constata la circumstància escaient (p. ex. declaració de caducitat i arxiu de l’expedient)formaciooberta.eapc.gencat.cat. Finalment, la resolució s’ha de notificar als interessats amb plenitud d’efectes: això implica comunicar-ne el contingut íntegre, amb indicació de dates, recursos possibles, etc., seguint els requisits formals de notificació (preferentment per mitjans electrònics, segons la normativa actual). La notificació dins de termini és clau perquè l’eficàcia de la resolució tingui lloc; si es dicta en termini però es notifica fora de termini, s’entendrà produït el silenci administratiu (i l’acte exprés serà extemporani). [AMPLIAT]
+
+
+Principis / Regles
+
+
+Principi d’impuls d’ofici: l’Administració ha de tramitar el procediment sense esperar impulsos de la persona interessada en cada pasrepositori-dsf.diba.cat. Aquest principi assegura que la resolució arribi en un termini adequat, i està lligat al de celeritat.
+
+
+Principi de celeritat i eficàcia: els tràmits s’han d’efectuar amb diligència, evitant demores innecessàries, per assolir els objectius públics en terminirepositori-dsf.diba.cat. Els tràmits que es puguin fer simultàniament s’han d’agrupar en un sol acte per estalviar tempsrepositori-dsf.diba.cat. L’obligació legal de resoldre en termini és expressió del principi d’eficàcia administrativaformaciooberta.eapc.gencat.cat.
+
+
+Principi de contradicció: en virtut d’aquest, s’ha de garantir el dret dels interessats a ser escoltats i a aportar proves abans d’una decisió que els afecti (es materialitza sobretot en el tràmit d’audiènciarepositori-dsf.diba.cat). Relacionat amb aquest, el principi de transparència i dret d’accés a l’expedient permet que els afectats coneguin en tot moment l’estat de la tramitació.
+
+
+Principi de legalitat i jerarquia normativa: tot procediment es regeix per la llei aplicable; els actes dictats han de respectar l’ordenament jurídic en el contingut i en la forma. La normativa bàsica (Estat) estableix unes regles de procediment comunes que les CCAA i entitats locals han de respectar, amb possibilitat d’especialitats només quan la mateixa llei ho permetca.wikipedia.orgca.wikipedia.org.
+
+
+Seguretat jurídica: l’existència de terminis i del silenci administratiu garanteix a la ciutadania que la inacció administrativa no els deixarà en incertesa indefinida. Un cop finalitzat el termini sense resolució, l’interessat pot donar per resolt el procediment (per silenci) i, si escau, emprendre les accions oportunes (executar l’acte presumptament estimat, o recórrer contra la desestimació presumpte)formaciooberta.eapc.gencat.catformaciooberta.eapc.gencat.cat.
+
+
+Economia procedimental: el procediment no busca formalismes inútils; per això existeixen mecanismes com la simplificació (procediment simplificat per a casos senzills), la convalidació d’actes irregulars no essencials, o la comunicació prèvia i declaració responsable en substitució d’autoritzacions, quan la llei ho preveu. Aquests instruments redueixen càrregues als ciutadans mantenint les garanties bàsiques.
+
+
+Procediment i aplicació administrativa
+
+
+Actors i competències: en cada procediment hi intervenen diversos subjectes. L’òrgan competent per resoldre (fixat per llei o reglament) és qui dicta la decisió final. En procediments complexos pot existir un òrgan instructor separat, encarregat de la tramitació i proposta (p. ex., en sancions, un instructor i un sancionador). Els interessats (sol·licitants o tercers afectats) tenen dret a participar-hi presentant documents, al·legacions i recursos. També poden intervenir òrgans consultius o tècnics emetent informes (per exemple, el secretari o l’arquitecte municipal en un expedient d’obres). [AMPLIAT]
+
+
+Documentació i registres: la iniciació a instància de part es formalitza mitjançant un escrit de sol·licitud que queda registrat oficialment el dia d’entradarepositori-dsf.diba.cat. L’interessat té dret a obtenir un justificant del registre amb data i númerorepositori-dsf.diba.cat. Si aporta documents, pot presentar còpies autenticades; en cas contrari, l’Administració pot requerir els originals per compulsar-los i retornarlos-hirepositori-dsf.diba.cat. Totes les actuacions es documenten i s’incorporen a l’expedient administratiu, que avui dia és majoritàriament electrònic.
+
+
+Tràmits essencials: al llarg de la instrucció, alguns tràmits són preceptius: per exemple, sol·licitar determinats informes (jurídic, tècnic, intervenció econòmica) abans de resoldre, o donar audiència als interessatsrepositori-dsf.diba.catrepositori-dsf.diba.cat. L’absència d’un tràmit essencial pot causar la nul·litat o anul·labilitat de l’acte final per indefensió. Per contra, altres tràmits es poden ometre o unificar si no afecten garanties fonamentals. La normativa recent (Reial Decret 203/2021) impulsa l’administració electrònica perquè molts tràmits (presentació de sol·licituds, notificacions, pagament de taxes) es facin en línia, agilitzant el procediment. [AMPLIAT]
+
+
+Còmput de terminis: els terminis administratius es compten conforme a les regles de la Llei 39/2015. En procediments comuns, el termini per resoldre i notificar comença en la data d’inici (acord d’incoació d’ofici o recepció de la sol·licitud al registre)boe.es. Els terminis expressats en mesos vencen el mateix dia en què es compleix el termini en el mes corresponentformaciooberta.eapc.gencat.cat. El transcurs del termini es pot suspendre en situacions taxades, com ara quan es demana a l’interessat que esmeni la sol·licitud o aporti un document (el rellotge s’atura fins que ho faci, o fins que expiri el termini concedit)boe.es, o quan s’està pendent d’un informe preceptiu extern (suspensió màx. 3 mesos)boe.es, entre d’altres supòsits. En casos excepcionals, l’Administració pot ampliar el termini màxim inicial fins a la meitat més (p. ex. de 3 a 4,5 mesos) mitjançant acord motivat, abans del venciment, si s’han esgotat els mitjans disponibles per resoldre a tempsboe.esboe.es. [AMPLIAT]
+
+
+Execució i recursos: un cop notificada la resolució final, si és estimatòria l’Administració ha de complir-la en els seus propis termes; si és desestimatòria, l’interessat pot recórrer mitjançant els recursos administratius o jurisdiccionals pertinents (alçada, reposició, contenciós administratiu, etc.). El silenci administratiu negatiu habilita directament l’interessat per interposar el recurs en via administrativa o judicial, sense esperar cap resposta posteriorboe.esboe.es. Cal recordar que els recursos administratius contra actes expressos o presumptes també estan subjectes a terminis i al seu propi règim de silenci (generalment silenci desestimatori, tret de l’excepció del recurs d’alçada contra una desestimació per silenci, que si també silencia s’entén estimat)boe.es. [AMPLIAT]
+
+
+Normativa essencial (sigles — nom oficial — any/versió)
+
+
+LPACAP — Llei 39/2015, d’1 d’octubre, de Procediment Administratiu Comú de les Administracions Públiques — 2015.
+
+
+LRJPACat — Llei 26/2010, de 3 d’agost, de règim jurídic i de procediment de les administracions públiques de Catalunya — 2010.
+
+
+RD 203/2021 — Reial Decret 203/2021, de 30 de març, Reglament d’actuació i funcionament del sector públic per mitjans electrònics — 2021.
+
+
+Exemples i casos
+
+
+Exemple (test): Un particular sol·licita a l’ajuntament una llicència d’obra menor. Transcorren tres mesos sense que es notifiqui cap resolució. Segons la regla general, la sol·licitud s’entén estimada per silenci administratiu positiu, atès que ha vençut el termini màxim sense respostaformaciooberta.eapc.gencat.cat. (En canvi, si es tractés d’una llicència d’obra major en sòl protegit on la llei estableix silenci negatiu, s’entendria desestimada.)
+
+
+Micro-cas (pràctic): L’Administració inicia d’ofici un procediment sancionador urbanístic contra un promotor, però deixa transcórrer el termini legal de 6 mesos sense dictar resolució ni notificació. Punts clau de resolució: Ens trobem davant un procediment iniciat d’ofici i de caràcter desfavorable per a l’interessat; per tant, l’efecte de la manca de resolució en termini no és un silenci estimatori ni desestimatori, sinó la caducitat del procedimentformaciooberta.eapc.gencat.cat. L’òrgan competent haurà de dictar una resolució declarant la caducitat i l’arxiu de les actuacions, fet que impedeix sancionar en aquest expedient (sense perjudici que es pugui iniciar un nou procediment si la infracció no ha prescrit)formaciooberta.eapc.gencat.cat.
+
+
+Errors típics i mnemotècnies
+
+
+Confondre silenci positiu i negatiu: cal recordar que el silenci és positiu per norma general (sol·licituds estimades automàticament) i només és negatiu en matèries sensibles prefixades per la llei. Una ajuda mnemotècnica és associar els supòsits de silenci negatiu a situacions d’«interès general» o riscos: peticions constitucionals especials, concessions de domini públic, medi ambient, responsabilitat patrimonial, recursos i revisions (tots amb silenci negatiu)formaciooberta.eapc.gencat.catformaciooberta.eapc.gencat.cat.
+
+
+Oblidar de resoldre malgrat el silenci positiu: és un error pensar que l’Administració “ja no ha de fer res” si ha passat el termini i ha operat un silenci estimatori. En realitat, l’òrgan competent continua obligat a dictar la resolució expressa (extemporània) confirmant el sentit del silencirepositori-dsf.diba.catrepositori-dsf.diba.cat, per deixar constància formal de l’atorgament.
+
+
+No apreciar la caducitat d’ofici: en procediments iniciats per la pròpia Administració (p. ex. sancions, disciplinaris), un cop vençut el termini sense resolució, l’expedient no segueix obert de manera indefinida. L’Administració ha de declarar-ne la caducitat i arxivar-loformaciooberta.eapc.gencat.cat, cosa que equival a una finalització per expiració, separada de la figura del silenci administratiu (que només s’aplica a sol·licituds dels administrats).
+
+
+Desistiment vs renúncia: són figures diferents però sovint confoses. El desistiment és la retirada d’una sol·licitud per part de l’interessat, finalitzant el procediment sense entrar en el fons (es formula expressament o per inacció en l’esmena de defectes)repositori-dsf.diba.cat. La renúncia és l’abandonament d’un dret ja reconegut o de la pretensió que es perseguia amb la sol·licitudrepositori-dsf.diba.cat. Totes dues comporten l’arxiu de l’expedient, però en la renúncia l’interessat perd el dret substantiu, mentre que en el desistiment simplement s’atura aquell procediment.
+
+
+Ometre el tràmit d’audiència: donar per fet que no cal escoltar l’interessat abans de resoldre és un error greu que pot vulnerar la seva defensa. L’audiència és obligatòria en termes generals, excepte quan la pròpia persona interessada ja ha aportat tots els elements i coneix el sentit de la resolució que se li atorgarà (o hi renúncia)repositori-dsf.diba.cat. És preferible pecar d’excés i oferir tràmit d’audiència fins i tot en casos senzills, abans que dictar una resolució sense aquesta garantia.
+ Mnemotècnia: “POS–NO; NEG–REC” – POSitiu si NO hi ha norma en contra; NEGatiu en RECorreguts especials i casos qualificats. Aquesta frase ajuda a recordar que el silenci és positiu per defecte, i només negatiu en recursos i assumptes d’altres lleis que així ho estableixin (dret de petició, domini públic, medi ambient, etc.).
+
+
+Glossari mínim
+
+
+Acte administratiu: decisió formal dictada per un òrgan administratiu en exercici de funcions públiques, que produeix efectes jurídics individuals. Pot ser exprés (per escrit i notificat) o presumpte (tàcit, deduït per silenci administratiu)formaciooberta.eapc.gencat.catrepositori-dsf.diba.cat.
+
+
+Procediment administratiu: conjunt seqüencial de tràmits legalment establerts perquè l’Administració formuli i executi un acte administratiu, garantint els drets de les parts. És com el procés en l’àmbit administratiu, amb fases d’inici, instrucció i resolucióboe.es.
+
+
+Silenci administratiu positiu/estimatori: inactivitat de l’Administració que dona lloc a un acte presumptament favorable a la sol·licitud de l’interessat. Equivalent a una estimació tàcita: l’interessat pot considerar concedit el que va demanar en termini si no rep resolució en contraformaciooberta.eapc.gencat.cat. Excepte en matèries on una llei estableix silenci negatiu (vegeu excepcions).
+
+
+Silenci administratiu negatiu/desestimatori: manca de resolució expressa que es tradueix en un refús presumpte de la sol·licitud. L’interessat no obté el que demanava, però aquest silenci desestimatori li permet recórrer l’acte com si hi hagués una denegació expressaboe.esboe.es.
+
+
+Caducitat del procediment: finalització del procediment per venciment del termini màxim sense resolució, aplicable a procediments iniciats d’ofici que podien resultar desfavorables per a l’administrat (p. ex. sancions)formaciooberta.eapc.gencat.cat. La caducitat implica l’extinció del procediment amb arxiu, però no extingeix el dret de l’Administració a iniciar-ne un de nou sobre els mateixos fets si encara hi és a temps (no prescrit)formaciooberta.eapc.gencat.cat.
+
+
+Desistiment: acte voluntari pel qual la persona interessada retira la seva sol·licitud o renuncia a la continuació del procediment. Suposa la finalització de l’expedient sense entrar en el fons, amb arxiu per part de l’Administraciórepositori-dsf.diba.cat.
+
+
+Declaració responsable: document subscrit per un interessat on manifesta, sota la seva responsabilitat, que compleix els requisits establerts per la normativa per accedir a un dret o activitat. Quan la llei permet substituir una autorització prèvia per una declaració responsable, l’Administració no dicta una resolució d’autorització, sinó que es limita a rebre i verificar a posteriori la declaració. Durant el procediment comú, un procediment iniciat amb declaració responsable es considera finalitzat amb la mera presentació, eximit de resolució expressa (excepció a l’obligació de resoldre)formaciooberta.eapc.gencat.cat.
+
+
+Resum final (4–6 línies): El procediment administratiu comú és l’eix que ordena l’actuació de les Administracions públiques, des de l’inici de cada assumpte fins a la seva conclusió. La Llei 39/2015 configura un marc comú de tràmits (iniciació, instrucció i resolució) que garanteix eficàcia en la gestió i respecte pels drets dels ciutadansboe.esboe.es. Un principi fonamental és l’obligació de resoldre i notificar totes les sol·licituds i expedients en termini, sota pena de responsabilitat si s’incompleixformaciooberta.eapc.gencat.cat. En cas de silenci administratiu, s’atribueix un efecte jurídic automàtic per protegir l’administrat: normalment favorable (silenci positiu), excepte en àmbits d’interès general on la llei imposa silenci negatiuformaciooberta.eapc.gencat.catformaciooberta.eapc.gencat.cat. Encara així, l’Administració ha d’emetre igualment la resolució fora de termini, i en procediments iniciats per ella mateixa procedirà a declarar la caducitat si correspon, assegurant la seguretat jurídica i posant fi a la incertesa sobre l’expedient.
+Bloc d’examen
+ • Quina de les següents afirmacions descriu correctament l’obligació de resoldre?
+ a) Només s’aplica als procediments iniciats a petició d’un interessat.
+ b) Només s’aplica als procediments iniciats d’ofici.
+ c) S’aplica en tots els procediments, sigui quin sigui el mode d’inici, excepte en cas de finalització per pacte, conveni o procediments basats en declaració responsable/comunicació prèvia. (Correcta)repositori-dsf.diba.cat
+ d) Decau si opera el silenci positiu (no cal dictar resolució expressa en aquest cas).
+• Si la normativa reguladora d’un procediment no fixa un termini màxim per resoldre i notificar, quin termini s’aplica amb caràcter general segons la Llei 39/2015?
+ a) 6 mesos.
+ b) 3 mesos. (Correcta)formaciooberta.eapc.gencat.cat
+ c) 1 mes.
+ d) No existeix un termini màxim general, es resol quan sigui possible.
+• En els procediments iniciats a sol·licitud de la persona interessada, quin és el règim general del silenci administratiu?
+ a) Té efectes desestimatoris, tret que una norma estableixi el contrari.
+ b) Té efectes estimatoris, tret dels supòsits excepcionats per norma amb rang de llei. (Correcta)formaciooberta.eapc.gencat.catformaciooberta.eapc.gencat.cat
+ c) Sempre és positiu, sense excepcions.
+ d) No produeix cap efecte jurídic; cal esperar igualment la resolució expressa.
+• Quin dels supòsits següents es regeix, per defecte, pel silenci administratiu negatiu (desestimatori)?
+ a) Una petició presentada a l’empara de l’article 29 CE (dret de petició). (Correcta)formaciooberta.eapc.gencat.cat
+ b) Una sol·licitud ordinària de llicència urbanística per construir un habitatge unifamiliar.
+ c) La petició d’un certificat d’empadronament en un municipi.
+ d) La sol·licitud d’una subvenció municipal per part d’un ciutadà.
+• Transcorregut el termini legal sense resoldre un procediment sancionador iniciat d’ofici, què succeeix?
+ a) S’entén estimat per silenci positiu i s’arxiva l’expedient.
+ b) S’entén desestimat per silenci negatiu, quedant ferma la sanció proposada.
+ c) Es produeix la caducitat del procediment i s’ha d’arxivar l’expedient per expiració del termini. (Correcta)formaciooberta.eapc.gencat.cat
+ d) S’entén que l’interessat ha desistit tàcitament i no es continua el procediment.
+
+

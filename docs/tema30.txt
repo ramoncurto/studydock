@@ -1,0 +1,196 @@
+Llicències urbanístiques: règim jurídic i caducitat. Llicències per a l’execució d’obres: projecte tècnic d’obres. 
+Visió global
+La llicència urbanística és l’acte administratiu de control preventiu, reglat i declaratiu, mitjançant el qual l’Ajuntament verifica l’adequació d’una actuació (com l’execució d’obres) a l’ordenament jurídic urbanístic (principalment el TRLUC i el planejament municipal).1 Aquest règim de llicència coexisteix amb el de comunicació prèvia, i la línia divisòria fonamental entre ambdós la marca l'exigència o no d'un projecte tècnic, segons la definició de la Llei d'Ordenació de l'Edificació (LOE).3 La llicència no és perpètua; està subjecta a caducitat (Art. 189 TRLUC) si no s'inicien o s'interrompen les obres en els terminis fixats, tot i que aquesta caducitat requereix un procediment administratiu formal que inclogui l'audiència al titular.5 Finalment, el projecte tècnic, especialment el d'execució, esdevé el document central que defineix legalment i constructivament l'obra, servint com a base per a la sol·licitud, el control municipal i l'exigència de responsabilitats als agents de l'edificació.
+Checklist d’estudi
+Diferenciar clarament els actes subjectes a llicència (Art. 187 TRLUC) dels subjectes a comunicació prèvia (Art. 187 bis TRLUC).3
+Memoritzar el pivot: la necessitat de projecte tècnic segons la LOE és el que generalment distingeix la llicència (187.1.c) de la comunicació (187 bis.a).3
+Comprendre el règim de la "primera ocupació": parcial (requereix llicència, 187.1.d) vs. total (és comunicació prèvia, 187 bis.b).3
+Dominar el procediment de caducitat: Art. 189 TRLUC i Art. 37-38 RPLU.10
+Recordar que la caducitat NO és automàtica; requereix un procediment exprés amb audiència prèvia obligatòria.
+Assimilar els terminis de resolució de llicències (2 mesos amb projecte / 1 mes la resta) i el sentit del silenci administratiu.12
+Entendre l'excepció crítica al silenci positiu: Art. 5.2 TRLUC (mai no s'atorguen facultats contra legem o planejament).12
+Conèixer el contingut mínim del projecte d'execució (LOE Art. 10) i el rol de l'Arquitecte Tècnic.7
+Identificar la nova "llicència bàsica prèvia" del Decret Llei 2/2025: què és, per a què serveix (HPO) i la nova responsabilitat solidària del tècnic.14
+--- criteris, definicions operatives, punts de memòria ---
+Desenvolupament
+1) Conceptes clau i definicions
+Llicència urbanística: Acte administratiu municipal. És l'eina de control preventiu (abans de l'execució). Té naturalesa reglada (l'ajuntament no té discrecionalitat; si compleix la norma, ha d'atorgar) i declarativa (no crea drets nous, sinó que constata que l'exercici del dret de propietat s'ajusta a la llei).1 S'atorga "salvat el dret de propietat i sens perjudici del de tercers".
+Règim de comunicació prèvia: Tècnica de control a posteriori. L'administrat presenta un document on manifesta que compleix els requisits i adjunta la documentació tècnica necessària. Habilita l'inici de l'activitat (l'endemà de la comunicació) sota la seva responsabilitat, sense perjudici de la posterior comprovació municipal.
+Projecte Tècnic (LOE): Conjunt de documents que defineix una obra d'edificació. La LOE (Llei 38/1999) n'és el marc estatal.4 Es divideix en Projecte Bàsic (defineix la forma, ús i volumetria) i Projecte d'Execució (defineix constructivament l'obra; és el document base per a la llicència d'execució i per a la construcció).7
+Tècnic competent (LOE): La LOE defineix els agents de l'edificació. L'Arquitecte Tècnic (Aparellador) és competent per, entre altres, assumir la direcció de l'execució material de l'obra i el control de qualitat.17
+Caducitat: Forma d'extinció d'un acte administratiu (la llicència) pel transcurs del temps fixat per a l'exercici del dret (iniciar o acabar l'obra), prèvia declaració administrativa.5
+Actes contra legem: Actuacions contràries a la llei o al planejament urbanístic (POUM, etc.).
+2) Estructura / Esquemes
+** Règims d'Intervenció Urbanística a Catalunya (TRLUC)**
+
+Criteri
+LLICÈNCIA URBANÍSTICA (Art. 187 TRLUC)
+COMUNICACIÓ PRÈVIA (Art. 187 bis TRLUC)
+Naturalesa
+Acte administratiu exprés. Control a priori (preventiu).1
+Acte de l'administrat. Control a posteriori.
+Habilitació
+L'eficàcia s'inicia amb la notificació de l'acte d'atorgament.
+Habilita per a l'execució l'endemà de la presentació (o termini indicat).
+Actes Clau
+1. Obres amb projecte tècnic (segons LOE).
+
+2. Parcel·lacions.
+
+3. Canvi d'ús a residencial.
+
+4. Ocupació parcial.
+
+5. Intervenció en béns protegits.
+1. Obres sense projecte tècnic (segons LOE).
+
+2. Canvi d'ús (excepte a residencial).
+
+3. Primera utilització i ocupació total.8
+
+4. Murs i tanques.
+Termini Resolució
+2 mesos (amb projecte)
+
+1 mes (resta).12
+No hi ha resolució (és control a posteriori).
+Silenci Admin.
+Positiu (Estimatori).12
+No aplica (no hi ha sol·licitud).
+Excepció Crítica
+Art. 5.2 TRLUC: El silenci MAI no atorga facultats contra la llei o el planejament.12
+N/A
+
+** Procediment de Declaració de Caducitat (Art. 189 TRLUC / Art. 37-38 RPLU)**
+Fet: Incompliment del termini (inici o fi) fixat a la llicència.6
+Actuació: Constatació per serveis tècnics municipals (informe).
+Inici: Decret o acord d'incoació de l'expedient de caducitat.
+Tràmit Essencial: Notificació i audiència prèvia a la persona titular (termini de 10-15 dies per al·legar).6
+Finalització: Resolució expressa de l'òrgan competent declarant la caducitat.
+Efectes: Extinció de la llicència. Les obres executades posteriorment són il·legals. Per continuar, cal sol·licitar nova llicència (adaptada a la normativa vigent).18
+3) Principis / Regles
+Principi de legalitat i caràcter reglat (Art. 188.1 TRLUC): La llicència és un acte 100% reglat. L'Administració no té marge de discrecionalitat. Si el projecte s'ajusta al TRLUC i al POUM, té l'obligació d'atorgar-la. Si no s'hi ajusta, té l'obligació de denegar-la.
+Principi de tipicitat (TRLUC): L'Administració només pot exigir l'obtenció de llicència o la presentació d'una comunicació prèvia per als actes expressament llistats als articles 187 i 187 bis del TRLUC.3 No pot inventar nous actes subjectes a control ni intercanviar els règims.
+La gran excepció del silenci (Art. 5.2 TRLUC): Aquest és un pilar del dret urbanístic català. La Llei 39/2015 (LPACAP) estableix el silenci positiu com a regla general, i el TRLUC la recull (Art. 188.2), indicant que el termini per resoldre (ex. 2 mesos) és de caducitat i el silenci és estimatori.12 Tanmateix, l'Art. 5.2 actua com a fre: "En cap cas no es poden considerar adquirides per silenci administratiu facultats urbanístiques que contravinguin" la llei o el planejament.12
+Implicació pràctica: Un silenci positiu d'una llicència que incompleix el planejament (ex. més alçada) és un acte nul de ple dret. L'Administració pot (i ha de) revisar-lo d'ofici (declarar la nul·litat) en qualsevol moment, i el promotor no haurà adquirit cap dret, tot i tenir el "silenci a favor".19
+Principi de proporcionalitat (Art. 189 TRLUC): Els terminis de caducitat (inici i fi) que fixa la llicència s'han d'establir "en funció del principi de proporcionalitat", és a dir, adaptats a la complexitat i magnitud de l'obra. El RPLU (Art. 37) estableix supletoris (1 any per iniciar / 3 anys per acabar) si la llicència no diu res, però la llicència hauria de motivar-los.18
+4) Procediment i aplicació administrativa
+A. Atorgament de Llicències (Art. 188 TRLUC i RPLU)
+Iniciació: Sol·licitud de l'interessat, acompanyada de la documentació exigida per les ordenances municipals i, si escau, del projecte tècnic.
+Projecte Tècnic: Ha d'incloure el contingut mínim de la LOE: memòria, plànols, plec de condicions i pressupost. Si és obra d'edificació, caldrà projecte bàsic i d'execució (o un d'integrat).13
+Instrucció: Comprovació de la documentació i adequació al planejament.
+Esmena de deficiències (10 dies segons LPACAP).
+Informes tècnics i jurídics municipals.
+Suspensió de terminis: Si es requereixen informes sectorials preceptius (ex. Patrimoni, Carreteres, Incendis), el termini de resolució s'atura fins que aquests responguin (amb un límit màxim de 3 mesos de suspensió).12
+Terminació (Terminis de Resolució):
+2 mesos: Per a llicències que requereixen projecte tècnic.12
+1 mes: Per a la resta de llicències.12
+Efectes del Silenci Administratiu:
+Regla: Positiu (Estimatori).2
+Excepció Clau: Art. 5.2 TRLUC. El silenci estimatori és un acte anul·lable (o nul si és contra legem) si el projecte no s'ajustava a la legalitat.12 No es pot confiar cegament en el silenci per construir il·legalment.
+B. Règim de Caducitat (Art. 189 TRLUC i Art. 37-38 RPLU)
+Fonament: La llicència no és perpètua. S'atorga per ser executada en un temps raonable.
+Supòsits: S'incompleixen els terminis fixats a la pròpia llicència per: 1) Iniciar les obres, o 2) Acabar les obres.10
+Procediment (No automàtic): L'Administració ha de declarar la caducitat.
+S'incoa l'expedient (d'ofici o a instància de part).
+Es dóna audiència prèvia obligatòria a la persona titular.6 Aquest és un tràmit essencial; la seva omissió vicia de nul·litat el procediment.
+Es resol de forma expressa.
+Pròrrogues (Art. 37.3 RPLU): L'interessat pot sol·licitar pròrroga dels terminis.
+Moment Clau: La sol·licitud ha de ser abans que el termini (d'inici o fi) hagi expirat. Una sol·licitud de pròrroga d'un termini ja vençut serà denegada.10
+Efectes de la Caducitat:
+Extinció de la llicència i del dret a edificar.
+Risc Normatiu: Si la llicència caduca, per poder executar l'obra, caldrà demanar una nova llicència. Aquesta nova llicència s'haurà d'ajustar al planejament vigent en el moment de la nova sol·licitud, no al planejament de la llicència original.18
+C. El Projecte Tècnic en la Llicència d'Obres (LOE 38/1999)
+El Vessant TRLUC-LOE: El TRLUC (Art. 187.1.c) exigeix llicència per a obres que requereixin projecte tècnic d'acord amb la legislació sobre ordenació de l'edificació. Aquesta legislació és la LOE.
+Obres subjectes a Projecte (LOE Art. 2.2): La LOE exigeix projecte per a (entre altres): (a) Obres de nova construcció (excepte les de senzillesa tècnica i escassa entitat) 13, (b) Obres d'ampliació, modificació, reforma o rehabilitació que alterin la configuració arquitectònica (afectant volum, estructura, ús o façana), (c) Obres que tinguin caràcter d'intervenció total en edificis catalogats.
+El Rol de l'AT: L'Arquitecte Tècnic és l'agent de l'edificació que, com a part de la direcció facultativa, assumeix la funció de dirigir l'execució material de l'obra i controlar la qualitat del construït, verificant que s'ajusta al projecte que va obtenir la llicència.17
+Contingut del Projecte (LOE Art. 10):
+Una memòria (justificació de solucions i compliment del CTE i normativa urbanística).
+Plànols (definició gràfica de l'obra).
+Un plec de condicions (clàusules tècniques i legals de l'execució).
+Un pressupost (amidaments i valoració).
+Estudi de Seguretat i Salut (o Bàsic), segons RD 1627/1997.21
+Estudi de Gestió de Residus.
+D. Novetat: La "Llicència Bàsica Prèvia" (Art. 188.3 ter TRLUC)
+Origen: Introduït pel Decret Llei 2/2025 (de 25 de febrer) de mesures urgents en habitatge i urbanisme.14
+Àmbit d'aplicació: Molt restringit. Només per a obres de nova planta, substitució o rehabilitació destinades a habitatge de protecció pública (HPO).15
+Funcionament: És un procediment bifàsic:
+Es sol·licita la Llicència Bàsica Prèvia (LBP) amb el Projecte Bàsic.
+L'Ajuntament té 1 mes per resoldre la LBP.15
+Si s'atorga, habilita per a l'execució de les obres.15
+En paral·lel, el procediment continua fins a obtenir la llicència urbanística completa (amb l'executiu).15
+Risc i Responsabilitat: És una mesura d'agilització (per combatre la crisi d'habitatge) que trasllada el risc.14 L'inici de l'obra es fa sota responsabilitat solidària del promotor, el constructor i la direcció facultativa (Arquitecte i AT).15
+Problemàtica (COAC): El Col·legi d'Arquitectes (COAC) ha alertat dels riscos 15: si s'atorga la LBP, comencen les obres, i després es denega la llicència urbanística (per problemes amb l'executiu), les obres queden sense ús, i l'AT és responsable solidari. Genera inseguretat jurídica i problemes de cobertura per les assegurances de RC.15
+5) Normativa essencial (sigles — nom oficial — any/versió)
+TRLUC: Decret Legislatiu 1/2010, de 3 d'agost. Text refós de la Llei d’urbanisme de Catalunya (Text consolidat a 2025).22
+RPLU: Decret 64/2014, de 13 de maig. Reglament sobre protecció de la legalitat urbanística.24
+LOE: Llei 38/1999, de 5 de novembre. Llei d'Ordenació de l'Edificació (Normativa estatal bàsica).16
+LPACAP: Llei 39/2015, d'1 d'octubre. Llei del Procediment Administratiu Comú de les Administracions Públiques (Normativa estatal bàsica).
+** DL 2/2025:** Decret Llei 2/2025, de 25 de febrer. Mesures urgents en matèria d'habitatge i urbanisme (Modifica el TRLUC).14
+6) Exemples i casos
+Exemple (Test - Règim d'Intervenció):
+Segons el TRLUC, quina d'aquestes actuacions està subjecta a LLICÈNCIA URBANÍSTICA?
+a) La primera utilització i ocupació total d'un edifici d'habitatges.
+b) Un canvi d'ús d'un local comercial a oficina.
+c) La instal·lació de panells solars fotovoltaics sobre coberta.
+d) La primera utilització i ocupació parcial de la planta baixa comercial d'un edifici en construcció.
+(Orientació: La resposta correcta és la (d). La (a) i (b) són comunicació prèvia (Art. 187 bis). La (c) té règim especial de comunicació (Art. 187 bis.h) ).
+Exemple (Test - Silenci Administratiu):
+Un promotor sol·licita llicència d'obra major (amb projecte) el 10 de gener. El 20 d'abril (més de 3 mesos després) l'Ajuntament no ha respost. El projecte, però, incompleix l'alçada màxima reguladora del POUM en 1 metre. Quina és la situació jurídica?
+a) El silenci és positiu i el promotor ha obtingut la llicència legalment.
+b) El silenci és negatiu, ja que es tracta d'obra major.
+c) El silenci és positiu (Art. 188.2 TRLUC), però l'acte és nul de ple dret per contravenir el planejament (Art. 5.2 TRLUC).12
+d) El silenci és positiu, i l'Ajuntament ja no pot reaccionar contra l'incompliment del POUM.
+(Orientació: La resposta correcta és la (c). Aquesta és la doctrina clau del silenci en urbanisme).
+Micro-cas (Caducitat):
+Una llicència d'obres atorgada el 2022 fixa un termini d'inici d'1 any i d'execució de 3 anys. El promotor no inicia les obres en el primer any. L'any 2024, l'Ajuntament inicia l'expedient de caducitat i, després del tràmit d'audiència, la declara caducada. El promotor al·lega que el planejament no ha canviat. Té raó?
+Orientació de resposta: El promotor no té raó. La caducitat (Art. 189 TRLUC) es basa en un fet objectiu: l'incompliment dels terminis d'execució.6 És irrellevant si el planejament ha canviat o no. El fet que l'Ajuntament hagi complert el procediment (incoació + audiència prèvia ) fa que l'acte de declaració de caducitat sigui vàlid. El promotor ha perdut el seu dret a edificar sota aquella llicència.
+7) Errors típics i mnemotècnies
+Error Típic 1: La Caducitat Automàtica. Pensar que si el termini expira, la llicència "mor" sola. FALS. La caducitat requereix un acte administratiu exprés que la declari, amb audiència prèvia obligatòria.6 Si l'Ajuntament no ho fa, la llicència (tècnicament) segueix vigent.
+Error Típic 2: El Silenci "Contra Legem". Confiar en el silenci positiu (2 mesos) per "colar" un projecte que incompleix el POUM. FALS. L'Art. 5.2 TRLUC és una barrera absoluta. El silenci mai no pot emparar il·legalitats.12
+Error Típic 3: La Primera Ocupació. Confondre el règim d'ocupació. L'ocupació total (el final d'obra habitual) és una comunicació prèvia (Art. 187 bis.b).8 Només l'excepcional ocupació parcial (ex. ocupar el local mentre es fan els pisos) requereix llicència (Art. 187.1.d).
+Mnemotècnia (Règims): P = L (Projecte = Llicència). La forma més ràpida de saber el règim és preguntar: "Aquesta obra requereix Projecte Tècnic segons la LOE?" Si la resposta és SÍ (ex. afecta estructura, volum, ús residencial), gairebé segur que és LLICÈNCIA (Art. 187). Si és NO (ex. reforma de bany, pintar façana), és COMUNICACIÓ (Art. 187 bis).
+8) Glossari mínim
+Acte reglat: Actuació administrativa sense marge de discrecionalitat. L'Administració es limita a comprovar si es compleixen els requisits legals.
+Contra legem: Actuació contrària a la llei.
+Direcció Facultativa: Equip tècnic (Arquitecte com a Director d'Obra i Arquitecte Tècnic com a Director d'Execució d'Obra) responsable de l'execució d'una obra segons la LOE.17
+POUM: Pla d'Ordenació Urbanística Municipal. Norma de rang reglamentari que estableix què, com i on es pot construir en un municipi.
+Resum final
+Aquests apunts han definit la llicència urbanística com l'acte reglat de control preventiu (Art. 187 TRLUC), diferenciat de la comunicació prèvia (Art. 187 bis). La frontera clau entre ambdós règims és l'exigència d'un projecte tècnic, el contingut del qual ve definit per la LOE estatal. Hem analitzat el procediment d'atorgament, destacant el termini de 2 mesos per resoldre (amb projecte) i el sentit positiu del silenci, matisat per la regla crucial de l'Art. 5.2 TRLUC: el silenci mai no empara actes contra legem. Finalment, s'ha detallat la caducitat (Art. 189 TRLUC) com un procediment no automàtic que requereix audiència prèvia, i s'ha introduït la nova "llicència bàsica prèvia" del DL 2/2025 per a HPO, que implica una responsabilitat solidària per a la direcció tècnica.
+Bloc d’examen
+Preguntes Tipus Test
+1. (Novetat DL 2/2025) En relació amb la nova "llicència bàsica prèvia" introduïda al TRLUC pel DL 2/2025:
+a) S'aplica a totes les obres majors per agilitzar-les.
+b) Permet iniciar obres d'HPO amb el projecte bàsic, sota responsabilitat solidària de la direcció facultativa.15
+c) Substitueix la llicència d'obres, que ja no caldrà demanar.
+d) Atorga un termini de 2 mesos a l'Ajuntament per resoldre.
+2. (Caducitat) Un Ajuntament detecta que una llicència d'obra major ha incomplert el termini d'inici d'obres. Què ha de fer l'Ajuntament per extingir-la?
+a) No cal fer res, la llicència ha caducat automàticament en vèncer el termini.
+b) Publicar la caducitat al DOGC sense més tràmits.
+c) Incoar un expedient, donar audiència prèvia a la persona titular i dictar una resolució expressa declarant la caducitat.6
+d) Concedir una pròrroga d'ofici al promotor per garantir el dret a l'edificació.
+3. (Silenci Administratiu) Un promotor sol·licita una llicència d'obres que requereix projecte tècnic. Transcorren 3 mesos sense resposta municipal. El projecte és 100% correcte i s'ajusta al POUM. Quins són els efectes del silenci?
+a) Desestimatori, sempre cal resolució expressa per a obres majors.
+b) Estimatori (positiu), ja que ha transcorregut el termini de 2 mesos i el projecte s'ajusta a la legalitat.2
+c) Desestimatori, perquè l'Art. 5.2 TRLUC impedeix el silenci positiu en urbanisme.
+d) Estimatori, però el promotor haurà de demanar un certificat d'acte presumpte per poder iniciar les obres.
+4. (Règim d'Intervenció) Un propietari vol fer una reforma integral en un pis (sòl urbà) que implica l'enderroc de diversos envans i la substitució de les instal·lacions, però sense afectar l'estructura ni la façana. Segons la LOE, aquesta actuació no requereix projecte tècnic. Quin règim d'intervenció s'aplica?
+a) Llicència d'obra major (Art. 187.1.c TRLUC).
+b) Comunicació prèvia (Art. 187 bis.a TRLUC).
+c) Llicència d'obra menor (Art. 187).
+d) No està subjecte a intervenció.
+(Respostes correctes: 1-b, 2-c, 3-b, 4-b)
+Micro-cas Pràctic
+Un promotor vol rehabilitar un edifici d'habitatges catalogat (BCIL - Bé Cultural d'Interès Local) en sòl urbà. L'actuació implica la substitució de part de l'estructura (forjats) i la remunta d'una planta (addició de volum). Com a Arquitecte Tècnic de l'oficina tècnica municipal, heu de preparar l'informe sobre el règim d'intervenció i la documentació mínima exigible.
+Punts clau de resolució:
+Règim d'Intervenció: Llicència urbanística (Art. 187 TRLUC). L'actuació hi està subjecta per un doble motiu:
+Justificació 1 (Obra Major): L'actuació (rehabilitació amb substitució d'estructura i ampliació de volum) requereix projecte tècnic segons la LOE (Art. 2.2).13 Per tant, cau sota l'Art. 187.1.c del TRLUC.
+Justificació 2 (Patrimoni): Es tracta d'una intervenció en un bé sotmès a règim de protecció patrimonial (BCIL). Per tant, cau sota l'Art. 187.2.a del TRLUC.
+Documentació Tècnica (Contingut Mínim):
+S'exigirà un Projecte Tècnic complet (Bàsic i d'Execució) subscrit per tècnic competent (Arquitecte, i Arquitecte Tècnic per a l'execució).7
+El projecte haurà d'incloure (LOE Art. 10): Memòria justificativa del compliment del POUM (normes de la fitxa del Catàleg) i del CTE, Plànols detallats (estat actual i reformat), Plec de condicions i Pressupost.
+A més, haurà d'incloure un Estudi de Seguretat i Salut.21
+Informes Sectorials (Procediment):
+Atès que és un BCIL, caldrà un informe preceptiu i vinculant de la Comissió de Patrimoni (municipal o de la Generalitat, segons competències).
+L'Ajuntament haurà de sol·licitar aquest informe, i el termini de 2 mesos per resoldre la llicència quedarà suspès fins a la seva recepció (màxim 3 mesos).12
+

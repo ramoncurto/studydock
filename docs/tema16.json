@@ -1,0 +1,427 @@
+{
+  "metadata": {
+    "title": "El règim urbanístic del sòl",
+    "subject": "Urbanisme",
+    "topic": "Classificació i qualificació del sòl, règim urbanístic del subsol",
+    "keywords": [
+      "classificació sòl",
+      "qualificació",
+      "sòl urbà",
+      "==sòl urbanitzable==",
+      "==sòl no urbanitzable==",
+      "POUM",
+      "subsol"
+    ],
+    "difficulty": "avançat",
+    "estimatedTime": "50 min"
+  },
+  "sections": [
+    {
+      "id": "visio-global",
+      "title": "Visió Global",
+      "level": 1,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "El règim urbanístic del sòl constitueix la pedra angular de l'ordenació del territori. És la funció pública que defineix el contingut del dret de propietat, establint què es pot fer, on i com, en cada porció del territori. Aquesta regulació s'articula mitjançant dues tècniques fonamentals: la classificació, que assigna a cada terreny un règim jurídic general, i la qualificació, que en detalla els usos i paràmetres edificatoris concrets."
+        },
+        {
+          "type": "paragraph",
+          "text": "L'objectiu final és garantir un desenvolupament urbanístic sostenible, que equilibri les necessitats de creixement amb la protecció dels valors ambientals i la cohesió social. El marc normatiu opera a dos nivells: la legislació estatal (TRLSRU) estableix les condicions bàsiques i les situacions fàctiques del sòl; mentre que la legislació autonòmica a Catalunya (TRLUC) desenvolupa el sistema de planejament propi."
+        },
+        {
+          "type": "paragraph",
+          "text": "L'instrument clau d'aplicació és el ==Pla d'Ordenació Urbanística Municipal== (==POUM==), que tradueix aquestes lleis en un mapa detallat de drets i deures per a tot el terme municipal."
+        }
+      ]
+    },
+    {
+      "id": "checklist",
+      "title": "Checklist d'Estudi",
+      "level": 1,
+      "content": [
+        {
+          "type": "list",
+          "title": "Punts clau per dominar el tema",
+          "items": [
+            "Dominar la diferència conceptual entre classificació (règim general del sòl) i qualificació (ús i edificabilitat concrets)",
+            "Memoritzar les tres classes de sòl del TRLUC: ==sòl urbà== (consolidat/no consolidat), ==sòl urbanitzable== (delimitat/no delimitat) i ==sòl no urbanitzable==",
+            "Comprendre les dues situacions bàsiques del sòl del TRLSRU (rural i urbanitzat) i la seva relació amb les classes catalanes",
+            "Identificar els drets i deures dels propietaris per a cada classe i subclasse de sòl, especialment les obligacions de cessió i de costejament de la urbanització",
+            "Conèixer els usos i construccions permeses en ==sòl no urbanitzable==, segons l'article 47 del TRLUC",
+            "Entendre el règim jurídic del subsol, incloent les limitacions i servituds per a serveis públics",
+            "Esquematitzar les fases clau del procediment d'aprovació d'un ==POUM==",
+            "Definir amb precisió conceptes clau: solar, ==aprofitament urbanístic==, cessió, sistemes i zones"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "conceptes-clau",
+      "title": "Conceptes Clau i Definicions",
+      "level": 1,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Per a una correcta comprensió del règim urbanístic, és imprescindible dominar una sèrie de conceptes fonamentals que estructuren tota la disciplina."
+        },
+        {
+          "type": "subsection",
+          "title": "La Distinció Fonamental: Classificació vs. Qualificació",
+          "items": [
+            "Aquests dos conceptes, tot i que relacionats, responen a moments i finalitats diferents dins del planejament. La seva confusió és un error comú i greu en un examen.",
+            {
+              "type": "definition",
+              "term": "Classificació del sòl",
+              "details": [
+                "És l'operació urbanística primordial que realitza el ==POUM==",
+                "Consisteix a dividir la totalitat del sòl d'un terme municipal en tres grans categories o classes, que són mútuament excloents: ==sòl urbà==, ==sòl urbanitzable== i ==sòl no urbanitzable==",
+                "Aquesta decisió defineix el model de territori i estableix el règim jurídic general de drets i deures per a cada terreny",
+                "Respon a la pregunta estratègica: 'Aquest sòl forma part de la ciutat existent, està previst per al seu creixement futur, o ha de ser preservat de la transformació urbanística?'",
+                "Les classes de sòl estan taxades per la llei; el planejament no en pot crear de noves"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Qualificació del sòl",
+              "details": [
+                "És l'operació de detall que succeeix a la classificació",
+                "Consisteix a assignar a cada terreny, especialment en ==sòl urbà== i urbanitzable, uns usos concrets (residencial, industrial, comercial), una intensitat (edificabilitat, densitat d'habitatges) i una tipologia edificatòria (edificació aïllada, en filera)",
+                "La qualificació és, en essència, la tècnica de zonificació (zoning)",
+                "Respon a la pregunta operativa: 'Què es pot construir exactament aquí, i amb quines condicions?'"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "Les Eines de la Qualificació: Sistemes i Zones",
+          "items": [
+            {
+              "type": "definition",
+              "term": "Sistemes",
+              "details": [
+                "Són els terrenys qualificats per a satisfer necessitats col·lectives i estructurar el territori",
+                "Constitueixen l'esquelet funcional de la ciutat i es destinen a un ús públic o d'interès general",
+                "Inclouen la xarxa viària, els espais lliures (parcs i jardins), i els equipaments comunitaris (escoles, centres sanitaris, etc.)",
+                "Poden ser de titularitat pública o, en certs casos, privada (equipaments privats)"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Zones",
+              "details": [
+                "Són els terrenys qualificats per a usos susceptibles d'aprofitament privat, com l'habitatge, l'activitat industrial o el comerç",
+                "La normativa de cada zona regula detalladament els paràmetres d'edificació i ús permesos"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "El Marc Normatiu Dual",
+          "items": [
+            "El règim del sòl a Catalunya s'ha d'entendre des d'una doble perspectiva legal, fruit de la distribució de competències entre l'Estat i la Generalitat.",
+            {
+              "type": "definition",
+              "term": "Marc Estatal (TRLSRU): Les situacions bàsiques del sòl",
+              "details": [
+                "La legislació estatal no entra a classificar el sòl (competència autonòmica), sinó que defineix la seva situació fàctica o real",
+                "L'article 21 del TRLSRU estableix dues úniques situacions bàsiques:",
+                "Sòl Urbanitzat: Aquell que està efectivament integrat en la malla urbana, comptant amb els serveis i infraestructures requerits per la legislació urbanística",
+                "Sòl Rural: Tot el sòl que no compleix les condicions per ser considerat urbanitzat. Aquesta categoria inclou tant el sòl protegit com el sòl que el planejament destina a ser urbanitzat, mentre aquesta transformació no s'hagi completat"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Marc Català (TRLUC): Les classes de sòl",
+              "details": [
+                "La legislació catalana, en exercici de la seva competència exclusiva en urbanisme, estableix un sistema de planejament basat en la classificació del sòl en les tres classes esmentades (urbà, urbanitzable, no urbanitzable)",
+                "Aquestes classes defineixen el destí i el potencial urbanístic del sòl"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "classes-sol",
+      "title": "Classes de Sòl a Catalunya",
+      "level": 1,
+      "content": [
+        {
+          "type": "subsection",
+          "title": "==Sòl Urbà== (SU)",
+          "items": [
+            "És el sòl que ja forma part de la ciutat. El TRLUC el divideix en dues categories clau segons el seu grau de consolidació.",
+            {
+              "type": "definition",
+              "term": "==Sòl Urbà== Consolidat (SUC)",
+              "details": [
+                "Són els terrenys que tenen la condició de solar: parcel·les aptes per a l'edificació que disposen de tots els serveis urbanístics bàsics (accés rodat pavimentat, subministrament d'aigua, evacuació d'aigües residuals i subministrament d'energia elèctrica)",
+                "També s'inclouen aquells terrenys als quals només els falten obres menors per assolir aquesta condició",
+                "El dret fonamental del propietari d'un solar és el d'edificar, prèvia obtenció de la llicència corresponent",
+                "Deures principals: edificar en els terminis que estableixi el planejament per evitar l'especulació amb solars buits, i posteriorment, conservar l'edificació en condicions de seguretat, salubritat i ornament"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "==Sòl Urbà== No Consolidat (SUNC)",
+              "details": [
+                "Comprèn la resta del ==sòl urbà==. Són àmbits que, tot i estar dins la trama urbana, requereixen actuacions de transformació urbanística per assolir una configuració definitiva",
+                "Aquestes actuacions poden ser de reforma interior, renovació urbana, millora o dotació de serveis",
+                "En aquests terrenys, el dret a edificar està suspès fins que no s'executi l'actuació urbanística corresponent, normalment a través d'un Pla de Millora Urbana",
+                "Deures substancials:",
+                "- Reparcel·lar: Participar en la redistribució de les parcel·les per adequar-les a la nova ordenació",
+                "- Costejar la urbanització: Finançar les obres necessàries per dotar l'àmbit de tots els serveis",
+                "- Cedir sòl per a vials i sistemes locals",
+                "- Cedir el ==10%== de l'==aprofitament urbanístic=="
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "==Sòl Urbanitzable== (SUD/SUND)",
+          "items": [
+            "És el sòl destinat a absorbir el creixement futur de la ciutat. La seva transformació de sòl rústic a urbà és un procés complex i altament regulat.",
+            {
+              "type": "definition",
+              "term": "==Sòl Urbanitzable== Delimitat (SUD)",
+              "details": [
+                "Són sectors de terreny que el ==POUM== considera aptes per a ser urbanitzats a curt o mitjà termini",
+                "El seu desenvolupament s'ha de fer obligatòriament a través d'un Pla Parcial Urbanístic (PPU), que n'estableix l'ordenació detallada"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "==Sòl Urbanitzable== No Delimitat (SUND)",
+              "details": [
+                "És una reserva estratègica de sòl per a creixements a llarg termini no previstos inicialment pel ==POUM==",
+                "Per poder desenvolupar-se, requereix un pas previ: l'aprovació d'un Pla Parcial Urbanístic de Delimitació (PPUD) que el converteixi en ==sòl urbanitzable== delimitat",
+                "Posteriorment, es desenvoluparà amb un PPU ordinari"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Deures en ==sòl urbanitzable==",
+              "details": [
+                "Són els més exigents de tot l'ordenament, ja que els propietaris són els promotors i financers de la creació d'un nou tros de ciutat:",
+                "- Costejar i executar la totalitat de la urbanització del sector, incloent les connexions amb els ==sistemes generals== existents",
+                "- Cedir gratuïtament tot el sòl destinat a sistemes locals (carrers, parcs, equipaments del sector)",
+                "- Cedir gratuïtament el sòl destinat a ==sistemes generals== que el ==POUM== inclogui en l'àmbit del sector",
+                "- Cedir gratuïtament i lliure de càrregues d'urbanització a l'Ajuntament un percentatge de l'==aprofitament urbanístic== del sector, que a Catalunya se situa generalment en el ==15%=="
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "==Sòl No Urbanitzable== (SNU)",
+          "items": [
+            "És el sòl que mereix una protecció especial i que, per tant, s'ha de preservar del procés de transformació urbanística. La regla general és la prohibició d'urbanitzar i edificar.",
+            {
+              "type": "definition",
+              "term": "Actuacions permeses (Art. 47 TRLUC)",
+              "details": [
+                "L'article 47 del TRLUC admet, de forma taxada i restrictiva, determinats usos i construccions, sempre que siguin compatibles amb la naturalesa rústica del sòl:",
+                "- Construccions agrícoles, ramaderes o forestals: Directament vinculades a l'explotació dels recursos naturals",
+                "- Rehabilitació de masies i cases rurals: Es poden rehabilitar edificacions tradicionals catalogades per a usos com habitatge familiar, turisme rural o activitats de restauració",
+                "- Actuacions d'interès públic: Equipaments o serveis que, per la seva naturalesa, s'hagin d'emplaçar en medi rural (instal·lacions d'energies renovables, infraestructures de telecomunicacions, etc.). Requereixen normalment la tramitació d'un Pla Especial Urbanístic"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "regim-subsol",
+      "title": "Règim del Subsol",
+      "level": 1,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "El dret de propietat del sòl s'estén, en principi, al subsol. No obstant això, aquesta facultat no és absoluta. L'urbanisme és una funció pública que abasta l'ordenació i el control de l'ús del sòl, del subsol i del vol."
+        },
+        {
+          "type": "paragraph",
+          "text": "La legislació estatal (Art. 11 TRLSRU) i l'autonòmica (Art. 1 TRLUC) habiliten el planejament urbanístic per imposar limitacions i servituds al subsol per raons d'interès general."
+        },
+        {
+          "type": "subsection",
+          "title": "Potestats sobre el Subsol",
+          "items": [
+            "Aquesta potestat és essencial per al funcionament de la ciutat. El planejament pot establir reserves de subsol per a la implantació i el manteniment d'infraestructures i serveis públics.",
+            "Això inclou:",
+            "- Galeries de serveis",
+            "- Col·lectors de sanejament",
+            "- Xarxes d'aigua i energia",
+            "- Línies de metro o ferrocarril",
+            "- Infraestructures de telecomunicacions"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "procediment-==poum==",
+      "title": "Procediment d'Aprovació d'un ==POUM==",
+      "level": 1,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "El ==POUM== és el document normatiu que materialitza la classificació i qualificació del sòl. El seu procediment d'elaboració i aprovació és llarg i complex, garantint la participació ciutadana i el control de legalitat."
+        },
+        {
+          "type": "subsection",
+          "title": "Fases del Procediment",
+          "items": [
+            {
+              "type": "definition",
+              "term": "1. Avanç del Pla",
+              "details": [
+                "L'Ajuntament elabora un document inicial amb els criteris, objectius i solucions generals del nou planejament",
+                "Se sotmet a un procés de participació ciutadana i consulta pública per recollir propostes i suggeriments"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "2. Aprovació Inicial",
+              "details": [
+                "El Ple de l'Ajuntament aprova inicialment el projecte de ==POUM==",
+                "Aquest acord comporta, de manera automàtica, la suspensió de llicències en aquelles àrees on el nou planejament preveu modificacions, per un termini màxim de dos anys"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "3. Informació Pública i Informes Sectorials",
+              "details": [
+                "El document aprovat inicialment se sotmet a un període d'informació pública (mínim 45 dies) perquè qualsevol persona interessada pugui presentar al·legacions",
+                "Simultàniament, se sol·liciten informes preceptius a les administracions sectorials afectades (carreteres, costes, patrimoni cultural, medi ambient, etc.)"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "4. Aprovació Provisional",
+              "details": [
+                "Un cop analitzades les al·legacions i rebuts els informes sectorials, el Ple de l'Ajuntament aprova provisionalment el ==POUM==",
+                "Incorporant les modificacions que consideri oportunes"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "5. Aprovació Definitiva",
+              "details": [
+                "L'expedient complet es tramet a l'òrgan competent de la Generalitat de Catalunya, que és la Comissió de Territori corresponent (o la Subcomissió, segons el municipi)",
+                "Aquest òrgan realitza el control de legalitat i de coherència amb el planejament territorial supramunicipal i atorga l'aprovació definitiva",
+                "L'aprovació pot ser total, parcial (deixant àmbits en suspens) o condicionada a la correcció de deficiències"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "6. Publicació i Entrada en Vigor",
+              "details": [
+                "L'acord d'aprovació definitiva i la normativa del ==POUM== es publiquen al Diari Oficial de la Generalitat de Catalunya (DOGC)",
+                "Moment a partir del qual el pla entra en vigor i esdevé executiu"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "Actors Principals",
+          "items": [
+            {
+              "type": "definition",
+              "term": "Ajuntament",
+              "details": [
+                "És l'Administració que té la iniciativa i la competència per a la formulació i tramitació del ==POUM==",
+                "Realitza les aprovacions inicial i provisional"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Generalitat de Catalunya (Comissió de Territori)",
+              "details": [
+                "És l'Administració que exerceix la tutela de legalitat i d'interès supramunicipal",
+                "Atorga l'aprovació definitiva"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "normativa",
+      "title": "Normativa Essencial",
+      "level": 1,
+      "content": [
+        {
+          "type": "list",
+          "title": "Legislació aplicable",
+          "items": [
+            "TRLSRU — Real Decreto Legislativo 7/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley de Suelo y Rehabilitación Urbana",
+            "TRLUC — Decret Legislatiu 1/2010, de 3 d'agost, pel qual s'aprova el ==Text refós== de la Llei d'urbanisme de Catalunya",
+            "RLUC — Decret 305/2006, de 18 de juliol, pel qual s'aprova el ==Reglament== de la Llei d'urbanisme",
+            "==POUM== — ==Pla d'Ordenació Urbanística Municipal== (instrument específic de cada municipi)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glossari",
+      "title": "Glossari Mínim",
+      "level": 1,
+      "content": [
+        {
+          "type": "subsection",
+          "title": "Termes Clau",
+          "items": [
+            {
+              "type": "definition",
+              "term": "==Aprofitament urbanístic==",
+              "details": [
+                "Unitat de mesura de la intensitat d'ús del sòl, expressada normalment en metres quadrats de sostre edificable per metre quadrat de sòl (m²st/m²s)",
+                "És el principal atribut econòmic que assigna el planejament"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Solar",
+              "details": [
+                "Parcel·la classificada com a ==sòl urbà== consolidat, legalment apta per a l'edificació",
+                "Disposa de tots els serveis urbanístics necessaris i té les alineacions i rasants definides"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Pla Parcial Urbanístic (PPU)",
+              "details": [
+                "Instrument de planejament derivat que desenvolupa les determinacions del ==POUM== en un sector de ==sòl urbanitzable==",
+                "Estableix-ne l'ordenació detallada"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Cessió",
+              "details": [
+                "Deure legal del propietari de sòl en transformació de transmetre gratuïtament a l'Administració una part dels seus terrenys (per a vials, zones verdes, equipaments) o del seu ==aprofitament urbanístic=="
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bloc-examen",
+      "title": "Bloc d'Examen",
+      "level": 1,
+      "content": [
+        {
+          "type": "example",
+          "label": "Micro-cas Pràctic",
+          "text": "[object Object]\n\n[object Object]"
+        }
+      ]
+    }
+  ]
+}

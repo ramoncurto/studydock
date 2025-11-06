@@ -1,0 +1,349 @@
+Q: Quantes fases té el procediment administratiu comú?
+- Dues fases
+- Tres fases: inici, instrucció i finalització
+- Quatre fases: inici, ordenació, instrucció i finalització
+- Cinc fases
+A: Quatre fases: inici, ordenació, instrucció i finalització
+
+Q: Com pot començar un procediment administratiu?
+- Només a sol·licitud de part
+- Només d'ofici
+- D'ofici o a sol·licitud de part
+- Per resolució judicial
+A: D'ofici o a sol·licitud de part
+
+Q: En quin termini ha de requerir l'Administració l'esmena de defectes d'una sol·licitud?
+- 5 dies
+- 10 dias
+- 15 dies
+- 20 dies
+A: 10 dies
+
+Q: Què passa si l'interessat no esmena els defectes de la seva sol·licitud en el termini concedit?
+- Es resol favorablement
+- Es declara el desistiment
+- Es continua el procediment
+- S'arxiva sense més tràmit
+A: Es declara el desistiment
+
+Q: Quin principi obliga l'Administració a tramitar el procediment sense esperar impulsos de l'interessat?
+- Principi de celeritat
+- Principi d'impuls d'ofici
+- Principi de contradicció
+- Principi de legalitat
+A: Principi d'impuls d'ofici
+
+Q: La fase d'ordenació consisteix en:
+- Dictar la resolució final
+- Impulsar el procediment d'ofici vetllant per la rapidesa
+- Escoltar els interessats
+- Practicar proves
+A: Impulsar el procediment d'ofici vetllant per la rapidesa
+
+Q: Què inclou la fase d'instrucció del procediment?
+- Només la resolució
+- Al·legacions, proves i informes
+- Només la notificació
+- Només el tràmit d'audiència
+A: Al·legacions, proves i informes
+
+Q: Els informes preceptius són:
+- Obligatoris
+- Facultatius
+- Opcionals
+- Innecessaris
+A: Obligatoris
+
+Q: Els informes vinculants obliguen a:
+- Res, són orientatius
+- Resoldre en el sentit que indiquin
+- Sol·licitar més informes
+- Arxivar l'expedient
+A: Resoldre en el sentit que indiquin
+
+Q: Si no s'emet un informe preceptiu no vinculant en termini, què succeeix?
+- S'arxiva l'expedient
+- Es pot continuar el procediment
+- S'ha d'esperar indefinidament
+- Es declara la caducitat
+A: Es pot continuar el procediment
+
+Q: El tràmit d'audiència permet als interessats:
+- Dictar la resolució
+- Conèixer l'expedient i fer al·legacions finals
+- Iniciar el procediment
+- Recórrer l'acte
+A: Conèixer l'expedient i fer al·legacions finals
+
+Q: Quin és el termini mínim per al tràmit d'audiència?
+- 5 dies
+- 10 dies
+- 15 dies
+- 20 dies
+A: 10 dies
+
+Q: Quin és el termini màxim per al tràmit d'audiència?
+- 10 dies
+- 15 dies
+- 20 dies
+- 30 dies
+A: 15 dies
+
+Q: Es pot prescindir del tràmit d'audiència?
+- Mai
+- Sí, si només hi ha documents aportats per l'interessat o aquest hi renuncia
+- Sempre, és facultatiu
+- Només en procediments d'ofici
+A: Sí, si només hi ha documents aportats per l'interessat o aquest hi renuncia
+
+Q: La resolució expressa ha de ser:
+- Oral
+- Motivada (excepte en mera estimació)
+- Anònima
+- Sense recursos
+A: Motivada (excepte en mera estimació)
+
+Q: L'Administració està obligada a resoldre:
+- Només els procediments iniciats a sol·licitud de part
+- Només els procediments d'ofici
+- Tots els procediments, sigui quin sigui el mode d'inici
+- Cap procediment si opera el silenci
+A: Tots els procediments, sigui quin sigui el mode d'inici
+
+Q: Quines són les excepcions a l'obligació de resoldre?
+- No n'hi ha
+- Procediments que conclouen per pacte, conveni, desistiment, renúncia o declaració responsable
+- Tots els procediments d'ofici
+- Tots els procediments amb silenci positiu
+A: Procediments que conclouen per pacte, conveni, desistiment, renúncia o declaració responsable
+
+Q: Quin és el termini màxim general per resoldre si no n'hi ha un d'específic?
+- 1 mes
+- 2 mesos
+- 3 mesos
+- 6 mesos
+A: 3 mesos
+
+Q: Quin és el termini màxim habitual per resoldre procediments?
+- 3 mesos
+- 6 mesos, excepte llei en contrari
+- 1 any
+- No hi ha límit
+A: 6 mesos, excepte llei en contrari
+
+Q: Es pot suspendre el còmput del termini per resoldre?
+- Mai
+- Sí, en circumstàncies taxades per llei
+- Sempre que l'Administració ho vulgui
+- Només amb autorització judicial
+A: Sí, en circumstàncies taxades per llei
+
+Q: En quin supòsit se suspèn el còmput del termini?
+- Quan l'Administració està ocupada
+- Quan es requereix esmena de deficiències o informes preceptius
+- Mai se suspèn
+- Quan l'interessat ho demana
+A: Quan es requereix esmena de deficiències o informes preceptius
+
+Q: Es pot ampliar el termini per resoldre?
+- No, mai
+- Sí, fins a la meitat més en casos excepcionals amb acord motivat
+- Sí, indefinidament
+- Només amb autorització judicial
+A: Sí, fins a la meitat més en casos excepcionals amb acord motivat
+
+Q: Quin és el sentit general del silenci administratiu en procediments iniciats a sol·licitud?
+- Negatiu
+- Positiu (estimatori)
+- No produeix efectes
+- Depèn de cada cas
+A: Positiu (estimatori)
+
+Q: En quins supòsits el silenci administratiu és negatiu?
+- Sempre
+- En dret de petició, domini públic, risc ambiental, responsabilitat patrimonial, recursos
+- Mai
+- Només en sancions
+A: En dret de petició, domini públic, risc ambiental, responsabilitat patrimonial, recursos
+
+Q: El silenci administratiu positiu produeix:
+- Cap efecte
+- Un acte ferm estimatori de la sol·licitud
+- Un acte anul·lable
+- Un acte nul
+A: Un acte ferm estimatori de la sol·licitud
+
+Q: El silenci administratiu negatiu permet:
+- Executar l'acte
+- Interposar recurs administratiu o contenciós
+- Res
+- Arxivar l'expedient
+A: Interposar recurs administratiu o contenciós
+
+Q: Si opera el silenci positiu, l'Administració ha de resoldre encara?
+- No, ja no cal
+- Sí, ha de dictar resolució expressa confirmant el sentit del silenci
+- Només si l'interessat ho demana
+- Mai més
+A: Sí, ha de dictar resolució expressa confirmant el sentit del silenci
+
+Q: Què és la caducitat del procediment?
+- Una sanció
+- Finalització per venciment del termini en procediments d'ofici desfavorables
+- Un recurs
+- Una interrupció temporal
+A: Finalització per venciment del termini en procediments d'ofici desfavorables
+
+Q: En quins procediments opera la caducitat?
+- En tots
+- En procediments iniciats d'ofici que poden ser desfavorables (sancions)
+- Només en procediments a sol·licitud
+- Mai
+A: En procediments iniciats d'ofici que poden ser desfavorables (sancions)
+
+Q: La caducitat implica:
+- Continuar el procediment
+- Arxivar l'expedient
+- Resoldre favorablement
+- Sancionar l'interessat
+A: Arxivar l'expedient
+
+Q: Després de la caducitat, l'Administració pot iniciar un nou procediment?
+- No, mai
+- Sí, si no ha prescrit
+- Sempre
+- Només amb autorització judicial
+A: Sí, si no ha prescrit
+
+Q: Què és el desistiment?
+- Una resolució
+- Retirada voluntària de la sol·licitud per l'interessat
+- Una sanció
+- Un recurs
+A: Retirada voluntària de la sol·licitud per l'interessat
+
+Q: Què és la renúncia?
+- Retirada de la sol·licitud
+- Abandonament d'un dret reconegut
+- Un recurs
+- Una resolució
+A: Abandonament d'un dret reconegut
+
+Q: El desistiment comporta:
+- Resolució de fons
+- Arxiu de l'expedient sense entrar en el fons
+- Continuar el procediment
+- Una sanció
+A: Arxiu de l'expedient sense entrar en el fons
+
+Q: Què és una declaració responsable?
+- Una resolució administrativa
+- Document on l'interessat manifesta que compleix els requisits
+- Un recurs
+- Una sanció
+A: Document on l'interessat manifesta que compleix els requisits
+
+Q: Quan es permet la declaració responsable, l'Administració ha de resoldre?
+- Sí, sempre
+- No, el procediment es considera finalitzat amb la presentació
+- Només en alguns casos
+- Després de 6 mesos
+A: No, el procediment es considera finalitzat amb la presentació
+
+Q: Quin és el principi que garanteix el dret dels interessats a ser escoltats?
+- Principi de celeritat
+- Principi de contradicció
+- Principi d'impuls d'ofici
+- Principi de legalitat
+A: Principi de contradicció
+
+Q: Els terminis administratius expresats en mesos vencen:
+- L'últim dia del mes
+- El mateix dia en què es compleix el termini en el mes corresponent
+- El primer dia del mes següent
+- Quan l'Administració ho decideix
+A: El mateix dia en què es compleix el termini en el mes corresponent
+
+Q: Quan comença el termini per resoldre en procediments a sol·licitud?
+- Quan l'Administració ho decideix
+- Des de la recepció de la sol·licitud al registre
+- Un mes després
+- Quan acaba la instrucció
+A: Des de la recepció de la sol·licitud al registre
+
+Q: La resolució notificada fora de termini:
+- És vàlida
+- És extemporània, s'entén produït el silenci administratiu
+- És nul·la
+- És anul·lable
+A: És extemporània, s'entén produït el silenci administratiu
+
+Q: Quina llei regula el procediment administratiu comú?
+- Llei 40/2015
+- Llei 39/2015 (LPACAP)
+- Codi Civil
+- Constitució Espanyola
+A: Llei 39/2015 (LPACAP)
+
+Q: El principi de celeritat obliga a:
+- Alentir els tràmits
+- Efectuar els tràmits amb diligència evitant demores
+- No resoldre
+- Suspendre sempre els terminis
+A: Efectuar els tràmits amb diligència evitant demores
+
+Q: Els tràmits que es poden fer simultàniament:
+- No es poden agrupar
+- S'han d'agrupar en un sol acte per estalviar temps
+- S'han de fer sempre per separat
+- Són opcionals
+A: S'han d'agrupar en un sol acte per estalviar temps
+
+Q: L'absència d'un tràmit essencial pot causar:
+- Res
+- Nul·litat o anul·labilitat per indefensió
+- Millora del procediment
+- Acceleració del procediment
+A: Nul·litat o anul·labilitat per indefensió
+
+Q: En procediments iniciats d'ofici que poden reconèixer drets, el silenci és:
+- Positiu
+- Negatiu
+- No hi ha silenci
+- Caducitat
+A: Negatiu
+
+Q: Incomplir el termini per resoldre suposa per a l'òrgan competent:
+- Res
+- Responsabilitat disciplinària
+- Promoció
+- Felicitació
+A: Responsabilitat disciplinària
+
+Q: L'interessat té dret a:
+- Dictar la resolució
+- Accedir a l'expedient en tot moment
+- Ocultar informació
+- Paralitzar el procediment
+A: Accedir a l'expedient en tot moment
+
+Q: Quina mnemotècnia ajuda a recordar el silenci administratiu?
+- "POS-NO; NEG-REC" (POSitiu si NO hi ha norma; NEGatiu en RECursos)
+- "NEG-TOT"
+- "POS-SEMPRE"
+- "REC-POS"
+A: "POS-NO; NEG-REC" (POSitiu si NO hi ha norma; NEGatiu en RECursos)
+
+Q: Les mesures provisionals durant l'ordenació han de ser:
+- Arbitràries
+- Proporcionades i no causar indefensió
+- Sempre denegades
+- Innecessàries
+A: Proporcionades i no causar indefensió
+
+Q: El dret d'accés a l'expedient es relaciona amb el principi de:
+- Opacitat
+- Transparència
+- Secret
+- Ocultació
+A: Transparència

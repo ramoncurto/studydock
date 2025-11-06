@@ -1,0 +1,349 @@
+Q: Segons l'article 56.3 de la CE, la persona del Rei és:
+- Responsable políticament davant les Corts
+- Inviolable i no està subjecta a responsabilitat
+- Responsable penalment però no políticament
+- Responsable només en casos greus
+A: Inviolable i no està subjecta a responsabilitat
+
+Q: El mecanisme del refrendo està regulat a:
+- L'article 56 de la CE
+- L'article 62 de la CE
+- L'article 64 de la CE
+- L'article 65 de la CE
+A: L'article 64 de la CE
+
+Q: Quina és l'única excepció a l'obligació de refrendo?
+- El nomenament del President del Govern
+- Els actes relatius al nomenament dels membres de la seva Casa
+- La convocatòria d'eleccions
+- La sanció de les lleis
+A: Els actes relatius al nomenament dels membres de la seva Casa
+
+Q: Qui refrenda la proposta i el nomenament del President del Govern?
+- El Rei
+- El President del Govern sortint
+- El President del Congrés dels Diputats
+- El President del Senat
+A: El President del Congrés dels Diputats
+
+Q: Segons l'article 62.a de la CE, el Rei té la funció de:
+- Aprovar les lleis
+- Sancionar i promulgar les lleis
+- Vetar les lleis
+- Modificar les lleis
+A: Sancionar i promulgar les lleis
+
+Q: El comandament suprem de les Forces Armades correspon a:
+- El President del Govern
+- El Ministre de Defensa
+- El Rei
+- El Congrés dels Diputats
+A: El Rei
+
+Q: El dret de gràcia exercit pel Rei:
+- Pot autoritzar indults generals
+- No pot autoritzar indults generals
+- Només pot aplicar-se a delictes menors
+- Requereix aprovació del Senat
+A: No pot autoritzar indults generals
+
+Q: Les Corts Generals estan formades per:
+- El Congrés dels Diputats
+- El Senat
+- El Congrés dels Diputats i el Senat
+- El Congrés, el Senat i el Rei
+A: El Congrés dels Diputats i el Senat
+
+Q: El nombre de diputats del Congrés és:
+- Entre 200 i 300
+- Entre 300 i 400
+- Exactament 350
+- Entre 400 i 500
+A: Entre 300 i 400
+
+Q: La circumscripció electoral per al Congrés dels Diputats és:
+- La comunitat autònoma
+- La província
+- El municipi
+- L'estat en el seu conjunt
+A: La província
+
+Q: El Senat és la cambra de:
+- Representació del poble
+- Representació territorial
+- Representació proporcional
+- Representació política
+A: Representació territorial
+
+Q: El sistema parlamentari espanyol és:
+- Un monocameralisme
+- Un bicameralisme simètric
+- Un bicameralisme asimètric
+- Un tricameralisme
+A: Un bicameralisme asimètric
+
+Q: La investidura del President del Govern correspon a:
+- Les Corts Generals
+- El Congrés dels Diputats
+- El Senat
+- El Rei
+A: El Congrés dels Diputats
+
+Q: En el procediment legislatiu, qui té l'última paraula?
+- El Senat
+- El Congrés dels Diputats
+- El Rei
+- El Tribunal Constitucional
+A: El Congrés dels Diputats
+
+Q: Una de les funcions de les Corts Generals és:
+- Executar les lleis
+- Aprovar els pressupostos
+- Nomenar els ministres
+- Dirigir la política exterior
+A: Aprovar els pressupostos
+
+Q: La iniciativa legislativa per als Pressupostos Generals de l'Estat correspon exclusivament a:
+- Les Corts Generals
+- El Congrés dels Diputats
+- El Govern
+- El Senat
+A: El Govern
+
+Q: Els diputats del Congrés són elegits per:
+- Sufragi indirecte
+- Sufragi universal, lliure, igual, directe i secret
+- Designació de les CCAA
+- Nomenament reial
+A: Sufragi universal, lliure, igual, directe i secret
+
+Q: El sistema electoral del Congrés és:
+- Majoritari
+- Proporcional
+- Mixt
+- Per circumscripcions úniques
+A: Proporcional
+
+Q: La durada del mandat dels diputats és:
+- 3 anys
+- 4 anys
+- 5 anys
+- 6 anys
+A: 4 anys
+
+Q: Segons l'article 97 CE, el Govern exerceix:
+- La potestat legislativa
+- La funció executiva
+- La potestat judicial
+- La funció de control
+A: La funció executiva
+
+Q: La potestat reglamentària és:
+- La capacitat de dictar normes de rang de llei
+- La capacitat de dictar normes de rang inferior a la llei
+- La capacitat de modificar la Constitució
+- La capacitat de vetar les lleis
+A: La capacitat de dictar normes de rang inferior a la llei
+
+Q: El Govern es compon de:
+- President i Ministres
+- President, Vicepresident(s) i Ministres
+- Només el President
+- President i Secretaris d'Estat
+A: President, Vicepresident(s) i Ministres
+
+Q: Qui dirigeix l'acció del Govern?
+- El Rei
+- El President del Govern
+- El Consell de Ministres
+- El President del Congrés
+A: El President del Govern
+
+Q: El Govern passa a estar "en funcions" després de:
+- La celebració d'eleccions generals
+- La dimissió del President
+- La pèrdua de confiança parlamentària
+- Totes les anteriors són correctes
+A: Totes les anteriors són correctes
+
+Q: Un Govern en funcions pot:
+- Aprovar el Projecte de Llei de Pressupostos
+- Presentar projectes de llei
+- Gestionar els serveis públics essencials
+- Proposar la dissolució de les Corts
+A: Gestionar els serveis públics essencials
+
+Q: El President del Govern en funcions NO pot:
+- Respondre a preguntes parlamentàries
+- Plantejar la qüestió de confiança
+- Assistir al Consell de Ministres
+- Nomenar directors generals
+A: Plantejar la qüestió de confiança
+
+Q: El Govern respon davant:
+- El Rei
+- El Congrés dels Diputats
+- El Senat
+- El Tribunal Constitucional
+A: El Congrés dels Diputats
+
+Q: Les interpel·lacions parlamentàries poden donar lloc a:
+- Una llei
+- Una moció
+- Un decret
+- Una sentència
+A: Una moció
+
+Q: La qüestió de confiança és plantejada per:
+- El Congrés dels Diputats
+- El President del Govern
+- El Rei
+- El Senat
+A: El President del Govern
+
+Q: Per aprovar la qüestió de confiança es requereix:
+- Majoria absoluta
+- Majoria simple
+- Majoria de 3/5
+- Unanimitat
+A: Majoria simple
+
+Q: Si fracassa la qüestió de confiança, el Govern ha de:
+- Dissoldre les Corts
+- Presentar la dimissió
+- Convocar eleccions
+- Reformar-se
+A: Presentar la dimissió
+
+Q: La moció de censura ha de ser proposada per:
+- Almenys 1/10 dels diputats
+- Almenys 1/5 dels diputats
+- Almenys 1/3 dels diputats
+- La meitat dels diputats
+A: Almenys 1/10 dels diputats
+
+Q: Per aprovar la moció de censura es requereix:
+- Majoria simple
+- Majoria absoluta
+- Majoria de 2/3
+- Majoria de 3/5
+A: Majoria absoluta
+
+Q: La moció de censura a Espanya és:
+- Simple
+- Constructiva
+- Destructiva
+- Consultiva
+A: Constructiva
+
+Q: La moció de censura ha d'incloure:
+- Un programa de govern
+- Un candidat a la Presidència del Govern
+- Una proposta de pressupostos
+- Una llista de ministres
+A: Un candidat a la Presidència del Govern
+
+Q: Si té èxit la moció de censura:
+- Es convoquen eleccions immediates
+- El candidat proposat és investit President
+- El Rei tria el nou President
+- El Congrés escull el nou President
+A: El candidat proposat és investit President
+
+Q: El caràcter "constructiu" de la moció de censura evita:
+- La responsabilitat política
+- Els buits de poder
+- La dissolució de les Corts
+- El refrendo reial
+A: Els buits de poder
+
+Q: Segons l'article 90 CE, si el Senat aprova un veto per majoria absoluta, el Congrés pot aixecar-lo amb:
+- Majoria simple immediatament
+- Majoria absoluta, o majoria simple transcorreguts dos mesos
+- Majoria de 2/3
+- No pot aixecar-lo
+A: Majoria absoluta, o majoria simple transcorreguts dos mesos
+
+Q: La Llei del Govern vigent és:
+- Llei 40/1997
+- Llei 50/1997
+- Llei 60/1997
+- Llei 30/1992
+A: Llei 50/1997
+
+Q: El Reglament del Congrés dels Diputats és de:
+- 1978
+- 1982
+- 1985
+- 1994
+A: 1982
+
+Q: El Reglament del Senat és de:
+- 1978
+- 1982
+- 1985
+- 1994
+A: 1994
+
+Q: El model parlamentari espanyol és de:
+- Parlamentarisme clàssic
+- Parlamentarisme racionalitzat
+- Presidencialisme
+- Semipresidencialisme
+A: Parlamentarisme racionalitzat
+
+Q: La funció de "regna però no governa" correspon a:
+- El President del Govern
+- El Rei
+- El President del Congrés
+- El Consell de Ministres
+A: El Rei
+
+Q: Els òrgans col·legiats del Govern són:
+- El Consell de Ministres
+- Les Comissions Delegades del Govern
+- El Consell de Ministres i les Comissions Delegades
+- Només les Comissions Delegades
+A: El Consell de Ministres i les Comissions Delegades
+
+Q: Les Corts poden sol·licitar la presència dels membres del Govern segons:
+- Els articles 109 i 110 CE
+- Els articles 111 i 112 CE
+- Els articles 113 i 114 CE
+- L'article 108 CE
+A: Els articles 109 i 110 CE
+
+Q: Si transcorreguts dos mesos des de la primera votació d'investidura cap candidat obté la confiança:
+- El Govern anterior continua
+- Es repeteix la votació
+- El Rei dissol ambdues Cambres i convoca eleccions
+- El Congrés escull un President provisional
+A: El Rei dissol ambdues Cambres i convoca eleccions
+
+Q: Aquest acte de dissolució per fracàs d'investidura ha de ser refrendat per:
+- El President del Govern en funcions
+- El President del Congrés dels Diputats
+- El President del Senat
+- No requereix refrendo
+A: El President del Congrés dels Diputats
+
+Q: La responsabilitat política del Govern és:
+- Individual
+- Solidària
+- Subsidiària
+- Mancomunada
+A: Solidària
+
+Q: La direcció efectiva de la política de defensa correspon a:
+- El Rei
+- El Govern
+- El Ministre de Defensa
+- Les Corts Generals
+A: El Govern
+
+Q: En una monarquia parlamentària, el monarca:
+- Governa i regna
+- Regna però no governa
+- Ni governa ni regna
+- Només governa
+A: Regna però no governa

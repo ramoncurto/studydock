@@ -1,0 +1,312 @@
+{
+  "metadata": {
+    "title": "Les fases del procediment administratiu comú. L'obligació de resoldre de l'Administració: El silenci administratiu",
+    "subject": "Dret Administratiu",
+    "topic": "Procediment Administratiu Comú i Silenci Administratiu",
+    "keywords": [
+      "procediment administratiu",
+      "fases procedimentals",
+      "obligació de resoldre",
+      "silenci administratiu",
+      "caducitat",
+      "terminis"
+    ],
+    "difficulty": "mitjà",
+    "estimatedTime": "60 min"
+  },
+  "sections": [
+    {
+      "id": "visio-global",
+      "title": "Visió Global",
+      "level": 1,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "El procediment administratiu comú consta d'un conjunt ordenat de fases i tràmits que l'Administració pública ha de seguir per adoptar decisions conforme a la llei. S'inicia mitjançant un acord de l'òrgan competent o una sol·licitud de la persona interessada, es desenvolupa amb la instrucció (pràctica de proves, informes, audiència) i finalitza amb una resolució motivada que s'ha de notificar a l'interessat."
+        },
+        {
+          "type": "paragraph",
+          "text": "La legislació vigent (Llei 39/2015) imposa a l'Administració el deure de resoldre expressament i de notificar la resolució en termini en tots els procediments, independentment de com hagin començat. Si l'Administració no dicta resolució dins del termini màxim establert, opera el mecanisme del silenci administratiu, pel qual la llei presumeix un resultat."
+        }
+      ]
+    },
+    {
+      "id": "checklist",
+      "title": "Checklist d'Estudi",
+      "level": 1,
+      "content": [
+        {
+          "type": "list",
+          "title": "Punts clau per dominar",
+          "items": [
+            "Diferenciar les fases del procediment administratiu: inici, ordenació, instrucció i finalització",
+            "Requisits de la iniciació: formes de començar un expedient, dret a presentar sol·licituds i esmena de defectes en 10 dies",
+            "Funcions de l'ordenació: impuls d'ofici dels tràmits, principi de celeritat i possibilitat de tramitar actuacions simultànies",
+            "Contingut de la fase d'instrucció: al·legacions, proves, informes tècnics i elaboració d'una proposta de resolució",
+            "Garanties de participació: tràmit d'audiència previ a la resolució",
+            "Obligació de resoldre i notificar: abast universal excepte en casos especials",
+            "Terminis per resoldre: màxim 6 mesos (o 3 mesos si no n'hi ha de fixat)",
+            "Silenci administratiu en procediments iniciats a sol·licitud: regla general estimatòria (silenci positiu)",
+            "Conseqüències de la manca de resolució d'ofici: silenci negatiu o caducitat segons el cas"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "conceptes-clau",
+      "title": "Conceptes Clau i Definicions",
+      "level": 1,
+      "content": [
+        {
+          "type": "subsection",
+          "title": "Definicions Fonamentals",
+          "items": [
+            {
+              "type": "definition",
+              "term": "Procediment administratiu comú",
+              "details": [
+                "Seqüència ordenada de tràmits i actuacions formalitzades que segueix l'Administració per formar la seva voluntat i dictar un acte administratiu",
+                "Constitueix la garantia que l'activitat administrativa respecta els drets dels ciutadans i els principis de legalitat i eficàcia"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Fases del procediment",
+              "details": [
+                "Iniciació: apertura de l'expedient, ja sigui per acord de l'Administració (d'ofici) o a instància d'un particular",
+                "Ordenació: organització i impuls dels tràmits per part de l'òrgan instructor",
+                "Instrucció: realització de les diligències necessàries per conèixer els fets i fonaments (al·legacions, proves, informes, proposta de resolució)",
+                "Finalització: clausura del procediment mitjançant una resolució que es notifica"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Obligació de resoldre",
+              "details": [
+                "Deure legal de l'Administració de dictar una resolució expressa que posi fi al procediment",
+                "S'ha de notificar en termini a l'interessat, fins i tot si el procediment va començar d'ofici o si ha operat el silenci administratiu",
+                "Només s'exclouen d'aquesta obligació els casos en què el procediment conclou per una altra via (acord entre parts, desistiment, renúncia o procediments basats en declaracions responsables)"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Silenci administratiu",
+              "details": [
+                "Institució jurídica que assigna un efecte a la manca de resolució expressa dins del termini legal",
+                "Comporta la ficció d'un acte administratiu presumptament dictat en la data de venciment del termini",
+                "Pot ser de sentit positiu (estimatori) o negatiu (desestimatori) segons estableixi la llei",
+                "El silenci positiu dóna lloc a un acte ferm estimatori de la sol·licitud",
+                "El silenci negatiu només permet a l'interessat interposar el recurs administratiu o contenciós corresponent",
+                "La declaració tàcita per silenci no eximeix l'Administració de resoldre formalment més endavant"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Caducitat",
+              "details": [
+                "Forma anormal de finalització del procediment per falta d'una resolució en termini",
+                "S'aplica en procediments iniciats d'ofici quan l'objecte és l'exercici de potestats sancionadores o altres potestats d'intervenció que puguin produir efectes desfavorables per a l'administrat",
+                "Implica l'arxivament de l'expedient per inacció administrativa, deixant sense efecte les actuacions practicades",
+                "Cal distingir-la del desistiment, que és la renúncia de l'interessat a continuar el procediment iniciat per ell mateix"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fases-procediment",
+      "title": "Fases del Procediment: Estructura i Contingut",
+      "level": 1,
+      "content": [
+        {
+          "type": "subsection",
+          "title": "1. Iniciació del Procediment",
+          "items": [
+            "Pot començar d'ofici (per iniciativa de l'Administració, ja sigui a iniciativa pròpia, per ordre superior, a petició d'un altre òrgan o per denúncia) o a sol·licitud de part (mitjançant una instància del particular interessat)",
+            "En la iniciació a instància de part, la sol·licitud escrita ha de contenir: dades d'identificació, els fets i la petició concreta",
+            "S'ha de presentar preferentment pels canals habilitats (oficines de registre, seu electrònica, etc.)",
+            {
+              "type": "definition",
+              "term": "Esmena de defectes",
+              "details": [
+                "Si la sol·licitud presenta defectes o omissions, l'Administració ha de requerir la seva esmena en un termini de 10 dies",
+                "En cas de no atendre's el requeriment, es declararà el desistiment de la petició"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "2. Fase d'Ordenació",
+          "items": [
+            "L'òrgan instructor impulsa el procediment d'ofici, vetllant per la rapidesa i l'eficàcia en la tramitació",
+            "Implica realitzar d'un sol cop tots els tràmits que es puguin simultaniejar i evitar dilacions indegudes",
+            "En qualsevol moment es poden adoptar mesures provisionals per assegurar l'eficàcia de la resolució final",
+            "Les mesures han de ser proporcionades i no causar indefensió (exemple: suspensió preventiva d'una activitat presumptament il·lícita)"
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "3. Fase d'Instrucció",
+          "items": [
+            "Consisteix en les actuacions encaminades a determinar i verificar els fets rellevants per a la decisió final",
+            {
+              "type": "definition",
+              "term": "Elements principals de la instrucció",
+              "details": [
+                "Al·legacions: escrits mitjançant els quals els interessats exposen el que considerin oportú en defensa del seu dret, en qualsevol moment abans del tràmit d'audiència",
+                "Pràctica de proves: per iniciativa administrativa o a sol·licitud de l'interessat, per acreditar els fets controvertits",
+                "Petició d'informes interns o externs: serveixen d'assessorament tècnic o jurídic per a la resolució",
+                "Alguns informes són preceptius (obligatoris) i/o vinculants (obliguen a resoldre en el sentit que indiquin)"
+              ]
+            },
+            "Proposta de resolució: un cop instruït l'expedient amb totes les proves i informes necessaris, l'òrgan instructor pot formular una proposta que recull els fets provats i la decisió que es preveu adoptar"
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "4. Tràmit d'Audiència",
+          "items": [
+            "Abans de resoldre, s'ofereix als interessats la possibilitat de conèixer l'expedient i fer al·legacions finals",
+            "Termini no inferior a 10 dies i no superior a 15 dies",
+            "Garanteix el principi de contradicció i evita indefensions",
+            {
+              "type": "definition",
+              "term": "Excepcions al tràmit d'audiència",
+              "details": [
+                "Es pot prescindir si només figuren al procediment els documents aportats pel mateix interessat",
+                "També es pot prescindir si l'interessat ha renunciat expressament al dret d'audiència",
+                "En procediments de caràcter general, l'audiència pot ser substituïda o complementada per un període d'informació pública"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "5. Resolució i Notificació",
+          "items": [
+            "La resolució expressa és l'acte administratiu que decideix o posa fi al procediment",
+            "Ha de ser una decisió motivada (excepte en casos de mera estimació de allò sol·licitat)",
+            "Ha d'incloure la cita de recursos procedents",
+            {
+              "type": "definition",
+              "term": "Tipus de finalització",
+              "details": [
+                "Normal: atorga o denega el que es demanava, posant fi al procediment",
+                "Anormals: desistiment de l'interessat, renúncia al dret, caducitat per inactivitat, finalització per pacte o conveni, o silenci administratiu"
+              ]
+            },
+            "La resolució s'ha de notificar als interessats amb plenitud d'efectes: contingut íntegre, dates, recursos possibles",
+            "La notificació dins de termini és clau per a l'eficàcia de la resolució"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "principis",
+      "title": "Principis Reguladors",
+      "level": 1,
+      "content": [
+        {
+          "type": "list",
+          "title": "Principis fonamentals del procediment administratiu",
+          "items": [
+            "Principi d'impuls d'ofici: l'Administració ha de tramitar el procediment sense esperar impulsos de la persona interessada en cada pas",
+            "Principi de celeritat i eficàcia: els tràmits s'han d'efectuar amb diligència, evitant demores innecessàries",
+            "Principi de contradicció: s'ha de garantir el dret dels interessats a ser escoltats i a aportar proves abans d'una decisió que els afecti",
+            "==principi de legalitat== i ==jerarquia normativa==: tot procediment es regeix per la llei aplicable; els actes dictats han de respectar l'ordenament jurídic",
+            "==seguretat jurídica==: l'existència de terminis i del silenci administratiu garanteix que la inacció administrativa no deixarà els ciutadans en incertesa indefinida",
+            "Economia procedimental: el procediment no busca formalismes inútils; per això existeixen mecanismes de simplificació"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "silenci-administratiu",
+      "title": "El Silenci Administratiu: Règim Jurídic",
+      "level": 1,
+      "content": [
+        {
+          "type": "subsection",
+          "title": "Terminis per Resoldre",
+          "items": [
+            "Els fixats per cada procediment (no més de 6 mesos, excepte llei en contrari)",
+            "Si no n'hi ha, termini general de 3 mesos",
+            "Possibilitat de suspendre el còmput en circumstàncies previstes (esmena de deficiències, informes preceptius)",
+            "Possibilitat d'ampliar el termini de forma extraordinària fins a la meitat més, abans del venciment, si s'han esgotat els mitjans disponibles"
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "Silenci en Procediments Iniciats a Sol·licitud",
+          "items": [
+            {
+              "type": "definition",
+              "term": "Regla general: Silenci Positiu",
+              "details": [
+                "Si venç el termini sense notificació de resolució, s'entén estimada la petició",
+                "L'interessat pot demanar la certificació o constància de l'acte presumptament produït"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Excepcions: Silenci Negatiu",
+              "details": [
+                "Dret de petició (art. 29 CE)",
+                "Procediments que transfereixen facultats de domini públic o servei públic",
+                "Activitats amb risc ambiental",
+                "Responsabilitat patrimonial",
+                "Impugnació d'actes (recursos)",
+                "Revisió d'ofici"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "Silenci en Procediments Iniciats d'Ofici",
+          "items": [
+            "En procediments que podrien crear drets en benefici de l'interessat (subvencions), el silenci és negatiu",
+            "Si són procediments sancionadors o d'altres que puguin perjudicar l'administrat, la inacció produeix la caducitat de l'expedient",
+            "L'Administració ha de dictar igualment una resolució formal fora de termini declarant la desestimació presumpta o la caducitat"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "normativa",
+      "title": "Normativa Essencial",
+      "level": 1,
+      "content": [
+        {
+          "type": "list",
+          "title": "Normes de referència",
+          "items": [
+            "LPACAP — Llei 39/2015, d'1 d'octubre, de Procediment Administratiu Comú de les Administracions Públiques — 2015",
+            "LRJPACat — Llei 26/2010, de 3 d'agost, de règim jurídic i de procediment de les administracions públiques de Catalunya — 2010",
+            "RD 203/2021 — ==Reial Decret== 203/2021, de 30 de març, ==Reglament== d'actuació i funcionament del sector públic per mitjans electrònics — 2021"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "errors-mnemo",
+      "title": "Errors Típics i Mnemotècnies",
+      "level": 1,
+      "content": []
+    },
+    {
+      "id": "bloc-examen",
+      "title": "Bloc d'Examen",
+      "level": 1,
+      "content": [
+        {
+          "type": "example",
+          "label": "Micro-cas: Silenci administratiu en llicència d'obres",
+          "text": "Un ciutadà sol·licita una llicència d'obres a l'Ajuntament. Després de 3 mesos sense resposta, l'arquitecte tècnic emet un informe favorable però el tràmit continua paralitzat sense resolució formal.\n\nPunts clau de resolució:\n- El termini màxim per resoldre és el fixat per la normativa (generalment 3 mesos en llicències d'obres)\n- El silenci pot ser positiu o negatiu segons la normativa aplicable\n- En llicències d'obres, el silenci és generalment POSITIU (la llicència s'entén atorgada) segons la legislació urbanística catalana\n- El ciutadà pot entendre estimada la seva sol·licitud i iniciar les obres\n- L'Administració pot dictar resolució expressa mentre no transcorri el termini de prescripció\n- Solució: certificat de silenci positiu o iniciar obres amb precaució jurídica"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,349 @@
+Q: Segons la Constitució Espanyola de 1978, quin article reconeix el dret a l'autonomia de les nacionalitats i regions?
+- Article 1
+- Article 2
+- Article 3
+- Article 137
+A: Article 2
+
+Q: Quina és la naturalesa jurídica de l'Estatut d'Autonomia?
+- Llei ordinària del Parlament autonòmic
+- Llei Orgànica estatal
+- Reglament del Govern autonòmic
+- Decret Llei
+A: Llei Orgànica estatal
+
+Q: Segons l'article 137 de la Constitució, quines són les entitats territorials de l'Estat?
+- Només les Comunitats Autònomes
+- Municipis, Províncies i Comunitats Autònomes
+- Províncies i Comunitats Autònomes
+- Municipis i Províncies
+A: Municipis, Províncies i Comunitats Autònomes
+
+Q: Quin principi constitucional garanteix que cap diferència entre Estatuts pot implicar privilegis?
+- Principi d'unitat
+- Principi de solidaritat (art. 138.2)
+- Principi d'autonomia
+- Principi de legalitat
+A: Principi de solidaritat (art. 138.2)
+
+Q: Quin article de la Constitució enumera les competències exclusives de l'Estat?
+- Article 148
+- Article 149
+- Article 150
+- Article 151
+A: Article 149
+
+Q: Quina competència és exclusiva de l'Estat segons l'article 149.1 CE?
+- Ordenació del territori
+- Defensa i Forces Armades
+- Assistència social
+- Turisme
+A: Defensa i Forces Armades
+
+Q: Segons l'article 148.1 CE, quina competència poden assumir les Comunitats Autònomes?
+- Relacions internacionals
+- Ordenació del territori i urbanisme
+- Defensa nacional
+- Legislació penal
+A: Ordenació del territori i urbanisme
+
+Q: Què significa que una competència és "compartida" o "concurrent"?
+- Només l'Estat pot legislar
+- L'Estat dicta legislació bàsica i la CA desenvolupa i executa
+- Només la CA pot legislar
+- Cap administració pot legislar
+A: L'Estat dicta legislació bàsica i la CA desenvolupa i executa
+
+Q: Quina via d'accés a l'autonomia és coneguda com a "via lenta"?
+- Article 151 CE
+- Article 143 CE
+- Article 150 CE
+- Article 152 CE
+A: Article 143 CE
+
+Q: Quina via d'accés a l'autonomia és coneguda com a "via ràpida"?
+- Article 143 CE
+- Article 151 CE
+- Article 148 CE
+- Article 155 CE
+A: Article 151 CE
+
+Q: Quantes Comunitats Autònomes té Espanya?
+- 15
+- 16
+- 17
+- 19
+A: 17
+
+Q: Què prohibeix l'article 145.1 de la Constitució?
+- La cooperació entre CA
+- La federació de Comunitats Autònomes
+- Els convenis entre CA
+- L'autonomia de les regions
+A: La federació de Comunitats Autònomes
+
+Q: Quin contingut mínim ha d'incloure un Estatut d'Autonomia segons l'article 147.2 CE?
+- Només la denominació de la CA
+- Denominació, territori, institucions i competències
+- Només les competències assumides
+- Només les institucions d'autogovern
+A: Denominació, territori, institucions i competències
+
+Q: Qui aprova l'Estatut d'Autonomia?
+- El Parlament autonòmic
+- Les Corts Generals mitjançant Llei Orgànica
+- El Govern de la CA
+- El Tribunal Constitucional
+A: Les Corts Generals mitjançant Llei Orgànica
+
+Q: Quin article de la Constitució regula la transferència o delegació de competències de l'Estat a les CA?
+- Article 148
+- Article 149
+- Article 150.2
+- Article 151
+A: Article 150.2
+
+Q: Segons l'article 149.3 CE, què passa amb les competències no assumides per les CA?
+- Desapareixen
+- Romanen en l'Estat
+- Passen als municipis
+- Les decideix el Tribunal Constitucional
+A: Romanen en l'Estat
+
+Q: Quin òrgan resol els conflictes de competència entre l'Estat i les CA?
+- El Congrés dels Diputats
+- El Tribunal Constitucional
+- El Senat
+- El Govern central
+A: El Tribunal Constitucional
+
+Q: Què preveu l'article 155 CE?
+- La creació de noves CA
+- L'execució forçosa per part de l'Estat si una CA incompleix greument
+- La reforma dels Estatuts
+- La cooperació entre CA
+A: L'execució forçosa per part de l'Estat si una CA incompleix greument
+
+Q: Quines comunitats són considerades "nacionalitats històriques"?
+- Andalusia, Aragó i Astúries
+- Catalunya, País Basc i Galícia
+- Madrid, València i Múrcia
+- Cantàbria, La Rioja i Navarra
+A: Catalunya, País Basc i Galícia
+
+Q: Quin procediment va seguir Andalusia per accedir a l'autonomia?
+- Via ordinària (art. 143)
+- Via especial amb referèndum (art. 151)
+- Disposició Transitòria 2ª
+- Article 144
+A: Via especial amb referèndum (art. 151)
+
+Q: Com van accedir Catalunya, País Basc i Galícia a l'autonomia?
+- Via art. 143
+- Via art. 151 amb referèndum
+- Disposició Transitòria 2ª i procediments especials
+- Via art. 144
+A: Disposició Transitòria 2ª i procediments especials
+
+Q: Quina majoria requereix l'aprovació d'una Llei Orgànica?
+- Majoria simple
+- Majoria absoluta del Congrés
+- Majoria de 2/3 del Congrés
+- Majoria de 3/5 del Congrés
+A: Majoria absoluta del Congrés
+
+Q: En la via ordinària d'accés a l'autonomia (art. 143), quin suport municipal es requeria?
+- Tots els municipis
+- 3/4 dels municipis
+- 2/3 dels municipis que representin majoria de població
+- Majoria simple de municipis
+A: 2/3 dels municipis que representin majoria de població
+
+Q: En la via especial (art. 151), quin suport municipal es requeria?
+- 2/3 dels municipis
+- Majoria simple de municipis
+- 3/4 dels municipis de cada província amb majoria de cens
+- Tots els municipis
+A: 3/4 dels municipis de cada província amb majoria de cens
+
+Q: Quina institució és el cap de l'executiu autonòmic?
+- El President del Parlament autonòmic
+- El President de la Comunitat Autònoma
+- El Delegat del Govern
+- El President del Tribunal Superior de Justícia
+A: El President de la Comunitat Autònoma
+
+Q: Qui elegeix el President de la Comunitat Autònoma?
+- El Rei directament
+- El Parlament autonòmic d'entre els seus membres
+- El Govern central
+- El poble per sufragi directe
+A: El Parlament autonòmic d'entre els seus membres
+
+Q: Quin article regula l'organització institucional de les CA que van accedir per la via ràpida?
+- Article 143
+- Article 148
+- Article 151
+- Article 152
+A: Article 152
+
+Q: Les lleis autonòmiques han de respectar...
+- Només la Constitució
+- La Constitució i el seu Estatut
+- Només el seu Estatut
+- Només les lleis estatals
+A: La Constitució i el seu Estatut
+
+Q: Quin és el principi que exigeix l'equilibri econòmic adequat entre totes les comunitats?
+- Principi d'unitat
+- Principi de solidaritat (art. 138.1)
+- Principi d'autonomia
+- Principi de legalitat
+A: Principi de solidaritat (art. 138.1)
+
+Q: Segons l'article 139.1 CE, què garanteix la Constitució a tots els espanyols?
+- Autonomia política
+- Igualtat de drets i deures a tot el territori
+- Representació al Senat
+- Accés a la funció pública
+A: Igualtat de drets i deures a tot el territori
+
+Q: Quin rang normatiu tenen els Estatuts d'Autonomia?
+- Rang reglamentari
+- Rang de llei ordinària
+- Rang de Llei Orgànica
+- Rang constitucional
+A: Rang de Llei Orgànica
+
+Q: La competència en educació és...
+- Exclusiva de l'Estat
+- Exclusiva de les CA
+- Compartida (bases estatals, desenvolupament autonòmic)
+- Dels municipis
+A: Compartida (bases estatals, desenvolupament autonòmic)
+
+Q: La competència en medi ambient és...
+- Exclusiva de l'Estat
+- Exclusiva de les CA
+- Compartida (legislació bàsica estatal, normes addicionals autonòmiques)
+- Dels municipis
+A: Compartida (legislació bàsica estatal, normes addicionals autonòmiques)
+
+Q: Què preveu l'article 150.1 CE?
+- Transferències de competències
+- Lleis marc estatals
+- Lleis d'harmonització
+- Convenis entre CA
+A: Lleis marc estatals
+
+Q: Què preveu l'article 150.3 CE?
+- Lleis marc
+- Transferències de competències
+- Lleis d'harmonització
+- Conflictes competencials
+A: Lleis d'harmonització
+
+Q: Quina és la funció del Senat segons el model autonòmic?
+- Cambra de representació territorial
+- Cambra exclusivament legislativa
+- Tribunal de conflictes
+- Òrgan executiu
+A: Cambra de representació territorial
+
+Q: Els convenis de cooperació entre CA (art. 145.2) requereixen...
+- Autorització estatal
+- Només comunicació a l'Estat
+- Aprovació del Tribunal Constitucional
+- Referèndum
+A: Autorització estatal
+
+Q: Què significa que l'autonomia de les CA no és sobirania?
+- Que no poden legislar
+- Que s'exerceix dins la unitat de l'Estat i sota la Constitució
+- Que no tenen institucions pròpies
+- Que depenen del Govern central
+A: Que s'exerceix dins la unitat de l'Estat i sota la Constitució
+
+Q: El règim foral de Navarra està regulat per...
+- La Llei d'Amillorament (LO 13/1982)
+- Un Estatut d'Autonomia ordinari
+- La Disposició Transitòria 2ª
+- L'article 151 CE
+A: La Llei d'Amillorament (LO 13/1982)
+
+Q: Ceuta i Melilla es van constituir com a Ciutats Autònomes mitjançant...
+- LO 1/1995 i 2/1995
+- Article 151 CE
+- Disposició Transitòria 2ª
+- Article 143 CE
+A: LO 1/1995 i 2/1995
+
+Q: Quin article permet constituir CA singulars per iniciativa estatal?
+- Article 143
+- Article 144
+- Article 145
+- Article 146
+A: Article 144
+
+Q: El principi disposicional o de voluntarietat significa que...
+- Totes les CA són iguals
+- Les regions podien decidir accedir o no a l'autonomia
+- L'Estat imposa l'autonomia
+- No hi ha diversitat entre CA
+A: Les regions podien decidir accedir o no a l'autonomia
+
+Q: Després de transcorreguts 5 anys, les CA de via ordinària podien...
+- Dissoldre's
+- Ampliar competències reformant els seus Estatuts (art. 148.2)
+- Federar-se amb altres CA
+- Perdre competències
+A: Ampliar competències reformant els seus Estatuts (art. 148.2)
+
+Q: La legislació de l'Estat actua com a dret supletori quan...
+- Sempre preval sobre la normativa autonòmica
+- En absència de norma autonòmica en matèries de competència d'aquesta
+- Mai pot aplicar-se en territori autonòmic
+- Només en matèries exclusives estatals
+A: En absència de norma autonòmica en matèries de competència d'aquesta
+
+Q: El Tribunal Superior de Justícia de cada CA és...
+- Independent del Poder Judicial espanyol
+- El cim del poder judicial ordinari al territori (dins la unitat del Poder Judicial)
+- Un òrgan polític
+- Un tribunal especial fora de la jurisdicció ordinària
+A: El cim del poder judicial ordinari al territori (dins la unitat del Poder Judicial)
+
+Q: Quina llei regula el finançament de les Comunitats Autònomes?
+- LOTC (Llei Orgànica del Tribunal Constitucional)
+- LOFCA (Llei Orgànica de Finançament de les CA)
+- LRJSP (Llei de Règim Jurídic del Sector Públic)
+- CE directament
+A: LOFCA (Llei Orgànica de Finançament de les CA)
+
+Q: Les Conferències Sectorials són mecanismes de...
+- Conflicte entre administracions
+- Cooperació i coordinació entre Estat i CA
+- Control judicial
+- Reforma estatutària
+A: Cooperació i coordinació entre Estat i CA
+
+Q: En cas de conflicte normatiu en matèria de competència estatal...
+- Preval la norma autonòmica
+- Preval la norma estatal
+- Decideix el Govern
+- Es consulta per referèndum
+A: Preval la norma estatal
+
+Q: La potestat legislativa autonòmica s'exerceix mitjançant...
+- Decrets Llei autonòmics exclusivament
+- Lleis del Parlament o Assemblea autonòmica
+- Reglaments del Govern autonòmic
+- Lleis estatals delegades
+A: Lleis del Parlament o Assemblea autonòmica
+
+Q: El traspàs de competències i serveis de l'Estat a les CA es va realitzar inicialment mitjançant...
+- Decrets del Govern
+- Comissions Mixtes Estat-CA amb Acords de transferència
+- Referèndums
+- Sentències del Tribunal Constitucional
+A: Comissions Mixtes Estat-CA amb Acords de transferència

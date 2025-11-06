@@ -1,0 +1,349 @@
+Q: Quina NO és una situació administrativa dels funcionaris de carrera?
+- Servei actiu
+- Serveis especials
+- Serveis concertats
+- Excedència per cura de familiars
+A: Serveis concertats
+
+Q: En quin estat legal es troba un funcionari que ocupa el seu lloc de treball habitual i presta serveis efectius?
+- Serveis especials
+- Servei actiu
+- Servei en altra administració
+- Excedència voluntària
+A: Servei actiu
+
+Q: Quina situació administrativa correspon a un funcionari que és nomenat alt càrrec de govern?
+- Servei actiu
+- Serveis especials
+- Excedència voluntària per interès particular
+- Suspensió de funcions
+A: Serveis especials
+
+Q: En la situació de serveis especials, el temps computa a efectes d'antiguitat i drets passius?
+- Sí, computa íntegrament
+- No computa en cap cas
+- Només computa per a triennis
+- Només computa si dura menys de 2 anys
+A: Sí, computa íntegrament
+
+Q: Quants anys de serveis previs es requereixen normalment per sol·licitar excedència voluntària per interès particular?
+- 2 anys
+- 3 anys
+- 5 anys
+- 10 anys
+A: 5 anys
+
+Q: Quin tipus d'excedència NO requereix temps previ de servei?
+- Excedència per interès particular
+- Excedència per agrupació familiar
+- Excedència per cura de fills
+- Totes en requereixen
+A: Excedència per agrupació familiar
+
+Q: Durant quant de temps hi ha reserva del lloc de treball en l'excedència per cura de fills?
+- Almenys durant els primers 2 anys
+- Durant tot el període d'excedència
+- No hi ha reserva en cap cas
+- Només durant el primer any
+A: Almenys durant els primers 2 anys
+
+Q: En l'excedència voluntària per interès particular, el temps computa per a triennis i promocions?
+- Sí, computa íntegrament
+- No es computa per a cap efecte
+- Només computa per a triennis
+- Només computa per a drets passius
+A: No es computa per a cap efecte
+
+Q: Quin és el període mínim de permanència en l'excedència voluntària per interès particular?
+- 1 any
+- 2 anys
+- 3 anys
+- 5 anys
+A: 2 anys
+
+Q: Fins a quants anys es pot sol·licitar excedència per cura de fill per cada subjecte causant?
+- 1 any
+- 2 anys
+- 3 anys
+- 5 anys
+A: 3 anys
+
+Q: Què succeeix amb un funcionari que no demana el reingrés en el termini reglamentari després de finalitzar la causa d'excedència?
+- Pot ser declarat en excedència per interès particular d'ofici o perdre el dret a la plaça
+- Reingresso automàticament
+- Es prorroga l'excedència automàticament
+- No passa res, pot demanar-ho quan vulgui
+A: Pot ser declarat en excedència per interès particular d'ofici o perdre el dret a la plaça
+
+Q: Quina és la situació administrativa del funcionari que queda temporalment allunyat del servei actiu com a conseqüència d'una sanció disciplinària?
+- Excedència forçosa
+- Suspensió de funcions
+- Serveis especials
+- Servei actiu amb restriccions
+A: Suspensió de funcions
+
+Q: Quina és la durada màxima de la suspensió de funcions com a sanció segons l'EBEP?
+- 2 anys
+- 4 anys
+- 6 anys
+- 10 anys
+A: 6 anys
+
+Q: En matèria d'incompatibilitats, quin principi s'aplica ÚNICAMENT a les activitats privades dels empleats públics?
+- Dedicació exclusiva a un sol lloc
+- Imparcialitat i independència
+- Percepció d'una única remuneració pública
+- Transparència administrativa
+A: Imparcialitat i independència
+
+Q: Segons la legislació d'incompatibilitats, quants llocs remunerats en el sector públic pot ocupar simultàniament un empleat públic?
+- Cap, ha de dedicar-se exclusivament al primer
+- Un, amb dedicació exclusiva
+- Dos, si són compatibles
+- Tots els que siguin autoritzats
+A: Un, amb dedicació exclusiva
+
+Q: És necessari obtenir autorització prèvia per realitzar una segona activitat privada remunerada, encara que sigui fora de l'horari laboral?
+- No, si és fora de l'horari no cal
+- Sí, tota activitat remunerada addicional requereix autorització
+- Només si interfereix amb les funcions públiques
+- Només si supera un cert import
+A: Sí, tota activitat remunerada addicional requereix autorització
+
+Q: Pot un funcionari treballar en una empresa proveïdora habitual del seu ajuntament si ho fa fora de l'horari laboral?
+- Sí, si té autorització de compatibilitat
+- Sí, sempre que sigui fora de l'horari
+- No, és una incompatibilitat absoluta
+- Depèn del tipus de proveïdor
+A: No, és una incompatibilitat absoluta
+
+Q: Quin òrgan decideix l'autorització de compatibilitat d'un empleat públic d'un ajuntament?
+- La Junta de Personal
+- El Cap immediat
+- El Ple de la corporació local
+- El Ministeri de Funció Pública
+A: El Ple de la corporació local
+
+Q: Quina llei estatal bàsica regula el règim d'incompatibilitats del personal al servei de les administracions públiques?
+- Llei 53/1984
+- Llei 21/1987
+- Llei 40/2015
+- EBEP (TREBEP)
+A: Llei 53/1984
+
+Q: La Llei catalana 21/1987 regula:
+- Les situacions administratives a Catalunya
+- Les incompatibilitats del personal de la Generalitat
+- El règim disciplinari a Catalunya
+- Les excedències voluntàries
+A: Les incompatibilitats del personal de la Generalitat
+
+Q: Què és una falta disciplinària?
+- Qualsevol error comès en l'exercici de les funcions
+- Acció o omissió imputable que vulnera els deures funcionalsz i està tipificada per llei
+- Un incompliment contractual
+- Una infracció penal comesa per un funcionari
+A: Acció o omissió imputable que vulnera els deures funcionalsz i està tipificada per llei
+
+Q: Com es classifiquen les faltes disciplinàries segons la seva gravetat?
+- Menors, mitjanes i majors
+- Lleus, greus i molt greus
+- Ordinàries i extraordinàries
+- Simples i qualificades
+A: Lleus, greus i molt greus
+
+Q: Quina de les següents conductes constitueix una falta disciplinària molt greu?
+- Retard esporàdic i injustificat
+- Abandonar el servei sense causa justificable
+- Descuidar la complimentació d'un formulari
+- Discutir amb un superior
+A: Abandonar el servei sense causa justificable
+
+Q: Són exemples típics de faltes lleus:
+- Desobediència oberta amb perjudici
+- Retards injustificats repetits i descortesia lleu
+- Abandonament del servei
+- Corrupció i prevaricació
+A: Retards injustificats repetits i descortesia lleu
+
+Q: Quina és la sanció màxima per a una falta disciplinària molt greu?
+- Suspensió de funcions de 6 anys
+- Separació del servei
+- Demèrit en la carrera professional
+- Multa econòmica important
+A: Separació del servei
+
+Q: Quina sanció correspon típicament a les faltes lleus?
+- Separació del servei
+- Suspensió de funcions de diversos anys
+- Amonestacions verbals o per escrit
+- Trasllat forçós
+A: Amonestacions verbals o per escrit
+
+Q: El principi de legalitat i tipicitat en matèria disciplinària implica:
+- Que les sancions han de ser molt severes
+- Que només es poden sancionar conductes prèviament definides per norma com a falta
+- Que cal publicar les sancions
+- Que les faltes prescriuen als 3 anys
+A: Que només es poden sancionar conductes prèviament definides per norma com a falta
+
+Q: El principi de proporcionalitat en el règim disciplinari exigeix:
+- Que totes les faltes tinguin la mateixa sanció
+- Que la sanció sigui congruent amb la gravetat del fet
+- Que es sancioni amb la màxima duresa
+- Que no es puguin imposar sancions greus
+A: Que la sanció sigui congruent amb la gravetat del fet
+
+Q: El principi "non bis in idem" prohibeix:
+- Imposar sancions sense procediment
+- Sancionar doblement un mateix fet
+- Sancionar faltes prescrites
+- Aplicar normes retroactives
+A: Sancionar doblement un mateix fet
+
+Q: Qui inicia un expedient disciplinari quan es detecta una possible falta?
+- L'interessat ha de denunciar-se
+- L'Administració, designant un instructor independent
+- El Ministeri Fiscal
+- Els companys de treball
+A: L'Administració, designant un instructor independent
+
+Q: Què és el plec de càrrecs en un procediment disciplinari?
+- El document on es descriu el sou del funcionari
+- El document on es descriuen els fets imputats, la falta i la sanció que es podria imposar
+- La proposta de resolució final
+- L'escrit d'al·legacions de l'inculpat
+A: El document on es descriuen els fets imputats, la falta i la sanció que es podria imposar
+
+Q: Quin termini té l'inculpat per presentar al·legacions després de rebre el plec de càrrecs?
+- 5 dies
+- 10 o 15 dies segons la normativa
+- 30 dies
+- 2 mesos
+A: 10 o 15 dies segons la normativa
+
+Q: Durant el procediment disciplinari, si es descobreixen indicis de delicte, què s'ha de fer?
+- Continuar només amb el procediment disciplinari
+- Parar el procediment i posar els fets en coneixement del Ministeri Fiscal
+- Arxivar l'expedient
+- Imposar directament la sanció màxima
+A: Parar el procediment i posar els fets en coneixement del Ministeri Fiscal
+
+Q: La resolució sancionadora ha de ser:
+- Breu i sense justificació
+- Motivada, expressant els fets provats i la valoració jurídica
+- Oral i confidencial
+- Immediata sense tramitació
+A: Motivada, expressant els fets provats i la valoració jurídica
+
+Q: Quin és el termini màxim habitual per tramitar un procediment disciplinari?
+- 1 mes
+- 3 mesos
+- 6 mesos o 1 any segons la complexitat
+- 5 anys
+A: 6 mesos o 1 any segons la complexitat
+
+Q: Què succeeix amb una falta disciplinària si no s'ha sancionat dins el termini legal?
+- Es sanciona igualment
+- Prescriu i s'extingeix la responsabilitat
+- Es converteix en falta més greu
+- Es trasllada al Ministeri Fiscal
+A: Prescriu i s'extingeix la responsabilitat
+
+Q: Incomplir les normes d'incompatibilitat creant situacions prohibides constitueix:
+- Una falta lleu
+- Una falta greu
+- Una falta molt greu
+- Una simple irregularitat administrativa
+A: Una falta molt greu
+
+Q: La desobediència oberta a un superior amb perjudici per al servei és:
+- Una falta lleu
+- Una falta greu
+- Una falta molt greu
+- No constitueix falta si hi ha desacord raonable
+A: Una falta molt greu
+
+Q: Durant la suspensió de funcions com a sanció, el funcionari:
+- Continua cobrant el sou però no treballa
+- No exerceix el lloc ni percep retribucions
+- Cobra la meitat del sou
+- Només perd les pagues extres
+A: No exerceix el lloc ni percep retribucions
+
+Q: El trasllat forçós és una sanció típica per a:
+- Faltes lleus
+- Faltes greus
+- Faltes molt greus exclusivament
+- No és una sanció disciplinària
+A: Faltes greus
+
+Q: Quin document aprova el text refós de la Llei de l'Estatut Bàsic de l'Empleat Públic (TREBEP)?
+- Llei 53/1984
+- Reial Decret Legislatiu 5/2015
+- Llei 40/2015
+- Decret 243/1995
+A: Reial Decret Legislatiu 5/2015
+
+Q: La Llei 8/2006 de Catalunya regula:
+- Les incompatibilitats
+- Les mesures de conciliació de la vida personal, familiar i laboral
+- El règim disciplinari
+- Les situacions administratives
+A: Les mesures de conciliació de la vida personal, familiar i laboral
+
+Q: El Decret 243/1995 de la Generalitat aprova:
+- El Reglament de situacions administratives
+- El Reglament de Règim Disciplinari de la Funció Pública
+- El Reglament d'incompatibilitats
+- El Reglament de provisió de llocs
+A: El Reglament de Règim Disciplinari de la Funció Pública
+
+Q: En l'excedència per violència de gènere o terrorisme, es requereix un mínim d'anys de servei previs?
+- Sí, 5 anys com a mínim
+- Sí, 2 anys com a mínim
+- No, no es requereix temps previ
+- Sí, 10 anys com a mínim
+A: No, no es requereix temps previ
+
+Q: Què garanteix l'Administració durant l'excedència per cura de fills?
+- El mateix sou durant el primer any
+- La participació en cursos de formació
+- L'ascens automàtic
+- La percepció de les pagues extres
+A: La participació en cursos de formació
+
+Q: Si un funcionari està en servei en altra administració pública, quin és l'efecte sobre l'administració d'origen?
+- Perd definitivament la vinculació
+- Se suspèn la relació de servei amb dret de reingrés posterior
+- Ha de dimitir de l'administració d'origen
+- No té cap efecte
+A: Se suspèn la relació de servei amb dret de reingrés posterior
+
+Q: Els tres principis bàsics del règim d'incompatibilitats són:
+- Legalitat, tipicitat i proporcionalitat
+- Eficàcia, eficiència i economia
+- Dedicació exclusiva, unitat de sou i imparcialitat
+- Transparència, objectivitat i professionalitat
+A: Dedicació exclusiva, unitat de sou i imparcialitat
+
+Q: Poden autoritzar-se activitats privades si l'empleat públic té capacitat de decisió sobre l'empresa en el seu lloc públic?
+- Sí, amb autorització expressa
+- Sí, si és fora de l'horari laboral
+- No, és una incompatibilitat absoluta no autoritzable
+- Depèn de la importància del lloc
+A: No, és una incompatibilitat absoluta no autoritzable
+
+Q: El principi de presumpció d'innocència en el procediment disciplinari implica:
+- Que no es pot sancionar mai
+- Que el funcionari és considerat innocent mentre no es provi el contrari
+- Que cal demostrar la innocència
+- Que totes les faltes prescriuen
+A: Que el funcionari és considerat innocent mentre no es provi el contrari
+
+Q: Quina de les següents és una garantia procedimental en l'expedient disciplinari?
+- Sanció immediata sense tramitació
+- Tràmit d'audiència i dret de defensa de l'inculpat
+- Secret absolut del procediment
+- Presumpció de culpabilitat
+A: Tràmit d'audiència i dret de defensa de l'inculpat

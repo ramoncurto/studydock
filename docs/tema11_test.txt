@@ -1,0 +1,349 @@
+Q: Quin article de la Constitució Espanyola reconeix el principi d'autonomia financera de les entitats locals?
+- Article 133 CE
+- Article 140 CE
+- Article 142 CE
+- Article 31.3 CE
+A: Article 140 CE
+
+Q: El principi de suficiència financera estableix que:
+- Les hisendes locals han de disposar dels mitjans econòmics suficients per al desenvolupament de les funcions que la llei els atribueix
+- Les entitats locals poden crear qualsevol tribut sense límits
+- Els ajuntaments només es poden finançar amb tributs propis
+- L'Estat ha de finançar totes les competències locals
+A: Les hisendes locals han de disposar dels mitjans econòmics suficients per al desenvolupament de les funcions que la llei els atribueix
+
+Q: Quin és el text normatiu principal que regula les hisendes locals?
+- La Llei General Tributària (LGT)
+- El Text Refós de la Llei Reguladora de les Hisendes Locals (TRLRHL)
+- La Llei Reguladora de les Bases del Règim Local (LRBRL)
+- La Constitució Espanyola
+A: El Text Refós de la Llei Reguladora de les Hisendes Locals (TRLRHL)
+
+Q: El TRLRHL es va aprovar mitjançant:
+- Reial Decret Legislatiu 1/2004
+- Reial Decret Legislatiu 2/2004, de 5 de març
+- Llei 7/1985, de 2 d'abril
+- Llei 58/2003, de 17 de desembre
+A: Reial Decret Legislatiu 2/2004, de 5 de març
+
+Q: El principi de legalitat tributària estableix que:
+- Els tributs només es poden crear per llei
+- Les entitats locals poden crear qualsevol tribut
+- Els impostos es poden establir per decret
+- Les ordenances fiscals tenen rang de llei
+A: Els tributs només es poden crear per llei
+
+Q: Quina potestat tributària tenen les entitats locals segons el principi de legalitat?
+- Potestat originària
+- Potestat derivada que exerceixen dins del marc legal establert
+- Potestat plena sense limitacions
+- Potestat compartida amb les Comunitats Autònomes
+A: Potestat derivada que exerceixen dins del marc legal establert
+
+Q: Segons l'article 2 del TRLRHL, els ingressos tributaris locals es classifiquen en:
+- Impostos i taxes
+- Impostos, taxes i contribucions especials
+- Impostos, taxes, contribucions especials i preus públics
+- Només impostos
+A: Impostos, taxes i contribucions especials
+
+Q: Què és un impost segons el TRLRHL?
+- Un tribut amb contraprestació administrativa directa
+- Un tribut exigit sense una contraprestació administrativa directa que grava la capacitat econòmica
+- Un tribut per l'ús del domini públic
+- Un tribut per l'obtenció d'un benefici per obres públiques
+A: Un tribut exigit sense una contraprestació administrativa directa que grava la capacitat econòmica
+
+Q: El fet imposable d'una taxa consisteix en:
+- La manifestació de capacitat econòmica del contribuent
+- L'obtenció d'un benefici per obres públiques
+- La utilització privativa del domini públic o la prestació de serveis públics que afecten el subjecte passiu
+- La realització de construccions, instal·lacions o obres
+A: La utilització privativa del domini públic o la prestació de serveis públics que afecten el subjecte passiu
+
+Q: Les contribucions especials es caracteritzen perquè el seu fet imposable és:
+- La manifestació de capacitat econòmica
+- L'obtenció d'un benefici o augment de valor dels béns per obres o serveis públics
+- La prestació de serveis públics
+- La utilització del domini públic
+A: L'obtenció d'un benefici o augment de valor dels béns per obres o serveis públics
+
+Q: Quin dels següents és un exemple de taxa?
+- L'IBI sobre un edifici
+- La taxa per llicència d'obres
+- La contribució per la urbanització d'un carrer
+- L'ICIO sobre una construcció
+A: La taxa per llicència d'obres
+
+Q: Els impostos municipals obligatoris són:
+- IBI, IAE i ICIO
+- IBI, IAE i IVTM
+- IBI, IVTM i IIVTNU
+- Només l'IBI
+A: IBI, IAE i IVTM
+
+Q: Quin dels següents impostos municipals és potestatiu?
+- L'Impost sobre Béns Immobles (IBI)
+- L'Impost sobre Vehicles de Tracció Mecànica (IVTM)
+- L'Impost sobre Construccions, Instal·lacions i Obres (ICIO)
+- L'Impost sobre Activitats Econòmiques (IAE)
+A: L'Impost sobre Construccions, Instal·lacions i Obres (ICIO)
+
+Q: L'Impost sobre l'Increment de Valor dels Terrenys de Naturalesa Urbana (IIVTNU) també es coneix com:
+- Plusvàlua municipal
+- IBI urbà
+- ICIO especial
+- Taxa d'obres
+A: Plusvàlua municipal
+
+Q: Les sigles IBI corresponen a:
+- Impost sobre Béns Industrials
+- Impost sobre Béns Immobles
+- Impost Bàsic Immobiliari
+- Impost sobre Béns Individuals
+A: Impost sobre Béns Immobles
+
+Q: Les sigles IAE corresponen a:
+- Impost sobre Activitats Empresarials
+- Impost Anual Econòmic
+- Impost sobre Activitats Econòmiques
+- Impost d'Activitats Especials
+A: Impost sobre Activitats Econòmiques
+
+Q: Les sigles IVTM corresponen a:
+- Impost sobre Vehicles de Transport Municipal
+- Impost sobre Vehicles de Tracció Mecànica
+- Impost sobre Vehicles Tractors i Motors
+- Impost de Vehicles Terrestres Motoritzats
+A: Impost sobre Vehicles de Tracció Mecànica
+
+Q: Les sigles ICIO corresponen a:
+- Impost sobre la Construcció Immobiliària d'Obres
+- Impost sobre Construccions Industrials i Civils d'Obra
+- Impost sobre Construccions, Instal·lacions i Obres
+- Impost sobre la Construcció i Instal·lació d'Obradors
+A: Impost sobre Construccions, Instal·lacions i Obres
+
+Q: El fet imposable de l'ICIO és:
+- La propietat d'un immoble urbà
+- La realització de construccions, instal·lacions o obres que requereixen llicència
+- L'augment de valor dels terrenys urbans
+- La tinença de vehicles de tracció mecànica
+A: La realització de construccions, instal·lacions o obres que requereixen llicència
+
+Q: Qui és el subjecte passiu de l'ICIO?
+- El propietari de l'immoble sempre
+- Els amos de la construcció, instal·lació o obra (normalment el promotor)
+- L'arquitecte tècnic
+- El contractista
+A: Els amos de la construcció, instal·lació o obra (normalment el promotor)
+
+Q: La base imposable de l'ICIO està constituïda per:
+- El Pressupost d'Execució per Contracta (PEC)
+- El cost real i efectiu (Pressupost d'Execució Material - PEM)
+- El valor cadastral de l'immoble
+- El valor de mercat de l'obra
+A: El cost real i efectiu (Pressupost d'Execució Material - PEM)
+
+Q: Segons el TRLRHL, quina de les següents partides S'HA d'excloure de la base imposable de l'ICIO?
+- El cost dels materials de construcció
+- El cost de la mà d'obra
+- Els honoraris professionals de l'arquitecte tècnic
+- El cost de la instal·lació de la maquinària
+A: Els honoraris professionals de l'arquitecte tècnic
+
+Q: S'exclouen de la base imposable de l'ICIO:
+- L'IVA, taxes, honoraris professionals i el benefici industrial del contractista
+- Només l'IVA
+- Només els honoraris professionals
+- Cap partida es pot excloure
+A: L'IVA, taxes, honoraris professionals i el benefici industrial del contractista
+
+Q: El tipus de gravamen màxim de l'ICIO és del:
+- 2%
+- 3%
+- 4%
+- 5%
+A: 4%
+
+Q: La meritació de l'ICIO es produeix:
+- En el moment d'obtenir la llicència d'obres
+- En el moment d'iniciar la construcció, instal·lació o obra
+- En el moment de finalitzar l'obra
+- En el moment de sol·licitar la llicència
+A: En el moment d'iniciar la construcció, instal·lació o obra
+
+Q: La liquidació provisional de l'ICIO es calcula sobre:
+- El pressupost d'execució material presentat per a l'obtenció de la llicència
+- El cost real final de l'obra
+- El valor cadastral
+- El Pressupost d'Execució per Contracta
+A: El pressupost d'execució material presentat per a l'obtenció de la llicència
+
+Q: Si el cost final d'una obra és superior al pressupostat inicialment per a l'ICIO:
+- No es pot reclamar la diferència
+- S'exigirà la diferència mitjançant liquidació definitiva
+- Es considera frau fiscal
+- El promotor no ha de pagar res més
+A: S'exigirà la diferència mitjançant liquidació definitiva
+
+Q: Les ordenances fiscals són:
+- Normes de rang de llei aprovades per l'Estat
+- Normes de rang reglamentari aprovades per una entitat local
+- Decrets aprovats per la Comunitat Autònoma
+- Resolucions judicials
+A: Normes de rang reglamentari aprovades per una entitat local
+
+Q: El principi de reserva de llei estableix que:
+- Tots els aspectes dels tributs han d'estar en ordenances
+- Els elements essencials d'un tribut han d'estar definits en una norma amb rang de llei estatal
+- Les entitats locals poden crear tributs sense llei estatal
+- Les ordenances fiscals tenen rang de llei
+A: Els elements essencials d'un tribut han d'estar definits en una norma amb rang de llei estatal
+
+Q: La primera fase del procediment d'aprovació d'una ordenança fiscal és:
+- La publicació al BOP
+- La informació pública
+- La iniciativa i aprovació provisional pel Ple
+- La resolució d'al·legacions
+A: La iniciativa i aprovació provisional pel Ple
+
+Q: L'acord d'aprovació provisional d'una ordenança fiscal requereix:
+- Majoria absoluta
+- Majoria de dos terços
+- Majoria simple
+- Unanimitat
+A: Majoria simple
+
+Q: Durant el tràmit d'informació pública d'una ordenança fiscal, el termini mínim d'exposició és de:
+- 15 dies hàbils
+- 20 dies hàbils
+- 30 dies hàbils
+- 45 dies hàbils
+A: 30 dies hàbils
+
+Q: L'ordenança fiscal s'ha de publicar a:
+- El Diari Oficial de la Generalitat
+- El Butlletí Oficial de l'Estat
+- El Butlletí Oficial de la Província (BOP)
+- El tauler d'anuncis municipal només
+A: El Butlletí Oficial de la Província (BOP)
+
+Q: Si no es presenten al·legacions durant el tràmit d'informació pública:
+- Cal fer una nova aprovació pel Ple
+- L'acord provisional esdevé automàticament definitiu
+- S'ha d'iniciar un nou procediment
+- La ordenança queda sense efecte
+A: L'acord provisional esdevé automàticament definitiu
+
+Q: Una ordenança fiscal entra en vigor:
+- Amb l'acord d'aprovació provisional
+- Amb l'acord d'aprovació definitiva
+- Amb la publicació del text íntegre al BOP
+- Amb l'exposició al tauler d'anuncis
+A: Amb la publicació del text íntegre al BOP
+
+Q: El principi de no confiscatorietat estableix que:
+- No es poden establir tributs sobre béns confiscats
+- La càrrega tributària no pot exhaurir la riquesa del contribuent
+- Els tributs no poden gravar més d'un 50% de la renda
+- Els tributs locals no poden superar els estatals
+A: La càrrega tributària no pot exhaurir la riquesa del contribuent
+
+Q: El principi de territorialitat estableix que:
+- Els tributs locals només es poden cobrar dins del terme municipal
+- Els tributs locals no poden gravar béns situats, activitats desenvolupades o rendiments originats fora del territori de l'entitat local
+- Els tributs estatals prevalen sobre els locals
+- Les entitats locals només poden tributar sobre béns immobles
+A: Els tributs locals no poden gravar béns situats, activitats desenvolupades o rendiments originats fora del territori de l'entitat local
+
+Q: En una contribució especial per obres públiques, el percentatge màxim del cost que es pot repercutir als beneficiaris és del:
+- 50%
+- 70%
+- 80%
+- 90%
+A: 90%
+
+Q: L'establiment d'una contribució especial per la realització d'una obra pública requereix que:
+- L'obra sigui declarada d'interès general per l'Estat
+- Els veïns obtinguin un benefici o un augment de valor en els seus béns
+- El cost de l'obra sigui finançat íntegrament pels pressupostos municipals
+- Tots els ciutadans del municipi es beneficiïn per igual
+A: Els veïns obtinguin un benefici o un augment de valor en els seus béns
+
+Q: Els preus públics són:
+- Ingressos tributaris locals
+- Ingressos de dret públic no tributaris
+- Ingressos de dret privat
+- Impostos potestatius
+A: Ingressos de dret públic no tributaris
+
+Q: La diferència entre taxa i preu públic és que:
+- La taxa és coactiva per serveis essencials o ús del domini públic, el preu públic és voluntari
+- La taxa és més cara que el preu públic
+- El preu públic és un impost i la taxa no
+- No hi ha diferència
+A: La taxa és coactiva per serveis essencials o ús del domini públic, el preu públic és voluntari
+
+Q: Els ingressos de dret privat de les hisendes locals inclouen:
+- Impostos i taxes
+- Rendiments o productes del seu patrimoni
+- Contribucions especials
+- Preus públics
+A: Rendiments o productes del seu patrimoni
+
+Q: El fet imposable és:
+- La quantitat a pagar d'un tribut
+- La circumstància o fet que origina l'obligació de pagar un tribut
+- El percentatge que s'aplica a la base imposable
+- El moment en què es paga el tribut
+A: La circumstància o fet que origina l'obligació de pagar un tribut
+
+Q: La base imposable és:
+- El percentatge que s'aplica per calcular la quota
+- La quantificació monetària del fet imposable sobre la qual s'aplica el tipus de gravamen
+- La quantitat final a pagar
+- El moment en què neix l'obligació tributària
+A: La quantificació monetària del fet imposable sobre la qual s'aplica el tipus de gravamen
+
+Q: El tipus de gravamen és:
+- La quantitat final a pagar
+- El moment en què es paga el tribut
+- El percentatge que s'aplica a la base imposable per calcular la quota tributària
+- La quantificació del fet imposable
+A: El percentatge que s'aplica a la base imposable per calcular la quota tributària
+
+Q: La meritació (o devengo) és:
+- El moment en què es paga el tribut
+- El moment en què s'entén realitzat el fet imposable i neix l'obligació tributària
+- La quantitat final a pagar
+- El percentatge que s'aplica a la base
+A: El moment en què s'entén realitzat el fet imposable i neix l'obligació tributària
+
+Q: Un promotor inicia una obra amb un PEM de 500.000 € i l'ICIO és del 4%. Quant ha de pagar en la liquidació provisional?
+- 10.000 €
+- 15.000 €
+- 20.000 €
+- 25.000 €
+A: 20.000 €
+
+Q: Si el cost final d'una obra és de 550.000 € i el PEM inicial era de 500.000 € amb un tipus ICIO del 4%, quant s'exigirà en la liquidació definitiva addicional?
+- 1.000 €
+- 2.000 €
+- 3.000 €
+- 4.000 €
+A: 2.000 €
+
+Q: Els informes preceptius en la fase d'aprovació provisional d'una ordenança fiscal són del:
+- Secretari i interventor municipal
+- Alcalde i secretari
+- Ple i secretari
+- Interventor i tresorer
+A: Secretari i interventor municipal
+
+Q: El procediment d'aprovació d'una ordenança fiscal municipal finalitza i l'ordenança entra en vigor amb:
+- L'acord d'aprovació definitiva del Ple
+- La publicació de l'acord d'aprovació provisional al BOP
+- La resolució de les al·legacions presentades
+- La publicació del text íntegre de l'ordenança al BOP
+A: La publicació del text íntegre de l'ordenança al BOP

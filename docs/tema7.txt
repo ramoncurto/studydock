@@ -1,0 +1,248 @@
+7. El règim local espanyol: principis constitucionals. El Municipi: l’organització municipal i competències.
+
+Visió global
+El règim local espanyol pivota sobre la figura del Municipi, reconegut per la Constitució com l'entitat bàsica de l'organització territorial de l'Estat.1 Aquesta posició li confereix una doble naturalesa: és l'esglaó més proper de l'Administració al ciutadà i, alhora, un canal fonamental per a la participació ciutadana en els afers públics. La clau de volta del sistema és el principi d'autonomia, garantit constitucionalment, que atorga als municipis la capacitat per gestionar els seus propis interessos amb personalitat jurídica plena.3 Aquesta autonomia es materialitza a través d'una organització pròpia i l'exercici de competències definides per llei, principalment per la Llei 7/1985, Reguladora de les Bases del Règim Local (LRBRL), que desenvolupa els mandats constitucionals.
+Checklist d’estudi
+Principis Constitucionals Clau: Autonomia (CE 137, 140), Democràcia (CE 140) i Suficiència Financera (CE 142).1
+Elements del Municipi: Territori, Població i Organització (LRBRL Art. 11).
+Òrgans Necessaris (Règim Comú): Alcalde/essa, Tinents/es d'Alcalde i Ple existeixen en tots els municipis.7
+Òrgans Necessaris (Segons Població): La Junta de Govern Local és obligatòria en municipis de més de 5.000 habitants (i opcional en els menors).7
+Atribucions Indelegables del Ple: Control del govern, aprovació de pressupostos i comptes, aprovació del planejament urbanístic general, alteració del terme municipal i ordenances.10
+Competències Pròpies Essencials (Visió Arquitecte Tècnic): Urbanisme (planejament, gestió, execució i disciplina), conservació i rehabilitació de l'edificació, infraestructura viària i equipaments, i medi ambient urbà (LRBRL Art. 25).6
+Serveis Mínims Obligatoris: Conèixer els serveis exigibles segons els llindars de població: tots, >5.000, >20.000 i >50.000 habitants (LRBRL Art. 26).12
+Normativa de Referència: Constitución Española (CE) i Ley 7/1985 (LRBRL).
+Desenvolupament
+1) Conceptes clau i definicions
+Municipi: És l'entitat local bàsica de l'organització territorial de l'Estat. Té personalitat jurídica pròpia i plena capacitat per al compliment de les seves finalitats, que són la gestió autònoma dels interessos de la seva comunitat.2 La Constitució el reconeix com a garant de l'autonomia local.1
+Autonomia Local: És la garantia constitucional que permet als municipis governar i gestionar els seus respectius interessos. No és sobirania, sinó una esfera de poder pròpia, protegida davant d'interferències indegudes. Es manifesta en potestats concretes com la reglamentària (aprovar ordenances), d'autoorganització, tributària, de planificació i expropiatòria.1
+Competència Pròpia: És una matèria sobre la qual la llei atorga al municipi la titularitat de la funció pública corresponent. El municipi l'exerceix en règim d'autonomia i sota la seva pròpia responsabilitat. Les competències pròpies només poden ser determinades per una llei estatal o autonòmica.2
+Competència Delegada: És l'exercici per part del municipi de funcions que són titularitat de l'Estat o de les Comunitats Autònomes. Aquesta delegació ha de millorar l'eficiència de la gestió pública, anar acompanyada del finançament corresponent i pot estar subjecta a controls de legalitat i oportunitat per part de l'administració delegant.2
+2) Principis constitucionals del règim local
+La Constitució de 1978 estableix el marc fonamental del règim local sobre tres pilars essencials que tot opositor ha de dominar.
+Principi d'Autonomia (CE Arts. 137 i 140): L'article 137 CE reconeix que l'Estat s'organitza territorialment en municipis, províncies i Comunitats Autònomes, i afirma que "totes aquestes entitats gaudeixen d'autonomia per a la gestió dels seus respectius interessos".1 L'article 140 reforça aquesta idea garantint específicament l'autonomia dels municipis. Aquesta garantia implica una obligació per al legislador estatal i autonòmic de respectar un nucli essencial de poder de decisió local. Encara que les lleis regulen el règim local, no poden buidar-lo de contingut fins a fer-lo irrecognoscible. Aquest concepte, conegut com a "garantia institucional", és fonamental per entendre els possibles conflictes entre normatives de diferent rang.
+Principi Democràtic i Representatiu (CE Art. 140): La Constitució estableix que el govern i l'administració dels municipis corresponen als seus Ajuntaments, integrats per l'Alcalde/essa i els Regidors/es. Aquests últims són elegits "pels veïns del municipi mitjançant sufragi universal, igual, lliure, directe i secret".3 La legitimitat democràtica directa és la font de la qual emana l'autonomia. Com que el govern local és elegit directament per la comunitat, té el mandat per gestionar els interessos d'aquesta comunitat. Per això, el Ple, com a òrgan que agrupa tots els representants electes, ostenta les funcions superiors de control polític sobre l'executiu (l'Alcalde/essa i la seva Junta de Govern).
+Principi de Suficiència Financera (CE Art. 142): Aquest article decreta que "les Hisendes locals hauran de disposar dels mitjans suficients per a l'acompliment de les funcions que la llei atribueix a les Corporacions respectives". Aquests mitjans es nodriran fonamentalment de tributs propis i de la participació en els de l'Estat i de les Comunitats Autònomes. Aquest principi és el suport material de l'autonomia; sense recursos suficients, la capacitat de gestió autònoma seria una mera declaració formal. Per a un tècnic municipal, aquest principi connecta directament la viabilitat legal i tècnica d'un projecte (una obra, una rehabilitació) amb la seva viabilitat economicofinancera, regida per la Llei Reguladora de les Hisendes Locals.
+3) El Municipi: Organització i Estructura
+Segons l'article 11 de la LRBRL, són elements del municipi el territori, la població i l'organització.
+Territori (Terme Municipal): És l'espai físic on l'ajuntament exerceix les seves competències. Cada municipi ha de pertànyer a una única província.6
+Població (Padró Municipal): Està formada pel conjunt de persones (veïns) inscrites al Padró municipal. La inscripció és una obligació i un dret per a tota persona que resideix habitualment a Espanya.1
+Organització: És el conjunt d'òrgans a través dels quals l'ajuntament exerceix el govern i l'administració municipal. La LRBRL distingeix entre un règim comú i règims especials (com el dels municipis de gran població).
+Esquema de l'Organització Municipal per Trams de Població (Règim Comú)
+Les preguntes d'examen sovint avaluen el coneixement dels llindars de població que determinen l'existència obligatòria de certs òrgans. La següent taula sintetitza aquesta informació clau.
+Òrgan
+Llindar de Població
+Regulació (LRBRL)
+Notes
+Alcalde/essa, Tinents/es d'Alcalde, Ple
+Tots els municipis
+Art. 20.1
+Estructura bàsica i universal.
+Comissió Especial de Comptes
+Tots els municipis
+Art. 116
+Funció fiscalitzadora dels comptes anuals.
+Junta de Govern Local
+> 5.000 habitants
+Art. 20.1.b
+Òrgan d'assistència executiva a l'Alcalde.
+
+
+< 5.000 habitants
+Art. 20.1.b
+Opcional (si ho preveu el Reglament Orgànic o ho acorda el Ple).
+Comissions Informatives
+> 5.000 habitants
+Art. 20.1.c
+Per a l'estudi i informe d'assumptes del Ple.
+
+
+< 5.000 habitants
+Art. 20.1.c
+Opcional (mateixes condicions que la JGL).
+
+4) Òrgans de Govern Municipals: Atribucions
+La LRBRL estableix una clara divisió funcional entre els òrgans de govern.
+L'Alcalde/essa (President/a de la Corporació): És el màxim òrgan executiu unipersonal. Les seves atribucions principals, segons l'article 21 de la LRBRL, inclouen dirigir el govern i l'administració municipal, representar l'ajuntament, convocar i presidir les sessions dels òrgans col·legiats, dictar bans, exercir la direcció superior del personal i de la Policia Local, i adoptar mesures urgents en cas de catàstrofe.10 Representa el poder executiu, enfocat en la gestió diària i la resposta àgil.
+El Ple (Òrgan de màxima representació): Està integrat per tots els regidors i és presidit per l'Alcalde/essa.13 Com a reflex del pluralisme democràtic, ostenta les decisions de major transcendència. L'article 22 de la LRBRL li atribueix competències que, en la seva majoria, són indelegables, com ara:
+El control i la fiscalització dels òrgans de govern.
+L'aprovació dels pressupostos i dels comptes.
+L'aprovació dels instruments de planejament general urbanístic.
+L'aprovació del reglament orgànic i les ordenances.
+L'alteració del terme municipal.
+La votació de la moció de censura a l'Alcalde/essa.10
+Aquestes atribucions indelegables representen les decisions "sobiranes" del municipi, reservades a l'òrgan de màxima legitimitat democràtica.
+La Junta de Govern Local (Òrgan executiu col·legiat): És obligatòria en municipis de més de 5.000 habitants. Està integrada per l'Alcalde/essa i un nombre de regidors nomenats per ell/a, no superior a un terç del nombre legal de membres del Ple.8 La seva funció principal és assistir l'Alcalde/essa en les seves funcions i exercir les atribucions que aquest o el Ple li deleguin.10 Actua com un "consell de ministres" municipal, agilitzant la presa de decisions executives en municipis amb una major càrrega administrativa.
+5) Les Competències Municipals
+L'àmbit d'actuació municipal es defineix a través de les seves competències.
+Classificació: La LRBRL (Art. 7) distingeix fonamentalment entre competències pròpies i delegades.2 Els municipis també poden realitzar activitats complementàries ("competències impròpies") sempre que no posin en risc la sostenibilitat financera i no hi hagi duplicitat amb una altra administració.14
+Anàlisi de les Competències Pròpies (LRBRL Art. 25): Aquest article és crucial per a un Arquitecte Tècnic, ja que defineix el seu camp d'actuació professional a l'administració. El municipi exercirà, en tot cas, competències pròpies en les matèries següents 6:
+Urbanisme: planejament, gestió, execució i disciplina urbanística. Protecció i gestió del Patrimoni històric. Promoció i gestió de l'habitatge de protecció pública. Conservació i rehabilitació de l'edificació.
+Medi ambient urbà: parcs i jardins públics, gestió de residus sòlids urbans, protecció contra la contaminació acústica, lumínica i atmosfèrica.
+Infraestructures: infraestructura viària i altres equipaments de la seva titularitat.
+Altres matèries com policia local, protecció civil, trànsit, serveis socials, salubritat pública, cultura i esports.
+El Marc de les Competències Delegades (LRBRL Art. 27): L'Estat i les CCAA poden delegar competències als municipis per millorar l'eficiència i proximitat del servei. La delegació ha de ser acceptada pel municipi i ha de garantir el finançament necessari per a la seva execució. Exemples comuns inclouen la gestió d'instal·lacions culturals o esportives de titularitat autonòmica, o la liquidació de certs tributs.14
+Serveis Mínims Obligatoris per Població (LRBRL Art. 26): És un error comú confondre les competències generals de l'article 25 amb els serveis que l'article 26 obliga a prestar. L'article 25 defineix el que un municipi pot fer, mentre que l'article 26 estableix el que ha de fer. Aquests serveis són un dret dels veïns i una obligació legal per a l'ajuntament.
+Servei
+Tots els municipis
+> 5.000 hab.
+> 20.000 hab.
+> 50.000 hab.
+Enllumenat públic
+●
+●
+●
+●
+Cementiri
+●
+●
+●
+●
+Recollida de residus
+●
+●
+●
+●
+Neteja viària
+●
+●
+●
+●
+Aigua potable domiciliària
+●
+●
+●
+●
+Clavegueram
+●
+●
+●
+●
+Accés a nuclis de població
+●
+●
+●
+●
+Pavimentació de vies públiques
+●
+●
+●
+●
+Parc públic
+
+
+●
+●
+●
+Biblioteca pública
+
+
+●
+●
+●
+Tractament de residus
+
+
+●
+●
+●
+Protecció civil
+
+
+
+
+●
+●
+Avaluació i atenció social primària
+
+
+
+
+●
+●
+Prevenció i extinció d'incendis
+
+
+
+
+●
+●
+Instal·lacions esportives d'ús públic
+
+
+
+
+●
+●
+Transport col·lectiu urbà
+
+
+
+
+
+
+●
+Medi ambient urbà (control contaminació)
+
+
+
+
+
+
+●
+
+6) Normativa essencial (sigles — nom oficial — any/versió)
+CE — Constitución Española — 1978 (text consolidat a 17/02/2024).16
+LRBRL — Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (text consolidat).19
+TRLRL — Real Decreto Legislativo 781/1986, de 18 de abril, por el que se aprueba el Texto Refundido de las disposiciones legales vigentes en materia de Régimen Local.21
+DL 2/2003 — Decret Legislatiu 2/2003, de 28 d'abril, pel qual s'aprova el Text refós de la Llei municipal i de règim local de Catalunya (normativa autonòmica d'exemple, text consolidat).22
+7) Exemples i casos
+Exemple (test): En un municipi de 4.000 habitants que es regeix pel seu reglament orgànic, qui és competent per aprovar una ordenança que regula l'estacionament de vehicles?
+a) L'Alcalde, mitjançant un decret.
+b) La Junta de Govern Local, per delegació del Ple.
+c) El Ple de l'Ajuntament.
+d) El Ple, però només si ho delega la Comunitat Autònoma.
+(Orientació de resposta: La correcta és la c). L'aprovació d'ordenances és una competència indelegable del Ple segons l'art. 22.2.d) de la LRBRL, independentment de la població).
+Micro-cas: Un edifici al centre històric d'un municipi de 30.000 habitants presenta un estat de conservació deficient amb risc de despreniments a la via pública. Indiqui quina competència municipal s'activa i quin òrgan és l'inicialment competent per actuar.
+(Orientació de resposta: S'activa la competència pròpia en matèria d'Urbanisme, concretament la de "conservació i rehabilitació de l'edificació" (LRBRL Art. 25.2.a). L'òrgan competent per iniciar l'expedient, dictar ordres d'execució i adoptar mesures urgents és l'Alcalde/essa (LRBRL Art. 21.1.j i m)).
+8) Errors típics i mnemotècnies
+Error 1: Confondre les atribucions de l'Alcalde amb les del Ple.
+Mnemotècnia: "L'Alcalde Executa el dia a dia, el Ple Planifica el futur i aProva les normes grans (pressupost, PGOU)".
+Error 2: Confondre les competències generals (Art. 25) amb els serveis mínims obligatoris (Art. 26).
+Mnemotècnia: "L'article 25 és la 'carta de serveis' (el que pot fer), l'article 26 són les 'obligacions ineludibles' (el que ha de prestar sí o sí)".
+Error 3: No recordar els llindars de població per als òrgans.
+Mnemotècnia: Recordar els números clau: 5.000 (Junta de Govern Local), 20.000 (Protecció Civil), 50.000 (Transport urbà).
+9) Glossari mínim
+Terme municipal: El territori on l'ajuntament exerceix les seves competències.6
+Ordenança municipal: Norma jurídica de rang reglamentari aprovada pel Ple municipal, d'aplicació general i obligatòria per a tots els veïns dins del terme municipal.13
+Potestat reglamentària: Capacitat de l'ajuntament per aprovar normes pròpies (ordenances i reglaments) per a l'organització i la gestió de les seves competències.1
+Ban (Bando): Acte administratiu dictat per l'Alcalde/essa, generalment per recordar el compliment de normes legals, fer crides a la ciutadania o per a situacions d'emergència.13
+Resum final
+El règim local espanyol, fonamentat en la garantia constitucional de l'autonomia, situa el municipi com a peça clau de l'estructura territorial de l'Estat. La seva organització bàsica, amb l'Alcalde/essa com a poder executiu i el Ple com a òrgan de control i decisió estratègica, reflecteix un equilibri de poders. Les competències municipals, especialment les pròpies en matèria d'urbanisme, infraestructures i serveis, defineixen l'àmbit d'actuació essencial de l'administració local. La prestació de serveis mínims, obligatòria i escalonada per població, assegura un nivell bàsic de qualitat de vida a tot el territori.
+Bloc d’examen
+Preguntes tipus test
+Segons la Llei 7/1985, quina de les següents atribucions correspon en tot cas al Ple municipal i no pot ser delegada?
+a) L'aprovació de l'oferta d'ocupació pública.
+b) L'atorgament de llicències d'obra major.
+c) L'aprovació dels pressupostos i del compte general.
+d) L'exercici d'accions judicials en cas d'urgència.
+En un municipi de 7.000 habitants, quins dels següents òrgans són d'existència obligatòria?
+a) Alcalde, Ple i Comissió Especial de Suggeriments i Reclamacions.
+b) Alcalde, Tinents d'Alcalde, Ple, Junta de Govern Local i Comissions Informatives.
+c) Alcalde, Ple i Junta de Govern Local exclusivament.
+d) Alcalde, Tinents d'Alcalde, Ple i Comissió Especial de Comptes.
+Un municipi de 25.000 habitants està obligat a prestar, com a mínim, els següents serveis, a més dels exigibles a tots els municipis:
+a) Parc públic, biblioteca pública, tractament de residus i transport col·lectiu urbà.
+b) Parc públic, biblioteca pública, tractament de residus, protecció civil i prevenció d'incendis.
+c) Només parc públic i biblioteca pública.
+d) Transport col·lectiu urbà i control del medi ambient urbà.
+Respostes correctes: 1-c, 2-b, 3-b
+Micro-cas pràctic
+Un municipi de 12.000 habitants necessita executar un projecte de reurbanització d'una plaça principal. El projecte no estava inclòs en el pressupost anual aprovat. Indiqui raonadament:
+Quin òrgan municipal és competent per aprovar definitivament el projecte d'obres?
+Quin òrgan és competent per aprovar la modificació de crèdit necessària per finançar l'obra?
+Podria la Junta de Govern Local aprovar ambdós punts si el Ple li hagués delegat totes les seves competències delegables?
+Punts clau de la resolució:
+Aprovació del projecte: L'aprovació dels "projectes d'obres i serveis quan sigui competent per a la seva contractació o concessió, i quan encara no estiguin previstos en els pressupostos" és una competència del Ple (Art. 22.2.ñ LRBRL).
+Aprovació de la modificació pressupostària: L'aprovació i modificació dels pressupostos és una competència exclusiva i indelegable del Ple (Art. 22.2.e LRBRL).
+Delegació a la Junta de Govern Local: No seria possible. L'aprovació de la modificació pressupostària (Art. 22.2.e) és una de les atribucions que l'article 22.4 de la LRBRL prohibeix expressament delegar en la Junta de Govern Local. Per tant, encara que es pogués delegar l'aprovació del projecte, la modificació del pressupost requeriria sempre un acord del Ple.
+

@@ -1,0 +1,352 @@
+{
+  "metadata": {
+    "title": "La comarca. Organització, competències i àrees d'actuació. El Consell Comarcal del Montsià",
+    "subject": "Dret Administratiu - organització territorial",
+    "topic": "La comarca i els Consells Comarcals",
+    "keywords": [
+      "comarca",
+      "Consell Comarcal",
+      "Montsià",
+      "organització comarcal",
+      "competències",
+      "cooperació municipal",
+      "COPATE"
+    ],
+    "difficulty": "mitjà",
+    "estimatedTime": "15 min"
+  },
+  "sections": [
+    {
+      "id": "visio-global",
+      "title": "Visió global",
+      "level": 1,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "La comarca és una entitat local territorial pròpia de Catalunya, definida per l'agrupació de municipis contigus, amb personalitat jurídica i autonomia administrativa. Cada comarca constitueix un àmbit de ==Govern== local bàsic, intermedi entre el municipi i la província, que cobreix tot el territori (cap municipi queda fora de comarca ni en més d'una)."
+        },
+        {
+          "type": "paragraph",
+          "text": "El seu òrgan de ==Govern== és el Consell Comarcal, integrat per representants dels ajuntaments, que té la missió de mancomunar i gestionar serveis públics d'àmbit supramunicipal en benefici dels municipis de la comarca."
+        },
+        {
+          "type": "paragraph",
+          "text": "En el cas del Montsià, comarca del sud de Catalunya amb 12 municipis (capital Amposta) constituïda arran de la Llei 6/1987, el Consell Comarcal presta serveis conjunts com la gestió de residus, l'assistència tècnica a municipis petits, la dinamització econòmica o la promoció turística, adaptant-se a les necessitats territorials."
+        }
+      ]
+    },
+    {
+      "id": "conceptes-clau",
+      "title": "Conceptes clau i definicions",
+      "level": 1,
+      "content": [
+        {
+          "type": "subsection",
+          "title": "Definicions fonamentals",
+          "items": [
+            {
+              "type": "definition",
+              "term": "Comarca",
+              "details": [
+                "Divisió territorial local (també anomenada ente local bàsic) constituïda per la unió de municipis contigus, sense discontinuïtat territorial",
+                "És un nivell de ==Govern== local propi de Catalunya (i altres comunitats amb estructura comarcal) situat entre el municipi i la província"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Consell Comarcal",
+              "details": [
+                "Òrgan de ==Govern== i Administració de la comarca, de caràcter representatiu indirecte",
+                "Està format per consellers comarcals (regidors dels ajuntaments de la comarca, designats proporcionalment als vots obtinguts per cada força política en les eleccions municipals)"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Consell Comarcal del Montsià",
+              "details": [
+                "Institució local creada el 1988 arran de la divisió comarcal moderna (Llei 6/1987)",
+                "Té seu a Amposta i està integrat per consellers dels 12 municipis del Montsià (Amposta, Sant Carles de la Ràpita, Alcanar, Ulldecona, Santa Bàrbara, etc.)"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Personalitat jurídica i autonomia",
+              "details": [
+                "La comarca, igual que els municipis, té capacitat jurídica per obrar en nom propi: pot contractar, prestar serveis, aprovar ordenances comarcals, etc., en l'àmbit de les seves competències",
+                "Disposa d'autonomia financera i de ==Govern== dins el marc de les lleis"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "estructura",
+      "title": "Estructura i Esquemes",
+      "level": 1,
+      "content": [
+        {
+          "type": "subsection",
+          "title": "Òrgans del Consell Comarcal",
+          "items": [
+            {
+              "type": "definition",
+              "term": "Plenari comarcal",
+              "details": [
+                "Òrgan suprem del Consell Comarcal, format per tots els consellers comarcals",
+                "El nombre de consellers varia segons la població de la comarca; en comarques mitjanes com el Montsià solen ser uns 19-25 membres"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "President/a comarcal",
+              "details": [
+                "Màxima autoritat del Consell Comarcal, elegit/da pel Ple d'entre els seus membres per majoria absoluta (o simple en segona volta)",
+                "El president representa la comarca institucionalment i dirigeix el ==Govern== comarcal"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Junta de ==Govern== / Comissió de ==Govern==",
+              "details": [
+                "Òrgan col·legiat executiu, format pel president i un nombre reduït de consellers (vocals) designats pel Ple, sovint proporcional a la composició política",
+                "S'encarrega de la gestió ordinària, seguiment de projectes i adopció d'acords executius delegats"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Comissions informatives i òrgans sectorials",
+              "details": [
+                "El Consell pot crear comissions per àrees (p. ex. Comissió de Serveis Socials, d'Urbanisme, etc.) on es prepara la decisió del Ple",
+                "També existeixen òrgans de participació sectorial i consells assessors (per exemple, Consells Consultius de Joventut, de Turisme, etc.) amb actors socials del territori"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "principis",
+      "title": "Principis i Regles",
+      "level": 1,
+      "content": [
+        {
+          "type": "subsection",
+          "title": "Principis fonamentals del règim comarcal",
+          "items": [
+            {
+              "type": "definition",
+              "term": "Voluntarietat i respecte a l'autonomia municipal",
+              "details": [
+                "La creació de les comarques i el seu funcionament es basa en la col·laboració, sense restar competències bàsiques als ajuntaments",
+                "La llei preveu que les competències municipals només es transfereixin a la comarca per delegació voluntària o conveni"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Subsidiarietat i proximitat",
+              "details": [
+                "La comarca s'inspira en el principi de subsidiarietat, segons el qual l'Administració més propera als ciutadans que pugui exercir un servei de forma eficient n'ha de tenir la competència",
+                "El consell comarcal actua com a primera plataforma de suport als municipis per la seva major proximitat territorial"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Mancomunació i economies d'escala",
+              "details": [
+                "Un principi funcional és que la comarca mancomuna serveis per guanyar eficiència i reduir costos",
+                "En unir esforços diversos municipis, es poden prestar serveis amb una qualitat i rendibilitat que cap municipi petit assoliria tot sol"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Lealtat institucional i coordinació",
+              "details": [
+                "Les relacions del Consell Comarcal amb els ajuntaments, la Diputació i la Generalitat es regeixen pel principi de lleialtat institucional",
+                "Això implica cooperació activa, compliment dels acords i auxili mutu"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "procediment",
+      "title": "Procediment i aplicació administrativa",
+      "level": 1,
+      "content": [
+        {
+          "type": "subsection",
+          "title": "Aspectes procedimentals clau",
+          "items": [
+            {
+              "type": "definition",
+              "term": "Constitució de la comarca i del consell",
+              "details": [
+                "La divisió comarcal actual es va establir mitjançant llei del Parlament (1987) i successives modificacions",
+                "Un cop definits els límits territorials i municipis integrants, es convoquen les sessions constitutives dels consells comarcals"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Delegació de competències municipals",
+              "details": [
+                "Quan un ajuntament vol que el Consell Comarcal presti un servei en el seu nom, formalitza un conveni de delegació aprovat pel Ple municipal i acceptat pel Consell Comarcal",
+                "A partir d'aquí, la comarca assumeix la gestió d'aquella funció en tot el terme municipal delegant"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Encomana de gestió i consorcis",
+              "details": [
+                "Una variant és l'encàrrec de gestió, on una Administració encarrega a una altra (o a un ens instrumental) la prestació d'un servei sense perdre la titularitat de la competència",
+                "En l'àmbit comarcal, sovint els consells s'agrupen en consorcis per a serveis especialitzats o entre diferents comarques"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Procediments administratius comarcals",
+              "details": [
+                "El Consell Comarcal funciona amb esquemes similars a un ajuntament en molts aspectes",
+                "Aprova un Pressupost comarcal anual (ingressos com les subvencions i despeses de personal, manteniment de serveis, etc.)"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "normativa",
+      "title": "Normativa essencial",
+      "level": 1,
+      "content": [
+        {
+          "type": "list",
+          "items": [
+            "EAC — Estatut d'autonomia de Catalunya — 2006 (art. 83.2: la comarca com a entitat local)",
+            "LBRL — Llei 7/1985, Reguladora de les Bases del Règim Local — 1985 (marc bàsic estatal; art. 3 permet Comunitats Autònomes crear estructures comarcals)",
+            "Llei 6/1987 — Llei d'organització comarcal de Catalunya — 1987 (creació de 38 comarques i consells comarcals; base de l'ordenació comarcal moderna)",
+            "DL 4/2003 (TRLOC) — Decret Legislatiu 4/2003, ==Text refós== de la Llei d'organització comarcal — 2003 (consolida la Llei 6/1987 i modificacions: arts. 25-28 competències, art. 19 Consell d'Alcaldes, etc.)",
+            "Llei 8/2003 — Tercera modificació de la Llei comarcal — 2003 (introduí Consell d'Alcaldes obligatori, tipologia de competències, millores sistema elecció)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "exemples-casos",
+      "title": "Exemples i casos",
+      "level": 1,
+      "content": [
+        {
+          "type": "example",
+          "label": "Exemple: Servei mancomunat d'assistència tècnica",
+          "text": "La redacció d'un projecte d'obra municipal a Freginals (poblet de ~400 hab.) es duu a terme a través del Servei d'Assistència Tècnica del Consell Comarcal, ja que l'ajuntament no disposa d'arquitecte propi. El Consell proporciona un tècnic compartit que elabora el projecte i assessora el consistori en la tramitació.."
+        },
+        {
+          "type": "example",
+          "label": "Micro-cas: Millora de la recollida selectiva de residus",
+          "text": "L'ajuntament de Godall (700 hab.) vol millorar la recollida selectiva de residus, però no té mitjans tècnics ni instal·lacions de tractament. Què pot fer."
+        }
+      ]
+    },
+    {
+      "id": "errors-mnemo",
+      "title": "Errors típics i mnemotècnies",
+      "level": 1,
+      "content": []
+    },
+    {
+      "id": "glossari",
+      "title": "Glossari mínim",
+      "level": 1,
+      "content": [
+        {
+          "type": "subsection",
+          "title": "Termes clau",
+          "items": [
+            {
+              "type": "definition",
+              "term": "Comarca",
+              "details": [
+                "Ente local territorial format per municipis veïns, amb autonomia i competències pròpies per gestionar serveis supramunicipals",
+                "Exemple: el Montsià és una comarca"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Consell Comarcal",
+              "details": [
+                "Corporació pública local que ==govern==a una comarca",
+                "Té consellers (regidors municipals) i assumeix funcions delegades o pròpies en benefici dels municipis"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Conseller comarcal",
+              "details": [
+                "Membre del Ple del Consell Comarcal",
+                "És un càrrec electe de segon grau (normalment regidor d'un ajuntament) designat per representar la seva formació política al consell"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "President del Consell Comarcal",
+              "details": [
+                "Alcalde o regidor que encapçala el Consell Comarcal",
+                "El seu rol és semblant al d'un alcalde però en l'àmbit de tota la comarca"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "resum",
+      "title": "Resum final",
+      "level": 1,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "La comarca és, en definitiva, una unitat territorial i administrativa clau a Catalunya, concebuda per enfortir i modernitzar l'Administració local mitjançant la cooperació entre municipis. El Consell Comarcal, integrat per representants municipals, exerceix el ==Govern== d'aquesta entitat, prestant serveis supramunicipals i assistència als ajuntaments per garantir que tota la població, fins i tot la dels pobles més petits, tingui accés a uns serveis públics adequats."
+        },
+        {
+          "type": "paragraph",
+          "text": "El cas del Montsià exemplifica aquest model: un consell comarcal actiu que gestiona la recollida de residus, els serveis socials, el suport tècnic i la promoció econòmica de forma mancomunada per als 12 municipis de la comarca, contribuint al desenvolupament equilibrat del territori."
+        },
+        {
+          "type": "paragraph",
+          "text": "Amb un marc normatiu específic i una evolució contínua (noves comarques, adaptacions com Aran o Barcelonès), la institució comarcal s'ha consolidat com a peça imprescindible de l'organització local catalana, sempre al servei dels municipis i de la ciutadania."
+        }
+      ]
+    },
+    {
+      "id": "bloc-examen",
+      "title": "Bloc d'examen",
+      "level": 1,
+      "content": [
+        {
+          "type": "subsection",
+          "title": "Micro-cas pràctic",
+          "items": [
+            "Enunciat: L'Ajuntament d'un petit municipi del Montsià detecta que no pot assumir per si sol el cost ni la gestió del servei de recollida selectiva de brossa ni el manteniment d'una deixalleria municipal. Què pot fer per garantir aquest servei als veïns?"
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "Punts clau de resolució",
+          "items": [
+            "1. L'ajuntament pot delegar la competència de gestió de residus al Consell Comarcal del Montsià mitjançant un conveni, si no ho ha fet ja",
+            "2. Un cop delegat, el Consell Comarcal organitza la recollida selectiva i el tractament dels residus de forma conjunta per a tots els municipis (ja ho fa a través del COPATE)",
+            "3. El municipi passarà a disposar de contenidors adequats, recollida periòdica i accés a la deixalleria comarcal (a Amposta o la Sénia, per exemple) en comptes d'haver de mantenir-ne una de pròpia",
+            "4. A nivell econòmic, l'ajuntament probablement cedirà la recaptació de la taxa d'escombraries al Consell, que aplicarà economies d'escala: contracte únic de recollida per a tot el Montsià, optimització de rutes, etc."
+          ]
+        },
+        {
+          "type": "example",
+          "label": "Micro-cas: Prestació de servei comarcal vs municipal",
+          "text": "Un municipi de 800 habitants del Montsià vol gestionar directament el seu servei de recollida de residus, actualment prestat pel Consell Comarcal. L'Ajuntament al·lega autonomia municipal.\n\nPunts clau:\n- Principi d'autonomia local (art. 137 CE) vs. eficiència dels serveis supramunicipals\n- Els serveis comarcals es presten per cooperació voluntària o per imposició legal\n- Cal verificar si la gestió de residus és competència pròpia del Consell Comarcal per llei sectorial\n- Municipis petits sovint han de prestar serveis obligatoris mitjançant mancomunitats o consells comarcals\n- El municipi pot assumir el servei si té capacitat tècnica i financera\n- Solució: consultar estatuts del Consell Comarcal, normativa sectorial de residus i capacitat municipal"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+ECUACIONES DE SEGUNDO GRADO
+
+Las ecuaciones de segundo grado son expresiones algebraicas de la forma **ax² + bx + c = 0** donde a ≠ 0.
+
+
+Fórmula general:
+
+La solución se obtiene mediante la **fórmula cuadrática**:
+
+x = (-b ± √(b² - 4ac)) / 2a
+
+
+Componentes de la fórmula:
+
+- a: coeficiente del término cuadrático
+- b: coeficiente del término lineal  
+- c: término independiente
+- Discriminante: b² - 4ac
+
+
+TIPOS DE SOLUCIONES
+
+El discriminante determina el número de soluciones:
+
+
+Discriminante positivo (b² - 4ac > 0):
+- Dos soluciones reales distintas
+- La parábola corta el eje X en dos puntos
+
+
+Discriminante cero (b² - 4ac = 0):
+- Una solución real doble
+- La parábola es tangente al eje X
+
+
+Discriminante negativo (b² - 4ac < 0):
+- No hay soluciones reales
+- Dos soluciones complejas conjugadas
+- La parábola no corta el eje X
+
+
+MÉTODO DE RESOLUCIÓN
+
+Pasos para resolver:
+
+1. Identificar los coeficientes a, b y c
+2. Calcular el discriminante b² - 4ac
+3. Aplicar la fórmula cuadrática
+4. Simplificar las soluciones
+
+
+Ejemplo práctico:
+
+Resolver: x² - 5x + 6 = 0
+
+Identificamos:
+- a = 1
+- b = -5
+- c = 6
+
+Calculamos el discriminante:
+- Δ = (-5)² - 4(1)(6) = 25 - 24 = 1
+
+Aplicamos la fórmula:
+- x = (5 ± √1) / 2
+- x₁ = (5 + 1) / 2 = 3
+- x₂ = (5 - 1) / 2 = 2
+
+
+APLICACIONES PRÁCTICAS
+
+Las ecuaciones cuadráticas se usan en:
+
+- Física: movimiento parabólico
+- Economía: análisis de costos y beneficios
+- Ingeniería: diseño de estructuras
+- Geometría: problemas de áreas
+
+
+CONCEPTOS CLAVE
+
+Recuerda que:
+
+- **El coeficiente "a" nunca puede ser cero**
+- El discriminante indica el tipo de soluciones
+- Siempre verifica tus soluciones sustituyéndolas
+- Las soluciones también se llaman "raíces" o "ceros"

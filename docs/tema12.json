@@ -1,0 +1,441 @@
+{
+  "metadata": {
+    "title": "El pressupost local: contingut i principis pressupostaris",
+    "subject": "Hisenda Local",
+    "topic": "Pressupost i gestió econòmica municipal",
+    "keywords": [
+      "pressupost",
+      "ingressos",
+      "despeses",
+      "estabilitat",
+      "executiva",
+      "liquidació",
+      "modificacions"
+    ],
+    "difficulty": "avançat",
+    "estimatedTime": "15 min"
+  },
+  "sections": [
+    {
+      "id": "visio-global",
+      "title": "Visió Global",
+      "level": 1,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "El pressupost local és el document anual que preveu els ingressos i autoritza les despeses d'una entitat local per a un exercici (any natural). Expressa en xifres totes les obligacions de despesa que l'ens podrà contreure com a màxim i els drets econòmics que preveu liquidar durant l'any."
+        },
+        {
+          "type": "paragraph",
+          "text": "S'hi integren, en un únic pressupost general, els comptes de l'Ajuntament i dels seus organismes autònoms i societats dependents. El pressupost es regeix per principis d'estabilitat financera, pluridimensionalitat temporal (anualitat i programació plurianual), transparència i eficàcia en la gestió dels recursos públics."
+        },
+        {
+          "type": "paragraph",
+          "text": "El cicle pressupostari comprèn l'elaboració tècnica, l'aprovació pel Ple (amb exposició pública), l'execució limitada per crèdit i control financer, i la liquidació final amb determinació del resultat pressupostari i dels romanents de tresoreria acumulats."
+        }
+      ]
+    },
+    {
+      "id": "conceptes-clau",
+      "title": "Conceptes Clau i Definicions",
+      "level": 1,
+      "content": [
+        {
+          "type": "subsection",
+          "title": "Conceptes Fonamentals",
+          "items": [
+            {
+              "type": "definition",
+              "term": "Pressupost general de l'entitat local",
+              "details": [
+                "Expressió cifrada i sistemàtica de totes les despeses màximes autoritzades i ingressos previstos de l'ens local i els seus ens dependents per a un any",
+                "És l'instrument central de planificació econòmica municipal i reflecteix l'estratègia anual de política pública"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Crèdit pressupostari",
+              "details": [
+                "Import màxim autoritzat en el pressupost per atendre una determinada finalitat de despesa",
+                "Els crèdits tenen caràcter limitatiu i vinculant: no es pot gastar més de l'import aprovat ni destinar-lo a una finalitat diferent sense tramitar una modificació"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Exercici pressupostari",
+              "details": [
+                "Període temporal al qual s'assignen el pressupost i la comptabilitat anual de l'ens",
+                "Coincideix amb l'any natural (1 de gener al 31 de desembre)"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Resultat pressupostari i romanent",
+              "details": [
+                "En tancar l'exercici, es calcula el resultat pressupostari de l'ens (diferència entre ingressos liquidats i obligacions reconegudes, ajustada per desviacions de finançament) per veure si hi ha superàvit o dèficit",
+                "Es determina el romanent de tresoreria per a despeses generals, que mesura les disponibilitats líquides un cop coberts els creditors pendents"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "estructura",
+      "title": "Estructura i Composició",
+      "level": 1,
+      "content": [
+        {
+          "type": "subsection",
+          "title": "Composició del Pressupost General",
+          "items": [
+            "Integra el pressupost de la corporació local principal (ajuntament, diputació, consell comarcal, etc.)",
+            "Els pressupostos dels seus organismes autònoms administratius o comercials",
+            "Els estats de previsió d'ingressos i despeses de les societats mercantils de capital íntegrament públic local",
+            "Es presenta també un estat consolidat eliminant operacions internes entre ens del grup local"
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "Classificacions Pressupostàries",
+          "items": [
+            "El pressupost inclou els estats de despeses (crèdits per a les obligacions) i els estats d'ingressos (estimació dels recursos), ordenats segons tres classificacions principals:",
+            {
+              "type": "definition",
+              "term": "Classificació orgànica",
+              "details": [
+                "Per òrgans gestors o departaments",
+                "Indica 'qui' gasta"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Classificació per programes o funcional",
+              "details": [
+                "Per àrees de despesa, polítiques i programes",
+                "Indica 'per a què' es gasta"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Classificació econòmica",
+              "details": [
+                "Per naturalesa econòmica dels ingressos o despeses",
+                "Indica 'què és' cada apunt, distribuint-se en capítols, articles, conceptes"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "Capítols Pressupostaris",
+          "items": [
+            "La classificació econòmica agrupa els ingressos i les despeses en nou capítols numerats:",
+            {
+              "type": "definition",
+              "term": "Capítols d'Ingressos",
+              "details": [
+                "I - Impostos directes",
+                "II - Impostos indirectes"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Capítols de Despeses",
+              "details": [
+                "I - Despeses de personal",
+                "II - Béns corrents i serveis"
+              ]
+            },
+            "Els capítols I-V es consideren operacions corrents, mentre que VI-IX són operacions de capital (inversions i operacions financeres)"
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "Documentació Annexa",
+          "items": [
+            "Pla d'inversions plurianual: previsions a 4 anys de projectes d'inversió i fonts de finançament",
+            "Estat de deute: evolució prevista de l'endeutament, noves operacions de crèdit i amortitzacions",
+            "Estat de consolidació pressupostària: integra el pressupost de l'ens principal amb els dels organismes autònoms i societats",
+            "Resum per capítols i per programes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "principis",
+      "title": "Principis Pressupostaris",
+      "level": 1,
+      "content": [
+        {
+          "type": "subsection",
+          "title": "Principis Fonamentals",
+          "items": [
+            {
+              "type": "definition",
+              "term": "Principi d'anualitat",
+              "details": [
+                "Cada pressupost regeix únicament per a un exercici anual i s'hi imputen obligacions i drets meritats durant aquell any",
+                "L'any pressupostari coincideix amb l'any natural"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Unitat i universalitat",
+              "details": [
+                "L'ens ha de formular un únic pressupost general, que inclogui la totalitat de les despeses i ingressos de la corporació, sense excepcions",
+                "S'evita així l'existència de pressuposts o comptes paral·lels"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Equilibri pressupostari i estabilitat",
+              "details": [
+                "S'exigeix que el pressupost inicial no presenti dèficit – és a dir, que els crèdits de despeses no superin els ingressos previstos",
+                "La LOEPSF imposa a les entitats locals l'objectiu d'estabilitat pressupostària (situació de superàvit o equilibri estructural) i la regla de despesa que limita el creixement de la despesa computable"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Sostenibilitat financera",
+              "details": [
+                "Principi complementari a l'estabilitat, que vetlla per la capacitat de l'ens per finançar les seves obligacions presents i futures",
+                "Implica mantenir un endeutament sostenible (deute viu dins dels límits legals, p. ex. endeutament municipal <==110%== dels ingressos corrents liquidats)"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "procediment",
+      "title": "Procediment d'Elaboració i Aprovació",
+      "level": 1,
+      "content": [
+        {
+          "type": "subsection",
+          "title": "Fases del Procediment",
+          "items": [
+            {
+              "type": "definition",
+              "term": "Elaboració del pressupost",
+              "details": [
+                "L'alcalde/essa o president de l'entitat local és l'òrgan que forma el projecte de pressupost, amb la coordinació tècnica de la Intervenció i Tresoreria municipals",
+                "Cada àrea o regidoria proposa les seves necessitats de crèdit i estimacions d'ingressos, i es consoliden en un projecte únic"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Aprovació inicial pel Ple",
+              "details": [
+                "El Ple de la corporació és competent per a l'aprovació inicial del pressupost general de l'entitat local (majoria simple de vots, llevat que la legislació autonòmica exigeixi majoria absoluta en certs casos)",
+                "La sessió plenària debat el projecte; els grups polítics hi poden presentar esmenes"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Informació pública i al·legacions",
+              "details": [
+                "Durant el termini d'exposició pública, els interessats poden formular reclamacions o al·legacions",
+                "Si no es presenta cap reclamació en aquest termini, el pressupost s'entén definitivament aprovat sense necessitat d'un nou acord de Ple"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Publicació i vigència",
+              "details": [
+                "El pressupost definitiu s'ha de publicar o resumir en el BOP per a la seva entrada en vigor",
+                "Habitualment entra en vigor l'1 de gener de l'any corresponent si s'ha aprovat abans d'aquesta data"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "execucio",
+      "title": "Execució del Pressupost",
+      "level": 1,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "La fase d'execució pressupostària consisteix en realitzar efectivament les despeses i ingressar els recursos conforme al previs. En el cas de les despeses, la seua gestió segueix unes fases successives, regides pel principi d'especialitat i subjectes a fiscalització:"
+        },
+        {
+          "type": "subsection",
+          "title": "Fases de la Despesa (A-D-O-P)",
+          "items": [
+            {
+              "type": "definition",
+              "term": "Autorització (A)",
+              "details": [
+                "Acte administratiu pel qual l'òrgan competent aprova la realització d'una despesa concreta fins a un import determinat",
+                "Suposa reservar crèdit pressupostari per a aquesta finalitat (minvant el disponible de la partida)"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Disposició o compromís (D)",
+              "details": [
+                "Acte de contracció jurídica amb un tercer pel qual es comprometen fons per una quantia concreta",
+                "Implica que l'Administració formalitza l'obligació de fer la despesa (p. ex. adjudicar un contracte, emetre una resolució de concessió)"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Reconeixement de l'obligació (O)",
+              "details": [
+                "Acte administratiu que declara el dret exigible del creditor, un cop acreditat que la prestació s'ha realitzat correctament",
+                "L'ens local verifica la factura, certificat d'obra o document justificatiu, i reconeix que té l'obligació de pagament per l'import degut"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Ordenació del pagament (OP)",
+              "details": [
+                "Fase interna en què es dona ordre a la Tresoreria de procedir al pagament d'una obligació reconeguda",
+                "L'ordinador de pagaments (normalment l'alcalde/essa o regidor delegat) emet la proposta de pagament, que l'Interventor intervé (fiscalitza) abans de fer-la efectiva"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Durant tot el procés, la Intervenció exerceix la funció interventora o de fiscalització prèvia, comprovant que cada acte (A, D, O, OP) s'ajusta a legalitat i a suficiència de crèdit. Si detecta objeccions, pot suspendre o informar desfavorablement l'acte, elevant la decisió al Ple en cas de discrepància notable."
+        },
+        {
+          "type": "subsection",
+          "title": "Execució dels Ingressos",
+          "items": [
+            "En paral·lel, els ingressos es van recaptant al llarg de l'exercici",
+            "Es reconeixen els drets d'ingrés quan neix l'obligació de pagament a favor de l'ens (p. ex. en aprovar un padró tributari o en notificar una liquidació de taxa)",
+            "La recaptació pot ser en període voluntari o per la via executiva (embargaments) si hi ha impagats",
+            "Els ingressos afectats a una despesa concreta només poden destinar-se a aquella finalitat (principi de destinació específica)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "modificacions",
+      "title": "Modificacions de Crèdit",
+      "level": 1,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Durant l'execució pot ser necessari modificar el pressupost aprovat, bé per incorporar ingressos addicionals, finançar despeses noves o redistribuir crèdits sobrants. Les principals modalitats de modificacions pressupostàries són:"
+        },
+        {
+          "type": "subsection",
+          "title": "Tipus de Modificacions",
+          "items": [
+            {
+              "type": "definition",
+              "term": "Transferències de crèdit",
+              "details": [
+                "Moviment de crèdit des d'una o més aplicacions de despesa cap a una altra aplicació que necessita fons addicionals",
+                "Poden ser transferències internes dins el mateix departament o programa (habitualment les pot autoritzar l'alcalde/essa o Junta de ==Govern==, segons les Bases d'execució)"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Crèdit extraordinari",
+              "details": [
+                "Augment del pressupost de despeses per atendre una actuació nova, per a la qual no existia crèdit inicial",
+                "S'utilitza davant despeses improrrogables i imprevistes"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Suplement de crèdit",
+              "details": [
+                "Augment d'una partida existent en el pressupost quan el crèdit inicial resulta insuficient",
+                "Igual que el crèdit extraordinari, l'aprova el Ple amb expedient justificat, i es finança amb romanent, nous ingressos o baixes d'altres crèdits"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Generació de crèdit",
+              "details": [
+                "Increment del pressupost de despeses finançat per ingressos específics no previstos inicialment (subvencions finalistes, ingressos per convenis, etc.)",
+                "Es tramita per acord de l'òrgan designat (sovint la Junta de ==Govern==) acreditant l'ingrés efectiu o compromès"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Cada expedient de modificació ha d'estar degudament motivat i informar-se per Intervenció, certificant la disponibilitat de finançament o de crèdit a minorar. La seva aprovació segueix, en general, el procediment de l'aprovació pressupostària: acord de l'òrgan competent, exposició pública 15 dies (en modificacions de Ple) i publicació al BOP."
+        }
+      ]
+    },
+    {
+      "id": "liquidacio",
+      "title": "Liquidació i Control",
+      "level": 1,
+      "content": [
+        {
+          "type": "subsection",
+          "title": "Liquidació del Pressupost",
+          "items": [
+            "Al finalitzar l'exercici, es procedeix al tancament i liquidació del pressupost",
+            "Es calcula el resultat pressupostari: diferència entre els drets liquidats (ingressos reconeguts) i les obligacions reconegudes (despeses compromeses), ajustada per desviacions de finançament",
+            "Es determina el romanent de tresoreria per a despeses generals: disponibilitats líquides un cop coberts els creditors pendents",
+            "Un romanent positiu indica capacitat de finançament per a nous crèdits"
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "Control Intern i Extern",
+          "items": [
+            {
+              "type": "definition",
+              "term": "Control intern (Intervenció)",
+              "details": [
+                "Correspon a la Intervenció municipal fiscalitzar tots els actes que generen moviments pressupostaris (funció interventora prèvia)",
+                "Verifica la comptabilitat financera i eleva informes d'anomalies o incompliments si s'escau"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Control extern",
+              "details": [
+                "Els comptes anuals (Compte General) i la liquidació del pressupost es remeten a l'òrgan de control extern (Sindicatura de Comptes de la ==comunitat autònoma== o Tribunal de Cuentas estatal)",
+                "Aquests òrgans fan l'auditoria i fiscalització independent"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "normativa",
+      "title": "Normativa Essencial",
+      "level": 1,
+      "content": [
+        {
+          "type": "list",
+          "title": "Legislació aplicable",
+          "items": [
+            "LBRL — Llei 7/1985, de 2 d'abril, reguladora de les bases del règim local (art. 112-117 sobre Hisenda local, redacció vigent)",
+            "TRLRHL — ==Reial decret== legislatiu 2/2004, de 5 de març, ==Text refós== de la Llei reguladora d'Hisendes Locals (versió consolidada, 2023)",
+            "LOEPSF — ==Llei orgànica== 2/2012, de 27 d'abril, d'estabilitat pressupostària i sostenibilitat financera (modificada per LO 9/2013 i mesures posteriors)",
+            "RD 500/1990 — ==Reial decret== 500/1990, de 20 d'abril, desenvolupament del capítol I títol VI LRHL 1988 (==Reglament== pressupost local) (vigent supletòriament, ex. art. 21 prorrogues)",
+            "RD 1463/2007 — ==Reial decret== 1463/2007, de 2 de novembre, ==Reglament== de desenvolupament de l'estabilitat pressupostària en les entitats locals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bloc-examen",
+      "title": "Bloc d'Examen",
+      "level": 1,
+      "content": [
+        {
+          "type": "example",
+          "label": "Micro-cas Pràctic",
+          "text": "[object Object]\n\n[object Object]"
+        }
+      ]
+    }
+  ]
+}

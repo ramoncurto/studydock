@@ -1,0 +1,428 @@
+{
+  "metadata": {
+    "title": "La contractació al sector públic",
+    "subject": "Dret Administratiu i Contractació Pública",
+    "topic": "Contractes del sector públic",
+    "keywords": [
+      "contractació pública",
+      "LCSP",
+      "procediments adjudicació",
+      "solvència",
+      "contracte menor",
+      "licitació"
+    ],
+    "difficulty": "avançat",
+    "estimatedTime": "45 min"
+  },
+  "sections": [
+    {
+      "id": "visio-global",
+      "title": "Visió Global",
+      "level": 1,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "La contractació pública és un procés reglat que busca garantir l'eficiència en la despesa i el compliment dels principis de concurrència i igualtat. El procés de selecció del contractista es desenvolupa en dues fases clarament diferenciades: una primera fase de verificació de l'aptitud de l'empresa a través de la solvència econòmica i tècnica, i una segona fase de valoració comparativa de les ofertes mitjançant criteris d'adjudicació per identificar la millor relació qualitat-preu."
+        },
+        {
+          "type": "paragraph",
+          "text": "La correcta elecció del procediment d'adjudicació (obert, restringit, menor, etc.) depèn de la naturalesa, el valor i la complexitat del contracte, sent el procediment obert la regla general per maximitzar la competència."
+        }
+      ]
+    },
+    {
+      "id": "conceptes-clau",
+      "title": "Conceptes Clau i Definicions",
+      "level": 1,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "La correcta qualificació d'un contracte és el primer pas essencial, ja que determina el règim jurídic aplicable. La LCSP defineix els tipus contractuals principals en els seus articles 13 a 18."
+        },
+        {
+          "type": "subsection",
+          "title": "Tipus de Contractes",
+          "items": [
+            {
+              "type": "definition",
+              "term": "Contracte d'obres (Art. 13 LCSP)",
+              "details": [
+                "Té per objecte l'execució d'una obra o la realització d'algun dels treballs enumerats a l'Annex I de la LCSP",
+                "La finalitat és la creació d'un bé immoble que compleixi una funció econòmica o tècnica per si mateix",
+                "Exemple: construcció d'un edifici públic, enginyeria civil"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Contracte de concessió d'obres (Art. 14 LCSP)",
+              "details": [
+                "L'objecte és el mateix que en el contracte d'obres, però la contraprestació per al contractista (concessionari) consisteix principalment en el dret a explotar l'obra",
+                "Pot acompanyar-se o no d'un preu",
+                "L'element definitori és la transferència del risc operacional al concessionari"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Contracte de concessió de serveis (Art. 15 LCSP)",
+              "details": [
+                "Un poder adjudicador encomana a un tercer (concessionari) la gestió d'un servei de la seva competència",
+                "La contraprestació és el dret a explotar el servei, amb o sense preu",
+                "Implica la transferència del risc operacional (exposició a les incerteses del mercat)",
+                "Si l'Administració garanteix la major part dels ingressos del contractista, no es considera una concessió, sinó un contracte de serveis ordinari"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Contracte de subministrament (Art. 16 LCSP)",
+              "details": [
+                "Té per objecte l'adquisició, l'arrendament financer o l'arrendament (amb o sense opció de compra) de productes o béns mobles",
+                "Inclou l'adquisició d'energia i el programari desenvolupat a mida quan així ho especifiquin els plecs"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Contracte de serveis (Art. 17 LCSP)",
+              "details": [
+                "Són aquells contractes l'objecte dels quals són prestacions de fer que consisteixen en el desenvolupament d'una activitat o estan dirigides a l'obtenció d'un resultat diferent d'una obra o un subministrament",
+                "És una categoria residual que inclou des de serveis de neteja i manteniment fins a consultoria o serveis d'arquitectura"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Contractes mixtos (Art. 18 LCSP)",
+              "details": [
+                "Són aquells que contenen prestacions corresponents a diferents tipus de contractes",
+                "Per determinar les normes aplicables, s'atendrà al caràcter de la prestació principal"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "procediments",
+      "title": "Procediments d'Adjudicació",
+      "level": 1,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Per a un opositor, és vital diferenciar clarament els procediments d'adjudicació, ja que cada un respon a necessitats diferents i té requisits específics."
+        },
+        {
+          "type": "subsection",
+          "title": "Procediments Principals",
+          "items": [
+            {
+              "type": "definition",
+              "term": "Procediment Obert (Arts. 156-158 LCSP)",
+              "details": [
+                "Qualsevol empresari interessat pot presentar una proposició",
+                "No hi ha negociació",
+                "És el procediment ordinari i preferent",
+                "Nivell de concurrència: Màxim"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Obert Simplificat (Art. 159 LCSP)",
+              "details": [
+                "Versió àgil de l'obert amb terminis reduïts i tràmits simplificats",
+                "Contractes per sota de certs llindars (p. ex., obres ≤ 2.000.000 €)",
+                "Nivell de concurrència: Alt"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Obert Simplificat Abreujat (Art. 159.6 LCSP)",
+              "details": [
+                "Versió súper simplificada per a contractes de baixa quantia (p. ex., obres < 80.000 €)",
+                "Necessitats de molt baix valor econòmic",
+                "Nivell de concurrència: Alt"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Procediment Restringit (Arts. 160-165 LCSP)",
+              "details": [
+                "Qualsevol empresari pot sol·licitar participar, però només els seleccionats (mínim 5) poden presentar proposició",
+                "Quan es requereix una preselecció per la complexitat o especialització de la prestació",
+                "Nivell de concurrència: Mitjà-Alt"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Amb Negociació (Arts. 166-171 LCSP)",
+              "details": [
+                "L'òrgan de contractació negocia els termes del contracte amb un o diversos candidats seleccionats",
+                "Casos taxats per la llei (p. ex., prestacions que requereixen adaptació, contractes artístics)",
+                "Requereix justificació",
+                "Nivell de concurrència: Baix-Mitjà"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Diàleg Competitiu (Arts. 172-176 LCSP)",
+              "details": [
+                "Per a contractes especialment complexos on l'Administració no pot definir les solucions tècniques a priori",
+                "Es dialoga amb els candidats per desenvolupar solucions abans de presentar ofertes",
+                "Projectes complexos (p. ex., infraestructures tecnològiques integrades)",
+                "Nivell de concurrència: Baix"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Associació per a la Innovació (Arts. 177-182 LCSP)",
+              "details": [
+                "Per desenvolupar i adquirir un producte, servei o obra innovadora que no existeix al mercat",
+                "Quan es busca una solució radicalment nova a una necessitat pública",
+                "Nivell de concurrència: Baix"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "solvencia",
+      "title": "Selecció del Contractista: Solvència i Criteris d'Adjudicació",
+      "level": 1,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "La selecció del contractista es basa en un sistema de doble filtre: primer es comprova l'aptitud de l'empresa (solvència) i després es valora la qualitat de la seva oferta (criteris d'adjudicació). És un error greu, i motiu d'impugnació, confondre ambdós conceptes."
+        },
+        {
+          "type": "subsection",
+          "title": "Aptitud del Contractista (Solvència)",
+          "items": [
+            "La solvència és el conjunt de requisits mínims que ha de complir una empresa per demostrar que és capaç d'executar correctament el contracte. És un requisit de 'apte/no apte' i no atorga punts. S'acredita mitjançant:",
+            {
+              "type": "definition",
+              "term": "Solvència econòmica i financera (Art. 87 LCSP)",
+              "details": [
+                "Demostra la salut financera de l'empresa",
+                "Volum anual de negocis (màxim 1,5 vegades el valor estimat del contracte)",
+                "Assegurança de responsabilitat civil per un import adequat",
+                "Patrimoni net al tancament de l'últim exercici"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Solvència tècnica o professional (Arts. 88-91 LCSP)",
+              "details": [
+                "Demostra l'experiència i els mitjans tècnics i humans de l'empresa",
+                "Varia segons el tipus de contracte",
+                "Contractes d'obres (Art. 88): Relació de les obres executades en el curs dels últims deu anys (modificació recent introduïda per la Llei de Pressupostos Generals de l'Estat per a 2023)",
+                "Contractes de serveis (Art. 90): Relació dels principals serveis realitzats en els últims tres anys, indicació del personal tècnic, titulacions acadèmiques, etc."
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Classificació Empresarial (Art. 77 LCSP)",
+              "details": [
+                "Per a contractes d'obres amb un valor estimat igual o superior a 500.000 €, és obligatori que l'empresa estigui classificada",
+                "Aquesta classificació, atorgada per la Junta Consultiva de Contractació Pública, acredita de forma genèrica la solvència de l'empresa per a determinats tipus i categories d'obres",
+                "Evita haver de demostrar-la en cada licitació"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "Valoració de les Ofertes (Criteris d'Adjudicació)",
+          "items": [
+            "Un cop verificada la solvència dels licitadors, es procedeix a valorar les seves ofertes per determinar quina presenta la millor relació qualitat-preu (Art. 145 LCSP). Aquests criteris sí que atorguen punts.",
+            {
+              "type": "definition",
+              "term": "Requisits dels criteris",
+              "details": [
+                "Han d'estar vinculats a l'objecte del contracte",
+                "Ser objectius, no discriminatoris",
+                "Estar publicats en els plecs"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Tipologia de criteris",
+              "details": [
+                "Criteris avaluables mitjançant fórmules (automàtics): Principalment el preu, però també altres com el termini de lliurament o el rendiment",
+                "Criteris subjectes a judici de valor (no automàtics): Requereixen una valoració tècnica per part d'un comitè d'experts. Exemple: la qualitat tècnica de la proposta, les característiques estètiques o funcionals, o l'organització de l'equip de treball"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Exemples de criteris qualitatius (Art. 145.2 LCSP)",
+              "details": [
+                "Característiques socials: Estabilitat en l'ocupació, plans d'igualtat de gènere, inserció laboral de col·lectius vulnerables",
+                "Característiques mediambientals: Reducció d'emissions, ús d'energies renovables, mesures d'eficiència energètica",
+                "Altres: Servei postvenda, assistència tècnica, millores addicionals sense cost"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "contracte-menor",
+      "title": "El Contracte Menor",
+      "level": 1,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "És un procediment d'adjudicació directa per a contractes de baixa quantia, però sotmès a controls estrictes per evitar el frau. La seva regulació detallada a la LCSP 2017 respon a la voluntat del legislador de limitar l'opacitat i el fraccionament indegut de contractes, pràctiques històricament associades a la corrupció."
+        },
+        {
+          "type": "subsection",
+          "title": "Característiques",
+          "items": [
+            {
+              "type": "definition",
+              "term": "Llindars",
+              "details": [
+                "Valor estimat inferior a 40.000 € per a contractes d'obres",
+                "Inferior a 15.000 € per a contractes de serveis i subministraments"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Durada",
+              "details": [
+                "Màxim un any, sense possibilitat de pròrroga"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Expedient administratiu",
+              "details": [
+                "Tot i ser d'adjudicació directa, requereix un expedient que inclogui:",
+                "Informe de l'òrgan de contractació: Justificant la necessitat del contracte i que no s'està fraccionant artificialment un objecte contractual per eludir un procediment de major concurrència",
+                "Aprovació de la despesa",
+                "Factura corresponent"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Requisits addicionals per a obres menors",
+              "details": [
+                "S'ha d'incorporar a més el pressupost de les obres i, si és necessari, el projecte",
+                "Si l'obra afecta l'estabilitat o seguretat de l'edificació, es requereix un informe de l'oficina de supervisió de projectes"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "procediment-simplificat",
+      "title": "El Procediment Obert Simplificat",
+      "level": 1,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Aquesta va ser una de les grans novetats de la LCSP 2017, creada com una via intermèdia entre la rigidesa del procediment obert ordinari i l'excepcionalitat del contracte menor."
+        },
+        {
+          "type": "subsection",
+          "title": "Característiques",
+          "items": [
+            {
+              "type": "definition",
+              "term": "Àmbit",
+              "details": [
+                "Per a contractes d'obres de valor estimat igual o inferior a 2.000.000 €",
+                "Contractes de serveis i subministraments de valor estimat inferior a certs llindars (actualment 143.000 € per a l'AGE)"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Característiques principals",
+              "details": [
+                "Terminis més curts",
+                "Documentació simplificada (p. ex., inscripció al ROLECE substitueix la presentació de molts documents)",
+                "Tramitació electrònica obligatòria"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Versió Abreujada o 'Súper Simplificada' (Art. 159.6)",
+              "details": [
+                "Per a contractes de valor encara menor (obres < 80.000 €; serveis i subministraments < 60.000 €)",
+                "Amb tràmits encara més àgils"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tramitacio",
+      "title": "Tipus de Tramitació",
+      "level": 1,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Independentment del procediment d'adjudicació, la tramitació de l'expedient pot ser:"
+        },
+        {
+          "type": "subsection",
+          "title": "Modalitats de Tramitació",
+          "items": [
+            {
+              "type": "definition",
+              "term": "Ordinària",
+              "details": [
+                "La tramitació per defecte, seguint els terminis generals"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Urgent (Art. 119 LCSP)",
+              "details": [
+                "Quan una necessitat inajornable ho requereixi",
+                "Es redueixen a la meitat la majoria de terminis",
+                "Requereix una declaració motivada per l'òrgan de contractació"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "D'emergència (Art. 120 LCSP)",
+              "details": [
+                "Per a situacions de greu perill (p. ex., catàstrofes naturals)",
+                "L'Administració pot contractar directament el que sigui estrictament indispensable, sense cap tràmit formal previ",
+                "Justificant-ho a posteriori"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "normativa",
+      "title": "Normativa Essencial",
+      "level": 1,
+      "content": [
+        {
+          "type": "list",
+          "title": "Legislació aplicable",
+          "items": [
+            "LCSP — Llei 9/2017, de 8 de novembre, de Contractes del Sector Públic (sempre consultar versió consolidada al BOE, ja que ha estat objecte de nombroses modificacions)",
+            "Directiva 2014/24/UE — Directiva 2014/24/UE del Parlament Europeu i del Consell, de 26 de febrer de 2014, sobre contractació pública",
+            "Directiva 2014/23/UE — Directiva 2014/23/UE del Parlament Europeu i del Consell, de 26 de febrer de 2014, relativa a l'adjudicació de contractes de concessió"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bloc-examen",
+      "title": "Bloc d'Examen",
+      "level": 1,
+      "content": [
+        {
+          "type": "example",
+          "label": "Micro-cas Pràctic",
+          "text": "[object Object]\n\n[object Object]"
+        }
+      ]
+    }
+  ]
+}

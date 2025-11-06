@@ -1,0 +1,337 @@
+{
+  "metadata": {
+    "title": "Les Comunitats Autònomes: règim de competències i Estatuts d'autonomia",
+    "subject": "Dret Constitucional i Administratiu",
+    "topic": "organització territorial de l'Estat",
+    "keywords": [
+      "Comunitats Autònomes",
+      "estatuts d'autonomia",
+      "competències",
+      "distribució territorial",
+      "autonomia"
+    ],
+    "difficulty": "avançat",
+    "estimatedTime": "15 min"
+  },
+  "sections": [
+    {
+      "id": "visio-global",
+      "title": "Visió Global",
+      "level": 1,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "El model territorial espanyol (Títol VIII CE) combina unitat estatal amb autonomia de les regions. Les 17 Comunitats Autònomes disposen d'institucions pròpies i competències en matèries com educació, sanitat, cultura i urbanisme. L'Estat manté ==competències exclusives== d'interès general (defensa, justícia). Cada CA es regeix per un Estatut d'Autonomia (==Llei Orgànica==), que és la seva norma institucional bàsica."
+        }
+      ]
+    },
+    {
+      "id": "conceptes-clau",
+      "title": "Conceptes Clau i Definicions",
+      "level": 1,
+      "content": [
+        {
+          "type": "subsection",
+          "title": "Definicions Fonamentals",
+          "items": [
+            {
+              "type": "definition",
+              "term": "==Comunitat Autònoma== (CA)",
+              "details": [
+                "Entitat territorial amb personalitat jurídica i auto==govern== dins l'Estat",
+                "autonomia política: capacitat d'aprovar lleis en el seu àmbit competencial",
+                "No són sobiranes; la seva autonomia s'exerceix dins la unitat de l'Estat"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Estatut d'autonomia (EA)",
+              "details": [
+                "Norma institucional bàsica de la CA, amb rang de ==Llei Orgànica==",
+                "Contingut mínim (art. 147.2): denominació, territori, institucions, competències",
+                "Aprovació i reforma: majories reforçades i ==Corts Generals=="
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Distribució de competències",
+              "details": [
+                "Estat: ==competències exclusives== (art. 149.1) - defensa, justícia, hisenda general",
+                "CA: competències assumides en l'Estatut (art. 148.1) - urbanisme, sanitat, educació",
+                "Tipus: exclusives, compartides (bases estatals + desenvolupament autonòmic), execució"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "estructura",
+      "title": "Estructura i Esquemes",
+      "level": 1,
+      "content": [
+        {
+          "type": "subsection",
+          "title": "Institucions d'Auto==govern==",
+          "items": [
+            {
+              "type": "definition",
+              "term": "Parlament o Assemblea Legislativa",
+              "details": [
+                "Unicameral, elegit per sufragi universal proporcional",
+                "Potestat legislativa autonòmica i control de l'executiu"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "==Govern== o Consell de ==Govern==",
+              "details": [
+                "Funcions executives i administratives",
+                "President elegit pel Parlament i nomenat pel Rei"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Tribunal Superior de Justícia",
+              "details": [
+                "Cim del poder judicial ordinari al territori"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "Categories de Competències",
+          "items": [
+            "==Competències exclusives== Estat: només l'Estat legisla i executa (defensa, moneda)",
+            "==Competències exclusives== CA: la CA legisla i executa (cultura local, ordenació territori)",
+            "Competències compartides: bases estatals + desenvolupament autonòmic (sanitat, educació)",
+            "Execució autonòmica: l'Estat legisla, la CA aplica (legislació laboral)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "principis",
+      "title": "Principis i Regles",
+      "level": 1,
+      "content": [
+        {
+          "type": "subsection",
+          "title": "Principis Fonamentals",
+          "items": [
+            {
+              "type": "definition",
+              "term": "autonomia vs. Unitat",
+              "details": [
+                "L'autonomia no és sobirania; s'exerceix dins la unitat de l'Estat (art. 2 CE)",
+                "Les lleis autonòmiques han de respectar Constitució i Estatut",
+                "En cas de conflicte, preval la norma de qui tingui la competència"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Solidaritat i Equitat",
+              "details": [
+                "Equilibri econòmic entre comunitats (art. 138.1)",
+                "Prohibició de privilegis econòmics o socials (art. 138.2)",
+                "Mecanismes de solidaritat interterritorial"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Cooperació Lleial",
+              "details": [
+                "Estat i CA han de col·laborar lleialment",
+                "Conferències Sectorials i de Presidents",
+                "Convenis i acords entre CA (art. 145)"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "procediment",
+      "title": "Procediment i Aplicació Administrativa",
+      "level": 1,
+      "content": [
+        {
+          "type": "subsection",
+          "title": "Creació d'una CA",
+          "items": [
+            {
+              "type": "definition",
+              "term": "Via ordinària (art. 143, 'via lenta')",
+              "details": [
+                "Iniciativa: acord Diputacions + 2/3 municipis (majoria població)",
+                "Assemblea de Parlamentaris redacta projecte d'Estatut",
+                "Aprovació per les ==Corts Generals== com a LO"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Via especial (art. 151, 'via ràpida')",
+              "details": [
+                "Requisits: 3/4 municipis + referèndum amb majoria absoluta",
+                "Utilitzada per Andalusia",
+                "Catalunya, País Basc, Galícia: via Disposició Transitòria 2ª"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "Reforma d'Estatut",
+          "items": [
+            "Procediment establert al mateix Estatut",
+            "Aprovació per LO estatal (art. 147.3)",
+            "Alguns requereixen referèndum autonòmic",
+            "Rigidesa superior a lleis ordinàries"
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "Control i Conflictes",
+          "items": [
+            "Tribunal Constitucional: àrbitre final de conflictes competencials",
+            "Conflictes positius/negatius de competència",
+            "Recursos d'inconstitucionalitat contra lleis estatals o autonòmiques",
+            "Comissions bilaterals i Conferències Sectorials per cooperació"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "normativa",
+      "title": "Normativa Essencial",
+      "level": 1,
+      "content": [
+        {
+          "type": "list",
+          "items": [
+            "CE — Constitució Espanyola (Títol VIII, arts. 137-158) — 1978",
+            "LOTC — LO 2/1979, del Tribunal Constitucional",
+            "LOFCA — LO 8/1980, de Finançament de les CA",
+            "EACat — Estatut d'autonomia de Catalunya (LO 6/2006)",
+            "LRJSP — Llei 40/2015 (arts. 147-153: cooperació)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "exemples-casos",
+      "title": "Exemples i Casos Pràctics",
+      "level": 1,
+      "content": [
+        {
+          "type": "example",
+          "label": "Exemple 1: Competència Defensa",
+          "text": "Pregunta: A qui correspon la competència sobre Defensa i Forces Armades?\nResposta: Exclusivament a l'Estat (art. 149.1.4ª CE)."
+        },
+        {
+          "type": "example",
+          "label": "Exemple 2: Competència Urbanisme",
+          "text": "Pregunta: A qui correspon l'ordenació urbanística?\nResposta: Pot ser assumida per una CA (art. 148.1.3ª CE)."
+        },
+        {
+          "type": "example",
+          "label": "Micro-cas: Llei autonòmica educativa",
+          "text": "Situació: La CA 'X' aprova una llei educativa que redueix les hores de castellà a les escoles per sota del mínim establert per la legislació bàsica estatal. El ==Govern== central impugna la llei.\n\nOrientació de resposta: L'Estat té competència sobre 'legislació bàsica del règim de premsa, ràdio i televisió' (art. 149.1.27ª) i sobre 'normes bàsiques del règim de premsa' (art. 149.1.30ª). La CA pot desenvolupar la legislació bàsica però no vulnerar-la. Si la llei autonòmica redueix el mínim de castellà per sota del bàsic estatal, envaeix competències estatals. El TC declararia inconstitucionals els articles que contradiguin la legislació bàsica, mantenint la resta de la llei."
+        }
+      ]
+    },
+    {
+      "id": "errors-mnemo",
+      "title": "Errors Típics i Mnemotècnies",
+      "level": 1,
+      "content": [
+        {
+          "type": "subsection",
+          "title": "Errors Freqüents",
+          "items": [
+            "❌ Confondre autonomia amb sobirania (les CA no poden secedir-se)",
+            "❌ Pensar que una CA pot assumir qualsevol competència espontàniament",
+            "❌ Obviar que les ==competències exclusives== estatals prevalen",
+            "❌ Creure que hi ha jerarquia entre Estatuts (tots tenen rang LO)",
+            "❌ Creure que només les nacionalitats històriques tenen autonomia"
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "Mnemotècnies",
+          "items": [
+            "Articles clau: 148 (competències CA) i 149 (competències Estat)",
+            "Art. 150: mecanismes especials (150.1 lleis marc, 150.2 transferències, 150.3 harmonització)",
+            "Contingut Estatut: acrònim 'NTIC' (Nom, Territori, Institucions, Competències)",
+            "Regla pràctica: interès nacional → Estat; interès local → CA"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glossari",
+      "title": "Glossari Mínim",
+      "level": 1,
+      "content": [
+        {
+          "type": "definition",
+          "items": [
+            {
+              "type": "definition",
+              "term": "Competència exclusiva",
+              "details": [
+                "Només un nivell de ==Govern== pot legislar i executar"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Competència compartida",
+              "details": [
+                "Bases estatals + desenvolupament autonòmic"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Principi de solidaritat",
+              "details": [
+                "Equilibri econòmic entre territoris sense privilegis (arts. 2, 138 CE)"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "==Llei Orgànica== (LO)",
+              "details": [
+                "Llei estatal que requereix majoria absoluta del Congrés",
+                "Els Estatuts són aprovats i reformats per LO"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "resum",
+      "title": "Resum Final",
+      "level": 1,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "El model autonòmic espanyol distribueix el poder entre Estat i Comunitats Autònomes segons la CE 1978. Cada CA disposa d'un Estatut d'autonomia (LO) que configura institucions i competències. L'Estat manté ==competències exclusives== d'interès general; les CA assumeixen funcions en altres àmbits. El sistema garanteix unitat, solidaritat i igualtat, amb el TC com a àrbitre de conflictes competencials."
+        }
+      ]
+    },
+    {
+      "id": "bloc-examen",
+      "title": "Bloc d'Examen",
+      "level": 1,
+      "content": [
+        {
+          "type": "example",
+          "label": "Micro-cas pràctic",
+          "text": "Cas: La CA 'Beta' aprova una llei regulant la pesca en aigües marítimes del seu litoral amb normes més restrictives que la legislació bàsica estatal. El ==Govern== central impugna la llei al·legant invasió de competències (art. 149.1.19ª CE: pesca marítima).\n\nPunts clau:\n- Distingir pesca fluvial (competència autonòmica, art. 148.1.11ª) vs. pesca marítima (estatal)\n- Analitzar si la norma autonòmica vulnera o complementa la legislació bàsica estatal\n- Principi de prevalença: preval la norma estatal en matèria exclusiva\n- El TC delimitaria l'espai competencial: mar territorial (estatal) vs. aigües interiors (autonòmic)\n- Solució: anul·lar preceptes que envaeixen competències estatals, mantenir la resta"
+        }
+      ]
+    }
+  ]
+}

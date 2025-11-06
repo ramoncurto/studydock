@@ -1,0 +1,349 @@
+Q: Què és la classificació del sòl segons el TRLUC?
+- L'operació que assigna usos concrets a cada terreny
+- L'operació que divideix el sòl municipal en tres classes: urbà, urbanitzable i no urbanitzable
+- L'operació que determina l'edificabilitat de cada parcel·la
+- L'operació que estableix les servituds del subsol
+A: L'operació que divideix el sòl municipal en tres classes: urbà, urbanitzable i no urbanitzable
+
+Q: Què és la qualificació del sòl?
+- L'operació que defineix el règim jurídic general de cada terreny
+- L'operació que estableix la situació bàsica del sòl
+- L'operació que assigna a cada terreny usos concrets, intensitat i tipologia edificatòria
+- L'operació que determina el valor cadastral del sòl
+A: L'operació que assigna a cada terreny usos concrets, intensitat i tipologia edificatòria
+
+Q: Quines són les dues situacions bàsiques del sòl segons el TRLSRU?
+- Sòl urbà i sòl rural
+- Sòl consolidat i no consolidat
+- Sòl urbanitzat i sòl rural
+- Sòl públic i sòl privat
+A: Sòl urbanitzat i sòl rural
+
+Q: Què són els "sistemes" en el context de la qualificació urbanística?
+- Terrenys destinats a usos privats com habitatge o indústria
+- Terrenys qualificats per a necessitats col·lectives com vials, espais lliures i equipaments
+- Instruments de planejament urbanístic
+- Procediments d'aprovació de plans
+A: Terrenys qualificats per a necessitats col·lectives com vials, espais lliures i equipaments
+
+Q: Què són les "zones" en el context de la qualificació urbanística?
+- Terrenys destinats a serveis públics
+- Àrees de protecció ambiental
+- Terrenys qualificats per a usos susceptibles d'aprofitament privat
+- Delimitacions administratives municipals
+A: Terrenys qualificats per a usos susceptibles d'aprofitament privat
+
+Q: Quin és l'instrument clau que classifica i qualifica el sòl a nivell municipal?
+- El Pla Parcial Urbanístic (PPU)
+- El Pla d'Ordenació Urbanística Municipal (POUM)
+- El Pla de Millora Urbana (PMU)
+- El Pla Especial Urbanístic (PEU)
+A: El Pla d'Ordenació Urbanística Municipal (POUM)
+
+Q: Quina és la normativa bàsica estatal que regula les condicions bàsiques del dret de propietat del sòl?
+- El TRLUC
+- El RLUC
+- El TRLSRU
+- El Codi Civil
+A: El TRLSRU
+
+Q: Què és un "solar" segons la legislació urbanística?
+- Qualsevol terreny situat en sòl urbà
+- Una parcel·la classificada com a sòl urbà consolidat, apta per a l'edificació amb tots els serveis
+- Un terreny destinat a energia solar
+- Una parcel·la en sòl urbanitzable
+A: Una parcel·la classificada com a sòl urbà consolidat, apta per a l'edificació amb tots els serveis
+
+Q: Quins són els serveis urbanístics bàsics que defineixen un solar?
+- Només accés rodat i electricitat
+- Accés rodat, aigua, gas i electricitat
+- Accés rodat pavimentat, aigua, evacuació d'aigües residuals i electricitat
+- Accés rodat, aigua, electricitat i internet
+A: Accés rodat pavimentat, aigua, evacuació d'aigües residuals i electricitat
+
+Q: Quines són les dues subcategories del sòl urbà segons el TRLUC?
+- Consolidat i delimitat
+- Residencial i industrial
+- Consolidat i no consolidat
+- Públic i privat
+A: Consolidat i no consolidat
+
+Q: Què caracteritza el sòl urbà consolidat (SUC)?
+- Requereix actuacions de transformació urbanística
+- Té la condició de solar o li manquen obres menors per assolir-la
+- Està destinat al creixement futur de la ciutat
+- Ha de ser protegit de la transformació urbanística
+A: Té la condició de solar o li manquen obres menors per assolir-la
+
+Q: Què caracteritza el sòl urbà no consolidat (SUNC)?
+- Permet llicència urbanística directa
+- Està situat fora de la trama urbana
+- Requereix actuacions de transformació urbanística com reforma o renovació
+- És sòl agrícola protegit
+A: Requereix actuacions de transformació urbanística com reforma o renovació
+
+Q: Quin percentatge de l'aprofitament urbanístic mitjà han de cedir els propietaris en sòl urbà no consolidat?
+- 5%
+- 10%
+- 15%
+- 20%
+A: 10%
+
+Q: Quin dret fonamental té el propietari d'un solar en sòl urbà consolidat?
+- Dret a rebre compensacions econòmiques
+- Dret a edificar, prèvia llicència urbanística
+- Dret a parcel·lar lliurement
+- Dret a canviar la qualificació del terreny
+A: Dret a edificar, prèvia llicència urbanística
+
+Q: Quines són les dues subcategories del sòl urbanitzable segons el TRLUC?
+- Públic i privat
+- Consolidat i no consolidat
+- Delimitat i no delimitat
+- Protegit i no protegit
+A: Delimitat i no delimitat
+
+Q: Què és el sòl urbanitzable delimitat (SUD)?
+- Sòl agrícola protegit
+- Sectors previstos per a transformació a curt o mitjà termini
+- Sòl que ja està urbanitzat
+- Sòl destinat a equipaments públics
+A: Sectors previstos per a transformació a curt o mitjà termini
+
+Q: Què és el sòl urbanitzable no delimitat (SUND)?
+- Sòl que no es pot edificar mai
+- Reserva estratègica per a creixements futurs a llarg termini
+- Sòl ja integrat en la trama urbana
+- Sòl destinat a parcs naturals
+A: Reserva estratègica per a creixements futurs a llarg termini
+
+Q: Quin instrument de planejament és necessari per desenvolupar el sòl urbanitzable delimitat?
+- Un Pla de Millora Urbana (PMU)
+- Un Pla Especial Urbanístic (PEU)
+- Un Pla Parcial Urbanístic (PPU)
+- Un Pla Director Urbanístic (PDU)
+A: Un Pla Parcial Urbanístic (PPU)
+
+Q: Quin percentatge de l'aprofitament urbanístic han de cedir els propietaris en sòl urbanitzable a Catalunya?
+- 5%
+- 10%
+- Entre 10% i 15%, generalment 15%
+- 20%
+A: Entre 10% i 15%, generalment 15%
+
+Q: Qui ha de costejar la urbanització en sòl urbanitzable?
+- L'Ajuntament
+- La Generalitat de Catalunya
+- Els propietaris del sector
+- El Govern de l'Estat
+A: Els propietaris del sector
+
+Q: Què caracteritza el sòl no urbanitzable (SNU)?
+- És sòl destinat al creixement urbà immediat
+- És sòl que mereix protecció especial i s'ha de preservar de la transformació urbanística
+- És sòl que ja està urbanitzat
+- És sòl sense regulació urbanística
+A: És sòl que mereix protecció especial i s'ha de preservar de la transformació urbanística
+
+Q: Quina és la regla general per al sòl no urbanitzable?
+- Es pot edificar lliurement
+- Només es permet habitatge unifamiliar
+- Prohibició d'urbanitzar i edificar, amb excepcions taxades
+- Es pot parcel·lar sense restriccions
+A: Prohibició d'urbanitzar i edificar, amb excepcions taxades
+
+Q: Quins usos permet l'article 47 del TRLUC en sòl no urbanitzable?
+- Qualsevol tipus d'edificació
+- Només habitatges de luxe
+- Construccions agrícoles, ramaderes, forestals, rehabilitació de masies i actuacions d'interès públic
+- Només indústries
+A: Construccions agrícoles, ramaderes, forestals, rehabilitació de masies i actuacions d'interès públic
+
+Q: Què es pot fer amb les masies en sòl no urbanitzable?
+- Només demolir-les
+- Rehabilitar-les per a usos com habitatge familiar, turisme rural o restauració
+- Convertir-les obligatòriament en equipaments públics
+- Res, estan totalment protegides
+A: Rehabilitar-les per a usos com habitatge familiar, turisme rural o restauració
+
+Q: Quin deure principal tenen els propietaris de sòl no urbanitzable?
+- Urbanitzar el terreny
+- Conservar els valors naturals i paisatgístics i abstenir-se d'actes que transformin la seva naturalesa rústica
+- Cedir el 10% de l'aprofitament
+- Edificar en els terminis establerts
+A: Conservar els valors naturals i paisatgístics i abstenir-se d'actes que transformin la seva naturalesa rústica
+
+Q: El dret de propietat del sòl s'estén al subsol?
+- Sí, de manera absoluta i sense limitacions
+- No, el subsol és sempre propietat pública
+- Sí, però amb limitacions i servituds per raons d'interès general
+- Només si ho autoritza l'Ajuntament
+A: Sí, però amb limitacions i servituds per raons d'interès general
+
+Q: Quin article del TRLUC regula el règim del subsol?
+- Article 1
+- Article 21
+- Article 33
+- Article 47
+A: Article 1
+
+Q: Per a què pot el planejament establir reserves de subsol?
+- Només per a garatges privats
+- Per a la implantació i manteniment d'infraestructures i serveis públics
+- Per a qualsevol ús comercial
+- El planejament no pot regular el subsol
+A: Per a la implantació i manteniment d'infraestructures i serveis públics
+
+Q: Quins tipus d'infraestructures es poden situar en el subsol amb reserves del planejament?
+- Només aparcaments
+- Galeries de serveis, col·lectors, xarxes d'aigua i energia, metro i telecomunicacions
+- Només línies elèctriques
+- Només xarxes de telecomunicacions
+A: Galeries de serveis, col·lectors, xarxes d'aigua i energia, metro i telecomunicacions
+
+Q: Quina és la primera fase del procediment d'aprovació d'un POUM?
+- Aprovació inicial
+- Avanç del Pla amb participació ciutadana
+- Aprovació provisional
+- Publicació al DOGC
+A: Avanç del Pla amb participació ciutadana
+
+Q: Què comporta automàticament l'aprovació inicial d'un POUM?
+- L'entrada en vigor immediata
+- La suspensió de llicències en àrees amb modificacions previstes
+- La publicació definitiva
+- L'expropiació dels terrenys afectats
+A: La suspensió de llicències en àrees amb modificacions previstes
+
+Q: Quin és el termini mínim d'informació pública en el procediment d'aprovació d'un POUM?
+- 30 dies
+- 45 dies
+- 60 dies
+- 90 dies
+A: 45 dies
+
+Q: Qui atorga l'aprovació definitiva d'un POUM a Catalunya?
+- El Ple de l'Ajuntament
+- El Govern de l'Estat
+- La Comissió de Territori de la Generalitat
+- El Tribunal Superior de Justícia
+A: La Comissió de Territori de la Generalitat
+
+Q: On es publica l'aprovació definitiva d'un POUM per a la seva entrada en vigor?
+- Al Butlletí Oficial de l'Estat (BOE)
+- Al tauló d'anuncis de l'Ajuntament
+- Al Diari Oficial de la Generalitat de Catalunya (DOGC)
+- A la premsa local
+A: Al Diari Oficial de la Generalitat de Catalunya (DOGC)
+
+Q: Quin instrument de planejament es necessita per desenvolupar el sòl urbà no consolidat?
+- Un Pla Parcial Urbanístic (PPU)
+- Un Pla de Millora Urbana (PMU) o un Pla Especial Urbanístic (PEU)
+- Un Pla General d'Ordenació (PGO)
+- Cap instrument, només llicència
+A: Un Pla de Millora Urbana (PMU) o un Pla Especial Urbanístic (PEU)
+
+Q: Un terreny classificat com a sòl urbanitzable delimitat està en situació de sòl rural segons el TRLSRU fins que:
+- S'aprovi el Pla Parcial
+- Es completi la seva urbanització i sigui rebuda per l'administració
+- Es concedeixi la primera llicència
+- Es classifiqui com a urbà
+A: Es completi la seva urbanització i sigui rebuda per l'administració
+
+Q: Què és l'aprofitament urbanístic?
+- El benefici econòmic de vendre un terreny
+- La unitat de mesura de la intensitat d'ús del sòl, expressada en m² de sostre edificable per m² de sòl
+- La superfície total d'un sector
+- El nombre d'habitatges que es poden construir
+A: La unitat de mesura de la intensitat d'ús del sòl, expressada en m² de sostre edificable per m² de sòl
+
+Q: Quin és el deure de cessió de sòl per a vials i sistemes en sòl urbà no consolidat?
+- No hi ha deure de cessió
+- Només per a vials principals
+- Cessió gratuïta dels terrenys destinats a vials i sistemes locals
+- Cessió amb compensació econòmica total
+A: Cessió gratuïta dels terrenys destinats a vials i sistemes locals
+
+Q: En sòl urbanitzable, els propietaris han de cedir el sòl per a sistemes generals?
+- No, només per a sistemes locals
+- Sí, tot el sòl destinat a sistemes generals inclosos en el sector
+- Només si l'Ajuntament els compensa
+- Només el 50% del sòl per a sistemes generals
+A: Sí, tot el sòl destinat a sistemes generals inclosos en el sector
+
+Q: Què és la reparcel·lació?
+- La venda de parcel·les a l'Ajuntament
+- La redistribució de parcel·les per adequar-les a la nova ordenació
+- La divisió d'una parcel·la en dues
+- L'expropiació de terrenys
+A: La redistribució de parcel·les per adequar-les a la nova ordenació
+
+Q: Quins són els articles del TRLUC que regulen el sòl urbà?
+- Articles 10-15
+- Articles 26-32
+- Articles 33-34
+- Articles 47-52
+A: Articles 26-32
+
+Q: Quins són els articles del TRLUC que regulen el sòl urbanitzable?
+- Articles 26-32
+- Articles 33-34
+- Articles 47-52
+- Articles 60-65
+A: Articles 33-34
+
+Q: Quins són els articles del TRLUC que regulen el sòl no urbanitzable?
+- Articles 26-32
+- Articles 33-34
+- Articles 47-52
+- Articles 70-75
+A: Articles 47-52
+
+Q: Quin és el principal objectiu del règim urbanístic del sòl?
+- Maximitzar els beneficis dels propietaris
+- Garantir un desenvolupament urbanístic sostenible equilibrant creixement i protecció ambiental
+- Facilitar la construcció massiva
+- Eliminar el sòl rústic
+A: Garantir un desenvolupament urbanístic sostenible equilibrant creixement i protecció ambiental
+
+Q: El principi de participació de la comunitat en les plusvàlues es materialitza mitjançant:
+- L'impost sobre béns immobles
+- Les cessions d'aprofitament urbanístic i de sòl per a sistemes
+- Les multes urbanístiques
+- Les taxes municipals
+A: Les cessions d'aprofitament urbanístic i de sòl per a sistemes
+
+Q: Un terreny en sòl urbà no consolidat inclòs en un polígon d'actuació urbanística:
+- Pot obtenir llicència d'edificació directa
+- Ha d'esperar a completar l'actuació urbanística abans d'edificar
+- Deixa de ser sòl urbà
+- Passa a ser sòl urbanitzable
+A: Ha d'esperar a completar l'actuació urbanística abans d'edificar
+
+Q: Les actuacions d'interès públic en sòl no urbanitzable (com instal·lacions d'energies renovables) requereixen normalment:
+- Només llicència municipal
+- Cap autorització
+- La tramitació d'un Pla Especial Urbanístic
+- La recalificació del sòl com a urbanitzable
+A: La tramitació d'un Pla Especial Urbanístic
+
+Q: Quin Real Decret Legislatiu aprova el TRLSRU?
+- RDL 5/2013
+- RDL 7/2015
+- RDL 10/2018
+- RDL 1/2020
+A: RDL 7/2015
+
+Q: Quin Decret Legislatiu aprova el TRLUC?
+- DL 3/2008
+- DL 1/2010
+- DL 5/2012
+- DL 2/2015
+A: DL 1/2010
+
+Q: El gradient de drets i deures del propietari segons la classe de sòl és:
+- Màxims drets i mínims deures en sòl no urbanitzable
+- Màxims drets i mínims deures en sòl urbà consolidat
+- Iguals drets en totes les classes
+- Màxims deures en sòl urbà consolidat
+A: Màxims drets i mínims deures en sòl urbà consolidat

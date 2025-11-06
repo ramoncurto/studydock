@@ -1,0 +1,296 @@
+Instruments de planejament urbanístic general. Classes, determinacions i documentació
+Desenvolupament
+
+1) Conceptes clau i definicions
+Planejament Urbanístic General: És el conjunt d'instruments que ordenen integralment un o diversos termes municipals. A Catalunya, el planejament general municipal inclou principalment el POUM, però també els Programes d'Actuació Urbanística Municipal (PAUM) i les Normes de Planejament Urbanístic (NPU).
+Classificació del Sòl: Acte potestatiu del planejament general que crea el règim jurídic del sòl, dividint-lo en tres classes bàsiques segons el seu destí urbanístic i el principi de desenvolupament sostenible.1
+Sòl Urbà (SU): Terrenys ja transformats o que tenen els serveis bàsics. Es divideix en:
+Consolidat (SUC): Sòls que tenen la condició de solar (aptes per a l'edificació immediata, amb tots els serveis) o quasi-solar. El propietari té dret a edificar previ pagament de llicència.
+No Consolidat (SUNC): Sòls urbans que no són SUC. Inclou àmbits que requereixen operacions de transformació (PMU) o terrenys amb urbanització incompleta.2 El propietari té deures (cedir, urbanitzar, repartir beneficis) abans d'edificar.
+Sòl Urbanitzable (SUD/SUND): Terrenys destinats a ser urbanitzats mitjançant un Pla Parcial (PPU).
+Sòl No Urbanitzable (SNU): Terrenys que el pla ha de preservar de la urbanització per motius ambientals, paisatgístics, de risc, o pel seu valor agrícola/forestal.5
+Qualificació del Sòl: Tècnica complementària a la classificació. Assigna usos i intensitats (edificabilitat, alçada, etc.) al sòl. Es divideix en:
+Sistemes (Clau S): Elements estructurals de titularitat pública destinats a serveis comunitaris. Inclouen sistemes viaris, espais lliures (parcs), equipaments, serveis tècnics.7
+Zones (Clau Z): Regulació de l'ús i edificació de titularitat privada (residencial, industrial, comercial).9
+2) Estructura / Esquemes
+** Jerarquia de Plans a Catalunya**
+A Catalunya conviuen dos sistemes de planificació que es relacionen jeràrquicament.10 El nivell superior, el Planejament Territorial (competència de la Generalitat), defineix l'estratègia global del territori, les grans infraestructures i els espais protegits, però no pot classificar sòl.10 El nivell inferior, el Planejament Urbanístic (competència municipal i de la Generalitat), defineix l'ordenació concreta i classifica el sòl.10
+Jerarquia 4:
+Planejament Territorial (Llei 23/1983):
+Pla Territorial General de Catalunya (PTGC): Marc global.
+Plans Territorials Parcials (PTP): Desenvolupen el PTGC (p.ex., PTP de l'Àmbit Metropolità).
+Plans Territorials Sectorials (PTS): Regulen infraestructures o sectors concrets (p.ex., el nou PTS d'Habitatge 12).
+Planejament Urbanístic (TRLUC - DL 1/2010):
+Plans Directors Urbanístics (PDU): Instrument supramunicipal que coordina POUMs o ordena projectes estratègics.14
+Planejament General Municipal (Objecte d'aquest tema):
+Pla d'Ordenació Urbanística Municipal (POUM).
+Programes d'Actuació Urbanística Municipal (PAUM).
+Normes de Planejament Urbanístic (NPU).
+Planejament Derivat (Desenvolupa el POUM):
+Plans Parcials Urbanístics (PPU): Desenvolupen Sòl Urbanitzable.
+Plans de Millora Urbana (PMU): Desenvolupen Sòl Urbà No Consolidat.15
+Plans Especials Urbanístics (PEU): Protegeixen patrimoni, ordenen SNU, etc..
+**Classes d'instruments de planejament general **
+POUM: És l'instrument principal i integral. Obligatori per a tots els municipis (tret excepcions). Defineix el model d'implantació urbana i classifica tot el sòl.1
+PAUM: Instrument que estableix les directrius per al desenvolupament del POUM en un període (p.ex., un sexenni). Ha de ser coherent amb el POUM.1
+Normes de Planejament Urbanístic (NPU): Instrument de caràcter excepcional. Poden substituir el POUM (p.ex., si s'anul·la) o complementar-lo (p.ex., per a objectius supramuniciapals).1
+** Noves figures supramunicipals (DL 2/2025)**
+El Decret llei 2/2025 ha introduït una eina potent d'intervenció supramunicipal per a projectes estratègics, afegint la Disposició Addicional 26a al TRLUC.
+PDU per a actuacions d'interès general superior:
+El Govern de la Generalitat pot declarar una actuació (social o econòmica) d'interès general superior.
+Aquesta actuació es desenvolupa mitjançant un PDU que té caràcter excepcional.
+Aquest PDU pot contenir, a més de l'ordenació, el projecte d'urbanització, la documentació de gestió (reparcel·lació) i la documentació per a la llicència ambiental.
+Això suposa una derogació singular del POUM municipal i una concentració de tràmits extraordinària, atorgant a la Generalitat un poder d'intervenció directa molt potent.
+** Estructura Documental del POUM (Art. 59 TRLUC i Art. 65-73 RLUC)**
+El POUM està integrat per un conjunt de documents que han de ser coherents entre si.17 La manca d'un document obligatori o una contradicció interna pot comportar la seva nul·litat. La Memòria justifica les decisions (el "per què"), els Plànols les representen (el "on"), i les Normes les executen (el "com").
+
+Document
+Contingut Essencial (segons TRLUC/RLUC)
+Referències
+1. Memòria
+Justificació del model adoptat. Sostenibilitat, ús racional del sòl, coherència amb planejament superior. Ha d'incloure:
+
+• Anàlisi de la informació (diagnosi).
+
+• Justificació de la classificació del sòl.
+
+• Memòria Social: Justificació de les necessitats d'habitatge i reserves HPO.
+
+• Estudi de Mobilitat Sostenible (o estudi complementari).
+1
+2. Plànols
+Informació (estat actual) i Ordenació (proposta). Han d'incloure, com a mínim:
+
+• Classificació del sòl (tot el terme municipal).
+
+• Estructura general i orgànica del territori (sistemes generals).
+
+• Qualificació del sòl (zones i sistemes locals).
+
+• Plànols d'afectacions (patrimoni, riscos, inundabilitat, etc.).
+17
+3. Normativa
+Disposicions escrites que regulen l'ús del sòl i l'edificació.
+
+• Disposicions generals.
+
+• Regulació de cada classe i categoria de sòl (drets i deures).
+
+• Regulació detallada de cada zona i sistema (usos, paràmetres edificatoris).
+
+• Normes de gestió i execució.
+[15, 17]
+4. Catàleg
+Inventari i protecció de béns.
+
+• Catàleg de Béns a Protegir: Masies, béns culturals, patrimoni arquitectònic, arqueològic, etc.
+[18, 22]
+5. Estudis
+Documents tècnics que justifiquen la viabilitat del pla.
+
+• Documentació Ambiental (EAE): Informe de Sostenibilitat Ambiental (ISA) o equivalent.
+
+• Estudi d'Avaluació Econòmica i Financera: Viabilitat de les actuacions proposades.
+[23, 24, 25]
+6. Programa
+Programa d'Actuació Urbanística Municipal (PAUM) (si s'escau, pot ser document a part).
+1
+
+3) Principis / Regles (Determinacions obligatòries del POUM)
+Determinacions Generals (Art. 58 TRLUC)
+El POUM ha d'assumir els objectius del desenvolupament urbanístic sostenible.1
+Ha de classificar tot el sòl del terme municipal.
+Ha de definir l'estructura general (sistemes urbanístics generals) i els seus mecanismes d'obtenció.
+Ha d'establir les mesures de protecció del patrimoni (incorporant el Catàleg).22
+Ha de definir les reserves per a Habitatge de Protecció Pública (HPO).26
+Determinacions per Classe de Sòl
+En Sòl Urbà (SUC/SUNC):
+Ha de delimitar el SUC i el SUNC.
+Ha de qualificar el sòl (zones i sistemes locals).
+En SUNC, ha de delimitar els Plans de Millora Urbana (PMU) o Polígons d'Actuació (PAU) necessaris per a la seva transformació.2
+En Sòl Urbanitzable (SUD/SUND):
+Ha de delimitar els sectors de Sòl Urbanitzable Delimitat (SUD) que es desenvoluparan amb Plans Parcials (PPU).
+Pot establir àmbits de Sòl Urbanitzable No Delimitat (SUND).
+En Sòl No Urbanitzable (SNU):
+Ha d'establir les mesures de protecció (p.ex., protecció territorial, preventiva).
+Ha de regular els usos i edificacions admesos (p.ex., construccions agrícoles, rehabilitació de masies).
+** Determinacions sobre Sistemes Urbanístics (Art. 48 RLUC)**
+El POUM defineix els sistemes (elements públics) necessaris per al desenvolupament.
+Distingeix entre:
+Sistemes Generals: Estructuren el territori en conjunt (grans parcs, eixos viaris principals, equipaments supramunicipals). El POUM els "adscriu" a sectors de SUD o SUNC perquè els promotors paguin la seva obtenció.
+Sistemes Locals: Al servei d'un àmbit concret (carrers interns, places de barri). S'obtenen per cessió obligatòria dins dels polígons o sectors.
+** Determinacions sobre Reserves HPO (La nova realitat de 2025)**
+Aquest és un dels punts més modificats i crucials per a un examen actual. El règim històric de l'article 57 del TRLUC 19 ha estat profundament alterat pel Pla Territorial Sectorial d'Habitatge (PTSH) 12, aprovat pel Decret 408/2024.27
+Règim TRLUC (Base històrica): L'Art. 57 TRLUC establia reserves mínimes per HPO en SUNC i SUD.19 Aquestes reserves eren, de forma general, del 30% del sostre residencial (40% a l'AMB).28
+Nou Règim (Decret 408/2024 - PTSH):
+El PTSH té rang de Pla Territorial Sectorial, per tant, és vinculant i jeràrquicament superior als POUMs.12
+El Pla classifica els municipis segons la demanda residencial (p.ex., Àrees de demanda forta i acreditada Tipus 1).28
+Noves Reserves Mínimes Obligatòries (Art. 18 Normes PTSH) 28:
+Sòl Urbanitzable Delimitat (SUD): Reserva del 50% del sostre residencial de nova implantació.
+Sòl Urbà No Consolidat (SUNC): Reserva del 40% del sostre residencial de nova implantació (es pot reduir al 30% justificant viabilitat econòmica).28
+Reserves en Sòl Urbà Consolidat (SUC):
+La llei estatal (TRLSR) i el TRLUC no estableixen un percentatge mínim obligatori en SUC.28
+No obstant, el PTSH (D 408/2024) i la jurisprudència 28 estableixen que la no aplicació de reserves en SUC (p.ex., en grans rehabilitacions o canvis d'ús) ha de ser excepcional i justificar-se molt robustament a la Memòria Social del POUM.20 Ometre aquesta justificació pot vulnerar el dret a l'habitatge.
+
+Tipus de Sòl
+Reserva TRLUC (Base)
+Reserva PTSH (D 408/2024) - Mínim en zones demanda forta
+SUD (Nova implantació)
+30% (general) / 40% (AMB)
+50% del sostre residencial
+SUNC (Nova implantació)
+30% (general) / 40% (AMB)
+40% del sostre residencial
+SUC
+0% (mínim obligatori)
+0% (mínim obligatori), PERÒ s'ha de justificar robustament a la Memòria Social per què no s'apliquen.
+
+** Determinacions sobre Urbanitzacions amb Dèficits (DL 2/2025)**
+El DL 2/2025 introdueix la Disposició Addicional 25a al TRLUC per resoldre el problema històric d'urbanitzacions residencials amb dèficits (implantades entre 1956 i 1981). El POUM (o un Pla Especial) haurà de donar-los un tractament específic:
+Si estan en SNU: S'han de regular mitjançant PEU o PMU. Les edificacions legals queden en règim de SNU, i les assimilades a "fora d'ordenació". S'han de definir els serveis bàsics (sovint individuals) a cost dels propietaris.
+Altres (que es poden regularitzar): Es poden classificar com a Sòl Urbà No Consolidat (SUNC) amb especialitats, estudiant la reducció d'àmbits i la concentració edificatòria.
+4) Procediment i aplicació administrativa
+** Fases de Tramitació i Aprovació del POUM 23**
+La tramitació d'un POUM és un procés llarg amb competència compartida entre l'Ajuntament (que té la iniciativa i l'aprovació provisional) i la Generalitat (que té l'aprovació definitiva).
+Fase 0: Avanç de Pla. L'Ajuntament elabora un Avanç i el sotmet a consulta pública i informes sectorials.29 No és estrictament obligatori per llei, però sí per a l'avaluació ambiental.
+Fase 1: Aprovació Inicial (AI).
+Competència: Ple de l'Ajuntament.29
+Documentació: Document complet (Memòria, Plànols, Normes, etc.) i Document Inicial Estratègic (ambiental).24
+Efectes: Suspensió de llicències a les àrees afectades (màxim 2 anys).
+Tràmit: Informació pública (mínim 45 dies) per a al·legacions.29 Sol·licitud d'informes sectorials (ACA, Carreteres, Cultura, etc.).
+Fase 2: Aprovació Provisional (AP).
+Competència: Ple de l'Ajuntament.29
+Acció: S'aprova el document incorporant (o rebutjant justificadament) les al·legacions i els informes sectorials.
+Fase 3: Aprovació Definitiva (AD).
+Competència: Comissió Territorial d'Urbanisme (CTU) de l'àmbit corresponent (Generalitat).29 (Excepció: Barcelona capital 14).
+Decisió: La CTU pot aprovar definitivament, aprovar amb prescripcions, o suspendre l'aprovació.
+Fase 4: Publicació i Vigència.
+El pla entra en vigor amb la publicació de l'acord d'AD i les normes urbanístiques al DOGC.
+Ha d'incloure un enllaç al Registre de Planejament Urbanístic de Catalunya (RPUC) per a la consulta telemàtica.6
+El POUM té vigència indefinida.31
+Publicitat dels instruments (DL 2/2025)
+El DL 2/2025 reforça la publicitat, obligant a dipositar als ajuntaments no només els plans, sinó també els instruments de gestió (p.ex., projectes de reparcel·lació) en format digital i físic.
+5) Normativa essencial (sigles — nom oficial — any/versió)
+TRLUC — Decret Legislatiu 1/2010, de 3 d'agost, pel qual s'aprova el Text refós de la Llei d'urbanisme.14
+RLUC — Decret 305/2006, de 18 de juliol, pel qual s'aprova el Reglament de la Llei d'urbanisme.34
+LPT — Llei 23/1983, de 21 de novembre, de política territorial.13
+** PTSH** — Decret 408/2024, de 22 d'octubre, pel qual s'aprova el Pla territorial sectorial d'habitatge.12 Normativa clau per a reserves HPO.
+** DL 2/2025** — Decret llei 2/2025, de 25 de febrer, de mesures urgents en matèria d'habitatge i urbanisme. Normativa clau per a urbanitzacions amb dèficits i PDU estratègics.
+** DL 3/2023** — Decret llei 3/2023, de 7 de novembre, de mesures urgents sobre el règim urbanístic dels habitatges d'ús turístic.36 Afecta la regulació dels usos en el POUM.
+Llei 18/2007 — Llei 18/2007, de 28 de desembre, del dret a l'habitatge.13
+6) Exemples i casos
+Exemple (Test - Documentació): Segons el TRLUC i el RLUC, quin document del POUM ha de justificar el model d'implantació urbana, el desenvolupament sostenible i les necessitats d'habitatge?
+a) El Catàleg de Béns a Protegir.
+b) La Memòria Justificativa i la Memòria Social.1
+c) L'Estudi d'Avaluació Econòmica i Financera.
+d) Els Plànols d'Ordenació i Qualificació del Sòl.
+Exemple (JSON): "Memòria que justifica el model d’implantació urbana i el desenvolupament sostenible.".
+Exemple (JSON): "Plànol de classificació del sòl i plànol d’estructura viària principal.".17
+Micro-cas (Classificació) + orientació de resposta:
+Cas: Un POUM classifica com a Sòl Urbà Consolidat (SUC) uns terrenys que només tenen accés rodat per un camí de terra i no tenen connexió a la xarxa de clavegueram. Un promotor sol·licita llicència directa. És correcte?
+Orientació: No. La classificació és incorrecta. Segons l'Art. 29 TRLUC, per ser SUC (i tenir la condició de solar) es requereix disposar dels serveis urbanístics bàsics i afrontar amb via pavimentada i amb enllumenat. Aquests terrenys haurien de ser SUNC (pendents d'urbanitzar) o fins i tot SNU. La llicència no es pot atorgar.
+Micro-cas (Noves Reserves) + orientació de resposta:
+Cas: Un POUM (aprovat inicialment el novembre de 2025) en un municipi de l'AMB (zona de demanda forta) delimita un sector en Sòl Urbanitzable Delimitat (SUD) amb 10.000 $m^2$ de sostre residencial. El promotor al·lega que només ha de cedir el 40% per HPO, com deia el TRLUC.
+Orientació: L'al·legació s'ha de desestimar. En virtut del Decret 408/2024 (PTSH), que és jeràrquicament superior, la reserva mínima en SUD en zones de demanda forta és del 50% del sostre residencial.28 L'Ajuntament ha d'aplicar el 50% (5.000 $m^2$ sostre HPO).
+7) Errors típics i mnemotècnies
+Error Típic (Classificació vs. Qualificació): Confondre "Classificar" amb "Qualificar". El POUM classifica el sòl (el gran règim: Urbà, Urbanitzable, No Urbanitzable). Després, qualifica el sòl classificat (l'ús concret: Sistema viari, Zona residencial R1, Zona industrial...).2
+Error Típic (Sistemes): Pensar que els Sistemes (parcs, escoles) són només per a sòl públic. El POUM pot qualificar terrenys privats com a Sistema, activant el mecanisme d'expropiació o cessió per a obtenir-los.
+Error Típic (HPO - Desactualitzat): Calcular les reserves d'HPO amb els percentatges antics del TRLUC (p.ex., 30%).26 Des de finals de 2024, el PTSH (D 408/2024) imposa percentatges superiors (40% SUNC, 50% SUD) en molts municipis.28
+Mnemotècnia (Documents POUM): M-P-N-C-E (Els documents Més Principals No Cauen a l'Examen): Memòria, Plànols, Normes, Catàleg, Estudis (Ambiental i Econòmic).
+8) Glossari mínim
+POUM (Pla d'Ordenació Urbanística Municipal): Instrument d'ordenació urbanística integral del municipi.
+TRLUC: Text Refós de la Llei d'Urbanisme de Catalunya (DL 1/2010).14
+RLUC: Reglament de la Llei d'Urbanisme (Decret 305/2006).34
+PTSH: Pla Territorial Sectorial d'Habitatge (Decret 408/2024).12
+SUC / SUNC: Sòl Urbà Consolidat / No Consolidat.
+Sistemes Urbanístics: Conjunt de sòls (i construccions) de domini públic (o destinats a ser-ho) que configuren l'estructura bàsica del municipi (vies, parcs, equipaments).
+Zones Urbanístiques: Qualificació del sòl privat que defineix usos (p.ex., residencial, industrial) i paràmetres d'edificació (alçada, densitat, etc.).9
+PDU (Pla Director Urbanístic): Instrument de rang superior al POUM, d'àmbit supramunicipal.14
+Resum final (4–6 línies):
+El planejament general a Catalunya s'articula jeràrquicament sota els plans territorials (PTG, PTP) i té el POUM com a instrument central d'ordenació municipal.1 El POUM classifica tot el sòl (SU, SUD, SNU) i qualifica els usos mitjançant sistemes (públics) i zones (privades).7 La seva documentació (Memòria, Plànols, Normes, Catàleg) 17 i la seva tramitació (AI, AP, AD) 29 són reglades. Aquest marc està avui [2025-11-06] condicionat per noves normes superiors, com el PTSH (Decret 408/2024) que eleva les reserves HPO 28 i el DL 2/2025 que crea règims especials per a PDU estratègics i urbanitzacions amb dèficits.
+Bloc d’examen
+Pregunta Test 1 (Jerarquia i Competència):
+En el sistema de planejament català, quina afirmació és CORRECTA?
+a) El Pla Territorial Parcial (PTP) classifica el sòl en urbà i no urbanitzable, i el POUM el desenvolupa.
+b) El Pla Director Urbanístic (PDU) sempre se subordina al POUM del municipi on s'implanta.
+c) El POUM és l'instrument d'ordenació integral del municipi i classifica tot el sòl, respectant les directrius del planejament territorial superior.1
+d) L'aprovació definitiva del POUM correspon sempre al Ple de l'Ajuntament.29
+(Resposta correcta: c. El PTP no classifica sòl.10 El PDU és superior al POUM.14 L'aprovació definitiva és de la CTU (Generalitat).29)
+Pregunta Test 2 (Documentació):
+Quin document del POUM conté la justificació de les necessitats d'habitatge i fonamenta la decisió d'aplicar (o no) reserves HPO en sòl urbà consolidat?
+a) El Catàleg de Béns a Protegir.22
+b) L'Estudi d'Avaluació Econòmica i Financera.
+c) La Memòria Social.19
+d) Les Normes Urbanístiques.17
+(Resposta correcta: c. La Memòria Social és el document específic per justificar les necessitats d'habitatge i les reserves HPO 19, i és on s'hauria de justificar la no aplicació en SUC segons el nou marc.28)
+Pregunta Test 3 (Determinacions - NOVETAT 2024):
+En un municipi de Catalunya declarat com a "Àrea de demanda residencial forta Tipus 1" pel Decret 408/2024 (PTSH), quina reserva mínima d'HPO s'ha d'aplicar en un sector de Sòl Urbanitzable Delimitat (SUD) de nova implantació residencial?
+a) El 20%.
+b) El 30%.
+c) El 40%.
+d) El 50%.28
+(Resposta correcta: d. El PTSH (D 408/2024) eleva la reserva mínima en SUD en aquestes àrees al 50% 28, superant el règim anterior del TRLUC.)
+Pregunta Test 4 (Determinacions - NOVETAT 2025):
+El nou règim per a "urbanitzacions amb dèficits" (DA 25a TRLUC, afegida pel DL 2/2025) permet, en el cas d'urbanitzacions que han de mantenir la classificació de SNU:
+a) La seva classificació automàtica com a Sòl Urbà Consolidat si tenen més de 20 anys.
+b) La seva demolició immediata sense indemnització.
+c) La seva regulació mitjançant un Pla Especial, definint serveis bàsics a cost dels propietaris i mantenint les edificacions legals en règim de SNU.
+d) La seva connexió obligatòria a les xarxes generals de serveis, assumint l'Ajuntament el cost.
+(Resposta correcta: c. La DA 25a del DL 2/2025 estableix aquest règim específic per a les urbanitzacions en SNU que no es poden regularitzar com a SUNC.)
+Micro-cas pràctic (Resolució)
+Plantejament: El Govern de la Generalitat vol impulsar un centre de recerca tecnològica d'importància estratègica que afecta tres municipis diferents. Els POUMs d'aquests municipis classifiquen el sòl com a SNU (agrícola). L'Ajuntament d'un dels municipis s'oposa al projecte i es nega a modificar el seu POUM.
+Pregunta: Com a tècnic de la Generalitat, quin instrument urbanístic (vigent des de 2025) permetria executar el projecte de forma directa, superant l'oposició municipal i integrant tots els permisos?
+Punts clau de la resolució:
+La Generalitat hauria d'utilitzar la via de la nova Disposició Addicional 26a del TRLUC (introduïda pel DL 2/2025).
+El procediment requeriria que el Govern declari l'actuació com a "Interès General Superior" per raons econòmiques i socials excepcionals.
+Es formularia un Pla Director Urbanístic (PDU) específic per a aquesta actuació.
+Aquest PDU tindria caràcter excepcional i prevaldria sobre els POUMs dels tres municipis, modificant la classificació de SNU.
+L'avantatge clau és que aquest PDU podria incloure no només l'ordenació, sinó també el projecte d'urbanització i la documentació necessària per a l'autorització ambiental, agilitzant dràsticament els tràmits.
+Fonts consultades / Fuentes
+Decret Legislatiu 1/2010, de 3 d'agost, pel qual s'aprova el Text refós de la Llei d'urbanisme (TRLUC) — Generalitat de Catalunya — (DOGC núm. 5686, 05/08/2010, consolidat) — 2 — accés: 2025-11-05
+Decret 305/2006, de 18 de juliol, pel qual s'aprova el Reglament de la Llei d'urbanisme (RLUC) — Generalitat de Catalunya — (DOGC núm. 4682, 21/07/2006, consolidat) — 17 — accés: 2025-11-05
+Decret 408/2024, de 22 d'octubre, pel qual s'aprova el Pla territorial sectorial d'habitatge (PTSH) — Generalitat de Catalunya — (DOGC núm. 9276, 25/10/2024) — 12 — accés: 2025-11-05
+Decret llei 2/2025, de 25 de febrer, de mesures urgents en matèria d'habitatge i urbanisme — Generalitat de Catalunya — (DOGC, data estimada) — — accés: 2025-11-05
+El planejament urbanístic. Unitat 2. Formació Oberta — EAPC (Generalitat de Catalunya) — (s.d.) — — accés: 2025-11-04
+La jerarquia de la planificació territorial i urbanística — Diari de Terrassa (J. Sanyé) — (19/06/2024) — 11 — accés: 2025-11-04
+Planejament territorial i urbanístic — FormaWiki (Diputació de Barcelona) — (s.d.) — 10 — accés: 2025-11-04
+Guia de referència per a l'elaboració de les normes urbanístiques del POUM — Col·legi d'Arquitectes de Catalunya (COAC) — (s.d.) — 39 — accés: 2025-11-05
+Works cited
+Unitat 2. Planejament urbanístic: contingut, tramitació i execució - EAPC Wiki, accessed November 6, 2025, https://formaciooberta.eapc.gencat.cat/contingutsdelscursos/urb_basic/020_monitor/inici.html
+Tema 15. Urbanisme. Sòls | PDF - Scribd, accessed November 6, 2025, https://www.scribd.com/document/906083624/TEMA-15-URBANISME-SOLS
+1 CAPITOL SEGON. REGULACIÓ DEL SÒL URBÀ SECCIÓ PRIMERA. DISPOSICIONS GENERALS art. 76 Definició del sòl urbà Aquest POUM - Nexus Geographics, accessed November 6, 2025, https://mun.nexusgeographics.com/ampostagp/assets/docs/classificacio/SUC.pdf
+3.- El planejament TERRITORIAL - CAMINS UPC BARCELONATECH, accessed November 6, 2025, https://ocw.camins.upc.edu/repositori/ocw/materials/2500053/2025/Tema%203%20Planejament%20territorial.pdf
+TÍTOL VII REGULACIÓ DEL SÒL NO URBANITZABLE (Text refós), accessed November 6, 2025, https://web.ampolla.cat/urbanisme/1.%20Normes/NORMES%20-%208.%20T%C3%ADtol%20VII%20-%20S%C3%B2l%20No%20Urbanitzable%20-%20Text%20Ref%C3%B3s%20-%2020130314.pdf
+Decret llei 2/2025, de 25 de febrer, pel qual s'adopten mesures urgent, accessed November 6, 2025, https://www.icab.es/export/sites/icab/.galleries/documents-noticies/Decret-llei-02_2025-de-25-de-febrer-de-mesures-urgents-en-materia-dhabitatge-i-urbanisme.pdf
+regulació dels sistemes urbanístics. disposicions generals - Planejament urbanístic, accessed November 6, 2025, https://geoportalplanejament.amb.cat/Informacio/Normativa/08054_DISPOSICIONS%20SISTEMES.htm
+Mapa urbanístic de Catalunya - Gencat, accessed November 6, 2025, http://ptop.gencat.cat/muc-visor/AppJava/home.do
+Glossari de termes i paràmetres urbanístics - Front Litoral, accessed November 6, 2025, http://frontlitoral.cat/wp-content/uploads/2018/09/Glossari-de-termes-urbanistics.pdf
+9. Instruments d'ordenació territorial i urbanístics locals - FormaWiki, accessed November 6, 2025, https://formawiki.diba.cat/pub/electes/98c39327_la_regidoria_d_urbanisme/010.html
+La jerarquia de la planificació territorial i urbanística - Diari de Terrassa, accessed November 6, 2025, https://www.diarideterrassa.com/capital-natural/2024/06/19/la-jerarquia-de-la-planificacio-territorial-i-urbanistica/
+Nota informativa sobre el Pla Territorial Sectorial d'Habitatge i el desenvolupament de - ACM, accessed November 6, 2025, https://acm.cat/wp-content/uploads/2025/03/Nota-informativa-sobre-el-Pla-Territorial-Sectorial-Habitatge-i-el-desenvolupament-de-lobjectiu-de-solidaritat-urbana-i-les-seves-afectac.pdf
+Nota informativa sobre el Pla Territorial Sectorial d'Habitatge i el ..., accessed November 6, 2025, https://acm.cat/juridics/novetats-normatives/nota-informativa-sobre-el-pla-territorial-sectorial-dhabitatge-i-el-desenvolupament-de-lobjectiu-de-solidaritat-urbana-que-preveu-la-llei-18-2007-de-28-de-desembre-del-dret-a-lha/
+DECRET LEGISLATIU 1/2010, de 3 d'agost, pel qual s'aprova el Text refós de la Llei d'urbanisme. - Gencat, accessed November 6, 2025, https://gencat.cat/eapc/revistes/RCDP/dossier/RCDP_60/Normativa/decret_legislatiu_1_2010.pdf
+Normes urbanístiques - Ajuntament de Llívia, accessed November 6, 2025, https://llivia.org/files/2022/poum/POUM_LLI_ai_b_Normativa/POUM_LLI_ai_I_Normes_urbanistiques_diligenciat.pdf
+Què és un pla d'ordenació urbanística municipal? - Espais Industrials, accessed November 6, 2025, https://espaisindustrials.es/ca/modern-apartment-adjacent/
+Text actualitzat POUM - la Diputació de Girona, accessed November 6, 2025, https://www.ddgi.cat/municipis/Porqueres/01%20Text%20actualitzat%20Normes%20urbanistiques%20%20POUM.pdf
+Disposicions generals - Planejament urbanístic - Àrea Metropolitana de Barcelona, accessed November 6, 2025, https://geoportalplanejament.amb.cat/Informacio/Normativa/08054_%20DISPOSICIONS%20GENERALS.htm
+PLA D'ORDENACIÓ URBANÍSTICA MUNICIPAL DE SANT QUIRZE DEL VALLÈS, accessed November 6, 2025, https://www.santquirzevalles.cat/temes/urbanisme/text-refos-poum-verificat-pel-ple-de-21-03-2024/contingut-del-text-refos/a-memoria-del-pla-dordenacio-urbanistica-municipal/a2_poum_sqdv_mem_ord_tr_sign.pdf
+NORMES URBANÍSTIQUES Volum I - Ajuntament de Vic, accessed November 6, 2025, https://www.vic.cat/serveis/territori/urbanisme/fitxers-planejament-vigent/normativa-poum-volum1_tc.pdf
+Pla d'Ordenació Urbanística Municipal d'escassa complexitat urbanística (POUM), accessed November 6, 2025, https://poumriubregos.fpa.cat/wp-content/uploads/2018/09/02_NORMES_ai.pdf
+Normes subsidiàries - Memòria - Ajuntament de Renau, accessed November 6, 2025, https://renau.altanet.org/sites/renau/files/POUM/ren_poum_ai_memoria.pdf
+Procés i etapes - Ajuntament de Rubí, accessed November 6, 2025, https://www.rubi.cat/ca/temes/urbanisme/poum/el-poum/proces-i-etapes
+DOCUMENT INICIAL ESTRATÈGIC - POUM BLANES, accessed November 6, 2025, https://poum.blanes.cat/wp-content/uploads/2016/03/Document_Inicial_Estrategic_POUM_Blanes.pdf
+Reserva per a la construcció d'habitatges de protecció pública | Ajuntament d'Amposta, accessed November 6, 2025, https://www.amposta.cat/ca/registre/poum-reserva-construccio-habitatges-proteccio-publica
+Decret 408/2024, de 22 d'octubre, pel qual s'aprova el Pla territorial sectorial d'habitatge i es desenvolupa l'objectiu de solidaritat urbana que preveu la Llei 18/2007, de 28 de desembre, del dret a l'habitatge | Departament de Territori, Habitatge i Transició Ecològica | Legislació | Cercador d'Informació i Documentació Oficials (CIDO), accessed November 6, 2025, https://cido.diba.cat/legislacio/18291507/decret-4082024-de-22-doctubre-pel-qual-saprova-el-pla-territorial-sectorial-dhabitatge-i-es-desenvolupa-lobjectiu-de-solidaritat-urbana-que-preveu-la-llei-182007-de-28-de-desembre-del-dret-a-lhabitatge-departament-de-territori-habitatge-i-transicio-ecologica
+Món local: urbanisme, tributs, organització i altres àmbits específics ..., accessed November 6, 2025, https://formaciooberta.eapc.gencat.cat/espaistematics/mon-local/el-pla-territorial-sectorial-dhabitatge-aprovat-pel-decret-4082024-de-22-doctubre-i-les-reserves-necessaries-per-a-habitatge-protegit-una-atencio-especial-al-sol-urba-consolidat-a-la-stc-162021-i-a-la-stsjc-de-6-de-juliol-de-2021.html
+Quines fases té el procés? | Pla d'Ordenació Urbanística Municipal (POUM)., accessed November 6, 2025, https://poum.lescala.cat/ca/quines-fases-te-el-proces.html
+RPUC - Registre de planejament urbanístic de Catalunya - Gencat, accessed November 6, 2025, https://dtes.gencat.cat/rpucportal/
+El planejament urbanístic, accessed November 6, 2025, https://openaccess.uoc.edu/server/api/core/bitstreams/9cf00ac9-1b46-42c7-8d1a-fd0330d7f737/content
+Disposicions Comuns - Planejament urbanístic - Àrea Metropolitana de Barcelona, accessed November 6, 2025, https://geoportalplanejament.amb.cat/Informacio/Normativa/08905_DISPOSICIONS%20COMUNS.htm
+Text consolidat del Decret legislatiu 1/2010, de 3 d'agost, pel qual s'aprova el Text refós de la Llei d'urbanisme - AAUC, accessed November 6, 2025, https://aauc.arquitectes.cat/LEGISLACIO/2012%2003%2019_Text%20consolidat%20DL%201%202010%20amb%20Llei%203%202012.pdf
+Decreto 305/2006, de 18 de julio, por el que se aprueba el - Noticias Jurídicas, accessed November 6, 2025, https://noticias.juridicas.com/base_datos/CCAA/ca-d305-2006.html
+decret-305-2006-reglament-llei-urbanisme-catalunya.pdf - Diagnosis Cultural, accessed November 6, 2025, https://diagnosiscultural.wordpress.com/wp-content/uploads/2010/08/decret-305-2006-reglament-llei-urbanisme-catalunya.pdf
+Decret legislatiu 1/2010, de 3 d'agost, pel qual s'aprova el text refós de la llei d'urbanisme | Departament de la Presidència | Legislació | Cercador d'Informació i Documentació Oficials (CIDO), accessed November 6, 2025, https://cido.diba.cat/legislacio/1354318/decret-legislatiu-12010-de-3-dagost-pel-qual-saprova-el-text-refos-de-la-llei-durbanisme-departament-de-la-presidencia
+El Ple valida el decret llei sobre pisos turístics i dona via lliure a la tramitació del projecte de llei per crear un cos d'acció exterior de la Generalitat - Parlament de Catalunya, accessed November 6, 2025, https://www.parlament.cat/web/actualitat/noticies/index.html?p_format=D&p_id=270512925
+Decret llei 3/2023, de 7 de novembre, de mesures urgents sobre el règim urbanístic dels habitatges d'ús turístic - CIDO, accessed November 6, 2025, https://cido.diba.cat/legislacio/16327610/decret-llei-32023-de-7-de-novembre-de-mesures-urgents-sobre-el-regim-urbanistic-dels-habitatges-dus-turistic-departament-de-la-presidencia
+Guia POUM | COL·LEGI D'ARQUITECTES DE CATALUNYA - COAC, accessed November 6, 2025, https://www.arquitectes.cat/ca/paisatge/guia-poum

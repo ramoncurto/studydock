@@ -1,0 +1,349 @@
+Q: Quin és l'objectiu principal de la planificació territorial a Catalunya?
+- Definir l'ordenació detallada de cada municipi
+- Definir un model d'ús i estructura per al conjunt del territori, buscant l'equilibri i el desenvolupament sostenible
+- Aprovar els projectes d'infraestructures locals
+- Classificar el sòl urbà i urbanitzable
+A: Definir un model d'ús i estructura per al conjunt del territori, buscant l'equilibri i el desenvolupament sostenible
+
+Q: Qui té la competència en matèria de planificació territorial a Catalunya?
+- Els ajuntaments
+- Les diputacions provincials
+- La Generalitat de Catalunya
+- El Govern espanyol
+A: La Generalitat de Catalunya
+
+Q: Quin és l'instrument superior de la planificació territorial a Catalunya?
+- El Pla d'Ordenació Urbanística Municipal (POUM)
+- El Pla Territorial Parcial (PTP)
+- El Pla Territorial General de Catalunya (PTGC)
+- El Pla Territorial Sectorial (PTS)
+A: El Pla Territorial General de Catalunya (PTGC)
+
+Q: Quina llei va aprovar el Pla Territorial General de Catalunya vigent?
+- Llei 23/1983, de Política Territorial
+- Llei 1/1995, de 16 de març
+- Decret Legislatiu 1/2010
+- Llei 3/2012, de modificació del TRLUC
+A: Llei 1/1995, de 16 de març
+
+Q: Per a quin any fixava una imatge objectiu de distribució de la població el PTGC aprovat el 1995?
+- 2010
+- 2020
+- 2026
+- 2030
+A: 2026
+
+Q: Quants Àmbits Funcionals Territorials (AFT) té Catalunya?
+- Quatre
+- Sis
+- Vuit
+- Deu
+A: Vuit
+
+Q: Quin dels següents NO és un Àmbit Funcional Territorial de Catalunya?
+- Alt Pirineu i Aran
+- Àmbit Metropolità de Barcelona
+- Garrotxa
+- Terres de l'Ebre
+A: Garrotxa
+
+Q: Què desenvolupen els Plans Territorials Parcials (PTP)?
+- Les directrius del PTGC en àmbits territorials supramunicipals
+- Les normes urbanístiques municipals
+- Els projectes d'obra pública
+- Les lleis del Parlament de Catalunya
+A: Les directrius del PTGC en àmbits territorials supramunicipals
+
+Q: Quin és l'àmbit d'aplicació dels Plans Territorials Sectorials (PTS)?
+- Un municipi concret
+- Un Àmbit Funcional Territorial
+- Tot el territori de Catalunya
+- Una comarca
+A: Tot el territori de Catalunya
+
+Q: Quin caràcter té el Pla Territorial General de Catalunya (PTGC)?
+- És un pla executiu amb projectes concrets
+- És un "pla model" o "imatge objectiu" que defineix l'estratègia a llarg termini
+- És una llei amb rang orgànic
+- És un pla que només afecta l'àrea metropolitana
+A: És un "pla model" o "imatge objectiu" que defineix l'estratègia a llarg termini
+
+Q: Segons el principi de jerarquia normativa, un POUM pot modificar les determinacions d'un PTP?
+- Sí, si ho justifica per raons d'interès local
+- Sí, si compta amb l'aprovació del ple municipal
+- No, només pot desenvolupar-les o concretar-les
+- Sí, si ho aprova el Consell Executiu
+A: No, només pot desenvolupar-les o concretar-les
+
+Q: Quina norma és el Text refós de la Llei d'urbanisme (TRLUC)?
+- Llei 23/1983
+- Llei 1/1995
+- Decret Legislatiu 1/2010
+- Llei 3/2012
+A: Decret Legislatiu 1/2010
+
+Q: La Llei 23/1983 regula:
+- Només el planejament urbanístic municipal
+- La Política Territorial i el sistema de planificació territorial
+- Exclusivament els Plans Territorials Sectorials
+- Només l'ordenació del litoral
+A: La Política Territorial i el sistema de planificació territorial
+
+Q: Quina vigència tenen els plans territorials?
+- Cinc anys
+- Deu anys
+- Vigència indefinida, però poden ser revisats o modificats
+- Vint-i-cinc anys
+A: Vigència indefinida, però poden ser revisats o modificats
+
+Q: Què és la Política Territorial segons la Llei 23/1983?
+- Un instrument concret de planificació
+- El conjunt de criteris, objectius i accions per ordenar el territori i corregir desequilibris
+- Un departament de la Generalitat
+- Un tipus de planejament municipal
+A: El conjunt de criteris, objectius i accions per ordenar el territori i corregir desequilibris
+
+Q: En què es diferencia l'ordenació del territori de l'urbanisme?
+- L'ordenació del territori és a escala supramunicipal i l'urbanisme és detallat i municipal
+- L'urbanisme és competència de la Generalitat i l'ordenació del territori dels ajuntaments
+- No hi ha cap diferència entre ells
+- L'ordenació del territori només afecta sòl rural
+A: L'ordenació del territori és a escala supramunicipal i l'urbanisme és detallat i municipal
+
+Q: Què estableix l'article 3 del TRLUC com a principi rector?
+- El principi de jerarquia normativa
+- El desenvolupament urbanístic sostenible
+- El principi de competència municipal
+- El dret de propietat
+A: El desenvolupament urbanístic sostenible
+
+Q: Què cerca l'objectiu d'equilibri territorial del PTGC?
+- Concentrar la població a Barcelona
+- Una distribució més equitativa del creixement, la població i l'activitat econòmica arreu de Catalunya
+- Prioritzar el desenvolupament industrial
+- Limitar el creixement demogràfic
+A: Una distribució més equitativa del creixement, la població i l'activitat econòmica arreu de Catalunya
+
+Q: Qui té la competència per aprovar definitivament un Pla Territorial Parcial?
+- El Parlament de Catalunya
+- El Consell Executiu de la Generalitat
+- El Departament de Territori
+- La Comissió de Territori de Catalunya
+A: El Consell Executiu de la Generalitat
+
+Q: Quin òrgan ha d'emetre un dictamen preceptiu abans de l'aprovació definitiva d'un pla territorial?
+- El Consell Consultiu
+- La Comissió de Territori de Catalunya
+- El Tribunal Superior de Justícia
+- El Síndic de Greuges
+A: La Comissió de Territori de Catalunya
+
+Q: Quin departament dirigeix generalment l'elaboració tècnica dels plans territorials?
+- El Departament d'Economia
+- El Departament de la Presidència
+- El Departament de Territori
+- El Departament d'Interior
+A: El Departament de Territori
+
+Q: Qui acorda la formulació d'un pla territorial?
+- El Parlament de Catalunya
+- El Consell Executiu
+- El Departament de Territori
+- Els ajuntaments afectats
+A: El Consell Executiu
+
+Q: Quin és el període mínim d'informació pública durant la tramitació d'un pla territorial?
+- Quinze dies
+- Un mes
+- Dos mesos
+- Tres mesos
+A: Un mes
+
+Q: On s'ha de publicar l'acord d'aprovació definitiva d'un pla territorial per a la seva entrada en vigor?
+- Al Butlletí Oficial de l'Estat (BOE)
+- Al Diari Oficial de la Generalitat de Catalunya (DOGC)
+- Als butlletins oficials provincials
+- A la premsa diària
+A: Al Diari Oficial de la Generalitat de Catalunya (DOGC)
+
+Q: Què han de fer els municipis quan s'aprova un PTP que afecta el seu àmbit?
+- Suspendre el seu planejament
+- Adaptar el seu planejament urbanístic (POUM) a les noves directrius
+- Impugnar-lo davant els tribunals
+- No han de fer res, són independents
+A: Adaptar el seu planejament urbanístic (POUM) a les noves directrius
+
+Q: Què delimita el Pla Territorial General de Catalunya?
+- Només les zones urbanes
+- Els àmbits d'aplicació dels Plans Territorials Parcials
+- El sòl urbanitzable de cada municipi
+- Les parcel·les mínimes edificables
+A: Els àmbits d'aplicació dels Plans Territorials Parcials
+
+Q: Què ha d'incloure un Pla Territorial Sectorial segons l'article 18 de la Llei 23/1983?
+- Només una memòria descriptiva
+- Una anàlisi de recursos i necessitats del sector, les prioritats d'actuació i els estàndards de distribució territorial
+- Exclusivament les normes urbanístiques
+- Només un pla d'inversions
+A: Una anàlisi de recursos i necessitats del sector, les prioritats d'actuació i els estàndards de distribució territorial
+
+Q: Què succeeix si un PTS i un PTP tenen determinacions contradictòries sobre un mateix territori?
+- Preval sempre el PTS per ser sectorial
+- El PTS s'ha d'adaptar a les orientacions del PTP
+- S'anul·len mútuament
+- Decideix el Parlament
+A: El PTS s'ha d'adaptar a les orientacions del PTP
+
+Q: Quin article de la Llei 23/1983 estableix que els plans sectorials s'adaptaran als plans territorials?
+- Article 3.2
+- Article 11.3
+- Article 18.1
+- Article 25.4
+A: Article 11.3
+
+Q: Què estableix el principi de coherència i coordinació?
+- Que tots els plans han de tenir la mateixa vigència
+- Que el PTGC actua com a marc de coherència per a totes les actuacions públiques amb incidència territorial
+- Que els ajuntaments poden coordinar-se voluntàriament
+- Que els plans sectorials tenen prioritat
+A: Que el PTGC actua com a marc de coherència per a totes les actuacions públiques amb incidència territorial
+
+Q: Quin article del TRLUC estableix el principi de jerarquia normativa?
+- Article 3
+- Article 13
+- Article 25
+- Article 50
+A: Article 13
+
+Q: Què passa amb una determinació d'un POUM que contradigui un PTP?
+- És vàlida si l'aprova el ple municipal
+- És nul·la de ple dret
+- És vàlida si la ratifica el Consell Executiu
+- És vàlida durant un any
+A: És nul·la de ple dret
+
+Q: Quina de les següents matèries és objecte d'un Pla Territorial Sectorial?
+- L'ordenació d'un municipi concret
+- L'habitatge a tot Catalunya
+- L'ordenació detallada d'un polígon industrial
+- La gestió d'un parc natural específic
+A: L'habitatge a tot Catalunya
+
+Q: Quin any es va aprovar el Pla Territorial Parcial Metropolità de Barcelona?
+- 1995
+- 2005
+- 2010
+- 2015
+A: 2010
+
+Q: Els ens locals poden exercir la iniciativa per a la formulació d'un PTP?
+- No, mai
+- Sí, si s'assoleix una majoria qualificada
+- Sí, qualsevol ajuntament pot fer-ho unilateralment
+- Només les diputacions
+A: Sí, si s'assoleix una majoria qualificada
+
+Q: Què defineix el PTGC pel que fa a infraestructures?
+- Tots els projectes executius d'obres
+- Els emplaçaments idonis per a grans infraestructures de transport, energia i sanejament
+- Només les carreteres comarcals
+- Les infraestructures municipals
+A: Els emplaçaments idonis per a grans infraestructures de transport, energia i sanejament
+
+Q: Què protegeix específicament el PTGC?
+- Només els edificis històrics
+- Els espais naturals i agraris
+- Exclusivament les zones urbanes
+- Només el litoral
+A: Els espais naturals i agraris
+
+Q: Quin tipus de pla és el Pla territorial sectorial de l'habitatge?
+- Un Pla Territorial Parcial
+- Un Pla Territorial Sectorial
+- Un Pla d'Ordenació Urbanística Municipal
+- Un Pla Director Urbanístic
+A: Un Pla Territorial Sectorial
+
+Q: Qui pot impugnar davant la jurisdicció contenciosa administrativa una modificació il·legal d'un POUM que vulneri un PTP?
+- Només el Departament de Territori
+- Només els veïns del municipi
+- Qualsevol persona interessada i les administracions públiques
+- Només el Síndic de Greuges
+A: Qualsevol persona interessada i les administracions públiques
+
+Q: Què significa que el PTGC és un "pla marc"?
+- Que només és orientatiu i no vinculant
+- Que estableix directrius estratègiques que han de ser desenvolupades pels PTP i respectades pel planejament municipal
+- Que només afecta les infraestructures
+- Que té una vigència de quatre anys
+A: Que estableix directrius estratègiques que han de ser desenvolupades pels PTP i respectades pel planejament municipal
+
+Q: Els Plans Territorials Parcials poden ordenar:
+- Només el sòl urbà
+- Models d'assentament, xarxes d'infraestructures i protecció d'espais oberts en el seu àmbit geogràfic
+- Exclusivament zones industrials
+- Només espais naturals protegits
+A: Models d'assentament, xarxes d'infraestructures i protecció d'espais oberts en el seu àmbit geogràfic
+
+Q: Durant la tramitació d'un pla territorial, a qui es demanen informes preceptius?
+- Només al Departament de Territori
+- Als ens locals, l'Estat i els organismes sectorials afectats
+- Només als ajuntaments
+- Exclusivament a la Comissió de Territori
+A: Als ens locals, l'Estat i els organismes sectorials afectats
+
+Q: Què passa si un municipi no adapta el seu POUM a un PTP aprovat?
+- No passa res, l'autonomia municipal és absoluta
+- Les seves decisions urbanístiques poden ser nul·les
+- Només rep una sanció econòmica
+- Té dos anys de termini addicional
+A: Les seves decisions urbanístiques poden ser nul·les
+
+Q: Quina és la funció principal dels Plans Territorials Sectorials?
+- Ordenar detalladament els municipis
+- Coordinar i planificar una activitat o sector específic amb implantació territorial a tot Catalunya
+- Substituir els Plans d'Ordenació Urbanística Municipals
+- Aprovar projectes d'obres locals
+A: Coordinar i planificar una activitat o sector específic amb implantació territorial a tot Catalunya
+
+Q: El PTGC defineix els grans sistemes urbans. Què significa això?
+- Que classifica tot el sòl urbà de Catalunya
+- Que identifica les ciutats i àrees urbanes principals i el seu paper en l'estructura territorial
+- Que dissenya els carrers de les ciutats
+- Que regula l'edificació en zones urbanes
+A: Que identifica les ciutats i àrees urbanes principals i el seu paper en l'estructura territorial
+
+Q: La revisió actual del PTGC què provocarà?
+- Només canvis en un municipi
+- Un procés de revisions en cascada dels PTP i del planejament municipal
+- L'anul·lació de tots els POUM
+- Cap canvi en el planejament inferior
+A: Un procés de revisions en cascada dels PTP i del planejament municipal
+
+Q: Quin és el caràcter de les determinacions dels plans territorials?
+- Són merament orientatives
+- Són d'obligat compliment per als plans de rang inferior i per a totes les administracions públiques
+- Només són vinculants per als ajuntaments petits
+- Són recomanacions sense valor normatiu
+A: Són d'obligat compliment per als plans de rang inferior i per a totes les administracions públiques
+
+Q: L'autonomia municipal en matèria d'urbanisme és:
+- Absoluta i sense límits
+- Sempre limitada i subordinada a les directrius de la planificació territorial
+- Superior a la planificació territorial
+- Només limitada en municipis petits
+A: Sempre limitada i subordinada a les directrius de la planificació territorial
+
+Q: Què regula principalment el Decret Legislatiu 1/2010?
+- Només la política territorial
+- L'urbanisme i l'ordenació del territori a Catalunya, consolidant la legislació anterior
+- Exclusivament els plans sectorials
+- Només les infraestructures
+A: L'urbanisme i l'ordenació del territori a Catalunya, consolidant la legislació anterior
+
+Q: Un PTP pot protegir un terreny pel seu alt valor agrari. Què ha de fer un PTS d'Energia si identifica aquest mateix sòl com a idoni per a una instal·lació fotovoltaica?
+- Instal·lar la infraestructura sense cap problema
+- Adaptar-se a les orientacions del PTP i buscar una ubicació alternativa
+- Sol·licitar l'anul·lació del PTP
+- Preval sempre l'interès energètic
+A: Adaptar-se a les orientacions del PTP i buscar una ubicació alternativa

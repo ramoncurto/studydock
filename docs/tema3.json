@@ -1,0 +1,440 @@
+{
+  "metadata": {
+    "title": "L'organització de l'Estat: La ==Corona==, les ==Corts Generals== i el ==Govern==",
+    "subject": "Dret Constitucional",
+    "topic": "Organització de l'Estat Espanyol",
+    "keywords": [
+      "==Corona==",
+      "==Corts Generals==",
+      "==Govern==",
+      "==monarquia parlamentària==",
+      "bicameralisme",
+      "refrendo",
+      "==moció de censura==",
+      "==qüestió de confiança=="
+    ],
+    "difficulty": "mitjà",
+    "estimatedTime": "45 min"
+  },
+  "sections": [
+    {
+      "id": "==Corona==",
+      "title": "1) La ==Corona== (Títol II CE, Arts. 56-65)",
+      "level": 1,
+      "content": [
+        {
+          "type": "subsection",
+          "title": "1.1) Concepte i naturalesa jurídica",
+          "items": [
+            {
+              "type": "definition",
+              "term": "El Rei com a Cap de l'Estat",
+              "details": [
+                "El Rei és el Cap de l'Estat, símbol de la seva unitat i permanència.",
+                "En el marc de la ==monarquia parlamentària== (art. 1.3 CE), arbitra i modera el funcionament regular de les institucions.",
+                "Aquesta funció es caracteritza per ser no executiva i per situar-se per sobre de les disputes partidistes.",
+                "Actua com un element d'estabilitat i continuïtat de l'Estat.",
+                "El monarca \"regna però no ==govern==a\": no participa en la presa de decisions polítiques quotidianes, que corresponen al ==Govern==."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "1.2) Inviolabilitat i Responsabilitat: El Refrendo (Contrasignatura)",
+          "items": [
+            {
+              "type": "paragraph",
+              "text": "L'article 56.3 de la CE estableix que la persona del Rei és inviolable i no està subjecta a responsabilitat. Aquesta inviolabilitat és una protecció jurídica absoluta, tant en l'àmbit polític com en el penal."
+            },
+            {
+              "type": "definition",
+              "term": "El mecanisme del refrendo",
+              "details": [
+                "Regulat a l'article 64 de la CE.",
+                "Tots els actes del Rei han de ser refrendats, generalment pel President del ==Govern== o els ministres competents.",
+                "Aquest acte de contrasignatura transfereix la responsabilitat jurídica i política de l'acte del monarca a la persona que el refrenda.",
+                "La persona que refrenda sí que està subjecta al control parlamentari i judicial.",
+                "La inviolabilitat i el refrendo són dues figures jurídiques inseparables que garanteixen que el Cap de l'Estat es mantingui al marge del debat polític mentre es preserva la responsabilitat democràtica."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "1.3) Funcions del Rei (Arts. 62 i 63 CE)",
+          "items": [
+            {
+              "type": "paragraph",
+              "text": "Les funcions del Rei són taxades i estan establertes a la Constitució. Les principals es poden agrupar de la següent manera:"
+            },
+            {
+              "type": "list",
+              "title": "En relació amb les ==Corts Generals==:",
+              "items": [
+                "Sancionar i promulgar les lleis (art. 62.a).",
+                "Convocar i dissoldre les ==Corts Generals== i convocar eleccions en els termes previstos a la Constitució (art. 62.b)."
+              ]
+            },
+            {
+              "type": "list",
+              "title": "En relació amb el ==Govern==:",
+              "items": [
+                "Proposar el candidat a President del ==Govern==, nomenar-lo i posar fi a les seves funcions (art. 62.d).",
+                "Nomenar i separar els membres del ==Govern== a proposta del seu President (art. 62.e).",
+                "Ser informat dels afers d'Estat i presidir, a aquests efectes, les sessions del Consell de Ministres, a petició del President del ==Govern== (art. 62.g)."
+              ]
+            },
+            {
+              "type": "list",
+              "title": "En la política internacional:",
+              "items": [
+                "Assumir la més alta representació de l'Estat espanyol (art. 56.1).",
+                "Acreditar els ambaixadors i altres representants diplomàtics, i manifestar el consentiment de l'Estat per obligar-se internacionalment per mitjà de tractats (art. 63.1 i 63.2).",
+                "Declarar la guerra i fer la pau, amb l'autorització prèvia de les ==Corts Generals== (art. 63.3)."
+              ]
+            },
+            {
+              "type": "list",
+              "title": "Altres funcions:",
+              "items": [
+                "Exercir el comandament suprem de les Forces Armades (art. 62.h).",
+                "Exercir el dret de gràcia d'acord amb la llei, que no podrà autoritzar indults generals (art. 62.i)."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "corts-generals",
+      "title": "2) Les ==Corts Generals== (Títol III CE, Arts. 66-96)",
+      "level": 1,
+      "content": [
+        {
+          "type": "subsection",
+          "title": "2.1) Composició i Estructura: Un Bicameralisme Asimètric",
+          "items": [
+            {
+              "type": "paragraph",
+              "text": "Les ==Corts Generals== representen el ==poble espanyol== i estan formades pel ==Congrés dels Diputats== i el ==Senat== (art. 66.1 CE)."
+            },
+            {
+              "type": "definition",
+              "term": "==Congrés dels Diputats==",
+              "details": [
+                "Es compon d'un mínim de 300 i un màxim de 400 diputats.",
+                "Elegits per sufragi universal, lliure, igual, directe i secret.",
+                "La circumscripció electoral és la província (art. 68 CE)."
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "==Senat==",
+              "details": [
+                "És la cambra de representació territorial (art. 69.1 CE).",
+                "La seva composició és mixta: senadors elegits per província i senadors designats per les Assemblees Legislatives de les Comunitats Autònomes."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "2.2) Funcions de les ==Corts Generals== (Art. 66.2 CE)",
+          "items": [
+            {
+              "type": "paragraph",
+              "text": "Les ==Corts Generals== exerceixen tres funcions principals:"
+            },
+            {
+              "type": "definition",
+              "term": "Potestat Legislativa",
+              "details": [
+                "És la funció de crear i aprovar les lleis.",
+                "El procediment legislatiu ordinari consta de les fases següents: iniciativa (==Govern==, Corts, CCAA, iniciativa popular), tramitació al Congrés, remissió al ==Senat== (que pot aprovar, esmenar o vetar), decisió final al Congrés, i finalment, sanció reial, promulgació i publicació."
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Funció Pressupostària",
+              "details": [
+                "Consisteix en l'aprovació dels Pressupostos Generals de l'Estat mitjançant una llei.",
+                "Aquesta llei té particularitats, com ara que la iniciativa legislativa correspon exclusivament al ==Govern== (art. 134 CE)."
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Control de l'Acció del ==Govern==",
+              "details": [
+                "Les Corts supervisen i controlen l'activitat del ==Govern== a través de diversos mecanismes.",
+                "Mecanismes: preguntes, interpel·lacions, mocions o comissions d'investigació."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "2.3) Taula Comparativa: ==Congrés dels Diputats== vs. ==Senat==",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": "==Govern==",
+      "title": "3) El ==Govern== (Títol IV CE, Arts. 97-107)",
+      "level": 1,
+      "content": [
+        {
+          "type": "subsection",
+          "title": "3.1) Funcions i Potestats (Art. 97 CE)",
+          "items": [
+            {
+              "type": "paragraph",
+              "text": "L'article 97 de la CE és la clau de volta del poder executiu i li atribueix les següents funcions:"
+            },
+            {
+              "type": "definition",
+              "term": "Dirigeix la política interior i exterior, l'Administració civil i militar i la defensa de l'Estat",
+              "details": [
+                "Aquesta és la funció de direcció política, que implica establir els objectius estratègics de l'Estat i impulsar-ne l'acció."
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Exerceix la funció executiva",
+              "details": [
+                "Consisteix a aplicar les lleis i gestionar els serveis públics per satisfer els interessos generals."
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Exerceix la potestat ==reglament==ària",
+              "details": [
+                "És la capacitat de dictar normes jurídiques de rang inferior a la llei (com els Reials Decrets) per desenvolupar-les i executar-les.",
+                "Sempre amb subjecció a la llei."
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Aquestes funcions són desenvolupades per la Llei 50/1997, de 27 de novembre, del ==Govern==."
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "3.2) Composició i Estructura (Llei 50/1997)",
+          "items": [
+            {
+              "type": "paragraph",
+              "text": "El ==Govern== es compon del President, el Vicepresident o Vicepresidents (si n'hi ha) i els Ministres (art. 98.1 CE; art. 1.2 Llei 50/1997)."
+            },
+            {
+              "type": "definition",
+              "term": "President",
+              "details": [
+                "Dirigeix l'acció del ==Govern== i coordina les funcions dels altres membres (art. 98.2 CE; art. 2 Llei 50/1997)."
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Vicepresident(s)",
+              "details": [
+                "Assumeixen les funcions que els encomana el President."
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Ministres",
+              "details": [
+                "Són els titulars dels seus respectius departaments ministerials."
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Òrgans Col·legiats",
+              "details": [
+                "Els membres del ==Govern== es reuneixen en el Consell de Ministres i en les Comissions Delegades del ==Govern==."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "3.3) El ==Govern== en Funcions (Llei 50/1997)",
+          "items": [
+            {
+              "type": "paragraph",
+              "text": "El ==Govern== cessa i passa a estar \"en funcions\" després de la celebració d'eleccions generals, en els casos de pèrdua de la confiança parlamentària, o per dimissió o mort del seu President (art. 101 CE)."
+            },
+            {
+              "type": "paragraph",
+              "text": "La seva actuació es limita al despatx ordinari dels assumptes públics i ha d'abstenir-se d'adoptar altres mesures, excepte en casos d'urgència degudament acreditats o per raons d'interès general (art. 21 Llei 50/1997)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "relacions-==Govern==-corts",
+      "title": "4) Les Relacions entre el ==Govern== i les ==Corts Generals== (Títol V CE, Arts. 108-116)",
+      "level": 1,
+      "content": [
+        {
+          "type": "subsection",
+          "title": "4.1) El Principi de Responsabilitat Política",
+          "items": []
+        },
+        {
+          "type": "subsection",
+          "title": "4.2) Mecanismes de Control Ordinari",
+          "items": [
+            {
+              "type": "definition",
+              "term": "Informació i presència",
+              "details": [
+                "Les cambres poden sol·licitar informació i la presència dels membres del ==Govern== (arts. 109 i 110 CE)."
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Preguntes i interpel·lacions",
+              "details": [
+                "Els parlamentaris poden formular preguntes al ==Govern==.",
+                "Les interpel·lacions són de caràcter més general i poden donar lloc a una moció en què la cambra manifesta la seva posició (art. 111 CE)."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "4.3) Mecanismes de Control Extraordinari: L'Exigència de Responsabilitat",
+          "items": [
+            {
+              "type": "paragraph",
+              "text": "La Constitució estableix un model de \"parlamentarisme racionalitzat\", que busca reforçar l'estabilitat del ==Govern==. Això es reflecteix en els mecanismes d'exigència de responsabilitat, que fan més difícil destituir un ==Govern== que atorgar-li la confiança."
+            },
+            {
+              "type": "definition",
+              "term": "La ==qüestió de confiança== (art. 112 CE)",
+              "details": [
+                "Iniciativa: Correspon al President del ==Govern==, amb deliberació prèvia del Consell de Ministres.",
+                "Objectiu: Verificar el suport del Congrés al seu programa o a una declaració de política general.",
+                "Requisit: Requereix el vot a favor de la majoria simple dels diputats.",
+                "Conseqüència del fracàs: El ==Govern== ha de presentar la dimissió (art. 114.1 CE)."
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "La ==moció de censura== Constructiva (art. 113 CE)",
+              "details": [
+                "Iniciativa: Ha de ser proposada, com a mínim, per la desena part dels diputats.",
+                "Objectiu: Retirar la confiança al ==Govern== i, simultàniament, investir un nou President.",
+                "Requisit: Ha d'incloure un candidat a la Presidència del ==Govern== i requereix el vot favorable de la majoria absoluta del Congrés per ser aprovada.",
+                "Conseqüència de l'èxit: El ==Govern== cessa i el candidat proposat s'entén automàticament investit President (art. 114.2 CE).",
+                "Caràcter \"constructiu\": Evita buits de poder, ja que no es pot destituir un ==Govern== sense haver acordat prèviament qui el substituirà."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "normativa",
+      "title": "5) Normativa essencial",
+      "level": 1,
+      "content": [
+        {
+          "type": "list",
+          "items": [
+            "CE — Constitución Española — 1978 (text consolidat a 17/02/2024).",
+            "LG — Ley 50/1997, de 27 de noviembre, del Gobierno (text consolidat a 03/01/2025).",
+            "RCD — ==Reglament==o del Congreso de los Diputados — 1982 (revisió vigent des de 31/07/2025).",
+            "RS — ==Reglament==o del Senado — 1994 (revisió vigent des de 08/07/2025)."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "exemples-casos",
+      "title": "6) Exemples i casos",
+      "level": 1,
+      "content": [
+        {
+          "type": "example",
+          "label": "Exemple (test): Segons l'article 64 de la CE, qui refrenda la proposta i el nomenament del President del ==Govern==?",
+          "text": "a) El Rei.\nb) El President del ==Govern== sortint.\nc) El President del ==Congrés dels Diputats==.\nd) El President del ==Senat==.\n\n(Orientació de resposta: La correcta és la c))."
+        },
+        {
+          "type": "example",
+          "label": "Micro-cas (1–3 frases) + orientació de resposta",
+          "text": "El ==Govern== perd una votació clau sobre els pressupostos al Congrés. Pot l'oposició presentar immediatament una ==moció de censura==? Quins requisits ha de complir per prosperar i quina seria la conseqüència immediata del seu èxit?\n\n(Orientació de resposta: Sí, pot presentar-la. Per prosperar, ha de ser proposada per almenys 1/10 dels diputats, incloure un candidat a President i ser aprovada per majoria absoluta. Si té èxit, el ==Govern== cessa i el candidat és nomenat President automàticament (art. 113 i 114 CE).)"
+        }
+      ]
+    },
+    {
+      "id": "errors-mnemo",
+      "title": "7) Errors típics i mnemotècnies",
+      "level": 1,
+      "content": []
+    },
+    {
+      "id": "glossari",
+      "title": "8) Glossari mínim",
+      "level": 1,
+      "content": [
+        {
+          "type": "subsection",
+          "title": "Definicions clau",
+          "items": [
+            {
+              "type": "definition",
+              "term": "Refrendo (Contrasignatura)",
+              "details": [
+                "Acte mitjançant el qual una autoritat legitimada (President del ==Govern==, ministre) valida un acte del Cap de l'Estat, assumint-ne la responsabilitat."
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Potestat ==Reglament==ària",
+              "details": [
+                "Facultat del poder executiu per dictar normes de caràcter general amb rang inferior a la llei."
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "==moció de censura== Constructiva",
+              "details": [
+                "Procediment parlamentari que exigeix a l'oposició proposar un candidat alternatiu a la Presidència per poder destituir el ==Govern== vigent."
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Bicameralisme Asimètric",
+              "details": [
+                "Sistema parlamentari amb dues cambres en què una (a Espanya, el Congrés) ostenta una posició de superioritat política i funcional sobre l'altra."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "resum",
+      "title": "Resum final",
+      "level": 1,
+      "content": []
+    },
+    {
+      "id": "bloc-examen",
+      "title": "Bloc d'examen",
+      "level": 1,
+      "content": [
+        {
+          "type": "example",
+          "label": "1 micro-cas pràctic amb punts clau de resolució",
+          "text": "[object Object]\n\n[object Object]"
+        }
+      ]
+    }
+  ]
+}

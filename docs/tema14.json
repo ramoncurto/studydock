@@ -1,0 +1,472 @@
+{
+  "metadata": {
+    "title": "Les situacions administratives del personal al servei d'una Administració pública",
+    "subject": "Funció Pública i Règim de Personal",
+    "topic": "Situacions administratives, incompatibilitats i règim disciplinari",
+    "keywords": [
+      "situacions administratives",
+      "servei actiu",
+      "excedències",
+      "incompatibilitats",
+      "règim disciplinari",
+      "sancions"
+    ],
+    "difficulty": "avançat",
+    "estimatedTime": "45 min"
+  },
+  "sections": [
+    {
+      "id": "visio-global",
+      "title": "Visió Global",
+      "level": 1,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Els empleats públics poden trobar-se en diverses situacions administratives al llarg de la seva carrera (servei actiu, serveis especials, servei en altres administracions, excedències i suspensió de funcions), cadascuna amb efectes diferenciats sobre els seus drets i deures."
+        },
+        {
+          "type": "paragraph",
+          "text": "Paral·lelament, han de respectar un estricte règim d'incompatibilitats que limita l'exercici simultani d'altres activitats públiques o privades, amb l'objectiu de prevenir conflictes d'interès i garantir la dedicació imparcial al servei públic."
+        },
+        {
+          "type": "paragraph",
+          "text": "Finalment, tot el personal al servei de l'Administració està sotmès a un règim disciplinari que defineix les faltes (lleus, greus i molt greus) i les sancions proporcionades per a cada cas, assegurant un procediment sancionador amb garanties per protegir els drets de l'inculpat."
+        }
+      ]
+    },
+    {
+      "id": "checklist",
+      "title": "Checklist d'Estudi",
+      "level": 1,
+      "content": [
+        {
+          "type": "list",
+          "title": "Punts clau per dominar el tema",
+          "items": [
+            "Situacions administratives: Tipus principals i característiques de cada situació (servei actiu, serveis especials, servei en altra Administració, excedències de diversa índole, suspensió de funcions)",
+            "Excedències voluntàries: Classes (per interès particular, per agrupació familiar, per cura de fills o familiars, per violència de gènere/terrorista), requisits d'accés i efectes sobre reserva del lloc, antiguitat i dret a reingrés",
+            "Règim d'incompatibilitats: Principis bàsics (dedicació exclusiva a un sol lloc públic, incompatibilitat de percebre doble remuneració pública, imparcialitat en activitats privades). Activitats públiques o privades que es consideren compatibles o incompatibles, i requisit d'autorització prèvia en tot cas",
+            "Conflictes d'interès: Supòsits prohibits explícitament i mecanismes de prevenció",
+            "Faltes disciplinàries: Classificació en lleu, greu i molt greu, amb exemples típics de cada categoria",
+            "Sancions disciplinàries: Tipus de sancions (amonestació, suspensió de funcions, trasllat forçós, demèrit, separació del servei, etc.) i criteris de proporcionalitat",
+            "Procediment sancionador: Etapes amb garanties: inici de l'expedient, designació d'instructor, fase d'instrucció, formulació de càrrecs, tràmit d'audiència i resolució final motivada",
+            "Normativa essencial vigent: EBEP, lleis d'incompatibilitats estatal i autonòmica, ==reglament== disciplinari aplicable"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "conceptes-clau",
+      "title": "Conceptes Clau i Definicions",
+      "level": 1,
+      "content": [
+        {
+          "type": "subsection",
+          "title": "Situacions Administratives",
+          "items": [
+            {
+              "type": "definition",
+              "term": "Situacions administratives",
+              "details": [
+                "Estat legal en què es troba un funcionari de carrera respecte del seu lloc de treball i relació de servei",
+                "Els funcionaris només poden estar en una de les situacions fixades per llei: servei actiu, serveis especials, servei en altres administracions públiques, excedència i suspensió de funcions",
+                "Cada situació comporta diferents drets i obligacions quant a reserva de plaça, còmput d'antiguitat, retribucions, etc."
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Servei actiu",
+              "details": [
+                "Situació normal del funcionari en exercici del seu lloc de treball",
+                "Presta serveis efectius i gaudeix de tots els drets (sou, antiguitat, etc.)",
+                "Està subjecte a tots els deures i responsabilitats del lloc",
+                "Qualsevol funcionari que no passi a altra situació administrativa roman en servei actiu"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Serveis especials",
+              "details": [
+                "Situació en què es col·loca el funcionari que assumeix determinats càrrecs públics o funcions de caràcter polític o internacional",
+                "Exemples: qui és nomenat alt càrrec de ==Govern==, diputat, membre d'organismes internacionals, exerceix funcions sindicals de certa rellevància",
+                "En serveis especials, el funcionari no ocupa el seu lloc ordinari però en conserva la reserva",
+                "No perd la condició de funcionari i el temps li computa a efectes d'antiguitat i drets passius"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Servei en altres administracions",
+              "details": [
+                "Situació del funcionari que passa a treballar en una Administració pública diferent de l'originària",
+                "Exemple: un funcionari de la Generalitat que obté destinació en l'Administració estatal o en un ajuntament",
+                "Es produeix una suspensió de la relació de servei amb l'Administració d'origen mentre duri aquesta situació, amb dret de reingrés posterior",
+                "Garanteix la mobilitat entre administracions sense perdre la vinculació estatutària d'origen"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Excedència voluntària",
+              "details": [
+                "Situació en què el funcionari cessa temporalment en el servei actiu per una causa personal, sense reserva del lloc de treball en general",
+                "Hi ha diverses modalitats: per interès particular, per agrupació familiar, per cura de fill o familiar a càrrec, per víctimes de violència de gènere o terrorisme",
+                "Durant l'excedència voluntària el funcionari no rep retribucions ni genera nous drets econòmics",
+                "En acabar ha de sol·licitar el reingrés al servei actiu en els terminis establerts"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Suspensió de funcions",
+              "details": [
+                "Situació en què el funcionari queda temporalment allunyat del servei actiu, sense dret a exercir el lloc ni percebre les retribucions",
+                "Conseqüència d'una sanció disciplinària o com a mesura cautelar durant la tramitació d'un procediment",
+                "La suspensió ferma és una sanció que comporta la pèrdua de funcions per un temps determinat (fins a un màxim de 6 anys segons l'EBEP)",
+                "Durant la suspensió, l'empleat no cobra i el temps no li compta a cap efecte"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "Règim d'Incompatibilitats i Disciplinari",
+          "items": [
+            {
+              "type": "definition",
+              "term": "Incompatibilitat",
+              "details": [
+                "Principi legal segons el qual el personal al servei de l'Administració pública no pot exercir simultàniament dos llocs de treball o activitats remunerades en el sector públic, llevat d'excepcions molt taxades",
+                "No pot prestar activitats privades que comprometin la seva imparcialitat",
+                "En termes pràctics, es prohibeix que un funcionari tingui dos sous públics alhora o que presti serveis en una activitat privada relacionada directament amb les seves funcions públiques",
+                "La llei permet algunes compatibilitats prèvies autorització: docència ocasional, activitats de recerca, càrrecs representatius no retribuïts amb dedicació exclusiva, etc."
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Règim disciplinari",
+              "details": [
+                "Conjunt de normes que regulen la responsabilitat disciplinària dels empleats públics per les infraccions dels seus deures funcionals",
+                "Inclou la definició de què constitueix una falta disciplinària i quines sancions disciplinàries corresponen a cada tipus de falta",
+                "Regula el procediment sancionador a seguir",
+                "L'objectiu és corregir comportaments contraris a l'ordenament i garantir la integritat, l'eficàcia i la confiança en l'Administració",
+                "Estan subjectes a aquest règim tant els autors de les faltes com els inductors i encobridors de faltes greus o molt greus"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "excedencies",
+      "title": "Modalitats d'Excedència Voluntària",
+      "level": 1,
+      "content": [
+        {
+          "type": "subsection",
+          "title": "Tipus d'Excedències",
+          "items": [
+            {
+              "type": "definition",
+              "term": "Excedència per interès particular",
+              "details": [
+                "Petició voluntària sense causa específica",
+                "Requisit: haver prestat normalment 5 anys de serveis",
+                "No es percep sou ni es computa el temps per a triennis o promocions",
+                "Durada mínima: 2 anys",
+                "No comporta reserva del lloc de treball"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Excedència per agrupació familiar",
+              "details": [
+                "Per reagrupar-se amb cònjuge en altra localitat",
+                "No exigeix temps previ de servei",
+                "No comporta reserva de lloc",
+                "Durada: de 2 a 15 anys"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Excedència per cura de fill o familiar a càrrec",
+              "details": [
+                "Dret a fins a 3 anys d'excedència per maternitat/paternitat o atenció de familiars dependents",
+                "Reserva del lloc de treball almenys durant els primers 2 anys",
+                "Còmput d'antiguitat durant l'excedència",
+                "Permet participar en cursos de formació mentre està excedent"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Excedències especials per víctimes de violència de gènere o terrorisme",
+              "details": [
+                "Sense requisit de serveis previs",
+                "Beneficis de reserva i còmput segons normativa específica",
+                "Reserva de 6+ mesos segons casos"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "incompatibilitats-principis",
+      "title": "Principis del Règim d'Incompatibilitats",
+      "level": 1,
+      "content": [
+        {
+          "type": "subsection",
+          "title": "Principis Fonamentals",
+          "items": [
+            {
+              "type": "definition",
+              "term": "Dedicació a un sol lloc públic",
+              "details": [
+                "Tot empleat públic ha de dedicar-se a un sol lloc remunerat en el sector públic",
+                "Prohibició de percebre doble remuneració dels pressupostos públics"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Imparcialitat i independència",
+              "details": [
+                "Ha d'evitar qualsevol activitat (pública o privada) que comprometi la seva imparcialitat i independència",
+                "Aplicable tant a activitats públiques com privades"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Autorització prèvia obligatòria",
+              "details": [
+                "Tota compatibilitat ha de ser autoritzada expressament per l'Administració competent abans d'iniciar la segona activitat",
+                "Les úniques excepcions vénen determinades per la llei amb limitacions horàries o reduccions retributives"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "Activitats Prohibides",
+          "items": [
+            "Tenir dos llocs públics remunerats simultàniament (excepte compatibilitats autoritzades)",
+            "Participar en empreses contractistes o proveïdores de la pròpia Administració",
+            "Exercir activitats privades relacionades directament amb les funcions públiques que puguin comprometre la imparcialitat",
+            "Prestar serveis professionals a persones o empreses sobre les quals el funcionari tingui capacitat de decisió o control en el seu lloc públic"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "regim-disciplinari",
+      "title": "Règim Disciplinari: Faltes i Sancions",
+      "level": 1,
+      "content": [
+        {
+          "type": "subsection",
+          "title": "Classificació de Faltes",
+          "items": [
+            {
+              "type": "definition",
+              "term": "Faltes molt greus",
+              "details": [
+                "Vulneracions gravíssimes dels deures",
+                "Exemples: desobediència oberta amb perjudici, abandonament del servei, conductes discriminatòries, corrupció",
+                "Incomplir les normes d'incompatibilitat creant situacions prohibides"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Faltes greus",
+              "details": [
+                "Incompliments importants però de menor entitat que les molt greus",
+                "Exemples: negligència reiterada en el treball, falta de respecte als superiors o usuaris amb afectació moderada"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Faltes lleus",
+              "details": [
+                "Conductes de poca transcendència però contràries al deure",
+                "Exemples: retards injustificats repetits, descortesia lleu amb el públic, negligències esporàdiques"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "Sancions Disciplinàries",
+          "items": [
+            {
+              "type": "definition",
+              "term": "Per faltes molt greus",
+              "details": [
+                "Separació del servei (acomiadament del funcionari)",
+                "Suspensions de llarga durada (fins a 6 anys)",
+                "Trasllat forçós amb canvi de residència"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Per faltes greus",
+              "details": [
+                "Suspensió de funcions (dies, mesos o fins a alguns anys)",
+                "Trasllat forçós",
+                "Demèrit (pèrdua de punts de carrera)"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Per faltes lleus",
+              "details": [
+                "Amonestacions verbals o per escrit",
+                "Suspensions curtes de fins a alguns dies"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "La sanció concreta dins del rang permès es gradua considerant factors com el grau d'intencionalitat, el dany causat, la reincidència i les circumstàncies personals de l'infractor."
+        }
+      ]
+    },
+    {
+      "id": "procediment-disciplinari",
+      "title": "Procediment Sancionador",
+      "level": 1,
+      "content": [
+        {
+          "type": "subsection",
+          "title": "Principis del Procediment",
+          "items": [
+            {
+              "type": "definition",
+              "term": "Legalitat i tipicitat",
+              "details": [
+                "Només es poden sancionar accions o omissions prèviament definides per una norma com a falta disciplinària",
+                "No es pot castigar una conducta no tipificada"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Proporcionalitat",
+              "details": [
+                "La qualificació de la falta i la sanció imposada han de ser congruents amb la gravetat del fet"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Culpabilitat",
+              "details": [
+                "Només es sancionaran conductes doloses o imprudents imputables a l'agent",
+                "No hi ha responsabilitat objectiva sense culpa"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Presumpció d'innocència",
+              "details": [
+                "El funcionari és considerat innocent mentre no es provi el contrari durant el procediment"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Garantia procedimental",
+              "details": [
+                "Tot expedient disciplinari ha de tramitar-se assegurant el dret de defensa de l'inculpat",
+                "Informació de les acusacions, fase probatòria, tràmit d'audiència i resolució motivada"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "Fases del Procediment (IAAPRe)",
+          "items": [
+            {
+              "type": "definition",
+              "term": "Inici de l'expedient",
+              "details": [
+                "Acord d'inici amb designació d'instructor i secretari independent"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Instrucció",
+              "details": [
+                "L'instructor practica totes les diligències necessàries per esclarir els fets",
+                "Sol·licita informes, recopila proves, pren declaració al funcionari afectat i als testimonis"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Formulació de càrrecs",
+              "details": [
+                "Si hi ha indicis de falta, l'instructor formula un plec de càrrecs",
+                "Descriu els fets imputats, la falta presumptament comesa i la sanció que es podria imposar"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Audiència i al·legacions",
+              "details": [
+                "Aquest plec de càrrecs es notifica a l'inculpat",
+                "Disposa d'un termini (10 o 15 dies) per presentar un escrit d'al·legacions i proposar proves en la seva defensa"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Proposta de resolució",
+              "details": [
+                "L'instructor elabora una proposta de resolució declarant quins fets considera provats, quina falta constitueixen i quina sanció correspon aplicar",
+                "Es notifica a l'interessat perquè formuli, si vol, al·legacions ultérieures abans de la decisió final"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Resolució final motivada",
+              "details": [
+                "L'òrgan competent dicta una resolució motivada",
+                "Ha d'expressar els fets probats, la valoració jurídica i la justificació de la sanció imposada o de l'arxiu",
+                "Es notifica a l'interessat, i contra ella es poden interposar els recursos administratius o jurisdiccionals procedents"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Tot el procediment disciplinari ha de respectar uns terminis màxims (p. ex. 6 mesos o 1 any segons la complexitat), i la infracció prescriu si no s'ha sancionat dins el termini legal. Durant la tramitació, si es descobrissin indicis de delicte, s'ha de parar el procediment i posar els fets en coneixement del Ministeri Fiscal."
+        }
+      ]
+    },
+    {
+      "id": "normativa",
+      "title": "Normativa Essencial",
+      "level": 1,
+      "content": [
+        {
+          "type": "list",
+          "title": "Legislació aplicable",
+          "items": [
+            "EBEP — Reial Decret Legislatiu 5/2015, de 30 d'octubre, pel qual s'aprova el ==text refós== de la Llei de l'Estatut Bàsic de l'Empleat Públic (TREBEP) — 2015 (amb modificacions fins 2023)",
+            "LIP — Llei 53/1984, de 26 de desembre, d'Incompatibilitats del personal al servei de les Administracions Públiques — 1984 (llei bàsica estatal, vigent)",
+            "Llei 21/1987 — Llei d'incompatibilitats del personal al servei de l'Administració de la Generalitat de Catalunya — 1987 (DOGC núm. 912)",
+            "Llei 8/2006 — Llei de 5 de juliol, de mesures de conciliació de la vida personal, familiar i laboral del personal al servei de les administracions públiques de Catalunya — 2006",
+            "RD 365/1995 — ==Reial Decret== 365/1995, de 10 de març, pel qual s'aprova el ==Reglament== de situacions administratives dels funcionaris civils de l'Administració General de l'Estat — 1995",
+            "Decret 243/1995 — Decret de la Generalitat de Catalunya, de 27 de juny, pel qual s'aprova el ==Reglament== de Règim Disciplinari de la Funció Pública de l'Administració de la Generalitat — 1995"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bloc-examen",
+      "title": "Bloc d'Examen",
+      "level": 1,
+      "content": [
+        {
+          "type": "example",
+          "label": "Cas Pràctic",
+          "text": "[object Object]\n\n[object Object]"
+        }
+      ]
+    }
+  ]
+}

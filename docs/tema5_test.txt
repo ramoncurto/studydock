@@ -1,0 +1,349 @@
+Q: Què és un acte administratiu?
+- Una norma de caràcter general
+- Una declaració unilateral de l'Administració que produeix efectes jurídics concrets
+- Una operació tècnica o física
+- Un contracte entre l'Administració i el ciutadà
+A: Una declaració unilateral de l'Administració que produeix efectes jurídics concrets
+
+Q: Què NO és un acte administratiu?
+- Una llicència d'obres
+- Una multa per infracció urbanística
+- Una inspecció física d'una obra (sense acta)
+- Una ordre de demolició
+A: Una inspecció física d'una obra (sense acta)
+
+Q: Els actes que amplien l'esfera jurídica del ciutadà s'anomenen:
+- Actes de gravamen
+- Actes favorables o declaratius de drets
+- Actes de tràmit
+- Actes resolutoris
+A: Actes favorables o declaratius de drets
+
+Q: Quins són exemples d'actes de gravamen?
+- Concessió de llicències i autoritzacions
+- Ordres de demolició i multes
+- Informes tècnics
+- Requeriments de documentació
+A: Ordres de demolició i multes
+
+Q: Què és el silenci administratiu positiu?
+- Quan l'Administració respon favorablement
+- Quan el silenci significa estimació de la sol·licitud
+- Quan l'Administració no respon mai
+- Quan el silenci significa denegació
+A: Quan el silenci significa estimació de la sol·licitud
+
+Q: Quina és la regla general del silenci administratiu en procediments iniciats per l'interessat?
+- Silenci negatiu
+- Silenci positiu (estimatori)
+- No hi ha silenci administratiu
+- Depèn de cada cas
+A: Silenci positiu (estimatori)
+
+Q: Els actes que impulsen el procediment però no resolen el fons s'anomenen:
+- Actes resolutoris
+- Actes definitius
+- Actes de tràmit
+- Actes generals
+A: Actes de tràmit
+
+Q: Els actes de tràmit són recurribles de manera separada?
+- Sí, sempre
+- No, com a regla general
+- Només si són escrits
+- Només si són orals
+A: No, com a regla general
+
+Q: Els actes que posen fi al procediment decidint sobre el fons s'anomenen:
+- Actes de tràmit
+- Actes resolutoris o definitius
+- Actes singulars
+- Actes generals
+A: Actes resolutoris o definitius
+
+Q: Segons l'article 35 LPACAP, quan és obligatòria la motivació dels actes?
+- Només en actes favorables
+- Mai no és obligatòria
+- En actes que limitin drets, resolguin recursos i siguin discrecionals, entre d'altres
+- Només en actes sancionadors
+A: En actes que limitin drets, resolguin recursos i siguin discrecionals, entre d'altres
+
+Q: La manca de motivació d'un acte administratiu és causa de:
+- Nul·litat de ple dret
+- Anul·labilitat
+- Inexistència
+- Irregularitat no invalidant
+A: Anul·labilitat
+
+Q: Segons l'article 39 LPACAP, des de quan produeixen efectes els actes administratius?
+- Des de la notificació
+- Des de la data en què es dicten, llevat que s'hi disposi una altra cosa
+- Des de la publicació
+- Des de l'execució
+A: Des de la data en què es dicten, llevat que s'hi disposi una altra cosa
+
+Q: Què significa que un acte és executiu (art. 38 LPACAP)?
+- Que ha estat executat
+- Que l'Administració pot imposar el seu compliment pels seus propis mitjans
+- Que és vàlid
+- Que és eficaç
+A: Que l'Administració pot imposar el seu compliment pels seus propis mitjans
+
+Q: Quina prerrogativa administrativa permet executar actes sense autorització judicial prèvia?
+- Autotutela declarativa
+- Autotutela executiva
+- Supremacia
+- Inderogabilitat
+A: Autotutela executiva
+
+Q: Segons l'article 37 LPACAP, les resolucions administratives de caràcter particular poden vulnerar una disposició de caràcter general?
+- Sí, si són d'un òrgan superior
+- No, en cap cas (inderogabilitat singular)
+- Només en casos excepcionals
+- Sí, sempre
+A: No, en cap cas (inderogabilitat singular)
+
+Q: En quin termini s'ha d'expedir la notificació d'un acte des que es dicta?
+- 5 dies
+- 10 dies
+- 15 dies
+- 20 dies
+A: 10 dies
+
+Q: Què ha d'incloure el contingut de la notificació segons l'art. 40 LPACAP?
+- Només el text de la resolució
+- Text íntegre, si posa fi a la via administrativa, i recursos procedents
+- Només els recursos
+- Només el nom del destinatari
+A: Text íntegre, si posa fi a la via administrativa, i recursos procedents
+
+Q: Per a qui és obligatòria la notificació electrònica?
+- Per a tothom
+- Per a persones jurídiques i professionals col·legiats, entre d'altres
+- Per a ningú
+- Només per a l'Administració
+A: Per a persones jurídiques i professionals col·legiats, entre d'altres
+
+Q: Quants intents de notificació en paper es requereixen si el primer resulta infructuós?
+- Un únic intent
+- Dos intents en hores diferents
+- Tres intents
+- Quatre intents
+A: Dos intents en hores diferents
+
+Q: Quan la publicació substitueix la notificació individual?
+- Sempre
+- Quan els destinataris són una pluralitat indeterminada o en procediments selectius
+- Mai
+- Només per a sancions
+A: Quan els destinataris són una pluralitat indeterminada o en procediments selectius
+
+Q: Quins són els dos graus d'invalidesa dels actes administratius?
+- Vàlid i invàlid
+- Nul·litat de ple dret i anul·labilitat
+- Eficaç i ineficaç
+- Favorable i de gravamen
+A: Nul·litat de ple dret i anul·labilitat
+
+Q: Un acte nul de ple dret produeix efectes jurídics?
+- Sí, fins que se'n declari la nul·litat
+- No, no produeix efectes des de l'inici (ex tunc)
+- Només efectes parcials
+- Depèn del cas
+A: No, no produeix efectes des de l'inici (ex tunc)
+
+Q: Un acte anul·lable produeix efectes jurídics?
+- No, mai
+- Sí, fins que se'n declari l'anul·lació (ex nunc)
+- Només si és favorable
+- Només si és de gravamen
+A: Sí, fins que se'n declari l'anul·lació (ex nunc)
+
+Q: L'acció per declarar la nul·litat de ple dret és:
+- Prescriptible en un mes
+- Prescriptible en un any
+- Imprescriptible
+- Prescriptible en tres mesos
+A: Imprescriptible
+
+Q: L'acció per impugnar un acte anul·lable és:
+- Imprescriptible
+- Prescriptible (terminis de recurs)
+- Eterna
+- No existeix
+A: Prescriptible (terminis de recurs)
+
+Q: Es pot convalidar un acte nul de ple dret?
+- Sí, sempre
+- No, no es pot convalidar
+- Només en casos excepcionals
+- Sí, amb autorització judicial
+A: No, no es pot convalidar
+
+Q: Es pot convalidar un acte anul·lable?
+- No, mai
+- Sí, segons l'article 52 LPACAP
+- Només els actes favorables
+- Només els actes de gravamen
+A: Sí, segons l'article 52 LPACAP
+
+Q: Quina causa NO és de nul·litat de ple dret segons l'art. 47 LPACAP?
+- Lesió de drets fonamentals
+- Incompetència manifesta per raó de matèria
+- Incompetència per raó de jerarquia
+- Contingut impossible
+A: Incompetència per raó de jerarquia
+
+Q: La incompetència manifesta per raó de matèria és causa de:
+- Anul·labilitat
+- Nul·litat de ple dret
+- Irregularitat no invalidant
+- Validesa
+A: Nul·litat de ple dret
+
+Q: La incompetència per raó de jerarquia és causa de:
+- Nul·litat de ple dret
+- Anul·labilitat
+- Inexistència
+- Validesa
+A: Anul·labilitat
+
+Q: Prescindre totalment i absolutament del procediment establert és causa de:
+- Anul·labilitat
+- Nul·litat de ple dret
+- Irregularitat menor
+- Convalidació automàtica
+A: Nul·litat de ple dret
+
+Q: Quina és la regla general d'invalidesa segons l'art. 48 LPACAP?
+- Nul·litat de ple dret
+- Anul·labilitat
+- Inexistència
+- Irregularitat
+A: Anul·labilitat
+
+Q: La manca de motivació d'un acte sancionador és causa de:
+- Validesa
+- Anul·labilitat (defecte de forma que causa indefensió)
+- Nul·litat de ple dret
+- Irregularitat no invalidant
+A: Anul·labilitat (defecte de forma que causa indefensió)
+
+Q: Què és la conversió d'un acte administratiu (art. 50 LPACAP)?
+- Canviar l'òrgan competent
+- Produir els efectes d'un altre acte vàlid diferent que contingui els seus elements
+- Anul·lar l'acte
+- Convalidar l'acte
+A: Produir els efectes d'un altre acte vàlid diferent que contingui els seus elements
+
+Q: Què és la conservació dels actes (art. 51 LPACAP)?
+- Mantenir tots els actes encara que siguin invàlids
+- Mantenir els actes i tràmits el contingut dels quals s'hauria mantingut igual
+- Destruir tots els actes
+- Arxivar el procediment
+A: Mantenir els actes i tràmits el contingut dels quals s'hauria mantingut igual
+
+Q: L'acte de convalidació produeix efectes:
+- Des de la data de l'acte original (retroactiu)
+- Des de la seva data, no retroactiu (excepte en supòsits taxats)
+- Des de la notificació
+- Des de la publicació
+A: Des de la seva data, no retroactiu (excepte en supòsits taxats)
+
+Q: Es pot convalidar un acte amb vici d'incompetència jeràrquica?
+- No, mai
+- Sí, l'òrgan competent superior pot convalidar-lo
+- Només amb autorització judicial
+- Només si és favorable
+A: Sí, l'òrgan competent superior pot convalidar-lo
+
+Q: Una notificació defectuosa produeix efectes?
+- Sí, sempre
+- No, fins que l'interessat realitzi actuacions que suposin coneixement o interposi recurs
+- Només si és de gravamen
+- Només si és favorable
+A: No, fins que l'interessat realitzi actuacions que suposin coneixement o interposi recurs
+
+Q: Qui pot rebre una notificació en paper al domicili del destinatari?
+- Qualsevol persona
+- Qualsevol persona major de 14 anys que es trobi al domicili
+- Només el destinatari
+- Només familiars directes
+A: Qualsevol persona major de 14 anys que es trobi al domicili
+
+Q: Què significa que un acte és "ferm"?
+- Que és vàlid
+- Que no s'hi pot interposar cap recurs ordinari en via administrativa
+- Que és executiu
+- Que és eficaç
+A: Que no s'hi pot interposar cap recurs ordinari en via administrativa
+
+Q: Què és la desviació de poder?
+- Un error material
+- Exercir potestats per a una finalitat diferent de la que estableix l'ordenament
+- Una incompetència manifesta
+- Un defecte de forma
+A: Exercir potestats per a una finalitat diferent de la que estableix l'ordenament
+
+Q: La desviació de poder és causa de:
+- Nul·litat de ple dret
+- Anul·labilitat
+- Validesa
+- Inexistència
+A: Anul·labilitat
+
+Q: Què és la indefensió?
+- Un recurs administratiu
+- Privació de la possibilitat d'al·legar i provar drets per un vici procedimental
+- Un tipus d'acte administratiu
+- Una garantia processual
+A: Privació de la possibilitat d'al·legar i provar drets per un vici procedimental
+
+Q: Quina llei regula el procediment administratiu comú?
+- Llei 40/2015 (LRJSP)
+- Llei 39/2015 (LPACAP)
+- Constitució Espanyola
+- Codi Civil
+A: Llei 39/2015 (LPACAP)
+
+Q: Els requisits de validesa d'un acte administratiu són:
+- Només la competència
+- Competència, contingut lícit, forma adequada i motivació quan sigui preceptiva
+- Només la forma escrita
+- Només la notificació
+A: Competència, contingut lícit, forma adequada i motivació quan sigui preceptiva
+
+Q: La forma general dels actes administratius és:
+- Oral
+- Escrita per mitjans electrònics
+- Telefònica
+- No hi ha forma establerta
+A: Escrita per mitjans electrònics
+
+Q: Un acte que resol un recurs administratiu ha d'estar motivat?
+- No, mai
+- Sí, obligatòriament segons l'art. 35 LPACAP
+- Només si és desestimatori
+- Només si és estimatori
+A: Sí, obligatòriament segons l'art. 35 LPACAP
+
+Q: Un acte discrecional ha d'estar motivat?
+- No, per ser discrecional no requereix motivació
+- Sí, obligatòriament segons l'art. 35 LPACAP
+- Només si és de gravamen
+- Només si és favorable
+A: Sí, obligatòriament segons l'art. 35 LPACAP
+
+Q: Una notificació que NO inclou informació sobre els recursos procedents és:
+- Vàlida
+- Defectuosa i pot causar indefensió
+- Irrellevant
+- Millor que una completa
+A: Defectuosa i pot causar indefensió
+
+Q: Els defectes de forma que NO causen indefensió són:
+- Sempre causes de nul·litat
+- Irregularitats menors no invalidants
+- Sempre causes d'anul·labilitat
+- Inexistents
+A: Irregularitats menors no invalidants

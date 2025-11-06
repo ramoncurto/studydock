@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Inline text formatting styles */
+.yellow-highlight {
+  @apply font-bold px-2 py-0.5 rounded text-gray-900 dark:text-gray-900 bg-yellow-300 dark:bg-yellow-400;
+}
+
+.legal-ref {
+  @apply font-semibold px-1.5 py-0.5 rounded text-gray-900 dark:text-gray-900 bg-yellow-300 dark:bg-yellow-400;
+}
+
+.date-ref {
+  @apply font-medium px-1 py-0.5 rounded text-purple-700 dark:text-purple-300 bg-purple-50 dark:bg-purple-900/20;
+}
+
+.number-ref {
+  @apply font-semibold text-pink-600 dark:text-pink-400;
+}

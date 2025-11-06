@@ -1,0 +1,178 @@
+Instruments de planejament urbanístic derivat. Classes, determinacions i documentació. Els projectes d’urbanització
+Visió global: El planejament urbanístic derivat és l’instrument mitjançant el qual es desenvolupa el planejament generalesports. Comprèn els plans parcials urbanístics (PPU/PPD) –per a sòl urbanitzable–, els plans de millora urbana (PMU) –per a sòl urbà consolidat a reformar–, i els plans especials urbanístics (PEU) –per a actuacions temàtiques com infraestructures, equipaments o protecció del medi–tic. Aquests plans defineixen l’ordenació detallada dels sectors (traçat viari local, parcel·lari, usos i paràmetres edificatoris com alineacions i rasants) i determinen les obres bàsiques d’urbanització. Els projectes d’urbanització són els plans d’obres que executen aquestes determinacions (inclouen memòria descriptiva, plànols, plec de condicions tècniques, amidaments, quadre de preus i pressupost)
+Checklist d’estudi:
+Planejament derivat: desenvolupament detallat del planejament generalesports.
+
+
+Classes: Plans parcials (PPU/PPD), Plans de millora urbana (PMU) i Plans especials (PEU)tic.
+
+
+Plans parcials (PPU/PPD): ordenen sectors de sòl urbanitzable (delimitat o no) i contenen l’ordenació detallada (usos, edificabilitat, parcel·la mínima, sistemes, alineacions, rasants, etc.).
+
+
+Documentació plans parcials: memòria justificativa, plànols d’informació i d’ordenació, normes d’ús i edificació, estudi econòmic-financer, pressupost d’obres, pla d’etapes i altres estudis (mobilitat, mediambient).
+
+
+Plans de millora urbana (PMU): instrument en sòl urbà (consolidat o no) per a reformes interiors i reurbanització Determinacions similars a les dels plans parcials amb rehabilitació d’edificis, creació de nous sistemes i planificació del finançament de les obres.
+
+
+Documentació PMU: s’exigeix informació com en els plans parcials, adaptada a la naturalesa de les intervencions del PMU.
+
+
+Plans especials urbanístics (PEU): per a finalitats temàtiques (p.e. protecció del medi rural, sistemes de comunicacions, equipaments)tic. No poden modificar la classificació de sòl ni els elements fonamentals del planejament general.
+
+
+Documentació PEU: memòria justificativa, plànols d’informació i d’ordenació, i, si cal, estudis addicionals (mobilitat, alternatives) segons la finalitat.
+
+
+Projecte d’urbanització: projecta l’execució tècnica de l’urbanització (sanejament, vials, serveis bàsics, etc.); pot ser parcial o total. Conté memòria descriptiva, plànols de situació i de projecte, plec tècnic, amidaments, quadre de preus i pressupost
+
+
+Desenvolupament
+Conceptes clau i definicions
+
+
+Planejament general municipal (POUM): instrument bàsic d’ordenació d’un municipi (no és un concepte derivat, però serveix de marc).
+
+
+Planejament derivat: Instrument pel qual es desenvolupa el planejament generalesports.; inclou els plans parcials (urbans i de delimitació), plans de millora urbana i plans especials.
+
+
+Pla Parcial Urbanístic (PPU): ordena detalladament sectors de sòl urbanitzable delimitat pel POUM; conté la qualificació de sòl, els usos, l’edificabilitat, les alineacions, rasants, la divisió poligonal, les obres d’urbanització bàsiques i terminis.
+
+
+Pla Parcial de Delimitació (PPD): ordena sòl urbanitzable no delimitat pel POUM; delimita el sector i conté les mateixes determinacions que el PPU
+
+
+Pla de Millora Urbana (PMU): instrument derivat que desenvolupa les determinacions generals en sòl urbà, per a reformes interiors, reurbanització i rehabilitació
+
+
+Pla Especial Urbanístic (PEU): instrument derivat per a actuacions concretes (p.e. protecció del medi rural, edificis tradicionals, equipaments, infraestructures); es subdivideix en de desenvolupament (segueix directrius del planejament superior) i autònom (per infraestructures no previstes)tic.
+
+
+Projecte d’urbanització: projecte d’obres que executa materialment l’urbanització prevista en un pla; inclou memòria descriptiva, plànols, plec tècnic, amidaments, quadre de preus i pressupost
+
+
+Estructura / Esquemes [AMPLIAT]
+
+
+Nivells de planejament: territorial (PDU), general (POUM, NPU) i derivat (PPU/PPD, PMU, PEU)esports.
+
+
+Jerarquia: el POUM fixa sectors de sòl (urbanitzable, urbà, no urbanitzable) i la seva classificació; els instruments derivats concreten l’ordenació dins d’aquests sectors.
+
+
+Esquemes: normalment inclouen plànols del parcel·lari, de divisió poligonal, d’integració de sistemes i d’ordenació; tots alineats amb les directrius del planejament general.
+
+
+Sistema d’actuació: els plans parcials poden establir sistemes de gestió (per ex. especial d’actuació, cooperativa) per executar l’urbanització.
+
+
+Procés d’execució: un cop aprovat el pla, es tramita el projecte d’urbanització i després les llicències d’obres corresponents.
+
+
+Principis / Regles
+
+
+Jerarquia normativa: el planejament derivat desenvolupa el general sense contradir-lo; no pot reclasificar el sòl ni modificar-ne l’estructura bàsica.
+
+
+Sostenibilitat i protecció: ha de respectar l’ús racional del sòl i la protecció mediambiental (obligatorietat de consulta prèvia per a plans de sòl urbanitzable segons art. 3 i 75 del TRLUC).
+
+
+Viabilitat econòmica: en plans d’iniciativa privada cal justificar la viabilitat i aportar garanties econòmiques (art.102 TRLUC).
+
+
+Participació i transparència: segueixen el mateix procediment que els POUM, amb exposició pública i informes sectorials.
+
+
+Competència: aprovació provisional per l’ajuntament, aprovació definitiva per la Generalitat (conseller de PTOP o comissions territorials).
+
+
+Procediment i aplicació administrativa
+
+
+Iniciativa i tramitació: poden ser promoguts per l’ajuntament o per particulars; s’inicia amb informe tècnic municipal i segueix instrucció amb exposició pública i resolució (igual que un POUM).
+
+
+Consulta prèvia: la redacció de planificació de sòl urbanitzable requereix consulta prèvia de sostenibilitat (art.75 TRLUC).
+
+
+Aprovació: provisional a càrrec del ple o òrgan municipal, definitiva per la Generalitat (Conseller de PTOP o comissió territorial).
+
+
+Projecte d’urbanització: un cop aprovat el pla, cal aprovar el projecte d’obres corresponent (memòria, plànols, pressupost) abans d’atorgar llicències de construcció
+
+
+Gestió urbanística: si el pla és de gestió privada, s’acorda sistemes de cooperació o derivats amb compromís dels propietaris.
+
+
+Normativa essencial (sigles — nom oficial — any/versió)
+ • TRLUC — Decret legislatiu 1/2010, de 3 d’agost, Text refós de la Llei d’urbanisme de Catalunya — DOGC 5686 (05/08/2010).
+ • RLUC — Decret 305/2006, de 18 de juliol, Reglament de la Llei d’urbanisme de Catalunya — DOGC 4908 (30/08/2006)
+ • Llei 3/2012, de 22 de febrer — Modificació del TRLUC — DOGC 5961 (23/02/2012).
+
+
+Exemples i casos
+ • Exemple (test): Quina afirmació sobre el pla parcial urbanístic (PPU) és certa?
+ A) Ordena sectors de sòl urbanitzable delimitat. (Correcta)
+ B) Ordena sistemes generals interurbanístics.
+ C) Protegeix sòl no urbanitzable.
+ D) Urbanitza sòl urbà consolidat.
+ • Exemple (test): En què consisteix principalment un pla de millora urbana (PMU)?
+ A) Ordenar àrees de sòl urbà consolidat per a reforma interior (Correcta)
+ B) Ordenar sectors de sòl urbanitzable delimitat.
+ C) Implantar infraestructures regionals.
+ D) Desenvolupar el planejament territorial.
+ • Exemple (test): Què ha de contenir obligatòriament un projecte d’urbanització?
+ A) Memòria descriptiva, plànols, plec tècnic, amidaments i pressupost (Correcta)
+ B) Només plànols d’urbanització bàsics.
+ C) Informe de sostenibilitat ambiental.
+ D) Procés de participació ciutadana.
+ • Micro-cas pràctic: Un sector de 10ha de sòl urbanitzable està classificat però no delimitat pel POUM. Un promotor privat vol edificar-hi habitatge protegit. Quin instrument cal redactar i quins documents bàsics ha d’incloure?
+ Orientació: Cal redactar un Pla Parcial de Delimitació (PPD), que delimiti i ordeni el sector. Ha d’incloure justificació de la delimitació, la memòria i plànols d’ordenació, normes d’ús, estudi econòmic-financer i el projecte d’urbanització corresponent (memòria de l’obra, plànols tècnics i pressupost)
+
+
+Errors típics i mnemotècnies
+
+
+Confondre PPU i PMU: el PPU és per sòl urbanitzable i el PMU per sòl urbà
+
+
+Pensar que els plans derivats poden reclasificar el sòl: estan prohibits.
+
+
+Ometre la memòria econòmica en plans privats: és obligatòria (viabilitat segons TRLUC).
+
+
+No distingir PPU de PPD: el PPU actua en sectors ja delimitats, el PPD desenvolupa sectors no delimitats
+
+
+Mnemotècnia: PPU – U d’Urbanitzable; PMU – M de Millora urbana; PEU – E d’Especial.
+
+
+Glossari mínim
+
+
+Planejament derivat: Instrument que desenvolupa el planejament generalesports.
+
+
+Pla parcial urbanístic (PPU): Ordena sectors de sòl urbanitzable delimitat.
+
+
+Pla parcial de delimitació (PPD): Ordena sòl urbanitzable no delimitat
+
+
+Pla de millora urbana (PMU): Desenvolupa determinacions generals en sòl urbà per a reforma i reurbanització
+
+
+Pla especial urbanístic (PEU): Desenvolupa determinacions temàtiques (protecció medi, infraestructures, etc.)tic.
+.
+Projecte d’urbanització: Projecte d’obres per executar l’urbanització d’un àmbit, amb memòria, plànols i pressupost
+
+
+Resum final: El planejament urbanístic derivat inclou els plans parcials (urbanístics i de delimitació), els plans de millora urbana i els plans especials, que concreten a detall els sectors definits pel planejament general. Aquests instruments fixen l’ordenació pormenoritzada (traçat de vials, parcel·la, usos, alineacions, rasants, etc.) i preveuen l’execució de les obres d’urbanització bàsiques. La documentació obligatòria comprèn memòries justificatives, plànols informatius, normes urbanístiques, estudis econòmics-financers i pressupostos de les obres. Finalment, els projectes d’urbanització desenvolupen tècnicament aquests plans derivats, incloent-hi la memòria descriptiva, els plànols de projecte, els plecs tècnics, les medicions i el pressupost detallat
+ • Micro-cas: Un sector de 10ha de sòl urbanitzable està classificat però no delimitat pel POUM. Un promotor privat vol edificar-hi habitatge protegida. Quin instrument s’ha de redactar i quina documentació ha d’incloure?
+ Orientació: Cal un Pla Parcial de Delimitació (PPD) que defineixi el sector. Ha d’incloure la memòria de delimitació (viabilitat demogràfica i de recursos), plànols d’ordenació, normes d’ús, estudi econòmic-financer i el projecte d’urbanització (memòria d’obra, plànols tècnics i pressupost)
+
+

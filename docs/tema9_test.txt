@@ -1,0 +1,349 @@
+Q: Quants municipis conformen la comarca del Montsià?
+- 10
+- 11
+- 12
+- 14
+A: 12
+
+Q: Quina és la capital de la comarca del Montsià?
+- La Ràpita
+- Amposta
+- Ulldecona
+- Alcanar
+A: Amposta
+
+Q: Aproximadament quants habitants tenia el Montsià l'any 2024?
+- 65.000 habitants
+- 71.500 habitants
+- 80.000 habitants
+- 60.000 habitants
+A: 71.500 habitants
+
+Q: Quina és la superfície total de la comarca del Montsià?
+- 635,4 km²
+- 735,4 km²
+- 835,4 km²
+- 535,4 km²
+A: 735,4 km²
+
+Q: Amb quina comarca limita el Montsià al nord?
+- El Tarragonès
+- El Baix Camp
+- El Baix Ebre
+- El Terra Alta
+A: El Baix Ebre
+
+Q: Amb quina província limita el Montsià al sud i a l'oest?
+- València
+- Castelló
+- Alacant
+- Terol
+A: Castelló
+
+Q: Quin any es va segregar Sant Jaume d'Enveja de Tortosa i es va incorporar al Montsià?
+- 1985
+- 1990
+- 1995
+- 2000
+A: 1990
+
+Q: A quina província pertany la comarca del Montsià?
+- Barcelona
+- Lleida
+- Girona
+- Tarragona
+A: Tarragona
+
+Q: Quin és el principal cultiu a la plana al·luvial del Delta de l'Ebre?
+- Blat
+- Arròs
+- Cotó
+- Blat de moro
+A: Arròs
+
+Q: Quina és l'alçada màxima de la serra del Montsià?
+- 664 m
+- 764 m
+- 864 m
+- 964 m
+A: 764 m
+
+Q: Quin municipi del Montsià és conegut per la seva important indústria del moble?
+- Ulldecona
+- Amposta
+- La Ràpita
+- La Sénia
+A: La Sénia
+
+Q: Quina figura de planejament estableix les directrius estratègiques per al conjunt de la comarca i és vinculant per als POUM?
+- El Pla Director Urbanístic de la Costa
+- El Pla Territorial Parcial de les Terres de l'Ebre
+- El Pla Especial del Parc Natural del Delta de l'Ebre
+- El Pla d'Ordenació Urbanística Municipal d'Amposta
+A: El Pla Territorial Parcial de les Terres de l'Ebre
+
+Q: Quin any es va crear el Parc Natural del Delta de l'Ebre?
+- 1980
+- 1983
+- 1985
+- 1988
+A: 1983
+
+Q: Quina autopista vertebra el territori del Montsià en sentit nord-sud?
+- AP-2
+- AP-7
+- C-32
+- A-7
+A: AP-7
+
+Q: Quin percentatge aproximat representa la població estrangera al Montsià el 2024?
+- 10%
+- 15%
+- 20%
+- 25%
+A: 20%
+
+Q: Quins tres municipis concentren gairebé el 70% de la població total del Montsià?
+- Amposta, Ulldecona i la Sénia
+- Amposta, la Ràpita i Alcanar
+- La Ràpita, Alcanar i Ulldecona
+- Amposta, Sant Jaume d'Enveja i la Ràpita
+A: Amposta, la Ràpita i Alcanar
+
+Q: Quina és la densitat mitjana de població al Montsià l'any 2024?
+- 77,2 hab/km²
+- 87,2 hab/km²
+- 97,2 hab/km²
+- 107,2 hab/km²
+A: 97,2 hab/km²
+
+Q: Quin municipi del Montsià té la densitat de població més alta?
+- Amposta
+- La Ràpita
+- Alcanar
+- Santa Bàrbara
+A: La Ràpita
+
+Q: Quin municipi del Montsià té la densitat de població més baixa?
+- Freginals
+- Godall
+- Mas de Barberans
+- La Galera
+A: Mas de Barberans
+
+Q: Quina població tenia Freginals l'any 2024?
+- 288 habitants
+- 388 habitants
+- 488 habitants
+- 588 habitants
+A: 388 habitants
+
+Q: Quin és el port natural més gran d'Europa que es troba al Montsià?
+- Port de Tarragona
+- Port dels Alfacs
+- Port de la Ràpita
+- Port d'Alcanar
+A: Port dels Alfacs
+
+Q: Quina península protegeix el port dels Alfacs?
+- La península de la Palma
+- La península de la Banya
+- La península del Trabucador
+- La península dels Alfacs
+A: La península de la Banya
+
+Q: Quines són les dues llacunes principals del Delta de l'Ebre al Montsià?
+- L'Encanyissada i la Platjola
+- L'Encanyissada i la Tancada
+- La Tancada i els Calaixos
+- Els Calaixos i la Platjola
+A: L'Encanyissada i la Tancada
+
+Q: A quin àmbit territorial pertany el Montsià?
+- Les Terres de Ponent
+- Les Terres de l'Ebre
+- El Camp de Tarragona
+- El Penedès
+A: Les Terres de l'Ebre
+
+Q: Quina carretera constitueix l'Eix de l'Ebre?
+- N-340
+- C-12
+- C-44
+- T-340
+A: C-12
+
+Q: Quin decret va crear el Parc Natural del Delta de l'Ebre?
+- Decret 257/1983
+- Decret 357/1983
+- Decret 457/1983
+- Decret 557/1983
+A: Decret 357/1983
+
+Q: Quin any es va aprovar el Pla Territorial Parcial de les Terres de l'Ebre?
+- 1998
+- 1999
+- 2001
+- 2003
+A: 2001
+
+Q: Quin any es va modificar el PTPTE?
+- 2005
+- 2008
+- 2010
+- 2012
+A: 2010
+
+Q: A quina vegueria pertany el Montsià?
+- Vegueria del Camp de Tarragona
+- Vegueria de les Terres de l'Ebre
+- Vegueria de Ponent
+- Vegueria de l'Ebre
+A: Vegueria de les Terres de l'Ebre
+
+Q: Quin organisme internacional va declarar la Reserva de la Biosfera de les Terres de l'Ebre?
+- ONU
+- UNESCO
+- FAO
+- PNUMA
+A: UNESCO
+
+Q: Quin decret legislatiu estableix el marc general de l'ordenació del territori a Catalunya?
+- Decret Legislatiu 1/2003
+- Decret Legislatiu 1/2005
+- Decret Legislatiu 1/2007
+- Decret Legislatiu 1/2010
+A: Decret Legislatiu 1/2005
+
+Q: Quina és la sigla del Text refós de la Llei d'urbanisme de Catalunya?
+- TLUC
+- TRLUC
+- TRUIC
+- TRCUC
+A: TRLUC
+
+Q: Quina zona geogràfica del Montsià es dedica principalment a cultius de secà com oliveres, garrofers i ametllers?
+- El Delta de l'Ebre
+- La Plana Interior
+- El Litoral
+- Els Ports de Tortosa
+A: La Plana Interior
+
+Q: Quin municipi té la superfície més extensa del Montsià?
+- Ulldecona
+- Amposta
+- La Sénia
+- Mas de Barberans
+A: Amposta
+
+Q: Quin any es va aprovar definitivament el POUM d'Amposta?
+- 2005
+- 2006
+- 2007
+- 2008
+A: 2007
+
+Q: Segons el PTPTE, com es designen els nuclis principals com Amposta o la Ràpita?
+- Àrees de creixement mitjà
+- Àrees de protecció territorial estricta
+- Àrees de creixement potenciat
+- Àrees de sòl de protecció preventiva
+A: Àrees de creixement potenciat
+
+Q: Quina és la jerarquia correcta del planejament urbanístic al Montsià de major a menor rang?
+- POUM > PTPTE > TRLUC
+- TRLUC > POUM > PTPTE
+- TRLUC > PTPTE > POUM
+- PTPTE > TRLUC > POUM
+A: TRLUC > PTPTE > POUM
+
+Q: Quin sector muntanyós ocupa el sector occidental de la comarca, especialment al terme de la Sénia?
+- La serra del Montsià
+- Els Ports de Tortosa
+- Els Ports de Beseit
+- La serra de Cardó
+A: Els Ports de Tortosa
+
+Q: Quin és el principal risc natural que afecta el Delta de l'Ebre?
+- Sequeres
+- Inundacions
+- Incendis forestals
+- Esllavissades
+A: Inundacions
+
+Q: Aproximadament quants residents estrangers hi havia al Montsià l'any 2024?
+- 10.500 residents
+- 12.500 residents
+- 14.500 residents
+- 16.500 residents
+A: 14.500 residents
+
+Q: Quin sector econòmic té un pes en el Valor Afegit Brut del Montsià molt superior a la mitjana catalana?
+- El sector secundari
+- El sector terciari
+- El sector primari
+- El sector quaternari
+A: El sector primari
+
+Q: A quins municipis es destaca l'agroindústria i els transformats no metàl·lics?
+- La Ràpita i Alcanar
+- Amposta i Ulldecona
+- La Sénia i Mas de Barberans
+- Santa Bàrbara i Godall
+A: Amposta i Ulldecona
+
+Q: Quin tipus de turisme es desenvolupa especialment vinculat al Parc Natural del Delta de l'Ebre?
+- Turisme de muntanya
+- Ecoturisme
+- Turisme cultural
+- Turisme d'aventura
+A: Ecoturisme
+
+Q: Quin article del TRLUC regula la rehabilitació de masies en sòl no urbanitzable?
+- Article 37
+- Article 47
+- Article 57
+- Article 67
+A: Article 47
+
+Q: Quina plataforma logística estratègica s'està desenvolupant a l'entorn de l'Aldea segons el PTPTE?
+- LOGIS Delta
+- LOGIS Ebre
+- LOGIS Terres
+- LOGIS Ports
+A: LOGIS Ebre
+
+Q: Quantes llicències d'habitatges d'ús turístic per cada 100 habitants es permeten a Amposta segons la modificació recent del POUM?
+- 5 llicències
+- 10 llicències
+- 15 llicències
+- 20 llicències
+A: 10 llicències
+
+Q: Quina figura de protecció europea afecta el Delta de l'Ebre?
+- Zones d'Especial Protecció per a les Aus
+- Xarxa Natura 2000
+- Geoparcs Europeus
+- Patrimoni de la Humanitat
+A: Xarxa Natura 2000
+
+Q: Quina mnemotècnia ajuda a recordar la jerarquia del planejament urbanístic?
+- L-T-M (Llei > Territori > Municipi)
+- M-T-L (Municipi > Territori > Llei)
+- T-L-M (Territori > Llei > Municipi)
+- L-M-T (Llei > Municipi > Territori)
+A: L-T-M (Llei > Territori > Municipi)
+
+Q: Quin és l'objectiu principal del model d'assentaments del PTPTE per combatre el despoblament?
+- Dispersar la població pel territori
+- Concentrar el creixement als nuclis principals
+- Fomentar urbanitzacions aïllades
+- Crear nous nuclis urbans
+A: Concentrar el creixement als nuclis principals
+
+Q: Què classifica el PTPTE per preservar els valors naturals, agraris i paisatgístics?
+- Sòl urbà consolidat
+- Espais oberts en categories de protecció
+- Zones industrials
+- Àrees residencials prioritàries
+A: Espais oberts en categories de protecció

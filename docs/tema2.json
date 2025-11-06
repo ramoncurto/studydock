@@ -1,0 +1,435 @@
+{
+  "metadata": {
+    "title": "Drets i deures fonamentals dels espanyols i les seves garanties",
+    "subject": "Dret Constitucional",
+    "topic": "Títol I de la Constitució Espanyola",
+    "keywords": [
+      "==drets fonamentals==",
+      "garanties",
+      "constitució",
+      "empara",
+      "==Defensor del Poble==",
+      "tutela judicial"
+    ],
+    "difficulty": "avançat",
+    "estimatedTime": "90 min"
+  },
+  "sections": [
+    {
+      "id": "conceptes-clau",
+      "title": "1) Conceptes clau i definicions",
+      "level": 1,
+      "content": [
+        {
+          "type": "subsection",
+          "title": "Definicions Fonamentals",
+          "items": [
+            {
+              "type": "definition",
+              "term": "Dret Fonamental",
+              "details": [
+                "Dret subjectiu de naturalesa pública, inherent a la dignitat de la persona (art. 10.1 CE)",
+                "Atorga al seu titular un poder jurídic per exigir una determinada conducta (acció o omissió) als poders públics",
+                "Característica principal: eficàcia directa i immediata",
+                "Són directament aplicables sense necessitat de desenvolupament legislatiu"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "==contingut essencial==",
+              "details": [
+                "Recollit a l'article 53.1 CE",
+                "Representa el nucli irreductible d'un dret fonamental",
+                "Conjunt de facultats sense les quals el dret perd la seva identitat i es desnaturalitza",
+                "Garantia absoluta davant del legislador",
+                "El legislador pot regular l'exercici del dret però mai buidar-lo de contingut"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "==reserva de llei==",
+              "details": [
+                "Tècnica constitucional que exigeix que determinades matèries només puguin ser regulades per norma amb rang de llei",
+                "Aprovada pel Parlament",
+                "Impedeix que el poder executiu, mitjançant reglaments, pugui limitar els drets",
+                "Assegura el principi de legitimitat democràtica",
+                "Pot ser de ==Llei Orgànica== (==Secció 1a== del ==Capítol II==) o de ==Llei Ordinària== (resta de drets del ==Capítol II==)"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Principi de Proporcionalitat",
+              "details": [
+                "No està explícitament formulat a la Constitució",
+                "Consolidat pel Tribunal Constitucional com a principi general del Dret",
+                "Derivat de la clàusula de l'==Estat de Dret== (art. 1.1 CE) i del valor superior de la justícia",
+                "S'utilitza per avaluar la constitucionalitat de mesures restrictives de ==drets fonamentals==",
+                "Exigeix superar un triple test"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Triple test de proporcionalitat",
+          "items": [
+            "Judici d'idoneïtat: La mesura ha de ser adequada per aconseguir la finalitat legítima que es persegueix",
+            "Judici de necessitat: No ha d'existir una altra mesura menys restrictiva per al dret que permeti assolir el mateix objectiu amb igual eficàcia",
+            "Judici de proporcionalitat en sentit estricte: La mesura ha de ser ponderada o equilibrada, els beneficis per a l'interès general han de superar els perjudicis sobre el dret fonamental afectat"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "estructura",
+      "title": "2) Estructura / Esquemes",
+      "level": 1,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "El Títol I de la Constitució (\"Dels drets i deures fonamentals\") s'estructura en cinc capítols que organitzen jeràrquicament els drets i les seves garanties."
+        },
+        {
+          "type": "subsection",
+          "title": "Estructura del Títol I",
+          "items": [
+            "Capítol I (Arts. 11-13): \"Dels espanyols i els estrangers\". Regula la nacionalitat, la majoria d'edat i el règim de drets dels estrangers",
+            "==Capítol II== (Arts. 14-38): \"Drets i llibertats\". És el catàleg principal de drets",
+            "Capítol III (Arts. 39-52): \"Dels principis rectors de la política social i econòmica\". Conté mandats als poders públics per promoure condicions favorables al progrés social i econòmic",
+            "Capítol IV (Arts. 53-54): \"De les garanties de les llibertats i ==drets fonamentals==\". És el pilar del sistema de protecció",
+            "Capítol V (Art. 55): \"De la suspensió dels drets i llibertats\". Regula els supòsits excepcionals"
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "==Capítol II== - Drets i llibertats",
+          "items": [
+            "Article 14: Principi d'igualtat davant la llei, sense discriminació. Es troba aïllat per la seva importància transversal",
+            "==Secció 1a== (Arts. 15-29): \"Dels ==drets fonamentals== i de les ==llibertats públiques==\". Inclou el nucli dur de drets civils i polítics (dret a la vida, llibertat ideològica, dret a l'honor, llibertat d'expressió, dret de reunió, associació, tutela judicial efectiva, etc.). Gaudeixen del màxim nivell de protecció",
+            "Secció 2a (Arts. 30-38): \"Dels drets i deures dels ciutadans\". Recull drets i deures com el de defensar Espanya, el deure de contribuir a les despeses públiques, el dret a contraure matrimoni, el dret a la propietat privada i la llibertat d'empresa. Tenen un nivell de protecció estàndard"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Aquesta taula no és només un resum de regles, sinó un mapa del sistema de valors constitucionals. Els drets de la primera fila representen el pacte democràtic fonamental de 1978, motiu pel qual la seva modificació requereix el procediment de reforma més rígid possible, incloent la dissolució de les Corts i un referèndum. La ==reserva de llei== Orgànica assegura que la seva regulació només es pot fer amb un ampli consens parlamentari. Per a un arquitecte tècnic, aquesta jerarquia és crucial: la inviolabilitat del domicili (art. 18.2, ==Secció 1a==) té una protecció molt superior al dret de propietat (art. 33, Secció 2a), una distinció clau en procediments d'inspecció o expropiació."
+        }
+      ]
+    },
+    {
+      "id": "principis",
+      "title": "3) Principis / Regles",
+      "level": 1,
+      "content": [
+        {
+          "type": "subsection",
+          "title": "Principis Fonamentals",
+          "items": [
+            {
+              "type": "definition",
+              "term": "Eficàcia Directa",
+              "details": [
+                "Els drets reconeguts al ==Capítol II== (arts. 14-38) vinculen tots els poders públics de manera immediata",
+                "No cal una llei que els desenvolupi per poder ser invocats i aplicats (art. 53.1 CE)",
+                "Això els diferencia dels principis rectors del Capítol III"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Interpretació Conforme al Dret Internacional",
+              "details": [
+                "L'article 10.2 CE estableix una clàusula d'obertura a l'ordenament internacional de drets humans",
+                "La jurisprudència del Tribunal Europeu de Drets Humans és una eina interpretativa fonamental",
+                "Determina l'abast dels drets reconeguts a la Constitució espanyola"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Límits als Drets",
+              "details": [
+                "Cap dret és absolut",
+                "L'exercici dels ==drets fonamentals== troba els seus límits en el respecte als drets dels altres",
+                "També en la protecció de béns constitucionals: ordre públic, seguretat, salut pública",
+                "Requisits per a qualsevol limitació: estar prevista per llei (==reserva de llei==), respectar el ==contingut essencial== del dret i ser proporcionada a la finalitat perseguida"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Funció Social de la Propietat",
+              "details": [
+                "L'article 33.2 CE estableix que la funció social del dret a la propietat privada i a l'herència en delimitarà el contingut",
+                "Base constitucional que legitima la intervenció pública en l'àmbit de la propietat immobiliària",
+                "Permet a l'Administració imposar deures, càrregues i limitacions als propietaris per adequar l'ús del sòl a l'interès general",
+                "La legislació urbanística, la classificació del sòl i l'expropiació forçosa són manifestacions d'aquesta funció social"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "procediment",
+      "title": "4) Procediment i aplicació administrativa",
+      "level": 1,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "El sistema de garanties es materialitza en tres procediments principals:"
+        },
+        {
+          "type": "subsection",
+          "title": "A. Tutela Judicial: Procediment Preferent i Sumari",
+          "items": [
+            {
+              "type": "definition",
+              "term": "Objecte",
+              "details": [
+                "Protecció dels drets reconeguts a l'article 14 i a la ==Secció 1a== del ==Capítol II== (arts. 15-29)"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Característiques",
+              "details": [
+                "Procés judicial accelerat davant la jurisdicció ordinària (contenciosa-administrativa, laboral, civil o penal)",
+                "Tramitació prioritària sobre altres assumptes",
+                "Terminis més breus"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Requisit Clau",
+              "details": [
+                "És una via prèvia i obligatòria abans de poder acudir al Tribunal Constitucional",
+                "El principi de subsidiarietat del ==recurs d'empara== exigeix haver esgotat tots els recursos judicials ordinaris"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "B. ==recurs d'empara== (Tribunal Constitucional)",
+          "items": [
+            {
+              "type": "definition",
+              "term": "Objecte",
+              "details": [
+                "És la darrera garantia interna per a la protecció dels drets més fonamentals (arts. 14-29 i 30.2)",
+                "Davant d'actes dels poders públics que els violin",
+                "Un cop esgotada la via judicial ordinària"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Tipus segons l'origen de la vulneració (regulats a la LOTC)",
+          "items": [
+            "Contra decisions parlamentàries sense valor de llei (art. 42 LOTC)",
+            "Contra decisions ==govern==atives o administratives (art. 43 LOTC)",
+            "Contra decisions judicials (art. 44 LOTC), que és el supòsit més habitual"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Procediment (Esquemàtic)",
+          "items": [
+            "Interposició: Demanda en termini determinat (generalment, 30 dies hàbils des de la notificació de la darrera resolució judicial)",
+            "Admissió a Tràmit: El Tribunal realitza un judici d'admissibilitat molt estricte. Només admet recursos que justifiquin una \"especial transcendència constitucional\"",
+            "Tramitació: Si s'admet, se sol·liciten les actuacions judicials i es dona trasllat a les parts i al Ministeri Fiscal per formular al·legacions",
+            "Sentència: Pot atorgar l'empara (declarar nul·litat de l'acte, reconèixer el dret vulnerat i restablir el recurrent) o denegar-la. Les decisions són definitives amb plens efectes"
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "C. ==Defensor del Poble==",
+          "items": [
+            {
+              "type": "definition",
+              "term": "Naturalesa",
+              "details": [
+                "Alt Comissionat de les ==Corts Generals== per a la defensa dels drets del Títol I",
+                "Actua amb independència i autonomia",
+                "No és un òrgan judicial",
+                "Les seves resolucions no són sentències i no tenen força executiva",
+                "Gaudeixen d'una gran autoritat moral i política (auctoritas)"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Funcions",
+              "details": [
+                "Supervisa l'activitat de totes les administracions públiques (estatal, autonòmica i local)",
+                "Està legitimat per interposar recursos d'inconstitucionalitat i d'empara"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Procediment de Queixa davant el ==Defensor del Poble==",
+          "items": [
+            "Presentació: Qualsevol persona, sense necessitat d'advocat ni procurador, pot presentar una queixa per escrit. El tràmit és gratuït",
+            "Investigació: Admesa la queixa, el ==Defensor del Poble== s'adreça a l'Administració implicada per demanar-li un informe. Totes les autoritats tenen l'obligació legal de col·laborar amb caràcter preferent i urgent",
+            "Resolució: Si constata una actuació incorrecta, formula recomanacions, suggeriments o recordatoris de deures legals. No pot anul·lar ni modificar actes administratius",
+            "Informe Anual: Presenta un informe anual a les ==Corts Generals== on detalla la seva activitat i pot assenyalar les administracions que no han col·laborat o no han acceptat les seves recomanacions"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "normativa",
+      "title": "5) Normativa essencial",
+      "level": 1,
+      "content": [
+        {
+          "type": "list",
+          "items": [
+            "CE: Constitución Española (1978). Text consolidat, darrera actualització 17/02/2024",
+            "LOTC: Ley Orgánica 2/1979, de 3 de octubre, del Tribunal Constitucional",
+            "LODP: Ley Orgánica 3/1981, de 6 de abril, del Defensor del Pueblo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "exemples-casos",
+      "title": "6) Exemples i casos",
+      "level": 1,
+      "content": [
+        {
+          "type": "example",
+          "label": "Exemple (test)",
+          "text": "Un ciutadà considera que una nova llei autonòmica sobre habitatge vulnera el seu dret a la propietat (art. 33 CE). El ==recurs d'empara== no és la via adequada per impugnar directament la llei, ja que el dret a la propietat no està inclòs en el nucli dur protegit per aquest recurs. La via correcta seria un recurs d'inconstitucionalitat (si es té legitimació) o impugnar un acte d'aplicació de la llei davant la jurisdicció ordinària i, si s'escau, plantejar una qüestió d'inconstitucionalitat."
+        },
+        {
+          "type": "example",
+          "label": "Micro-cas",
+          "text": "Un arquitecte tècnic municipal, en l'exercici de les seves funcions, ordena l'entrada a un domicili privat per realitzar una inspecció d'obres sense el consentiment del titular ni una autorització judicial prèvia, al·legant una situació d'urgència no acreditada.\n\nORIENTACIÓ DE RESPOSTA: L'actuació vulnera el dret a la inviolabilitat del domicili (art. 18.2 CE), un dret fonamental de la ==Secció 1a==. Aquest dret només cedeix davant el consentiment del titular, una resolució judicial o un delicte flagrant. L'arquitecte ha actuat ultra vires (més enllà de les seves competències). El titular de l'habitatge podria iniciar accions legals per la via penal i, si l'Administració no repara la vulneració, podria acudir a la tutela judicial preferent i sumària i, en darrer terme, al ==recurs d'empara==."
+        }
+      ]
+    },
+    {
+      "id": "errors-mnemo",
+      "title": "7) Errors típics i mnemotècnies",
+      "level": 1,
+      "content": [
+        {
+          "type": "subsection",
+          "title": "Error Típic 1",
+          "items": [
+            {
+              "type": "definition",
+              "term": "Confondre els \"Principis Rectors\" (Capítol III) amb drets directament exigibles",
+              "details": [
+                "Un ciutadà no pot demandar l'Estat per no proporcionar-li un habitatge basant-se només en l'article 47 CE",
+                "La recent STC 79/2024 ha matisat aquesta visió, reconeixent que el legislador estatal pot establir condicions bàsiques per garantir aquest dret"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "Error Típic 2",
+          "items": [
+            {
+              "type": "definition",
+              "term": "Creure que el ==recurs d'empara== serveix per a qualsevol dret de la Constitució",
+              "details": [
+                "Només és aplicable als drets del nucli dur (arts. 14-29 i 30.2)"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "Error Típic 3",
+          "items": [
+            {
+              "type": "definition",
+              "term": "Pensar que el ==Defensor del Poble== pot anul·lar un acte administratiu",
+              "details": [
+                "El ==Defensor del Poble== té autoritat moral però no poder coercitiu",
+                "No pot anul·lar ni modificar actes administratius"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glossari",
+      "title": "8) Glossari mínim",
+      "level": 1,
+      "content": [
+        {
+          "type": "subsection",
+          "title": "Termes Essencials",
+          "items": [
+            {
+              "type": "definition",
+              "term": "Empara (Recurs d')",
+              "details": [
+                "Procés constitucional davant el ==Tribunal Constitucional==",
+                "Per a la protecció última dels ==drets fonamentals== del nucli dur (arts. 14-29 i 30.2 CE)",
+                "Un cop esgotada la via judicial ordinària"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Habeas Corpus",
+              "details": [
+                "Procediment judicial especial i sumari previst a l'article 17.4 CE",
+                "Per a la posada a disposició judicial immediata de tota persona detinguda il·legalment"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "==tutela judicial efectiva==",
+              "details": [
+                "Dret fonamental (art. 24 CE)",
+                "Garanteix a totes les persones l'accés als jutges i tribunals",
+                "Dret a obtenir una resolució fundada en Dret",
+                "Dret a l'execució de la resolució",
+                "Dret a un procés amb totes les garanties",
+                "Sense que es pugui produir indefensió"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "resum",
+      "title": "Resum final",
+      "level": 1,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "La Constitució Espanyola articula un sistema de protecció dels drets ciutadans que és alhora robust i jerarquitzat. El nivell de garantia atorgat a cada dret és directament proporcional a la seva importància dins de l'ordenament, creant una clara distinció entre un nucli de llibertats fonamentals amb protecció màxima (procediment judicial preferent, ==recurs d'empara==, ==reserva de llei== Orgànica) i altres drets i principis amb una tutela estàndard o de caràcter programàtic."
+        }
+      ]
+    },
+    {
+      "id": "bloc-examen",
+      "title": "Micro-cas pràctic",
+      "level": 1,
+      "content": [
+        {
+          "type": "example",
+          "label": "Cas: Prohibició de manifestació",
+          "text": "Una associació de veïns comunica a la subdelegació del ==Govern== la intenció de celebrar una manifestació pacífica en una plaça pública. La subdelegació prohibeix la manifestació argumentant \"possibles molèsties al trànsit i al comerç local\", sense aportar cap informe policial que justifiqui un risc real i fundat per a l'ordre públic. L'associació recorre la decisió davant la jurisdicció contenciosa-administrativa, però el tribunal confirma la prohibició."
+        },
+        {
+          "type": "list",
+          "title": "Anàlisi del cas",
+          "items": [
+            "DRET VULNERAT: S'ha vulnerat el dret de reunió i manifestació (art. 21 CE), que forma part del nucli dur de drets amb màxima protecció. La Constitució estableix que aquest dret només es pot prohibir per \"raons fundades d'alteració de l'ordre públic, amb perill per a persones o béns\", un estàndard molt més exigent que meres \"molèsties\"",
+            "ACTUACIÓ ADMINISTRATIVA: La decisió de la subdelegació sembla desproporcionada i no està suficientment motivada, ja que no acredita el perill exigit per la norma constitucional. Podria ser considerada una restricció il·legítima del dret",
+            "VIA JUDICIAL: L'associació ha complert el requisit d'esgotar la via judicial ordinària (principi de subsidiarietat del ==recurs d'empara==)",
+            "MECANISME FINAL: Atès que la sentència judicial no ha reparat la vulneració d'un dret fonamental de la ==Secció 1a==, l'associació està legitimada per interposar un ==recurs d'empara== davant el ==Tribunal Constitucional== (per la via de l'art. 44 LOTC) contra la decisió judicial. L'argument central seria que el tribunal ordinari no va protegir adequadament el dret de reunió enfront d'una limitació administrativa no justificada i desproporcionada"
+          ]
+        }
+      ]
+    }
+  ]
+}

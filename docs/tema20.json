@@ -1,0 +1,362 @@
+{
+  "metadata": {
+    "title": "L'==aprofitament urbanístic==: regles de ponderació, cessions i certificat",
+    "subject": "Dret Urbanístic",
+    "topic": "==Aprofitament urbanístic== i gestió del sòl",
+    "keywords": [
+      "==aprofitament urbanístic==",
+      "ponderació",
+      "cessions",
+      "==certificat urbanístic==",
+      "==reparcel·lació==",
+      "equidistribució"
+    ],
+    "difficulty": "avançat",
+    "estimatedTime": "15 min"
+  },
+  "sections": [
+    {
+      "id": "visio-global",
+      "title": "Visió Global",
+      "level": 1,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "L'==aprofitament urbanístic== és la capacitat edificatòria assignada pel planejament a un àmbit o finca determinada, resultat de ponderar l'edificabilitat, els usos i la intensitat d'usos prevists. Aquest concepte garanteix el repartiment equitatiu de beneficis i càrregues entre propietaris: mitjançant la ponderació, s'homogeneïtzen diferents qualificacions de sòl per assegurar que cadascú rebi la quota d'edificabilitat que li correspon."
+        },
+        {
+          "type": "paragraph",
+          "text": "Les cessions urbanístiques són obligacions legals pels propietaris de cedir gratuïtament sòl i aprofitament a l'Administració (vials, zones verdes, equipaments i un percentatge d'edificabilitat) per a l'interès públic."
+        },
+        {
+          "type": "paragraph",
+          "text": "Finalment, el certificat d'==aprofitament urbanístic== (o de règim urbanístic) és un document municipal que acredita el règim urbanístic vigent d'un terreny i l'aprofitament assignat o transferible en el moment de la seva expedició. Aquest certificat té una vigència limitada i permet als interessats conèixer els drets edificatoris d'un sòl abans de promoure actuacions o transmissions."
+        }
+      ]
+    },
+    {
+      "id": "conceptes-clau",
+      "title": "Desenvolupament",
+      "level": 1,
+      "content": [
+        {
+          "type": "subsection",
+          "title": "Conceptes Clau i Definicions",
+          "items": [
+            {
+              "type": "definition",
+              "term": "==Aprofitament urbanístic==",
+              "details": [
+                "Capacitat d'edificació i ús urbanístic atribuïda pel planejament a un àmbit",
+                "Resultat de combinar edificabilitat (m² sostre), usos i intensitats d'ús ponderats"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Ponderació de l'aprofitament",
+              "details": [
+                "Procediment tècnic-jurídic per equacionar diferents valors de sòl dins un mateix desenvolupament",
+                "Si un polígon inclou zones amb distints usos o intensitats (residencial vs. industrial), el pla estableix valors relatius homogenitzats per a cada zona"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Equidistribució de beneficis i càrregues",
+              "details": [
+                "Principi fonamental en gestió urbanística pel qual el planejament ha de distribuir tant els avantatges (edificabilitat, ús lucratiu del sòl) com les obligacions (cessions de terrenys, costos d'urbanització) entre tots els afectats d'un àmbit",
+                "Cada propietari participa en proporció a la superfície i valor del seu sòl"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Cessions urbanístiques",
+              "details": [
+                "Aportacions obligatòries i gratuïtes de sòl (o drets edificatoris) que els propietaris han de fer a favor de l'Administració en desenvolupar-se un pla",
+                "Tipus principals: (a) cessió de sòl per a sistemes urbanístics (locals i generals), (b) cessió d'==aprofitament urbanístic== al patrimoni públic"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "estructura",
+      "title": "Estructura i Esquemes",
+      "level": 1,
+      "content": [
+        {
+          "type": "subsection",
+          "title": "Determinació de l'Aprofitament en el Planejament",
+          "items": [
+            "El ==Pla d'ordenació urbanística municipal== (==POUM==) o ==Pla general== assigna l'==aprofitament urbanístic== global a cada zona del municipi, indicant l'edificabilitat i usos (p. ex., m² de sostre residencial, industrial, etc.)",
+            "En els sòls urbans consolidats, aquesta assignació es distribueix directament per zones",
+            "En els sòls urbanitzables o urbans no consolidats, el planejament derivat (plans parcials o de millora urbana) concretarà la distribució interna de l'aprofitament entre les diverses zones del sector",
+            "S'exclou de comptar com a aprofitament ponderat el que correspon a sistemes públics (equipaments) dins l'àmbit, ja que no genera drets edificatoris privats"
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "Procés de Ponderació i Repartiment",
+          "items": [
+            "① Fase de planejament: un cop definit el sector d'actuació, es calcula l'==aprofitament urbanístic== total lucratiu del sector (sostre edificable total dels usos privats)",
+            "② Si el sector inclou diferents qualificacions (ús residencial, comercial, industrial, etc.), s'assignen coeficients de ponderació a cada ús/zona segons valor relatiu",
+            "③ Es determina així l''aprofitament tipus' o homogeni: per exemple, 1 m² d'ús industrial pot equivaler a 0,5 m² d'ús residencial en valor",
+            "④ Fase de gestió (==reparcel·lació==): s'aplica l'aprofitament homogeni calculat a cada parcel·la original: Aprofitament de la finca = coeficient homogeni × m² de sòl aportats"
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "Certificats i Reserves d'Aprofitament",
+          "items": [
+            "En l'estructura del planejament pot preveure's la figura de reserves o transferències d'aprofitament",
+            "Es delimiten unes finques com a receptores d'edificabilitat i d'altres com a cedents (on es redueix o elimina el dret a edificar, per destinar-les a sistema general, per exemple)",
+            "L'Administració pot atorgar certificats d'aprofitament transferible o títols equivalents als propietaris afectats",
+            "Acrediten el seu dret a materialitzar l'edificabilitat en una finca diferent (destí) o a ser indemnitzats"
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "Documentació Urbanística Vinculada",
+          "items": [
+            "L'==aprofitament urbanístic== assignat a cada finca queda reflectit en documents com el projecte de ==reparcel·lació== (on consta l'aprofitament en parcel·les adjudicades a cada propietari)",
+            "També en el cadastre i Registre de la Propietat (mitjançant inscripció de les noves finques resultants i les seves càrregues/limitacions)",
+            "Els Certificats de règim urbanístic expedits per l'ajuntament indiquen l'aprofitament vigent en qualsevol moment",
+            "Funcionen com una 'fotografia legal' de les possibilitats edificatòries d'un terreny"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "principis",
+      "title": "Principis i Regles",
+      "level": 1,
+      "content": [
+        {
+          "type": "subsection",
+          "title": "Altres Principis Fonamentals",
+          "items": [
+            {
+              "type": "definition",
+              "term": "Dret a indemnització i compensació",
+              "details": [
+                "Correlatiu al deure de cessió, els propietaris tenen dret a ser compensats adequadament",
+                "Si el planejament els imposa cessions de terreny o limitacions que excedeixen els estàndards legals, hauran de ser indemnitzats"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Publicitat i ==seguretat jurídica==",
+              "details": [
+                "El règim d'==aprofitament urbanístic== de cada finca és públic i accessible",
+                "Els ajuntaments han d'emetre certificats de règim urbanístic a qualsevol persona que ho sol·liciti"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Unitat d'actuació",
+              "details": [
+                "La gestió de l'aprofitament es regeix pel principi d'unitat",
+                "Els polígons d'actuació urbanística han d'incloure tant sòls de cessió (sistemes) com sòls lucratius, per permetre el repartiment intern"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "procediment",
+      "title": "Procediment i Aplicació Administrativa",
+      "level": 1,
+      "content": [
+        {
+          "type": "subsection",
+          "title": "Planejament General i Derivat",
+          "items": [
+            "L'ajuntament, mitjançant el ==POUM== o planejament general, estableix els paràmetres d'aprofitament per a cada zona de la ciutat (zones residencials de baixa densitat, zones industrials, centre urbà amb major edificabilitat, etc.)",
+            "Quan es desenvolupa un sector, s'aprova un pla parcial o pla de millora urbana que detalla la distribució de sòl",
+            "Es determina quines parcel·les seran per a carrers, parcs, equipaments (sistemes) i quines seran parcel·les edificables privades, amb quins usos i sostres",
+            "En aquesta fase es calculen ja els aprofitaments urbanístics resultants"
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "Gestió Urbanística – ==Reparcel·lació==",
+          "items": [
+            "Un cop el pla derivat és aprovat, es procedeix normalment a un projecte de ==reparcel·lació== (modalitats: voluntària, econòmica, compensació, etc.)",
+            "Procediment: 1) Es quantifica l'==aprofitament urbanístic== total de l'àmbit",
+            "2) Es detreu el ==10%== (o ==15%==) de cessió obligatòria per a l'ajuntament – aquest aprofitament públic es concreta designant parcel·les concretes que s'adjudiquen a l'ajuntament (sòl per habitatge protegit, per exemple) o reservant-lo per monetització",
+            "3) Es defineixen les parcel·les necessàries per a sistemes públics (viari, zones verdes, equipaments) que s'adjudiquen també a l'ajuntament"
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "Execució de les Obres d'Urbanització",
+          "items": [
+            "Paral·lelament a la ==reparcel·lació== (o després), s'executen les obres d'urbanització del sector",
+            "Pot ser per gestió directa municipal o per cooperació/compensació dels propietaris agrupats en ==junta de compensació==",
+            "Els costos d'urbanització es reparteixen també proporcionalment entre els propietaris (segons coeficients d'aprofitament)",
+            "Un cop acabades, els carrers, zones verdes i equipaments cedits passen formalment a domini públic"
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "Sol·licitud de Certificat d'Aprofitament",
+          "items": [
+            "Qualsevol interessat (propietari, comprador potencial, notari, jutjat) pot demanar a l'ajuntament un certificat de règim urbanístic de la finca concreta",
+            "El tràmit sol·licitud comporta el pagament d'una taxa i l'aportació de dades de la finca (referència cadastral, localització)",
+            "L'ajuntament ha d'emetre el certificat en termini màxim d'un mes",
+            "El contingut inclou: la classificació urbanística del sòl (urbà, urbanitzable, no urbanitzable), la qualificació (zona i usos del pla), l'edificabilitat i aprofitament assignats, les condicions d'edificació (alçades, ocupació, etc.), i si hi ha afectacions com ==sistemes generals== previstos, plans en tramitació o suspensió de llicències"
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "Vigència i Efectes del Certificat",
+          "items": [
+            "El certificat d'==aprofitament urbanístic== té per finalitat donar seguretat a qui vol fer una actuació imminent o necessita acreditar l'estat urbanístic (vendre la finca, obtenir finançament)",
+            "La Llei estableix que aquests certificats tenen una vigència de sis mesos des de la notificació, si es refereixen a finques no directament edificables (pendents de pla o ==reparcel·lació==)",
+            "Dins aquest termini, si canvia el planejament, el certificat preval quant al règim de llicències: qui ja tingui un certificat vigent pot sol·licitar igualment la llicència segons la normativa antiga",
+            "Passats els 6 mesos, cal demanar-ne un de nou per obtenir protecció davant canvis"
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "Control Registral",
+          "items": [
+            "L'==aprofitament urbanístic== no sol constar directament en el Registre de la Propietat (excepte en forma de notes d'afecció per càrregues d'urbanització, o inscripcions de ==reparcel·lació== on ja figura la nova finca amb el seu ús i sostre)",
+            "Existeixen mecanismes registrals per publicitar certes operacions sobre aprofitament",
+            "En alguns casos es pot anotar la reserva o cessió d'aprofitament separada de la finca (transferències de dret d'edificació a altres finques), conforme la legislació hipotecària i urbanística estatal (RD 1093/1997)",
+            "Aquest control evita que es venguin drets d'aprofitament il·limitadament o al marge del planejament aprovat"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "normativa",
+      "title": "Normativa Essencial",
+      "level": 1,
+      "content": [
+        {
+          "type": "list",
+          "items": [
+            "TRLUC — ==Text refós== de la Llei d'urbanisme de Catalunya, Decret Legislatiu 1/2010, de 3 d'agost (mod. per Llei 3/2012 i altres) — Arts. 37: definició aprofitament; 40: límits drets; 43-44: cessions; 105: certificats de règim urbanístic",
+            "RLUC — ==Reglament== de la Llei d'urbanisme, Decret 305/2006, de 18 de juliol — Arts. 36: regles de ponderació de l'aprofitament; desenvolupament procediments ==reparcel·lació==",
+            "TRLSRU — ==Text refós== de la Llei de Sòl i Rehabilitació Urbana (estatal), RDL 7/2015 — Principis estatals de distribució equitativa i participació en plusvàlues: cessió del 5-==15%== aprofitament segons ==Comunitat Autònoma==",
+            "Legislació catalana sectorial vigent (any 2023) — Decrets llei 17/2019, 1/2020, 18/2020, 2/2021: modificacions puntuals de la Llei d'urbanisme per mesures urgents d'habitatge. Important: Llei 2/2021 va actualitzar percentatges de cessió en alguns supòsits i flexibilitzar ==sòl no urbanitzable==",
+            "Normes urbanístiques municipals i ==POUM== — Cada planejament municipal pot concretar determinacions sobre aprofitament i cessions dins el marc de la Llei; p. ex. percentatges de cessió per sobre del mínim, reserves per habitatge protegit"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "exemples-casos",
+      "title": "Exemples i Casos",
+      "level": 1,
+      "content": [
+        {
+          "type": "example",
+          "label": "Exemple (test): Ponderació en polígon mixt",
+          "text": "En un polígon d'actuació urbanística, la meitat de la superfície està qualificada com a parc públic i l'altra meitat com a sòl residencial edificable. Mitjançant la ponderació de l'aprofitament, s'estableix que 1 m² de sòl residencial equival a 1 m² d'aprofitament, mentre que 1 m² de sòl destinat a parc equival a 0 m² d'aprofitament (en ser no edificable).."
+        },
+        {
+          "type": "example",
+          "label": "Micro-cas (aplicació pràctica): Certificat abans de compravenda",
+          "text": "Un propietari vol vendre una finca urbana situada en un sector on hi ha un pla de millora urbana aprovat, però encara no executat. L'interessat li demana quins drets edificatoris té exactament aquesta finca.."
+        }
+      ]
+    },
+    {
+      "id": "errors-mnemo",
+      "title": "Errors Típics i Mnemotècnies",
+      "level": 1,
+      "content": [
+        {
+          "type": "subsection",
+          "title": "Mnemotècnies Numèriques",
+          "items": [
+            "90/10 i 85/15: En ==sòl urbà== no consolidat: ==90%== propietaris – ==10%== ajuntament. En ==sòl urbanitzable==: ==85%== propietaris – ==15%== ajuntament. Això t'ajuda a recordar els drets d'aprofitament dels propietaris segons el sòl"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glossari",
+      "title": "Glossari Mínim",
+      "level": 1,
+      "content": [
+        {
+          "type": "subsection",
+          "title": "Termes Fonamentals",
+          "items": [
+            {
+              "type": "definition",
+              "term": "==Aprofitament urbanístic==",
+              "details": [
+                "Quota d'edificabilitat i ús que un pla urbanístic atribueix a un sòl privat",
+                "Resultat de ponderar els paràmetres urbanístics i d'equitativitzar-los entre propietaris"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Ponderació (de l'aprofitament)",
+              "details": [
+                "Mecanisme de càlcul per equiparar diferents usos o intensitats en un àmbit d'actuació",
+                "Assigna valors homogenis a cada tipus de sòl segons la seva utilitat o valor"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Cessions urbanístiques",
+              "details": [
+                "Lliuraments obligatoris i gratuïts de terrenys o drets edificatoris al poder públic",
+                "Imposats per la legislació urbanística com a condició per desenvolupar un sòl"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Certificat d'==aprofitament urbanístic== (certificat de règim urbanístic)",
+              "details": [
+                "Document oficial expedit per l'ajuntament",
+                "Acredita la normativa urbanística aplicable a una finca concreta"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "resum",
+      "title": "Resum Final",
+      "level": 1,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "L'==aprofitament urbanístic== resumeix el dret a edificar que cada propietari adquireix en un desenvolupament urbà, un cop distribuïts equilibradament els usos i sostres que preveu el pla. Gràcies a la ponderació, zones amb qualificacions diferents es compensen, garantint que tots els propietaris comparteixen beneficis i càrregues per igual."
+        },
+        {
+          "type": "paragraph",
+          "text": "El sistema de cessions assegura que part d'aquest aprofitament revertesqui en la comunitat: cedint sòl per a espais públics i un percentatge d'edificabilitat a l'Administració."
+        },
+        {
+          "type": "paragraph",
+          "text": "Abans d'actuar sobre un terreny, el certificat d'==aprofitament urbanístic== permet conèixer amb exactitud i ==seguretat jurídica== quina és la situació urbanística i quins drets edificatoris porta associats, evitant incerteses davant canvis de planejament."
+        },
+        {
+          "type": "paragraph",
+          "text": "En definitiva, aquestes eines fan possible un urbanisme just, transparent i ordenat, on el creixement de la ciutat beneficia tant propietaris individuals com el conjunt de la societat."
+        }
+      ]
+    },
+    {
+      "id": "bloc-examen",
+      "title": "Bloc d'Examen",
+      "level": 1,
+      "content": [
+        {
+          "type": "example",
+          "label": "Micro-cas pràctic: Certificat vigent vs suspensió de llicències",
+          "text": "Un ajuntament ha aprovat inicialment una modificació del pla urbanístic que reduirà l'edificabilitat en un barri. Per evitar una allau de sol·licituds de llicència segons la normativa antiga, l'ajuntament acorda suspendre durant un any la tramitació de noves llicències al sector afectat."
+        }
+      ]
+    }
+  ]
+}

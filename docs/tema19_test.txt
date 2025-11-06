@@ -1,0 +1,349 @@
+Q: La disciplina urbanística té com a objectiu:
+- Recaptar multes
+- Garantir el compliment de la legalitat urbanística
+- Dificultar les obres
+- Paralitzar l'activitat constructiva
+A: Garantir el compliment de la legalitat urbanística
+
+Q: Les infraccions urbanístiques es classifiquen en:
+- Greus i lleus
+- Molt greus, greus i lleus
+- Només greus
+- No es classifiquen
+A: Molt greus, greus i lleus
+
+Q: És competent per exercir la disciplina urbanística:
+- Només la Generalitat
+- L'Ajuntament principalment
+- Només els jutjats
+- Qualsevol ciutadà
+A: L'Ajuntament principalment
+
+Q: Les obres sense llicència són:
+- Legals
+- Il·legals i constitueixen infracció urbanística
+- Acceptables sempre
+- Opcionals
+A: Il·legals i constitueixen infracció urbanística
+
+Q: La llicència urbanística és:
+- Opcional
+- Preceptiva per a la majoria d'actuacions urbanístiques
+- Només per a grans obres
+- Innecessària
+A: Preceptiva per a la majoria d'actuacions urbanístiques
+
+Q: Les obres sense llicència poden ser:
+- Legalitzades o demolides segons correspongui
+- Sempre mantingudes
+- Sempre demolides
+- Ignorades
+A: Legalitzades o demolides segons correspongui
+
+Q: L'ordre de paralització d'obres és:
+- Opcional
+- Un acte administratiu que suspèn immediatament les obres il·legals
+- Una recomanació
+- Només per escrit en 30 dies
+A: Un acte administratiu que suspèn immediatament les obres il·legals
+
+Q: La inspecció urbanística correspon a:
+- Qualsevol ciutadà
+- Els tècnics municipals habilitats
+- Només la policia
+- Només els arquitectes privats
+A: Els tècnics municipals habilitats
+
+Q: Les denúncies de ciutadans sobre infraccions urbanístiques:
+- S'ignoren sempre
+- Han de ser ateses i investigades per l'Administració
+- Són il·legals
+- Només valen si són anònimes
+A: Han de ser ateses i investigades per l'Administració
+
+Q: El procediment sancionador urbanístic ha de respectar:
+- Cap formalitat
+- Les garanties del procediment administratiu sancionador
+- Només l'opinió del tècnic
+- Només els terminis
+A: Les garanties del procediment administratiu sancionador
+
+Q: Les sancions urbanístiques poden consistir en:
+- Només presó
+- Multes econòmiques graduades segons la gravetat
+- Només advertències
+- Expulsió del municipi
+A: Multes econòmiques graduades segons la gravetat
+
+Q: És infracció molt greu:
+- Qualsevol obra menor
+- Actuacions en sòl no urbanitzable protegit sense autorització
+- Pintar una porta
+- Podar un arbre del jardí propi
+A: Actuacions en sòl no urbanitzable protegit sense autorització
+
+Q: És infracció greu:
+- Reparar una finestra
+- Obres majors sense llicència que no siguin molt greus
+- Comprar una casa
+- Vendre un pis
+A: Obres majors sense llicència que no siguin molt greus
+
+Q: És infracció lleu:
+- Demolir un edifici protegit
+- Ocupar la via pública temporalment sense autorització
+- Construir en zona protegida
+- Parcel·lar il·legalment
+A: Ocupar la via pública temporalment sense autorització
+
+Q: El termini de prescripció de les infraccions molt greus és:
+- 1 any
+- 4 anys
+- 10 anys
+- No prescriuen mai
+A: 4 anys
+
+Q: El termini de prescripció de les infraccions greus és:
+- 1 any
+- 2 anys
+- 3 anys
+- 4 anys
+A: 3 anys
+
+Q: El termini de prescripció de les infraccions lleus és:
+- 1 any
+- 2 anys
+- 3 anys
+- 4 anys
+A: 1 any
+
+Q: La restauració de la legalitat urbanística:
+- És opcional
+- És independent de la sanció i obligatòria
+- Només si hi ha sanció
+- Només si ho demana un veí
+A: És independent de la sanció i obligatòria
+
+Q: L'ordre de demolició procedeix quan:
+- L'Ajuntament vol
+- Les obres són il·legalitzables i incompatibles amb l'ordenament
+- Sempre
+- Mai
+A: Les obres són il·legalitzables i incompatibles amb l'ordenament
+
+Q: L'execució forçosa de l'ordre de demolició:
+- No és possible
+- Pot fer-se subsidiàriament a costa de l'infractor
+- Només amb autorització judicial sempre
+- Només amb consentiment del propietari
+A: Pot fer-se subsidiàriament a costa de l'infractor
+
+Q: Les obres paral·litzades no poden:
+- Continuar sense regularització
+- Continuar-se mentre no es resolgui l'expedient
+- Ser visitades
+- Ser fotografiades
+A: Continuar-se mentre no es resolgui l'expedient
+
+Q: El tràmit d'audiència en el procediment sancionador:
+- És opcional
+- És preceptiu per garantir la defensa
+- Només per a infraccions molt greus
+- No existeix
+A: És preceptiu per garantir la defensa
+
+Q: El desconeixement de la normativa urbanística:
+- Exonera de responsabilitat
+- No exonera de responsabilitat
+- És excusa vàlida
+- Anul·la la sanció
+A: No exonera de responsabilitat
+
+Q: La responsabilitat per infraccions urbanístiques recau sobre:
+- Ningú
+- El promotor, propietari i tècnics segons el cas
+- Només els veïns
+- Només l'Ajuntament
+A: El promotor, propietari i tècnics segons el cas
+
+Q: Les mesures cautelars en disciplina urbanística:
+- No existeixen
+- Poden adoptar-se per evitar danys irreparables
+- Només en cas de guerra
+- Només amb sentència judicial ferma
+A: Poden adoptar-se per evitar danys irreparables
+
+Q: El precinte d'una obra comporta:
+- Continuar les obres
+- Prohibició d'accés i continuació de treballs
+- Només una advertència
+- Cap efecte
+A: Prohibició d'accés i continuació de treballs
+
+Q: La reincidència en infraccions urbanístiques:
+- Redueix la sanció
+- Agreuja la sanció
+- No té efectes
+- És impossible
+A: Agreuja la sanció
+
+Q: La prescripció de la infracció extingeix:
+- Només la sanció
+- La responsabilitat sancionadora, però no l'obligació de restaurar
+- Tota responsabilitat
+- Només l'ordre de demolició
+A: La responsabilitat sancionadora, però no l'obligació de restaurar
+
+Q: Les actes d'inspecció tenen:
+- Cap valor
+- Valor probatori si compleixen requisits legals
+- Valor absolut sempre
+- Només valor orientatiu
+A: Valor probatori si compleixen requisits legals
+
+Q: El principi de tipicitat exigeix que:
+- Les infraccions estiguin definides clarament per llei
+- Es pugui sancionar qualsevol cosa
+- Només hi hagi un tipus d'infracció
+- No hi hagi lleis
+A: Les infraccions estiguin definides clarament per llei
+
+Q: El principi de proporcionalitat en les sancions implica:
+- Multar sempre la quantitat màxima
+- Adequar la sanció a la gravetat de la infracció
+- Sancionar igual totes les infraccions
+- No sancionar mai
+A: Adequar la sanció a la gravetat de la infracció
+
+Q: L'obertura d'un expedient sancionador:
+- Paralitza automàticament la prescripció
+- Interromp la prescripció
+- No afecta la prescripció
+- Accelera la prescripció
+A: Interromp la prescripció
+
+Q: La notificació de la resolució sancionadora:
+- És opcional
+- És obligatòria amb indicació de recursos
+- Només es fa per correu ordinari
+- No cal fer-la
+A: És obligatòria amb indicació de recursos
+
+Q: Els recursos contra sancions urbanístiques es presenten davant:
+- Qualsevol lloc
+- L'òrgan que va dictar l'acte o el superior jeràrquic
+- Només els jutjats
+- No es poden recórrer
+A: L'òrgan que va dictar l'acte o el superior jeràrquic
+
+Q: La caducitat del procediment sancionador:
+- No existeix
+- Es produeix si no es resol en termini (generalment 1 any des d'inici)
+- És automàtica als 10 dies
+- Només passa en infraccions lleus
+A: Es produeix si no es resol en termini (generalment 1 any des d'inici)
+
+Q: Les mesures provisionals de suspensió de llicències:
+- No es poden adoptar
+- Es poden adoptar motivadament mentre es revisa el planejament
+- Són perpètues
+- Són automàtiques
+A: Es poden adoptar motivadament mentre es revisa el planejament
+
+Q: La rehabilitació d'edificis protegits requereix:
+- Cap autorització
+- Llicència i autoritzacions específiques de patrimoni
+- Només comunicació prèvia
+- Només permís del veí
+A: Llicència i autoritzacions específiques de patrimoni
+
+Q: Les obres d'emergència per perill imminent:
+- Es poden iniciar comunicant-ho immediatament a l'Ajuntament
+- Requereixen llicència prèvia sempre
+- Estan prohibides
+- No requereixen cap comunicació
+A: Es poden iniciar comunicant-ho immediatament a l'Ajuntament
+
+Q: El deure de conservació dels edificis implica:
+- Res
+- Mantenir-los en condicions de seguretat, salubritat i ornament
+- Només netejar la façana
+- Només pagar impostos
+A: Mantenir-los en condicions de seguretat, salubritat i ornament
+
+Q: Els tècnics municipals que detectin infraccions urbanístiques han de:
+- Ignorar-les
+- Comunicar-les a l'òrgan competent per iniciar procediment
+- Ocultar-les
+- Només avisar oralment
+A: Comunicar-les a l'òrgan competent per iniciar procediment
+
+Q: La col·laboració dels cossos de seguretat en disciplina urbanística:
+- Està prohibida
+- És necessària quan es requereix per executar ordres
+- És innecessària sempre
+- És automàtica sense petició
+A: És necessària quan es requereix per executar ordres
+
+Q: Els ciutadans tenen dret a:
+- Construir sense límits
+- Denunciar infraccions urbanístiques i obtenir resposta
+- Impedir tota obra veïna
+- Sancionar directament
+A: Denunciar infraccions urbanístiques i obtenir resposta
+
+Q: La multa coercitiva és:
+- Una sanció definitiva
+- Un mitjà d'apremiar el compliment d'ordres reiterant-se fins a l'acatament
+- Una taxa municipal
+- Un impost
+A: Un mitjà d'apremiar el compliment d'ordres reiterant-se fins a l'acatament
+
+Q: Els acords de disciplina urbanística es poden impugnar:
+- No, són definitius
+- Sí, mitjançant recursos administratius i contenciosos
+- Només amb vaga de fam
+- Només amb manifestacions
+A: Sí, mitjançant recursos administratius i contenciosos
+
+Q: La suspensió de l'executivitat d'una ordre de demolició:
+- És automàtica en interposar recurs
+- No és automàtica, cal sol·licitar mesura cautelar
+- És perpètua
+- No es pot demanar
+A: No és automàtica, cal sol·licitar mesura cautelar
+
+Q: La publicitat de les llicències concedides:
+- És secreta
+- S'ha de fer per garantir transparència i dret d'al·legacions
+- Només per a obres industrials
+- No és necessària
+A: S'ha de fer per garantir transparència i dret d'al·legacions
+
+Q: Els costos de demolició forçosa:
+- Els paga l'Ajuntament
+- Els paga el responsable de la infracció
+- Els paguen els veïns
+- No es cobren
+A: Els paga el responsable de la infracció
+
+Q: La disciplina urbanística es basa en el principi de:
+- Arbitrarietat
+- Legalitat i interès públic
+- Voluntarietat absoluta
+- Negociació privada
+A: Legalitat i interès públic
+
+Q: La finalitat última de la disciplina urbanística és:
+- Recaptar multes per a l'Ajuntament
+- Protegir l'ordenament urbanístic i l'interès general
+- Impedir tota construcció
+- Beneficiar els tècnics municipals
+A: Protegir l'ordenament urbanístic i l'interès general
+
+Q: Les resolucions en matèria de disciplina urbanística han de ser:
+- Orals
+- Motivades i notificades adequadament
+- Secretes
+- Sense fonamentació
+A: Motivades i notificades adequadament

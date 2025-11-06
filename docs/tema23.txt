@@ -1,0 +1,188 @@
+=== Formulació i tramitació de les figures del planejament urbanístic. ===
+Visió global (3–6 frases):
+Aquest tema analitza el procediment administratiu per crear o modificar el planejament urbanístic a Catalunya, un procés complex de competència compartida regulat pel TRLUC. El procediment s'inicia i es formula per l'Administració competent, principalment l'Ajuntament. Aquest lidera les fases inicials: Avanç de planejament, Aprovació Inicial (AI) i Aprovació Provisional (AP). L'aprovació definitiva (AD), però, és una competència compartida. La Generalitat de Catalunya es reserva l'AD dels instruments de planejament més rellevants, com els POUM de municipis estratègics. El procés assegura la participació pública mitjançant el tràmit d'informació pública (IP). També integra la legislació sectorial, exigint informes preceptius d'organismes com l'Agència Catalana de l'Aigua (ACA) o en matèria de mobilitat.3 Un dels efectes administratius més importants és la potestat de suspendre temporalment les llicències urbanístiques. Aquesta mesura cautelar garanteix l'eficàcia de la nova ordenació que s'està tramitant.5
+Checklist d’estudi (5–9 punts):
+Memoritzar les 5 fases clau de tramitació d'un POUM: 0) Inici, 1) Avanç, 2) Aprovació Inicial (AI), 3) Aprovació Provisional (AP), 4) Aprovació Definitiva (AD), 5) Text Refós i publicació.
+Diferenciar la competència d'AD: POUMs (Ajuntament/Generalitat) vs. Plans Derivats (normalment Ajuntament).1
+Dominar el canvi de la Llei 5/2020: La Generalitat (Conseller/a) aprova POUMs de municipis >50.000 hab. o capitals de comarca (abans el llindar era >100.000).
+Conèixer els terminis d'Informació Pública (IP): Mínim 1 mes per plans derivats (PMU) i mínim 45 dies hàbils per plans amb Avaluació Ambiental Estratègica (POUM).
+Dominar la suspensió de llicències: Art. 73.1 TRLUC (Potestativa, 1 any, abans d'AI) vs. Art. 73.2 TRLUC (Obligatòria, 2 anys, amb AI).6
+Saber el termini de "refredament" (Art. 74 TRLUC): 3 anys sense poder suspendre pel mateix motiu un cop exhaurit el termini.10
+Identificar els informes sectorials preceptius clau: Avaluació Ambiental Estratègica (AAE) , Agència Catalana de l'Aigua (ACA) i Estudi d'Avaluació de la Mobilitat Generada (EAMG).
+Entendre la nova obligació del Decret Llei 2/2025: La publicació al DOGC ha d'incloure un enllaç directe al Registre Urbanístic de Catalunya (RPUC).11
+Desenvolupament
+1) Conceptes clau i definicions
+Planejament urbanístic: Conjunt d'instruments legals i tècnics que ordenen l'ús del sòl i l'edificació. S'estructura jeràrquicament, on el planejament derivat (com un PMU) no pot contradir el planejament general (POUM).12
+Pla d'Ordenació Urbanística Municipal (POUM): Instrument de planejament general que classifica el sòl (urbà, urbanitzable, no urbanitzable) i defineix l'estructura general del municipi.1 És un document públic, executiu i de compliment obligatori per a administracions i particulars.13 Serveix per definir el model de ciutat i ha de complir amb la legislació sectorial vigent.13
+Pla de Millora Urbana (PMU): Pla urbanístic derivat.12 S'aplica en sòl urbà (sovint no consolidat) per a actuacions de transformació, rehabilitació o reordenació.15 La seva finalitat és l'ordenació detallada 15 i pot incloure la millora de serveis, la implantació de mobilitat o la urbanització.
+Aprovació Inicial (AI): Acord formal de l'òrgan competent (normalment el Ple de l'Ajuntament ). Aquest acord obre el tràmit d'informació pública (IP) i el termini per sol·licitar els informes sectorials preceptius.1
+Aprovació Provisional (AP): Acord del Ple municipal posterior a la IP i a la recepció d'informes. En aquesta fase es resolen les al·legacions presentades 16 i s'introdueixen les modificacions pertinents. L'expedient es prepara per elevar-lo a l'òrgan competent per a l'aprovació definitiva.1
+Aprovació Definitiva (AD): Resolució final que atorga eficàcia i executivitat al pla, un cop publicat. Per a plans derivats com un PMU, la competència sol ser municipal. Per a POUMs, la competència és autonòmica, variant entre la Comissió Territorial d'Urbanisme o el Conseller/a.1
+Informes Sectorials: Dictàmens tècnics emesos per organismes afectats per raó de llurs competències (ex. ACA, Carreteres, Costes, Patrimoni Cultural).3 Són preceptius (obligatoris de demanar). Poden ser no vinculants (l'òrgan urbanístic els ha de valorar però pot apartar-se'n motivadament) 19 o vinculants (el seu contingut és d'obligat compliment).
+2) Estructura / Esquemes
+
+
+
+Aquest esquema [1, 8, 17] visualitza la interacció entre l'Ajuntament i la Generalitat, i la integració dels tràmits urbanístic i ambiental.
+
+*   *Fase 0: Inici.* Acord del Ple de l'Ajuntament.
+*   *Fase 1: Actes Preparatoris.* Redacció de l'Avanç de Pla i el Document Inicial Estratègic (per a l'Avaluació Ambiental Estratègica - AAE).
+*   *Fase 1 -> Consulta.* Informació Pública de l'Avanç (termini mínim de 45 dies si hi ha AAE) [8, 21] i consultes prèvies.
+*   *Fase 2: Formulació.* Redacció del Pla (ex. POUM) i de l'Informe de Sostenibilitat Ambiental (ISA).
+*   *Fase 2 -> Acord.* **Aprovació Inicial (AI)** pel Ple de l'Ajuntament.
+*   *Fase 2 -> Efectes.* **Suspensió Obligatòria de Llicències** (Art. 73.2 TRLUC) en els àmbits afectats.
+*   *Fase 2 -> Tràmits simultanis.*
+    *   Informació Pública (IP): Mínim 45 dies hàbils (si hi ha ISA/AAE)  o 1 mes (plans derivats sense AAE).
+    *   Sol·licitud d'Informes Sectorials Preceptius (ACA, Mobilitat, Patrimoni, etc.).[7, 17]
+*   *Fase 3: Instrucció.* Anàlisi d'al·legacions  i informes sectorials.
+*   *Fase 3 -> Acord.* **Aprovació Provisional (AP)** pel Ple de l'Ajuntament.
+*   *Fase 4: Resolució.* Tramesa de l'expedient complet a la Generalitat.[17]
+*   *Fase 4 -> Acord.* **Aprovació Definitiva (AD)** per l'òrgan autonòmic competent (Comissió Territorial d'Urbanisme  o Conseller/a ).
+*   *Fase 5: Executivitat.*
+    *   Redacció del **Text Refós** per l'Ajuntament, si l'AD inclou prescripcions.
+    *   Publicació al DOGC (amb enllaç obligatori al RPUC ) i entrada en vigor.
+
+
+
+
+
+La dualitat d'aquest mecanisme cautelar  es detalla a la Taula 1 (vegeu apartat 4.7). L'Art. 73.1 és una eina proactiva per *estudiar*, mentre que l'Art. 73.2 és una eina reactiva per *protegir* el pla ja aprovat inicialment.
+
+
+3) Principis / Regles
+Principi de Jerarquia Normativa: El planejament derivat (PMU, Pla Parcial) ha de respectar les determinacions del planejament general (POUM).12 Un POUM, al seu torn, se subordina als Plans Directors Urbanístics (PDU) o Territorials supramunicipals.
+Principi de Competència: La tramitació es distribueix segons la naturalesa del pla. La Llei 5/2020 va redefinir les competències d'AD de la Generalitat. Aquest canvi normatiu és significatiu: suposa que municipis com Vic, Manresa o Reus (capitals de comarca amb menys de 100.000 habitants, que abans tenien la competència) perden l'autonomia per a l'AD del seu POUM, que passa a mans del Conseller/a.
+Principi de Participació i Transparència: S'articula mitjançant els tràmits d'Avanç 14, Informació Pública , i l'accés a la documentació. La legislació busca la "màxima seguretat jurídica".22 Aquesta transparència s'ha reforçat recentment amb l'obligació d'enllaçar la publicació oficial al Registre de Planejament Urbanístic de Catalunya (RPUC) 11, garantint l'accés telemàtic immediat.
+Principi de Sostenibilitat (Integració Ambiental): El planejament urbanístic està subordinat a l'avaluació ambiental. La tramitació de l'Avaluació Ambiental Estratègica (AAE) 8 és interdependent amb la urbanística. Un informe ambiental desfavorable (Declaració Ambiental Estratègica - DAE) impedeix l'aprovació del pla.
+Principi Cautelar (Suspensió): L'Administració té l'eina (i de vegades l'obligació, Art. 73 TRLUC) de suspendre llicències. S'activa per evitar que la realitat física, mitjançant llicències concedides sota la norma antiga, frustri l'execució del nou model territorial que s'està planejant.
+4) Procediment i aplicació administrativa
+4.1. Actes preparatoris (Fases 0 i 1)
+L'Ajuntament acorda iniciar la formulació o revisió (Fase 0). Es redacta un Avanç de Planejament i, si escau (POUMs), un Document Inicial Estratègic (per a l'AAE).1 L'Avanç se sotmet a informació pública 21 per fomentar la participació ciutadana primerenca.14 Aquesta fase, tot i que no suspèn llicències automàticament, és la que habilita l'Ajuntament per acordar la suspensió potestativa de l'Art. 73.1.
+4.2. Aprovació Inicial (AI) (Fase 2)
+La competència és del Ple de l'Ajuntament. La documentació ha de ser completa i incloure, si és preceptiu, l'Informe de Sostenibilitat Ambiental (ISA). Els efectes són immediats: obertura d'IP , sol·licitud d'informes sectorials , i la suspensió obligatòria de llicències (Art. 73.2 TRLUC) en les zones on el nou pla modifica el règim vigent.6
+4.3. Informació Pública i Informes Sectorials (Tràmit simultani)
+Informació Pública (IP): El termini varia. L'INPUT_JSON i la documentació d'un PMU esmenten "un mes" (30 dies). No obstant (punt clau d'examen), si el pla està subjecte a Avaluació Ambiental Estratègica (AAE), com un POUM, la legislació ambiental (Llei 21/2013) i el RLU exigeixen que el termini d'IP del pla i de l'Informe de Sostenibilitat Ambiental (ISA) no sigui inferior a 45 dies hàbils.
+Informes Sectorials: Es sol·liciten simultàniament a la IP. Cal distingir els informes preceptius (ex. ACA 3, Mobilitat 4, Patrimoni Cultural 18) dels preceptius i vinculants. Un informe vinculant negatiu, com podria ser un de l'ACA per risc d'inundabilitat o insuficiència de recursos hídrics, impedeix l'aprovació del pla si no s'atenen les seves prescripcions. El termini general per emetre'ls és d'un mes , tot i que legislació sectorial específica pot ampliar-lo fins a tres mesos.
+4.4. Aprovació Provisional (AP) (Fase 3)
+La competència és del Ple de l'Ajuntament. L'Ajuntament analitza el resultat de la IP (al·legacions) 16 i els informes sectorials. Resol les al·legacions i, si escau, modifica el document.1 Aquest tràmit pot ser omès en plans derivats de competència municipal íntegra (com alguns PMU), on es pot passar de l'AI a l'AD, prescindint de l'AP.
+4.5. Aprovació Definitiva (AD) (Fase 4)
+Aquest és un punt clau de competències:
+Regla General (Plans Derivats): Correspon a l'Ajuntament (ex. PMU ).
+Regla Específica (POUM i plans complexos): Correspon a la Generalitat, habitualment a la Comissió Territorial d'Urbanisme corresponent.1
+** Llei 5/2020:** La Llei 5/2020 2 va modificar aquesta regla. Ara, s'atribueix al Conseller/a competent en urbanisme l'AD dels POUMs i Programes d'Actuació Urbanística Municipal (PAUM) de municipis de més de 50.000 habitants o capitals de comarca. Aquest canvi és fonamental per a oposicions, ja que implica un control autonòmic més estricte sobre municipis estratègics (ex. Vic, Manresa, Reus) que abans no complien el llindar de 100.000 habitants que fixava la llei anterior.
+4.6. Publicació i Executivitat (Fase 5)
+L'AD sovint inclou "prescripcions" (canvis menors obligatoris). L'Ajuntament ha de redactar un Text Refós que les integri. El pla entra en vigor (esdevé executiu) amb la publicació de l'acord d'AD i les normes urbanístiques al DOGC.
+** Decret Llei 2/2025:** S'ha d'incorporar la modificació de l'Art. 103 TRLUC introduïda pel Decret Llei 2/2025.11 Aquesta norma exigeix que la publicació al DOGC dels acords d'AD adoptats per la Generalitat inclogui l'enllaç al Registre Urbanístic de Catalunya (RPUC).11 Aquesta és una mesura de transparència radical: garanteix l'accés telemàtic immediat al contingut complet del pla (plànols, normes). A més, obliga els ajuntaments a remetre els instruments de gestió urbanística al RPUC en un termini de dos mesos des de la seva fermesa.11
+4.7. Règim Especial: Suspensió de Llicències (Art. 73-74 TRLUC)
+Aquest és un mecanisme cautelar crític per garantir que els objectius del nou planejament no siguin frustrats per llicències atorgades sota la norma antiga.
+Tipus 1: Suspensió Potestativa (Art. 73.1 TRLUC):
+Quan? Abans de l'Aprovació Inicial.
+Per què? "Amb la finalitat d'estudiar la formació o reforma" del pla.
+Durada Màxima: 1 any.5
+Àmbit: Ha d'identificar gràficament les zones afectades.5
+Tipus 2: Suspensió Obligatòria (Art. 73.2 TRLUC):
+Quan? S'acorda simultàniament a l'Aprovació Inicial (AI).6
+Per què? Perquè les noves determinacions de l'AI "comportin una modificació del règim urbanístic" (ex. canvi d'usos, edificabilitat, classificació de sòl).
+Durada Màxima: 2 anys.9
+Regles Comunes i Límits (Art. 73 i 74):
+Acumulació: Si s'acorda una suspensió potestativa (Tipus 1) i després l'obligatòria (Tipus 2), el còmput total de les dues no pot superar els 2 anys.10
+Publicació: L'acord de suspensió s'ha de publicar al butlletí oficial corresponent (DOGC / BOP).5
+Termini de "Refredament" (Art. 74 TRLUC): Un cop exhaurits els efectes de la suspensió (el termini d'1 o 2 anys), no es pot adoptar un nou acord de suspensió per al mateix àmbit i idèntica finalitat fins que no hagin transcorregut 3 anys.10
+
+Característica
+Suspensió Potestativa (Art. 73.1)
+Suspensió Obligatòria (Art. 73.2)
+Article TRLUC
+Art. 73.1
+Art. 73.2 9
+Moment
+Abans de l'Aprovació Inicial.
+Amb l'acord d'Aprovació Inicial.
+Finalitat
+Estudiar la formació o reforma del pla.
+Preservar l'eficàcia de la nova ordenació aprovada inicialment.
+Durada Màxima
+1 any.5
+2 anys.9
+Límit Total
+2 anys (si s'acumulen la 73.1 i la 73.2).10
+2 anys.9
+"Refredament"
+3 anys sense poder suspendre pel mateix motiu (Art. 74 TRLUC).10
+3 anys sense poder suspendre pel mateix motiu (Art. 74 TRLUC).10
+
+5) Normativa essencial (sigles — nom oficial — any/versió)
+TRLUC — Decret Legislatiu 1/2010, de 3 d'agost, pel qual s'aprova el Text refós de la Llei d'urbanisme de Catalunya.29 (Text consolidat tenint en compte les múltiples modificacions).
+RLU — Decret 305/2006, de 18 de juliol, pel qual s'aprova el Reglament de la Llei d'urbanisme.22 (Parcialment vigent en allò que no contradigui el TRLUC 2010 i posteriors).
+Llei 5/2020 — Llei 5/2020, del 29 d'abril, de mesures fiscals, financeres, administratives i del sector públic... (Modifica competències d'AD de la Generalitat).2
+DL 3/2023 — Decret Llei 3/2023, de 7 de novembre, de mesures urgents sobre el règim urbanístic dels habitatges d'ús turístic (Modificació rellevant del TRLUC).30
+DL 2/2025 — Decret Llei 2/2025, de 25 de febrer, de mesures urgents en matèria d'habitatge i urbanisme (Modifica Art. 103 TRLUC sobre publicitat i RPUC).11
+6) Exemples i casos
+Exemple (Test - Basat en JSON): L'Ajuntament de Vic (capital de comarca, 48.000 habitants) tramita el seu nou POUM. A qui correspon l'Aprovació Definitiva (AD)?
+a) Al Ple de l'Ajuntament de Vic.
+b) A la Comissió Territorial d'Urbanisme de la Catalunya Central.
+c) Al Conseller/a competent en matèria d'urbanisme de la Generalitat.
+Orientació de resposta: c). La Llei 5/2020 atorga la competència al Conseller/a per a municipis >50.000 hab o capitals de comarca. Encara que Vic té <50.000 hab, és capital de comarca.
+Exemple (Test - Basat en JSON): Un Ajuntament aprova inicialment un PMU que no requereix Avaluació Ambiental Estratègica. El tràmit d'informació pública és, com a mínim, de:
+a) 15 dies.
+b) 30 dies (un mes).
+c) 45 dies.
+Orientació de resposta: b). El JSON i indiquen un mes. El termini de 45 dies s'associa a plans que requereixen Avaluació Ambiental Estratègica (AAE), que no és el cas plantejat.
+Micro-cas (Suspensió) + orientació de resposta
+Micro-cas: L'equip de govern d'un Ajuntament vol modificar el POUM per reduir l'edificabilitat al centre. Encara no tenen cap document redactat, només la intenció política. Un promotor presenta una sol·licitud de llicència (d'acord amb el POUM antic) per construir un edifici que superaria la futura alçada. Què pot fer l'Ajuntament?
+Orientació de resposta: L'Ajuntament no pot denegar la llicència si s'ajusta al pla vigent. Ha d'acordar immediatament una suspensió potestativa (Art. 73.1 TRLUC). Ha de justificar-la "amb la finalitat d'estudiar la reforma" del POUM. Aquesta suspensió tindrà una durada màxima d'1 any i ha de publicar-se al BOP/DOGC. Si no ho fa, haurà d'atorgar la llicència.
+7) Errors típics i mnemotècnies
+Error: Confondre la durada de la suspensió.
+Mnemotècnia: "Si només Estudies (potestativa 73.1), tens 1 any. Si ja ho has Aprovat (obligatòria 73.2), tens 2 anys per acabar la feina".
+Error: Pensar que la IP sempre és d'un mes.
+Recordatori: Si hi ha Avaluació Ambiental Estratègica (AAE), el mínim és 45 dies hàbils.
+Error: Oblidar el canvi de la Llei 5/2020.
+Recordatori: La competència d'AD de la Generalitat (Conseller) no només va per població (>50k), sinó també per "capital de comarca".
+Error: Pensar que el pla entra en vigor amb l'Aprovació Definitiva (AD).
+Recordatori: És executiu després de la publicació al DOGC del text refós que incorpora les prescripcions de l'AD.
+8) Glossari mínim
+TRLUC: Text refós de la Llei d'urbanisme (DL 1/2010).29
+RLU: Reglament de la Llei d'urbanisme (Decret 305/2006).22
+POUM: Pla d'Ordenació Urbanística Municipal (planejament general).
+PMU: Pla de Millora Urbana (planejament derivat).15
+AI / AP / AD: Aprovació Inicial / Provisional / Definitiva (fases del procediment).
+IP: Informació Pública (tràmit de participació).
+RPUC: Registre de Planejament Urbanístic de Catalunya (òrgan de publicitat).11
+AAE: Avaluació Ambiental Estratègica (tràmit ambiental preceptiu per a POUMs).
+ACA: Agència Catalana de l'Aigua (emissor d'informe sectorial clau).
+Resum final (4–6 línies):
+La tramitació del planejament urbanístic a Catalunya és un procediment reglat pel TRLUC 29 i el RLU.22 Es basa en una competència dual: l'Ajuntament formula, aprova inicialment i provisionalment, mentre la Generalitat reté l'aprovació definitiva dels plans superiors. Canvis recents (Llei 5/2020) han reforçat la competència autonòmica per a POUMs de municipis >50.000 habitants o capitals de comarca. El procés integra la participació ciutadana (IP) i l'avaluació ambiental (AAE). L'eina cautelar clau és la suspensió de llicències (Art. 73 TRLUC). La publicitat final s'ha vist reforçada (DL 2/2025) amb l'obligació de publicar l'enllaç al RPUC.11
+Bloc d’examen
+Preguntes tipus test:
+(Dificultat Mitjana) Segons l'Art. 73.1 del TRLUC, quina és la durada màxima de la suspensió potestativa de llicències acordada per estudiar la reforma d'un pla?
+a) 6 mesos.
+b) 1 any.
+c) 2 anys.
+d) 3 anys.
+(Resposta: b) 5)
+(Dificultat Alta) L'Ajuntament de Falset (capital del Priorat, 2.800 habitants) vol revisar el seu POUM. A qui correspon l'Aprovació Definitiva?
+a) Al Ple de l'Ajuntament de Falset, ja que té menys de 50.000 habitants.
+b) A la Comissió Territorial d'Urbanisme de Tarragona.
+c) Al Conseller/a competent en matèria d'urbanisme.
+d) Al Consell Comarcal del Priorat.
+(Resposta: c) )
+(Dificultat Alta - Recent) Un Ajuntament aprova inicialment un POUM amb Avaluació Ambiental Estratègica (AAE). Quin és el termini mínim d'informació pública (IP) que s'ha d'atorgar?
+a) 15 dies hàbils.
+b) 30 dies naturals.
+c) 1 mes.
+d) 45 dies hàbils.
+(Resposta: d) )
+(Dificultat Mitjana - Recent) Segons el Decret Llei 2/2025, la publicació al DOGC de l'aprovació definitiva d'un pla urbanístic ha d'incloure obligatòriament:
+a) La llista de tots els informes sectorials.
+b) El text refós complet de les normes urbanístiques.
+c) L'enllaç al Registre Urbanístic de Catalunya (RPUC).
+d) El certificat de l'acord del Ple municipal.
+(Resposta: c) 11)
+Micro-cas pràctic:
+Cas: L'Ajuntament de Martorell aprova inicialment (AI) la Modificació Puntual d'un POUM el 01/03/2024. L'acord d'AI inclou la suspensió obligatòria de llicències (Art. 73.2) per 2 anys. Per diversos retards, l'Ajuntament no aconsegueix l'aprovació definitiva i la suspensió caduca el 01/03/2026. L'Ajuntament vol tornar a suspendre llicències el 02/03/2026 per continuar la tramitació. És legalment possible?
+Punts clau de resolució:
+No, no és legalment possible.
+Base legal: Art. 74 del TRLUC.10
+Justificació: Un cop exhaurits els efectes de l'acord de suspensió (en aquest cas, els 2 anys de l'Art. 73.2 9), no es pot adoptar un nou acord de suspensió per al mateix àmbit i amb idèntica finalitat (continuar la tramitació de la mateixa MP).
+Conseqüència: Ha de transcórrer un termini de "refredament" de 3 anys des de la data d'exhauriment (01/03/2026) abans de poder tornar a suspendre per la mateixa finalitat.10
+

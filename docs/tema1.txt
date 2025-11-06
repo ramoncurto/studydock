@@ -1,0 +1,128 @@
+1. La Constitució espanyola de 1978. Estructura. Principis generals.
+
+Visió global
+La Constitució espanyola de 1978 és la norma suprema de l'ordenament jurídic espanyol, fonament de la resta de lleis i de l'actuació de tots els poders públics i ciutadans . Aprovada per les Corts Generals el 31 d'octubre de 1978 i ratificada en referèndum pel poble espanyol el 6 de desembre del mateix any, va entrar en vigor el 29 de desembre de 1978 amb la seva publicació al Butlletí Oficial de l'Estat (BOE) . Aquest text va consolidar la transició cap a un sistema democràtic, definint Espanya com un Estat social i democràtic de Dret. La seva finalitat principal és garantir la convivència, protegir els drets i llibertats fonamentals i establir l'organització i el funcionament dels poders de l'Estat sota la forma política de monarquia parlamentària .
+Checklist d’estudi
+Estructura formal: 1 Preàmbul, 1 Títol Preliminar (articles 1-9), 10 Títols, 169 articles, 4 Disposicions Addicionals, 9 Disposicions Transitòries, 1 Disposició Derogatòria i 1 Disposició Final .
+Dates clau: Aprovació Corts (31/10/1978), Referèndum (06/12/1978), Sanció i Promulgació Reial (27/12/1978), Publicació al BOE i entrada en vigor (29/12/1978) .
+Reformes constitucionals:
+1992: Article 13.2, per permetre el sufragi passiu de ciutadans de la UE a les eleccions municipals .
+2011: Article 135, per introduir el principi d'estabilitat pressupostària .
+2024: Article 49, per substituir el terme "disminuïts" per "persones amb discapacitat" i reforçar la protecció dels seus drets. Va entrar en vigor el 17 de febrer de 2024 .
+Valors superiors (Art. 1.1): Llibertat, justícia, igualtat i pluralisme polític .
+Principis garantits (Art. 9.3): Legalitat, jerarquia normativa, publicitat de les normes, irretroactivitat de les disposicions sancionadores no favorables o restrictives de drets, seguretat jurídica, responsabilitat i interdicció de l'arbitrarietat dels poders públics .
+Forma política: Monarquia parlamentària (Art. 1.3) .
+Sobirania: Resideix en el poble espanyol (Art. 1.2) .
+Organització territorial: Basada en la unitat indissoluble de la Nació espanyola i el dret a l'autonomia de les nacionalitats i regions (Art. 2) .
+Desenvolupament
+1) Conceptes clau i definicions
+Constitució: És la norma jurídica fonamental que ocupa el vèrtex de la jerarquia normativa. A diferència de constitucions anteriors, no és un mer document programàtic, sinó una norma directament aplicable i vinculant per a tots els ciutadans i poders públics, tal com estableix el seu article 9.1 . La seva supremacia implica que qualsevol norma que la contradigui és invàlida.
+Estat social i democràtic de Dret (Art. 1.1): Aquesta fórmula defineix l'essència del model d'Estat espanyol i s'articula en tres pilars interrelacionats:
+Estat de Dret: Implica la submissió de tota actuació, tant dels ciutadans com dels poders públics, a la Constitució i a la resta de l'ordenament jurídic (principi de legalitat). Garanteix la separació de poders (legislatiu, executiu i judicial) i la protecció dels drets fonamentals .
+Estat democràtic: La sobirania nacional resideix en el poble espanyol, del qual emanen tots els poders de l'Estat (Art. 1.2). La participació ciutadana s'exerceix principalment a través de representants elegits per sufragi universal, lliure, igual, directe i secret (democràcia representativa, Art. 23) .
+Estat social: Supera el model liberal clàssic i encomana als poders públics una funció activa per promoure les condicions necessàries perquè la llibertat i la igualtat dels individus i dels grups siguin reals i efectives (Art. 9.2). Això es tradueix en el reconeixement de drets socials i econòmics (educació, sanitat, habitatge) i en un mandat per garantir el benestar dels ciutadans .
+Sobirania nacional: L'article 1.2 estableix que la sobirania resideix en el poble espanyol. Aquest principi és el fonament de la legitimitat democràtica de tot el sistema polític i suposa el trencament definitiu amb el règim anterior, on la sobirania no emanava del poble .
+Monarquia parlamentària: És la forma política de l'Estat (Art. 1.3). El Rei és el Cap de l'Estat, però els seus poders estan taxats i limitats per la Constitució. La seva figura és un símbol d'unitat i permanència, però no ostenta poder polític efectiu; els seus actes han de ser sempre refrendats pel President del Govern, els ministres o el President del Congrés, que són els qui n'assumeixen la responsabilitat política .
+2) Estructura / Esquemes
+La doctrina constitucional sol dividir el text en dues grans parts conceptuals, a més de les seccions formals, per facilitar-ne la comprensió: la part dogmàtica i la part orgànica. Aquesta distinció no és merament acadèmica; reflecteix la lògica interna de la norma: primer es defineixen els valors i drets (el "perquè" de l'Estat) i després s'estableixen les institucions encarregades de garantir-los (el "com").
+Part Dogmàtica: Inclou el Títol Preliminar i el Títol I. Estableix els principis fonamentals de l'Estat, els valors superiors de l'ordenament jurídic i el catàleg de drets i deures fonamentals dels ciutadans. És el nucli ideològic de la Constitució.
+Part Orgànica: Comprèn els Títols II a IX. Descriu l'organització, les funcions i les relacions entre els principals poders i institucions de l'Estat: la Corona, les Corts Generals, el Govern i l'Administració, el Poder Judicial, l'organització territorial i el Tribunal Constitucional.
+Per a un funcionari públic, com un arquitecte tècnic, entendre aquesta dualitat és clau. La seva tasca, emmarcada dins l'Administració (Títol IV, part orgànica), no és un fi en si mateixa, sinó un instrument per materialitzar els drets i principis de la part dogmàtica, com el dret a un habitatge digne (Art. 47) o la protecció del medi ambient (Art. 45).
+A continuació es presenta una taula detallada de l'estructura completa:
+Part de la Constitució
+Contingut Principal
+Articles
+Preàmbul
+Declaració de voluntats i principis (sense força jurídica directa)
+-
+Títol Preliminar
+Principis fonamentals de l'Estat
+1-9
+PART DOGMÀTICA
+
+
+
+
+Títol I
+Dels drets i deures fonamentals
+10-55
+PART ORGÀNICA
+
+
+
+
+Títol II
+De la Corona
+56-65
+Títol III
+De les Corts Generals
+66-96
+Títol IV
+Del Govern i de l'Administració
+97-107
+Títol V
+De les relacions entre el Govern i les Corts Generals
+108-116
+Títol VI
+Del Poder Judicial
+117-127
+Títol VII
+Economia i Hisenda
+128-136
+Títol VIII
+De l'organització territorial de l'Estat
+137-158
+Títol IX
+Del Tribunal Constitucional
+159-165
+Títol X
+De la reforma constitucional
+166-169
+Disposicions
+Addicionals (4), Transitòries (9), Derogatòria (1), Final (1)
+-
+
+3) Principis / Regles
+Valors superiors (Art. 1.1): La llibertat, la justícia, la igualtat i el pluralisme polític no són simples declaracions, sinó mandats d'optimització que han d'informar tota la legislació i l'actuació dels poders públics. Serveixen com a criteri fonamental per a la interpretació de la resta de normes de l'ordenament .
+Principis de l'Estat (Títol Preliminar):
+Unitat i autonomia (Art. 2): La Constitució estableix un equilibri complex entre la "indissoluble unitat de la Nació espanyola" i el reconeixement i garantia del "dret a l'autonomia de les nacionalitats i regions". Aquest article és la base de l'Estat de les Autonomies .
+Llengües (Art. 3): Consagra el castellà com a llengua oficial de l'Estat, amb el deure de conèixer-la i el dret d'usar-la. Alhora, estableix que les altres llengües espanyoles seran també oficials a les respectives Comunitats Autònomes, d'acord amb els seus Estatuts .
+Partits polítics (Art. 6) i Sindicats (Art. 7): Són reconeguts com a instruments fonamentals per a la participació política i la defensa dels interessos econòmics i socials, respectivament. Expressen el pluralisme i han de tenir una estructura i funcionament democràtics .
+Principis garantits (Art. 9.3): Aquest article és una clàusula de tancament de l'Estat de Dret i una garantia essencial per als ciutadans. El Tribunal Constitucional l'ha interpretat com una manifestació del macroprincipi de seguretat jurídica .
+Principi de legalitat: Subjecció plena de tots a la llei. Per a l'Administració, implica que només pot actuar quan una llei l'habilita per fer-ho (vinculació positiva).
+Jerarquia normativa: Les normes s'ordenen de forma piramidal (Constitució, lleis orgàniques, lleis ordinàries, reglaments). Una norma de rang inferior no pot contradir-ne una de superior.
+Publicitat de les normes: Condició indispensable per a l'entrada en vigor i l'exigibilitat de les normes. Garanteix que els ciutadans puguin conèixer les seves obligacions.
+Irretroactivitat: Prohibeix aplicar efectes a situacions passades a les disposicions sancionadores que no siguin favorables a l'interessat o a aquelles que restringeixin drets individuals.
+Seguretat jurídica: Suma dels altres principis, que es tradueix en la certesa i previsibilitat del Dret.
+Responsabilitat dels poders públics: L'Estat i les seves administracions han de respondre pels danys causats en l'exercici de les seves funcions.
+Interdicció de l'arbitrarietat: Prohibeix les decisions no fonamentades en dret, capritxoses o irracionals per part dels poders públics.
+4) Procediment i aplicació administrativa
+Els principis constitucionals no són teoria abstracta per a un arquitecte tècnic que treballa a l'Administració pública; són el marc legal que regeix cadascuna de les seves actuacions professionals. La seva correcta aplicació és una exigència diària i objecte d'avaluació constant, tant interna com judicial.
+Aplicació del principi de legalitat (Art. 9.3): Aquesta és la regla d'or. Un arquitecte tècnic municipal ha de basar tots els seus informes, certificacions i decisions en la normativa aplicable. Això implica un coneixement rigorós de la jerarquia normativa: des de la Llei d'Ordenació de l'Edificació (LOE) i la Llei de Contractes del Sector Públic (LCSP) a nivell estatal, fins a la legislació urbanística autonòmica i, finalment, el Pla General d'Ordenació Urbana (PGOU) i les ordenances municipals. Emetre un informe favorable a una llicència que incompleix el PGOU seria una vulneració directa d'aquest principi .
+Aplicació dels principis d'igualtat, mèrit i capacitat (Arts. 14, 23.2 i 103.3): Aquests principis tenen una doble vessant. Primer, regeixen el seu propi accés a la funció pública a través d'un procés selectiu objectiu . Segon, un cop en el càrrec, l'obliguen a actuar amb imparcialitat. En una mesa de contractació per a una obra pública, per exemple, ha d'avaluar les ofertes basant-se exclusivament en els criteris tècnics i econòmics definits en els plecs, garantint la igualtat de tracte a tots els licitadors i evitant qualsevol tipus de discriminació .
+Aplicació de la responsabilitat i la interdicció de l'arbitrarietat (Art. 9.3): Cada informe tècnic ha d'estar degudament motivat i fonamentat. Una decisió arbitrària, com denegar una llicència sense una justificació tècnica o legal clara, pot ser anul·lada pels tribunals. A més, l'article 106.2 de la Constitució estableix el dret dels particulars a ser indemnitzats per lesions en els seus béns i drets derivades del funcionament dels serveis públics, la qual cosa pot incloure danys causats per un informe tècnic negligent .
+Materialització de drets constitucionals: La tasca diària d'un arquitecte tècnic contribueix a fer efectius drets constitucionals. En revisar un projecte d'habitatge protegit, col·labora a fer efectiu el dret a un habitatge digne (Art. 47). En informar sobre la rehabilitació d'un edifici catalogat, aplica el mandat de conservació del patrimoni històric (Art. 46). En verificar el compliment de la normativa d'accessibilitat, materialitza el principi d'inclusió de les persones amb discapacitat, reforçat per la reforma de l'article 49 de 2024, que exigeix garantir la seva "plena autonomia personal i la inclusió social" .
+5) Normativa essencial
+CE: Constitució Espanyola — (1978, text consolidat a 17 de febrer de 2024) .
+Reforma 1: Llei Orgànica de 27 d'agost de 1992 — Reforma de l'article 13, apartat 2, de la Constitució Espanyola .
+Reforma 2: Reforma de l'article 135 de la Constitució Espanyola, de 27 de setembre de 2011 .
+Reforma 3: Reforma de l'article 49 de la Constitució Espanyola, de 15 de febrer de 2024 .
+6) Exemples i casos
+Exemple (test): Segons l'article 1.1 de la Constitució, quin dels següents NO és un valor superior de l'ordenament jurídic espanyol?
+a) La justícia.
+b) La llibertat.
+c) La solidaritat.
+d) El pluralisme polític.
+(Resposta correcta: c. La solidaritat és un principi de l'organització territorial de l'Estat recollit a l'article 2, però no un dels valors superiors de l'article 1.1) .
+Micro-cas: Un Ajuntament aprova una ordenança que prohibeix la instal·lació de plaques solars en totes les cobertes del centre històric per motius purament estètics, sense preveure excepcions ni ponderar altres interessos. Un arquitecte tècnic municipal ha d'informar sobre una sol·licitud de llicència per a una instal·lació en aquesta zona.
+Orientació de resposta: L'arquitecte tècnic, en el seu informe, hauria d'aplicar el principi de legalitat i jerarquia normativa (Art. 9.3 CE). Hauria d'indicar que, si bé l'Ajuntament té competències per protegir el patrimoni històric (Art. 46 CE), l'ordenança podria entrar en conflicte amb el deure dels poders públics de protegir el medi ambient (Art. 45 CE) i amb legislació de rang superior (estatal o autonòmica) que fomenta les energies renovables. L'informe tècnic hauria de ser objectiu, assenyalar la normativa aplicable i la possible antinòmia, oferint a l'òrgan decisor els elements per a una correcta ponderació dels béns jurídics en conflicte.
+7) Errors típics i mnemotècnies
+Error típic: Confondre la naturalesa del Preàmbul. El Preàmbul té un alt valor interpretatiu, però no té força jurídica vinculant directa com els articles. Les obligacions i drets emanen de la part articulada .
+Error típic: No diferenciar els nivells de protecció dels drets del Títol I. Els drets de la Secció 1a del Capítol II (Arts. 15-29) gaudeixen de la màxima protecció, incloent-hi el recurs d'empara davant el Tribunal Constitucional. Els principis rectors del Capítol III (Arts. 39-52) només poden ser al·legats davant la jurisdicció ordinària d'acord amb el que disposin les lleis que els desenvolupin (Art. 53.3).
+Mnemotècnia (ordre dels Títols II-X): Una possible regla per memoritzar l'ordre de la part orgànica és pensar en la seqüència de poder: Corona (II) → Corts (III) → Govern (IV) → Relacions entre ells (V) → Judicial (VI). Després, els marcs d'actuació: Economia (VII) → Territori (VIII). Finalment, els òrgans de control i canvi: Tribunal Constitucional (IX) → Reforma (X).
+8) Glossari mínim
+Seguretat jurídica: Principi constitucional (Art. 9.3) que garanteix la certesa i previsibilitat del Dret, permetent als ciutadans conèixer les conseqüències jurídiques dels seus actes i confiar en l'estabilitat de l'ordenament.
+Interdicció de l'arbitrarietat: Prohibició constitucional (Art. 9.3) que impedeix als poders públics actuar de manera capritxosa, irracional o sense una fonamentació legal objectiva. Exigeix que les decisions administratives estiguin motivades.
+Poder constituent: Poder originari que resideix en el poble (la nació) per dotar-se d'una Constitució. Un cop aprovada, aquest poder cedeix el pas als poders constituïts (legislatiu, executiu, judicial), que actuen dins del marc establert per ella.
+Resum final
+La Constitució de 1978 és la norma fonamental que estableix Espanya com un Estat social i democràtic de Dret, amb la monarquia parlamentària com a forma política. La seva estructura es divideix en una part dogmàtica, que defineix els valors, principis i drets, i una part orgànica, que regula les institucions de l'Estat. Per a un arquitecte tècnic de l'Administració, els seus principis, especialment els garantits a l'article 9.3 com la legalitat, la jerarquia normativa i la interdicció de l'arbitrarietat, no són conceptes teòrics, sinó les eines jurídiques essencials que guien i limiten la seva actuació professional diària, assegurant que el seu treball tècnic es realitzi al servei de l'interès general i amb ple respecte a l'ordenament jurídic.

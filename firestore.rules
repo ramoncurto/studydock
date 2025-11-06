@@ -1,0 +1,68 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // User's own notes - Full access for owner
+    match /users/{userId}/notes/{noteId} {
+      allow read, write: if request.auth != null && request.auth.uid == userId;
+      // Shared access: Guest can only read
+      allow read: if request.auth != null &&
+        exists(/databases/$(database)/documents/users/$(request.auth.uid)/accessTo/$(userId));
+    }
+
+    // User's own tests - Full access for owner
+    match /users/{userId}/tests/{testId} {
+      allow read, write: if request.auth != null && request.auth.uid == userId;
+      // Shared access: Guest can only read
+      allow read: if request.auth != null &&
+        exists(/databases/$(database)/documents/users/$(request.auth.uid)/accessTo/$(userId));
+    }
+
+    // User's own audiobooks - Full access for owner
+    match /users/{userId}/audiobooks/{audioId} {
+      allow read, write: if request.auth != null && request.auth.uid == userId;
+      // Shared access: Guest can only read
+      allow read: if request.auth != null &&
+        exists(/databases/$(database)/documents/users/$(request.auth.uid)/accessTo/$(userId));
+    }
+
+    // User's note sessions (study stats) - Owner only
+    match /users/{userId}/noteSessions/{sessionId} {
+      allow read, write: if request.auth != null && request.auth.uid == userId;
+    }
+
+    // User's test attempts (test stats) - Owner only
+    match /users/{userId}/testAttempts/{attemptId} {
+      allow read, write: if request.auth != null && request.auth.uid == userId;
+    }
+
+    // Access list: Which owners the guest has access to
+    match /users/{userId}/accessTo/{ownerId} {
+      allow read: if request.auth != null && request.auth.uid == userId;
+      allow write: if request.auth != null && request.auth.uid == userId;
+      // Owner can see who has access to their content
+      allow read: if request.auth != null && request.auth.uid == ownerId;
+      allow delete: if request.auth != null && request.auth.uid == ownerId;
+    }
+
+    // Shared with list: Which guests have access to owner's content
+    match /users/{ownerId}/sharedWith/{guestId} {
+      allow read: if request.auth != null && request.auth.uid == ownerId;
+      allow write: if request.auth != null && (
+        request.auth.uid == ownerId ||
+        request.auth.uid == guestId
+      );
+    }
+
+    // Invitations - Anyone authenticated can read to accept them
+    match /invitations/{code} {
+      // Anyone can read invitations to accept them
+      allow read: if request.auth != null;
+      // Only authenticated users can create invitations
+      allow create: if request.auth != null;
+      // Only the invitation owner can update or delete
+      allow update, delete: if request.auth != null &&
+        request.auth.uid == resource.data.ownerId;
+    }
+  }
+}

@@ -1,0 +1,571 @@
+{
+  "metadata": {
+    "title": "La Constitució espanyola de 1978. Estructura. Principis generals.",
+    "subject": "Dret Constitucional",
+    "topic": "Constitució Espanyola",
+    "keywords": [
+      "constitució",
+      "estructura",
+      "principis",
+      "==Estat de Dret==",
+      "==monarquia parlamentària==",
+      "sobirania",
+      "valors superiors"
+    ],
+    "difficulty": "mitjà",
+    "estimatedTime": "60 min"
+  },
+  "sections": [
+    {
+      "id": "visio-global",
+      "title": "Visió Global",
+      "level": 1,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "La ==Constitució Espanyola== de 1978 és la ==norma suprema== de l'ordenament jurídic espanyol, fonament de la resta de lleis i de l'actuació de tots els poders públics i ciutadans."
+        },
+        {
+          "type": "paragraph",
+          "text": "La seva finalitat principal és garantir la convivència, protegir els drets i llibertats fonamentals i establir l'organització i el funcionament dels poders de l'Estat sota la forma política de ==monarquia parlamentària==."
+        }
+      ]
+    },
+    {
+      "id": "checklist",
+      "title": "Checklist d'Estudi",
+      "level": 1,
+      "content": [
+        {
+          "type": "subsection",
+          "title": "Estructura Formal",
+          "items": [
+            {
+              "type": "definition",
+              "term": "Components de la Constitució",
+              "details": [
+                "1 Preàmbul",
+                "1 Títol Preliminar (articles 1-9)",
+                "10 Títols",
+                "169 articles",
+                "4 Disposicions Addicionals",
+                "9 Disposicions Transitòries",
+                "1 Disposició Derogatòria",
+                "1 Disposició Final"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "Dates Clau",
+          "items": [
+            "Aprovació Corts: 31 d'octubre de 1978",
+            "Referèndum: 6 de desembre de 1978",
+            "sanció i promulgació Reial: 27 de desembre de 1978",
+            "Publicació al BOE i entrada en vigor: 29 de desembre de 1978"
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "Reformes Constitucionals",
+          "items": [
+            {
+              "type": "definition",
+              "term": "Reforma de 1992 (Article 13.2)",
+              "details": [
+                "Permetre el sufragi passiu de ciutadans de la UE a les eleccions municipals"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Reforma de 2011 (Article 135)",
+              "details": [
+                "Introducció del principi d'estabilitat pressupostària"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Reforma de 2024 (Article 49)",
+              "details": [
+                "Substitució del terme 'disminuïts' per 'persones amb discapacitat'",
+                "Reforç de la protecció dels seus drets",
+                "Entrada en vigor: 17 de febrer de 2024"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "definition",
+          "items": [
+            {
+              "type": "definition",
+              "term": "Principis garantits (Art. 9.3)",
+              "details": [
+                "Legalitat",
+                "==jerarquia normativa==",
+                "Publicitat de les normes",
+                "Irretroactivitat de les disposicions sancionadores no favorables",
+                "==seguretat jurídica==",
+                "Responsabilitat dels poders públics",
+                "==interdicció de l'arbitrarietat=="
+              ]
+            }
+          ]
+        },
+        {
+          "type": "definition",
+          "items": [
+            {
+              "type": "definition",
+              "term": "organització territorial",
+              "details": [
+                "Basada en la unitat indissoluble de la Nació espanyola",
+                "Dret a l'autonomia de les nacionalitats i regions (Art. 2)"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "conceptes-clau",
+      "title": "Conceptes Clau i Definicions",
+      "level": 1,
+      "content": [
+        {
+          "type": "definition",
+          "items": [
+            {
+              "type": "definition",
+              "term": "Constitució",
+              "details": [
+                "Norma jurídica fonamental al vèrtex de la ==jerarquia normativa==",
+                "No és un mer document programàtic, sinó una norma directament aplicable",
+                "Vinculant per a tots els ciutadans i poders públics (Art. 9.1)",
+                "La seva supremacia implica que qualsevol norma que la contradigui és invàlida"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "definition",
+          "items": [
+            {
+              "type": "definition",
+              "term": "==Estat social i democràtic de Dret== (Art. 1.1)",
+              "details": [
+                "Defineix l'essència del model d'Estat espanyol",
+                "S'articula en tres pilars interrelacionats"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "Els Tres Pilars de l'Estat",
+          "items": [
+            {
+              "type": "definition",
+              "term": "==Estat de Dret==",
+              "details": [
+                "Submissió de tota actuació a la Constitució i l'ordenament jurídic (==principi de legalitat==)",
+                "Garanteix la ==separació de poders== (legislatiu, executiu i judicial)",
+                "Protecció dels ==drets fonamentals=="
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Estat democràtic",
+              "details": [
+                "La ==sobirania nacional== resideix en el ==poble espanyol== (Art. 1.2)",
+                "Tots els poders de l'Estat emanen del poble",
+                "Participació ciutadana a través de representants elegits per sufragi universal",
+                "Sufragi lliure, igual, directe i secret (democràcia representativa, Art. 23)"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Estat social",
+              "details": [
+                "Supera el model liberal clàssic",
+                "Funció activa dels poders públics per promoure condicions d'igualtat real (Art. 9.2)",
+                "Reconeixement de drets socials i econòmics (educació, sanitat, habitatge)",
+                "Mandat per garantir el benestar dels ciutadans"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "definition",
+          "items": [
+            {
+              "type": "definition",
+              "term": "==sobirania nacional== (Art. 1.2)",
+              "details": [
+                "Resideix en el ==poble espanyol==",
+                "Fonament de la legitimitat democràtica de tot el sistema polític",
+                "Trencament definitiu amb el règim anterior"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "definition",
+          "items": [
+            {
+              "type": "definition",
+              "term": "==monarquia parlamentària== (Art. 1.3)",
+              "details": [
+                "Forma política de l'Estat",
+                "El Rei és el Cap de l'Estat amb poders taxats i limitats",
+                "Símbol d'unitat i permanència, però sense poder polític efectiu",
+                "Els seus actes han de ser sempre refrendats",
+                "Responsabilitat política assumida pels refrendants (President del ==Govern==, ministres o President del Congrés)"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "estructura",
+      "title": "Estructura de la Constitució",
+      "level": 1,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "La doctrina constitucional divideix el text en dues grans parts conceptuals per facilitar-ne la comprensió: la ==part dogmàtica== i la ==part orgànica==. Aquesta distinció reflecteix la lògica interna de la norma: primer es defineixen els valors i drets (el 'perquè' de l'Estat) i després s'estableixen les institucions encarregades de garantir-los (el 'com')."
+        },
+        {
+          "type": "definition",
+          "items": [
+            {
+              "type": "definition",
+              "term": "==part dogmàtica==",
+              "details": [
+                "Inclou el ==Títol Preliminar== i el Títol I",
+                "Estableix els principis fonamentals de l'Estat",
+                "Defineix els valors superiors de l'ordenament jurídic",
+                "Conté el catàleg de drets i deures fonamentals",
+                "És el nucli ideològic de la Constitució"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "==part orgànica==",
+              "details": [
+                "Comprèn els Títols II a IX",
+                "Descriu l'organització dels poders i institucions de l'Estat",
+                "Funcions i relacions entre: ==Corona==, ==Corts Generals==, ==Govern==, Administració, poder judicial",
+                "organització territorial i ==Tribunal Constitucional=="
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "Estructura Detallada",
+          "items": [
+            "Preàmbul: Declaració de voluntats i principis (sense força jurídica directa)",
+            "==Títol Preliminar== (Arts. 1-9): Principis fonamentals de l'Estat",
+            "Títol I (Arts. 10-55): Dels drets i deures fonamentals - ==part dogmàtica==",
+            "Títol II (Arts. 56-65): De la ==Corona== - ==part orgànica==",
+            "Títol III (Arts. 66-96): De les ==Corts Generals==",
+            "Títol IV (Arts. 97-107): Del ==Govern== i de l'Administració",
+            "Títol V (Arts. 108-116): De les relacions entre el ==Govern== i les ==Corts Generals==",
+            "Títol VI (Arts. 117-127): Del poder judicial",
+            "Títol VII (Arts. 128-136): Economia i Hisenda",
+            "Títol VIII (Arts. 137-158): De l'organització territorial de l'Estat",
+            "Títol IX (Arts. 159-165): Del ==Tribunal Constitucional==",
+            "Títol X (Arts. 166-169): De la ==reforma constitucional==",
+            "Disposicions: 4 Addicionals, 9 Transitòries, 1 Derogatòria, 1 Final"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "principis",
+      "title": "Principis i Regles Fonamentals",
+      "level": 1,
+      "content": [
+        {
+          "type": "subsection",
+          "title": "Principis del ==Títol Preliminar==",
+          "items": [
+            {
+              "type": "definition",
+              "term": "Unitat i autonomia (Art. 2)",
+              "details": [
+                "Equilibri entre la 'indissoluble unitat de la Nació espanyola'",
+                "Reconeixement i garantia del 'dret a l'autonomia de les nacionalitats i regions'",
+                "Base de l'Estat de les Autonomies"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Llengües (Art. 3)",
+              "details": [
+                "Castellà com a llengua oficial de l'Estat",
+                "Deure de conèixer-la i dret d'usar-la",
+                "Altres llengües espanyoles també oficials a les respectives CCAA",
+                "D'acord amb els seus Estatuts"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Partits polítics (Art. 6) i Sindicats (Art. 7)",
+              "details": [
+                "Instruments fonamentals per a la participació política",
+                "Defensa dels interessos econòmics i socials",
+                "Expressen el pluralisme",
+                "Han de tenir estructura i funcionament democràtics"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "Principis garantits (Art. 9.3)",
+          "items": [
+            {
+              "type": "definition",
+              "term": "Clàusula de tancament de l'==Estat de Dret==",
+              "details": [
+                "Garantia essencial per als ciutadans",
+                "Interpretada pel TC com a macroprincipi de ==seguretat jurídica=="
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Principi de legalitat",
+              "details": [
+                "Subjecció plena de tots a la llei",
+                "Per a l'Administració: només pot actuar quan una llei l'habilita (vinculació positiva)"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "==jerarquia normativa==",
+              "details": [
+                "Les normes s'ordenen de forma piramidal",
+                "Ordre: Constitució → Lleis orgàniques → Lleis ordinàries → reglaments",
+                "Una norma de rang inferior no pot contradir-ne una de superior"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Publicitat de les normes",
+              "details": [
+                "Condició indispensable per a l'entrada en vigor",
+                "Garanteix que els ciutadans puguin conèixer les seves obligacions"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Irretroactivitat",
+              "details": [
+                "Prohibeix aplicar efectes a situacions passades",
+                "Només per a disposicions sancionadores no favorables",
+                "O les que restringeixin drets individuals"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "==seguretat jurídica==",
+              "details": [
+                "Suma dels altres principis",
+                "Certesa i previsibilitat del Dret"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Responsabilitat dels poders públics",
+              "details": [
+                "L'Estat i les seves administracions han de respondre",
+                "Pels danys causats en l'exercici de les seves funcions"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "==interdicció de l'arbitrarietat==",
+              "details": [
+                "Prohibeix decisions no fonamentades en dret",
+                "Prohibeix decisions capritxoses o irracionals",
+                "Aplica a tots els poders públics"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "procediment",
+      "title": "Procediment i Aplicació Administrativa",
+      "level": 1,
+      "content": [
+        {
+          "type": "subsection",
+          "title": "Aplicacions pràctiques",
+          "items": [
+            {
+              "type": "definition",
+              "term": "Aplicació del principi de legalitat (Art. 9.3)",
+              "details": [
+                "Regla d'or: basar tots els informes, certificacions i decisions en la normativa aplicable",
+                "Coneixement rigorós de la ==jerarquia normativa==",
+                "Des de LOE i LCSP a nivell estatal",
+                "Fins a legislació urbanística autonòmica i PGOU municipal",
+                "Emetre un informe favorable que incompleix el PGOU seria una vulneració directa"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Aplicació dels principis d'igualtat, mèrit i capacitat (Arts. 14, 23.2 i 103.3)",
+              "details": [
+                "Doble vessant: accés a la funció pública per procés selectiu objectiu",
+                "Un cop en el càrrec: obligació d'actuar amb imparcialitat",
+                "Exemple: mesa de contractació avalua només amb criteris tècnics i econòmics",
+                "Garantia d'igualtat de tracte a tots els licitadors"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Aplicació de la responsabilitat i la ==interdicció de l'arbitrarietat== (Art. 9.3)",
+              "details": [
+                "Cada informe tècnic ha d'estar degudament motivat i fonamentat",
+                "Decisió arbitrària pot ser anul·lada pels tribunals",
+                "Art. 106.2 CE: dret a indemnització per lesions derivades del funcionament dels serveis públics",
+                "Pot incloure danys per informe tècnic negligent"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "label": "Materialització de drets constitucionals",
+          "text": "La tasca diària d'un arquitecte tècnic contribueix a fer efectius drets constitucionals:\n\n• Revisar projecte d'habitatge protegit → dret a habitatge digne (Art. 47)\n• Informar sobre rehabilitació d'edifici catalogat → conservació del patrimoni històric (Art. 46)\n• Verificar compliment de normativa d'accessibilitat → inclusió de persones amb discapacitat (Art. 49 reformat 2024)\n\nL'article 49 reformat exigeix garantir la 'plena autonomia personal i la inclusió social'."
+        }
+      ]
+    },
+    {
+      "id": "normativa",
+      "title": "Normativa Essencial",
+      "level": 1,
+      "content": [
+        {
+          "type": "list",
+          "title": "Referències normatives",
+          "items": [
+            "CE: Constitució Espanyola (1978, text consolidat a 17 de febrer de 2024)",
+            "Reforma 1: ==Llei Orgànica== de 27 d'agost de 1992 - Reforma de l'article 13, apartat 2",
+            "Reforma 2: Reforma de l'article 135 de la Constitució Espanyola, de 27 de setembre de 2011",
+            "Reforma 3: Reforma de l'article 49 de la Constitució Espanyola, de 15 de febrer de 2024"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "exemples-casos",
+      "title": "Exemples i Casos Pràctics",
+      "level": 1,
+      "content": [
+        {
+          "type": "example",
+          "label": "Exemple de pregunta tipus test",
+          "text": "Segons l'article 1.1 de la Constitució, quin dels següents NO és un valor superior de l'ordenament jurídic espanyol?\n\na) La justícia\nb) La llibertat\nc) La solidaritat\nd) El pluralisme polític\n\nResposta correcta: c) La solidaritat és un principi de l'organització territorial de l'Estat recollit a l'article 2, però no un dels valors superiors de l'article 1.1."
+        },
+        {
+          "type": "example",
+          "label": "Micro-cas pràctic",
+          "text": "SITUACIÓ: Un Ajuntament aprova una ordenança que prohibeix la instal·lació de plaques solars en totes les cobertes del centre històric per motius purament estètics, sense preveure excepcions ni ponderar altres interessos. Un arquitecte tècnic municipal ha d'informar sobre una sol·licitud de llicència per a una instal·lació en aquesta zona.\n\nORIENTACIÓ DE RESPOSTA:\nL'arquitecte tècnic, en el seu informe, hauria d'aplicar el principi de legalitat i ==jerarquia normativa== (Art. 9.3 CE).\n\nHauria d'indicar que:\n• L'Ajuntament té competències per protegir el patrimoni històric (Art. 46 CE)\n• L'ordenança podria entrar en conflicte amb el deure de protegir el medi ambient (Art. 45 CE)\n• Possible conflicte amb legislació de rang superior que fomenta les energies renovables\n\nL'informe tècnic ha de ser objectiu, assenyalar la normativa aplicable i la possible antinòmia, oferint a l'òrgan decisor els elements per a una correcta ponderació dels béns jurídics en conflicte."
+        }
+      ]
+    },
+    {
+      "id": "errors-mnemo",
+      "title": "Errors Típics i Mnemotècnies",
+      "level": 1,
+      "content": [
+        {
+          "type": "subsection",
+          "title": "Errors Típics",
+          "items": [
+            "❌ Confondre la naturalesa del Preàmbul: Té valor interpretatiu, però NO té força jurídica vinculant directa com els articles",
+            "❌ No diferenciar els nivells de protecció dels drets del Títol I: Drets Secció 1ª Cap. II (Arts. 15-29) tenen màxima protecció + ==recurs d'empara==. Principis rectors Cap. III (Arts. 39-52) només al·legables segons les lleis que els desenvolupin (Art. 53.3)"
+          ]
+        },
+        {
+          "type": "example",
+          "label": "Mnemotècnia per ordre Títols II-X",
+          "text": "Seqüència de poder:\n==Corona== (II) → Corts (III) → ==Govern== (IV) → Relacions entre ells (V) → Judicial (VI)\n\nMarcs d'actuació:\nEconomia (VII) → Territori (VIII)\n\nÒrgans de control i canvi:\nTribunal Constitucional (IX) → Reforma (X)"
+        }
+      ]
+    },
+    {
+      "id": "glossari",
+      "title": "Glossari Mínim",
+      "level": 1,
+      "content": [
+        {
+          "type": "definition",
+          "items": [
+            {
+              "type": "definition",
+              "term": "==seguretat jurídica==",
+              "details": [
+                "Principi constitucional (Art. 9.3)",
+                "Garanteix certesa i previsibilitat del Dret",
+                "Permet als ciutadans conèixer les conseqüències jurídiques dels seus actes",
+                "Confiança en l'estabilitat de l'ordenament"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "==interdicció de l'arbitrarietat==",
+              "details": [
+                "Prohibició constitucional (Art. 9.3)",
+                "Impedeix actuar de manera capritxosa, irracional o sense fonamentació legal",
+                "Exigeix que les decisions administratives estiguin motivades"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Poder constituent",
+              "details": [
+                "Poder originari que resideix en el poble (la nació)",
+                "Permet dotar-se d'una Constitució",
+                "Un cop aprovada, cedeix el pas als poders constituïts",
+                "Poders constituïts: legislatiu, executiu, judicial",
+                "Actuen dins del marc establert per la Constitució"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "resum",
+      "title": "Resum Final",
+      "level": 1,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Per a un arquitecte tècnic de l'Administració, els seus principis, especialment els garantits a l'article 9.3 com la legalitat, la ==jerarquia normativa== i la ==interdicció de l'arbitrarietat==, no són conceptes teòrics, sinó les eines jurídiques essencials que guien i limiten la seva actuació professional diària, assegurant que el seu treball tècnic es realitzi al servei de l'interès general i amb ple respecte a l'ordenament jurídic."
+        }
+      ]
+    },
+    {
+      "id": "bloc-examen",
+      "title": "Bloc d'Examen",
+      "level": 1,
+      "content": [
+        {
+          "type": "example",
+          "label": "Micro-cas: Control de constitucionalitat d'una ordenança municipal",
+          "text": "Un Ajuntament aprova una ordenança municipal que estableix sancions per conductes no tipificades en cap llei estatal. Un ciutadà al·lega que vulnera el principi de legalitat (art. 25.1 CE) i el principi de ==reserva de llei==.\n\nPunts clau de resolució:\n- El ==principi de legalitat== penal exigeix que les infraccions i sancions estiguin establertes per llei\n- Les ordenances municipals són ==reglament==s (normes de rang inferior a la llei)\n- Segons el TC, poden tipificar infraccions administratives però sempre dins del marc d'una llei habilitant\n- Si l'ordenança crea sancions sense cobertura legal, vulnera el ==principi de legalitat== i ==jerarquia normativa== (art. 9.3 CE)\n- Solució: impugnació davant la jurisdicció contenciosa-administrativa i possible anul·lació per vulnerar la ==reserva de llei=="
+        }
+      ]
+    }
+  ]
+}

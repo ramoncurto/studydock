@@ -1,0 +1,421 @@
+{
+  "metadata": {
+    "title": "La planificació territorial",
+    "subject": "Urbanisme i Ordenació del Territori",
+    "topic": "Instruments d'ordenació territorial",
+    "keywords": [
+      "planificació territorial",
+      "PTGC",
+      "PTP",
+      "PTS",
+      "ordenació territorial",
+      "competències"
+    ],
+    "difficulty": "mitjà",
+    "estimatedTime": "40 min"
+  },
+  "sections": [
+    {
+      "id": "visio-global",
+      "title": "Visió Global",
+      "level": 1,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "La planificació territorial a Catalunya és una funció pública de caràcter estratègic i supramunicipal, competència de la Generalitat de Catalunya. El seu objectiu principal és definir un model d'ús i estructura per al conjunt del territori, buscant l'equilibri, el desenvolupament sostenible i la qualitat de vida dels ciutadans."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aquesta planificació no entra en el detall del disseny urbà, sinó que estableix les grans directrius sobre la localització d'infraestructures, la protecció d'espais oberts i els patrons d'assentament de la població. Els instruments de planificació territorial, com el Pla Territorial General, creen un marc normatiu vinculant que ha de ser desenvolupat i respectat pel planejament urbanístic municipal."
+        }
+      ]
+    },
+    {
+      "id": "checklist",
+      "title": "Checklist d'Estudi",
+      "level": 1,
+      "content": [
+        {
+          "type": "list",
+          "title": "Punts clau per dominar el tema",
+          "items": [
+            "==jerarquia normativa==: Ordre de prelació: Pla Territorial General de Catalunya (PTGC) → Plans Territorials Parcials (PTP) / Plans Territorials Sectorials (PTS) → Planejament Urbanístic Municipal (==POUM==)",
+            "Instruments Clau: PTGC (estratègia global), PTP (desenvolupament geogràfic) i PTS (desenvolupament temàtic)",
+            "Normativa Essencial: Llei 23/1983 de Política Territorial, Llei 1/1995 d'aprovació del PTGC, i Decret Legislatiu 1/2010 (TRLUC)",
+            "Objectiu Principal: L'ordenació territorial persegueix l'equilibri territorial, el desenvolupament sostenible i la millora de la qualitat de vida",
+            "Caràcter Vinculant: Les determinacions dels plans territorials són d'obligat compliment per als plans de rang inferior i per a totes les administracions públiques",
+            "Distribució de Competències: La planificació territorial és competència de la Generalitat; el planejament urbanístic és competència municipal",
+            "Vigència: Els plans territorials tenen vigència indefinida, però poden ser revisats o modificats"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "conceptes-clau",
+      "title": "Conceptes Clau i Definicions",
+      "level": 1,
+      "content": [
+        {
+          "type": "subsection",
+          "title": "Definicions Fonamentals",
+          "items": [
+            {
+              "type": "definition",
+              "term": "Política Territorial",
+              "details": [
+                "És el conjunt de criteris, objectius i accions que estableix l'Administració per ordenar el territori",
+                "La Llei 23/1983 la defineix com l'eina per corregir desequilibris i assolir un major benestar per a la població",
+                "No és un instrument concret, sinó el marc d'actuació que dona lloc als plans"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Ordenació del Territori",
+              "details": [
+                "És l'exercici de la funció pública de planificació a escala supramunicipal",
+                "Es diferencia de l'urbanisme perquè no defineix l'ordenació detallada d'un municipi",
+                "Estableix l'estratègia global sobre infraestructures, espais naturals o agraris a protegir i com estructurar els sistemes d'assentaments"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Desenvolupament Urbanístic Sostenible",
+              "details": [
+                "És el principi rector de tota l'activitat urbanística i territorial, definit a l'article 3 del TRLUC",
+                "Exigeix que el planejament ponderi les necessitats socials, econòmiques i ambientals",
+                "Garanteix un ús racional del sòl i dels recursos naturals per a les generacions presents i futures"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Equilibri Territorial",
+              "details": [
+                "Un dels objectius centrals del PTGC",
+                "Cerca una distribució més equitativa del creixement, la població i l'activitat econòmica arreu de Catalunya",
+                "Objectiu: evitar la congestió de l'àrea metropolitana de Barcelona i potenciar el desenvolupament d'altres zones"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "instruments",
+      "title": "Instruments de Planificació Territorial",
+      "level": 1,
+      "content": [
+        {
+          "type": "subsection",
+          "title": "Pla Territorial General de Catalunya (PTGC)",
+          "items": [
+            {
+              "type": "definition",
+              "term": "Naturalesa",
+              "details": [
+                "És l'instrument superior de la planificació territorial",
+                "No és un pla executiu, sinó un 'pla model' o 'imatge objectiu' que defineix l'estratègia a llarg termini per al conjunt de Catalunya",
+                "L'aprovat el 1995 fixava una imatge objectiu de distribució de la població per a l'any 2026"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Base Legal",
+              "details": [
+                "La seva creació va ser manada per la Llei 23/1983",
+                "El pla vigent va ser aprovat per la Llei 1/1995, de 16 de març",
+                "Actualment, el ==Govern== n'està impulsant la revisió"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Objectius",
+              "details": [
+                "Definir els objectius d'equilibri territorial",
+                "Desenvolupament sostenible",
+                "Preservació del medi ambient per a tot el país"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Contingut",
+              "details": [
+                "Defineix els grans sistemes urbans",
+                "Els espais naturals i agraris a protegir",
+                "Els emplaçaments idonis per a grans infraestructures (transport, energia, sanejament)",
+                "Delimita els àmbits d'aplicació dels Plans Territorials Parcials"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "Plans Territorials Parcials (PTP)",
+          "items": [
+            {
+              "type": "definition",
+              "term": "Naturalesa",
+              "details": [
+                "Són els instruments que desenvolupen i concreten les directrius del PTGC en àmbits territorials supramunicipals",
+                "Anomenats Àmbits Funcionals Territorials (AFT)"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Àmbit",
+              "details": [
+                "Catalunya s'organitza en vuit AFT, cadascun amb el seu PTP corresponent:",
+                "Alt Pirineu i Aran, Àmbit Metropolità de Barcelona, Camp de Tarragona, Comarques Centrals, Comarques Gironines, Penedès, Ponent i Terres de l'Ebre",
+                "S'han aprovat PTP per a tots aquests àmbits, com el PTP Metropolità de Barcelona (2010) o el del Camp de Tarragona (2010)"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Contingut",
+              "details": [
+                "Proposen models d'assentament per assolir l'equilibri",
+                "Defineixen l'esquema d'infraestructures i serveis",
+                "Concreten la protecció dels espais oberts (naturals i agraris) dins del seu àmbit geogràfic"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "Plans Territorials Sectorials (PTS)",
+          "items": [
+            {
+              "type": "definition",
+              "term": "Naturalesa",
+              "details": [
+                "Són plans temàtics que ordenen una activitat o sector específic amb una forta implantació territorial",
+                "Coordinen-la per a tot Catalunya"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Àmbit",
+              "details": [
+                "El seu àmbit és funcional, no geogràfic",
+                "Existeixen o s'han projectat PTS en matèries com l'habitatge, l'activitat agrària, les infraestructures de transport, l'energia o els equipaments esportius"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Contingut (segons l'article 18 de la Llei 23/1983)",
+              "details": [
+                "Han d'incloure una anàlisi de recursos i necessitats del sector",
+                "Les prioritats d'actuació",
+                "Els estàndards o normes per a la seva distribució en el territori"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jerarquia",
+      "title": "Jerarquia i Relacions entre Instruments",
+      "level": 1,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "L'estructura jeràrquica genera una cadena de causalitat legal ineludible. L'aprovació o modificació del PTGC obliga a formular o adaptar els PTP i PTS. Al seu torn, l'aprovació d'un PTP imposa als municipis del seu àmbit l'obligació legal d'adaptar el seu planejament urbanístic (==POUM==) a les noves directrius supramunicipals."
+        },
+        {
+          "type": "subsection",
+          "title": "Piràmide Normativa de Planificació",
+          "items": [
+            "CÚSPIDE (Marc Legal): Llei 23/1983 de Política Territorial, Decret Legislatiu 1/2010 (TRLUC)",
+            "NIVELL 1 (Planificació Estratègica General): Pla Territorial General de Catalunya (PTGC)",
+            "NIVELL 2 (Desenvolupament Supramunicipal): Plans Territorials Parcials (PTP) - Desenvolupament geogràfic, Plans Territorials Sectorials (PTS) - Desenvolupament temàtic",
+            "NIVELL 3 (Planejament Urbanístic Municipal): ==Pla d'Ordenació Urbanística Municipal== (==POUM==) i altres figures de planejament derivat"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "principis",
+      "title": "Principis i Regles",
+      "level": 1,
+      "content": [
+        {
+          "type": "subsection",
+          "title": "Principis Fonamentals",
+          "items": [
+            {
+              "type": "definition",
+              "term": "Principi de ==jerarquia normativa==",
+              "details": [
+                "És la regla fonamental del sistema",
+                "L'article 13 del TRLUC estableix que aquest principi ordena les relacions entre els diferents instruments",
+                "Un pla de rang inferior no pot modificar les determinacions d'un de rang superior; només pot desenvolupar-les o concretar-les",
+                "Qualsevol determinació d'un ==POUM== que contradigui un PTP o el PTGC és nul·la de ple dret"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Principi de Coherència i Coordinació",
+              "details": [
+                "El PTGC actua com a 'marc de coherència' per a totes les actuacions públiques amb incidència territorial",
+                "No només el planejament urbanístic, sinó també les polítiques sectorials (carreteres, ports, equipaments, etc.) han de ser coherents amb les directrius territorials",
+                "Evita actuacions contradictòries i garanteix una visió integrada del territori"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "Resolució de Conflictes entre Plans",
+          "items": [
+            "L'estructura del sistema, amb plans geogràfics (PTP) i temàtics (PTS) operant al mateix nivell jeràrquic, crea una possible font de conflictes.",
+            {
+              "type": "example",
+              "label": "Exemple de conflicte",
+              "text": "El PTP de l'Àmbit Metropolità de Barcelona pot protegir uns terrenys pel seu alt valor agrari, mentre que un hipotètic PTS d'Energia podria identificar aquest mateix sòl pla i ben comunicat com a idoni per a una gran instal·lació fotovoltaica."
+            },
+            {
+              "type": "definition",
+              "term": "Mecanisme de resolució",
+              "details": [
+                "L'article 11.3 de la Llei 23/1983 estableix que 'els plans sectorials [...] s'adaptaran a les orientacions dels plans territorials'",
+                "Aquesta disposició subordina legalment l'objectiu temàtic del PTS a la visió territorial integrada del PTP",
+                "Prioritza l'ordenació multifuncional d'una àrea geogràfica sobre l'interès d'un únic sector",
+                "El paper del Departament de Territori com a coordinador durant l'elaboració dels plans és clau per anticipar i harmonitzar aquests potencials conflictes"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "procediment",
+      "title": "Procediment d'Elaboració i Aprovació",
+      "level": 1,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "El procediment d'elaboració i aprovació dels plans territorials és un procés llarg i complex, regulat principalment a la Llei 23/1983, que garanteix la participació pública i la coordinació interadministrativa."
+        },
+        {
+          "type": "subsection",
+          "title": "Actors Principals",
+          "items": [
+            {
+              "type": "definition",
+              "term": "Consell Executiu (==Govern==)",
+              "details": [
+                "Té la màxima competència",
+                "Acorda la formulació del pla i realitza l'aprovació definitiva",
+                "Li confereix un caràcter de decisió política d'alt nivell"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Departament de Territori",
+              "details": [
+                "Òrgan de l'Administració de la Generalitat que dirigeix l'elaboració tècnica dels plans",
+                "Coordina la participació d'altres departaments",
+                "Gestiona tot el procediment"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Comissió de Territori de Catalunya",
+              "details": [
+                "És l'òrgan superior en matèria de territori i urbanisme",
+                "Ha d'emetre un dictamen preceptiu abans de l'aprovació definitiva per part del ==Govern=="
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Ens Locals",
+              "details": [
+                "Ajuntaments, Diputacions, Consells Comarcals",
+                "Tenen garantida la seva participació mitjançant consultes i informes",
+                "En el cas dels PTP, poden fins i tot exercir la iniciativa per a la seva formulació si s'assoleix una majoria qualificada"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "Fases del Procediment",
+          "items": [
+            {
+              "type": "definition",
+              "term": "1. Iniciació",
+              "details": [
+                "El Consell Executiu acorda la formulació del pla"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "2. Elaboració i Aprovació Inicial",
+              "details": [
+                "El departament competent (normalment Territori) elabora un projecte de pla i l'aprova inicialment"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "3. Informació Pública i Consultes",
+              "details": [
+                "El projecte se sotmet a informació pública per un període mínim d'un mes per a la presentació d'al·legacions",
+                "Simultàniament, es demanen informes preceptius a les administracions afectades (ens locals, Estat) i als organismes sectorials"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "4. Aprovació Provisional",
+              "details": [
+                "Un cop analitzades les al·legacions i els informes, l'òrgan redactor elabora un document refós i el sotmet a aprovació provisional"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "5. Aprovació Definitiva",
+              "details": [
+                "L'expedient complet s'eleva al Consell Executiu, previ dictamen de la Comissió de Territori",
+                "El Consell Executiu procedeix a l'aprovació definitiva"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "6. Publicació i Entrada en Vigor",
+              "details": [
+                "L'acord d'aprovació definitiva i les normes del pla s'han de publicar al Diari Oficial de la Generalitat de Catalunya (DOGC) per a la seva entrada en vigor"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "normativa",
+      "title": "Normativa Essencial",
+      "level": 1,
+      "content": [
+        {
+          "type": "list",
+          "title": "Legislació aplicable",
+          "items": [
+            "Llei 23/1983, de 21 de novembre, de Política Territorial: Norma fundacional que estableix el sistema de planificació territorial a Catalunya, defineix els seus instruments (PTG, PTP, PTS) i regula el seu procediment d'elaboració",
+            "Llei 1/1995, de 16 de març, per la qual s'aprova el Pla territorial general de Catalunya: Llei que va aprovar i va donar rang normatiu al PTGC actualment vigent",
+            "Decret Legislatiu 1/2010, de 3 d'agost, pel qual s'aprova el ==Text refós== de la Llei d'urbanisme (TRLUC): Principal cos legal que regula l'urbanisme i l'ordenació del territori a Catalunya"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bloc-examen",
+      "title": "Bloc d'Examen",
+      "level": 1,
+      "content": [
+        {
+          "type": "example",
+          "label": "Micro-cas Pràctic",
+          "text": "[object Object]\n\n[object Object]"
+        }
+      ]
+    }
+  ]
+}

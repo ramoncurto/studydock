@@ -1,0 +1,472 @@
+{
+  "metadata": {
+    "title": "Normativa reguladora de les hisendes locals: principis generals. Els ingressos tributaris locals: les taxes, les contribucions especials i els impostos. Les ordenances fiscals",
+    "subject": "Dret Financer i Tributari Local",
+    "topic": "Hisendes Locals i Ingressos Tributaris",
+    "keywords": [
+      "hisendes locals",
+      "taxes",
+      "contribucions especials",
+      "impostos",
+      "ICIO",
+      "ordenances fiscals",
+      "tributs locals"
+    ],
+    "difficulty": "avançat",
+    "estimatedTime": "50 min"
+  },
+  "sections": [
+    {
+      "id": "visio-global",
+      "title": "Visió Global",
+      "level": 1,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Les hisendes locals es fonamenten en els principis constitucionals d'autonomia financera i suficiència de recursos per exercir les seves competències. Aquests principis, recollits als articles 140 i 142 de la Constitució Espanyola, es desenvolupen a través del ==Text Refós== de la Llei Reguladora de les Hisendes Locals (TRLRHL), que estableix el marc legal dels seus ingressos. Els ingressos tributaris són la font principal de finançament i es classifiquen en impostos, taxes i contribucions especials. Les entitats locals regulen aquests tributs mitjançant les ordenances fiscals, que concreten els elements essencials definits per la llei estatal."
+        }
+      ]
+    },
+    {
+      "id": "checklist",
+      "title": "Checklist d'Estudi",
+      "level": 1,
+      "content": [
+        {
+          "type": "list",
+          "title": "Punts clau per memoritzar",
+          "items": [
+            "Memoritzar els principis constitucionals: autonomia (art. 140 CE) i Suficiència (art. 142 CE)",
+            "Comprendre el ==principi de legalitat== tributària (art. 31.3 i 133 CE): els tributs només es poden crear per llei",
+            "Diferenciar clarament entre impost, taxa i contribució especial a partir del seu fet imposable",
+            "Identificar els impostos municipals obligatoris (IBI, IAE, IVTM) i els potestatius (ICIO, IIVTNU)",
+            "Dominar els elements clau de l'ICIO: fet imposable, subjecte passiu, base imposable (i les seves exclusions) i tipus de gravamen",
+            "Esquematitzar les fases d'aprovació d'una ordenança fiscal: aprovació provisional, informació pública i aprovació definitiva",
+            "Conèixer la norma de referència principal: TRLRHL (Reial Decret Legislatiu 2/2004)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "principis-constitucionals",
+      "title": "Principis Constitucionals",
+      "level": 1,
+      "content": [
+        {
+          "type": "subsection",
+          "title": "Fonaments Constitucionals",
+          "items": [
+            {
+              "type": "definition",
+              "term": "autonomia Financera (art. 140 CE)",
+              "details": [
+                "Capacitat de les entitats locals per gestionar els seus interessos",
+                "Implica disposar d'hisenda pròpia",
+                "autonomia per decidir sobre la despesa"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Suficiència Financera (art. 142 CE)",
+              "details": [
+                "Les hisendes locals han de disposar dels mitjans econòmics suficients per al desenvolupament de les funcions que la llei els atribueix",
+                "Recursos provenen fonamentalment de tributs propis",
+                "Participació en els tributs de l'Estat i de les Comunitats Autònomes"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Legalitat Tributària (art. 31.3 i 133 CE)",
+              "details": [
+                "La potestat originària per establir tributs correspon exclusivament a l'Estat mitjançant una llei",
+                "Les entitats locals tenen una potestat derivada",
+                "S'exerceix dins del marc que la llei estableix (el TRLRHL)"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tipus-ingressos",
+      "title": "Tipus d'Ingressos Tributaris",
+      "level": 1,
+      "content": [
+        {
+          "type": "subsection",
+          "title": "Classificació dels Ingressos (art. 2 TRLRHL)",
+          "items": [
+            {
+              "type": "definition",
+              "term": "Impostos",
+              "details": [
+                "Tributs exigits sense una contraprestació administrativa directa",
+                "Graven negocis, actes o fets que manifesten la capacitat econòmica del contribuent",
+                "Exemple: ser propietari d'un immoble (IBI)"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Taxes",
+              "details": [
+                "El fet imposable consisteix en la utilització privativa o l'aprofitament especial del domini públic local",
+                "O bé en la prestació de serveis públics o la realització d'activitats administratives que afectin o beneficiïn de manera particular el subjecte passiu",
+                "La seva exigència està condicionada al fet que el servei no sigui de sol·licitud o recepció voluntària",
+                "O que no es presti pel sector privat"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Contribucions Especials",
+              "details": [
+                "El fet imposable és l'obtenció per part del subjecte passiu d'un benefici",
+                "O d'un augment de valor dels seus béns com a conseqüència de la realització d'obres públiques",
+                "O de l'establiment o ampliació de serveis públics"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fonts-ingressos",
+      "title": "Fonts d'Ingressos de les Hisendes Locals",
+      "level": 1,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Les hisendes locals es nodreixen de dues grans categories d'ingressos (art. 2 TRLRHL):"
+        },
+        {
+          "type": "subsection",
+          "title": "Ingressos de Dret Públic",
+          "items": [
+            "Tributaris: Impostos, Taxes, Contribucions Especials",
+            "No Tributaris: Preus públics, Subvencions, Producte d'operacions de crèdit, Multes i sancions"
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "Ingressos de Dret Privat",
+          "items": [
+            "Rendiments o productes del seu patrimoni (p. ex., lloguer d'un local propi)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "impostos-municipals",
+      "title": "Classificació dels Impostos Municipals",
+      "level": 1,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Els impostos que poden exigir els ajuntaments es classifiquen en dos grups (art. 59 TRLRHL):"
+        },
+        {
+          "type": "subsection",
+          "title": "Obligatoris (d'exigència preceptiva)",
+          "items": [
+            "Impost sobre Béns Immobles (IBI)",
+            "Impost sobre Activitats Econòmiques (IAE)",
+            "Impost sobre Vehicles de Tracció Mecànica (IVTM)"
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "Potestatius (d'establiment voluntari)",
+          "items": [
+            "Impost sobre Construccions, Instal·lacions i Obres (ICIO)",
+            "Impost sobre l'Increment de Valor dels Terrenys de Naturalesa Urbana (IIVTNU o 'plusvàlua municipal')"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "principis",
+      "title": "Principis i Regles",
+      "level": 1,
+      "content": [
+        {
+          "type": "subsection",
+          "title": "Principis Fonamentals",
+          "items": [
+            {
+              "type": "definition",
+              "term": "Principi de ==reserva de llei==",
+              "details": [
+                "Els elements essencials d'un tribut han d'estar definits en una norma amb rang de llei estatal",
+                "En aquest cas, el TRLRHL",
+                "Elements: fet imposable, subjecte passiu, tipus de gravamen, etc."
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Potestat ==Reglament==ària Local",
+              "details": [
+                "Les entitats locals exerceixen la seva autonomia normativa a través de les ordenances fiscals",
+                "Regulen els aspectes concrets dels tributs",
+                "Per exemple: fixar el tipus de gravamen de l'IBI o de l'ICIO dins dels marges que la llei permet (art. 15 TRLRHL)"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Principi de No Confiscatorietat (art. 31.1 CE)",
+              "details": [
+                "La càrrega tributària no pot ser tan elevada que exhaureixi la riquesa del contribuent",
+                "O el privi dels seus béns",
+                "Fonamental en les sentències del Tribunal Constitucional sobre l'IIVTNU"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Principi de Territorialitat",
+              "details": [
+                "Els tributs locals no poden gravar béns situats fora del territori de l'entitat local",
+                "Ni activitats desenvolupades fora",
+                "Ni rendiments originats fora del territori corresponent"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "procediment-ordenances",
+      "title": "Procediment d'Aprovació d'Ordenances Fiscals",
+      "level": 1,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "El procediment per aprovar o modificar una ordenança fiscal és un procediment administratiu especial i reglat, que garanteix la participació ciutadana i la ==seguretat jurídica== (art. 17 TRLRHL). Les fases són les següents:"
+        },
+        {
+          "type": "subsection",
+          "title": "Fases del Procediment",
+          "items": [
+            {
+              "type": "definition",
+              "term": "1. Iniciativa i Aprovació Provisional",
+              "details": [
+                "L'expedient s'inicia normalment a proposta de l'alcaldia",
+                "Ha de comptar amb informes preceptius del secretari i de l'interventor municipal",
+                "El Ple de la Corporació adopta l'acord d'aprovació provisional per majoria simple"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "2. Informació Pública",
+              "details": [
+                "L'acord provisional i el text de l'ordenança es publiquen al Butlletí Oficial de la Província (BOP)",
+                "S'exposen al tauler d'anuncis de l'ajuntament durant un termini mínim de 30 dies hàbils",
+                "Durant aquest període, els interessats poden examinar l'expedient i presentar reclamacions o suggeriments"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "3. Resolució d'Al·legacions i Aprovació Definitiva",
+              "details": [
+                "Si NO es presenten al·legacions: L'acord provisional esdevé automàticament definitiu, sense necessitat d'un nou acord del Ple",
+                "Si es presenten al·legacions: El Ple ha de resoldre-les de manera expressa i, posteriorment, aprovar el text definitiu de l'ordenança"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "4. Publicació i Entrada en Vigor",
+              "details": [
+                "L'acord definitiu i el text íntegre de l'ordenança s'han de publicar al BOP",
+                "L'ordenança no entra en vigor fins que aquesta publicació s'ha completat (art. 17.4 TRLRHL)"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "icio",
+      "title": "Gestió de l'ICIO (Impost sobre Construccions, Instal·lacions i Obres)",
+      "level": 1,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Aquest impost és de gran rellevància per a l'arquitecte tècnic, ja que la seva gestió està directament lligada al procés de llicència i execució d'obres (Arts. 100-103 TRLRHL)."
+        },
+        {
+          "type": "subsection",
+          "title": "Elements de l'ICIO",
+          "items": [
+            {
+              "type": "definition",
+              "term": "Fet Imposable (art. 100)",
+              "details": [
+                "La realització, dins del terme municipal, de qualsevol construcció, instal·lació o obra",
+                "Per a la qual s'exigeixi l'obtenció de la corresponent llicència d'obres o urbanística",
+                "O la presentació de declaració responsable o comunicació prèvia"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Subjecte Passiu (art. 101)",
+              "details": [
+                "Són subjectes passius a títol de contribuents els amos de la construcció, instal·lació o obra",
+                "Siguin o no propietaris de l'immoble",
+                "Normalment, és el promotor"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Base Imposable (art. 102)",
+              "details": [
+                "Està constituïda pel cost real i efectiu de la construcció, instal·lació o obra",
+                "S'entén com a tal el cost d'execució material (PEM)",
+                "Exclusions: La llei exclou explícitament l'IVA i altres impostos anàlegs, les taxes i preus públics locals, els honoraris professionals (d'arquitectes, aparelladors, etc.) i el benefici industrial del contractista",
+                "La jurisprudència també ha confirmat l'exclusió de partides com l'estudi de seguretat i salut, el control de qualitat i el valor de la maquinària (encara que sí que s'inclou el cost de la seva instal·lació)"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Tipus de Gravamen (art. 102)",
+              "details": [
+                "El fixa cada ajuntament a la seva ordenança fiscal",
+                "Amb un límit màxim legal del ==4%=="
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Meritació (art. 102.4)",
+              "details": [
+                "L'impost es merita en el moment d'iniciar la construcció, instal·lació o obra",
+                "Encara que no s'hagi obtingut la llicència corresponent"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Liquidació Provisional vs. Definitiva",
+              "details": [
+                "Liquidació Provisional: A l'inici, el subjecte passiu realitza un pagament a compte (normalment mitjançant autoliquidació) calculat sobre el pressupost d'execució material presentat per a l'obtenció de la llicència",
+                "Liquidació Definitiva: Un cop finalitzada l'obra, l'ajuntament pot comprovar el cost real i efectiu final i practicar una liquidació definitiva. Si el cost final és superior al pressupostat, s'exigirà la diferència; si és inferior, es procedirà a la devolució de l'excés ingressat"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "normativa",
+      "title": "Normativa Essencial",
+      "level": 1,
+      "content": [
+        {
+          "type": "list",
+          "items": [
+            "CE - Constitución Española - 1978",
+            "TRLRHL - Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales - versió consolidada",
+            "LRBRL - Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+            "LGT - Ley 58/2003, de 17 de diciembre, General Tributaria"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "exemples-casos",
+      "title": "Exemples i Casos",
+      "level": 1,
+      "content": [
+        {
+          "type": "example",
+          "label": "Micro-cas (ICIO)",
+          "text": "Un promotor inicia una obra amb un PEM de 500.000 €. L'ordenança fiscal del municipi fixa un tipus de l'ICIO del ==4%==. En finalitzar l'obra, el cost d'execució material real ha estat de 550.000 €. Orientació de resposta: El promotor haurà de fer una autoliquidació provisional de 20.000 € (500.000 × 0,04) a l'inici de l'obra. Un cop acabada, l'Ajuntament podrà practicar una liquidació definitiva per la diferència, exigint 2.000 € addicionals (50.000 × 0,04)."
+        },
+        {
+          "type": "example",
+          "label": "Micro-cas (Contribucions Especials)",
+          "text": "Un ajuntament pavimenta un carrer que fins ara era de terra, amb un cost total de 200.000 €. L'obra beneficia directament 20 finques. L'Ajuntament decideix repercutir el ==90%== del cost (180.000 €) als propietaris. Orientació de resposta: L'Ajuntament ha d'aprovar un acord d'imposició i ordenació. La base imposable és el cost de l'obra que es repercuteix (amb un màxim del ==90%== del cost total). L'import total (180.000 €) s'ha de repartir entre els propietaris beneficiats segons criteris objectius fixats a l'ordenança (metres lineals de façana, superfície de la finca, etc.)."
+        }
+      ]
+    },
+    {
+      "id": "errors-mnemo",
+      "title": "Errors Típics i Mnemotècnies",
+      "level": 1,
+      "content": []
+    },
+    {
+      "id": "glossari",
+      "title": "Glossari Mínim",
+      "level": 1,
+      "content": [
+        {
+          "type": "subsection",
+          "title": "Termes Fonamentals",
+          "items": [
+            {
+              "type": "definition",
+              "term": "Fet Imposable",
+              "details": [
+                "Circumstància o fet que, segons la llei, origina l'obligació de pagar un tribut"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Base Imposable",
+              "details": [
+                "Quantificació monetària del fet imposable sobre la qual s'aplica el tipus de gravamen"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Tipus de Gravamen",
+              "details": [
+                "Percentatge que s'aplica a la base imposable per calcular la quota tributària"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Quota Tributària",
+              "details": [
+                "Quantitat final a pagar"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Meritació (Devengo)",
+              "details": [
+                "Moment en què s'entén realitzat el fet imposable i neix l'obligació tributària"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Ordenança Fiscal",
+              "details": [
+                "Norma de rang ==reglament==ari aprovada per una entitat local per regular els seus tributs"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "resum",
+      "title": "Resum Final",
+      "level": 1,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "El sistema de finançament local es regeix pels principis d'autonomia i suficiència, articulats a través del TRLRHL. Els ingressos tributaris (impostos, taxes i contribucions especials) són la seva principal font de recursos, i es regulen localment mitjançant ordenances fiscals. Per a un arquitecte tècnic, és crucial dominar la figura de l'ICIO, un impost potestatiu que grava el cost d'execució material de les obres. La correcta determinació de la seva base imposable i el coneixement del seu procediment de liquidació són coneixements essencials per a la pràctica professional."
+        }
+      ]
+    },
+    {
+      "id": "bloc-examen",
+      "title": "Bloc d'Examen",
+      "level": 1,
+      "content": [
+        {
+          "type": "example",
+          "label": "Micro-cas pràctic",
+          "text": "Un Ajuntament decideix instal·lar enllumenat públic en una urbanització, amb un cost total de 150.000 €. L'obra beneficia 50 parcel·les. L'Ajuntament acorda repercutir el ==80%== del cost via contribucions especials, utilitzant la superfície de cada parcel·la com a criteri de repartiment. Vostè, com a arquitecte tècnic municipal, ha de preparar un informe preliminar. Punts clau de resolució: 1) Validació del fet imposable: Verificar que l'establiment d'un nou servei (enllumenat) és un fet imposable vàlid per a una contribució especial (art. 28 TRLRHL). 2) Càlcul de la base imposable: Calcular l'import màxim a repercutir, que és el ==80%== de 150.000 € = 120.000 €. Aquest import està dins del límit legal del ==90%== del cost de l'obra que pot finançar-se amb aquest tribut. 3) Identificació dels subjectes passius: Identificar el col·lectiu de subjectes passius, que són els propietaris de les 50 parcel·les que obtenen un benefici directe de la instal·lació. 4) Criteri de repartiment: Confirmar que el criteri de repartiment (superfície) és un dels mòduls objectius i raonables permesos per la llei (juntament amb metres de façana, valor cadastral, etc.). 5) Procediment: Esmentar la necessitat de seguir el procediment formal: aprovació de l'acord d'imposició i de l'ordenança corresponent, notificació individualitzada als interessats i obertura del període d'al·legacions."
+        }
+      ]
+    }
+  ]
+}

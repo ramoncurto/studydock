@@ -1,0 +1,78 @@
+GUIA DE FORMAT PER A APUNTS
+
+Aquesta és una guia de com formatar els teus apunts perquè es vegin perfectes automàticament.
+
+
+TÍTOLS PRINCIPALS
+
+Escriu títols principals en MAJÚSCULES. Es veuran grans i destacats.
+
+
+Seccions numerades:
+
+# 1. Primera Secció
+Pots usar # a l'inici o números seguits de punt per crear seccions.
+
+# 2. Segona Secció
+El text normal es veurà com a paràgrafs regulars.
+
+
+Subtítols importants:
+
+Usa dos punts al final per a subtítols:
+Aquest és un subtítol important que acaba amb dos punts i es destacarà automàticament.
+
+
+Llistes i vinyetes:
+
+- Primer element de la llista
+- Segon element de la llista
+- Tercer element amb més informació
+
+També pots usar:
+* Asteriscs per a llistes
+* Funcionen igual que els guions
+* Es veuen com a vinyetes
+
+
+Llistes numerades:
+
+1. Primer pas del procés
+2. Segon pas important
+3. Tercer pas final
+
+
+Text amb èmfasi:
+
+Pots usar **text entre dos asteriscs** per fer-lo **negreta** i destacar-lo.
+
+També funciona amb __guions baixos dobles__ per al mateix efecte.
+
+
+EXEMPLE COMPLET D'APUNTS
+
+Sistema Circulatori:
+
+El sistema circulatori és responsable de transportar **oxigen** i **nutrients** a totes les cèl·lules del cos.
+
+Components principals:
+
+- Cor: bomba muscular
+- Artèries: porten sang del cor
+- Venes: retornen sang al cor
+- Capil·lars: intercanvi de substàncies
+
+Funcions del sistema:
+
+1. Transport d'oxigen
+2. Eliminació de residus
+3. Regulació de temperatura
+4. Defensa immunològica
+
+
+CONSELLS FINALS
+
+- Mantingues línies en blanc entre seccions per a millor llegibilitat
+- Els títols en majúscules destaquen més
+- Usa llistes per a informació organitzada
+- El format s'aplica automàticament en pujar l'arxiu

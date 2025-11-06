@@ -1,0 +1,186 @@
+13. La contractació al sector públic. Classes de contractes del sector públic: breu definició de cadascun d’ells. La selecció del contractista. L’adjudicació dels contractes: procediments d’adjudicació.
+
+Desenvolupament
+
+
+1) Conceptes clau i definicions
+
+La correcta qualificació d'un contracte és el primer pas essencial, ja que determina el règim jurídic aplicable. La LCSP defineix els tipus contractuals principals en els seus articles 13 a 18.
+Contracte d'obres (Art. 13 LCSP): Té per objecte l'execució d'una obra o la realització d'algun dels treballs enumerats a l'Annex I de la LCSP (p. ex., construcció, enginyeria civil). La finalitat és la creació d'un bé immoble que compleixi una funció econòmica o tècnica per si mateix.
+Contracte de concessió d'obres (Art. 14 LCSP): L'objecte és el mateix que en el contracte d'obres, però la contraprestació per al contractista (concessionari) consisteix principalment en el dret a explotar l'obra, acompanyat o no d'un preu. L'element definitori és la transferència del risc operacional al concessionari.
+Contracte de concessió de serveis (Art. 15 LCSP): Un poder adjudicador encomana a un tercer (concessionari) la gestió d'un servei de la seva competència. La contraprestació és el dret a explotar el servei, amb o sense preu, i, igual que en la concessió d'obres, implica la transferència del risc operacional. Aquest risc es defineix com l'exposició a les incerteses del mercat, ja sigui de demanda, d'oferta o ambdues. Si l'administració garanteix la major part dels ingressos del contractista, no es considera una concessió, sinó un contracte de serveis ordinari.
+Contracte de subministrament (Art. 16 LCSP): Té per objecte l'adquisició, l'arrendament financer o l'arrendament (amb o sense opció de compra) de productes o béns mobles. Inclou l'adquisició d'energia i, de forma explícita, el programari desenvolupat a mida quan així ho especifiquin els plecs, tot i que normalment aquest es considera un servei.
+Contracte de serveis (Art. 17 LCSP): Són aquells contractes l'objecte dels quals són prestacions de fer que consisteixen en el desenvolupament d'una activitat o estan dirigides a l'obtenció d'un resultat diferent d'una obra o un subministrament. És una categoria residual que inclou des de serveis de neteja i manteniment fins a consultoria o serveis d'arquitectura.
+Contractes mixtos (Art. 18 LCSP): Són aquells que contenen prestacions corresponents a diferents tipus de contractes. Per determinar les normes aplicables, s'atendrà al caràcter de la prestació principal.
+
+2) Estructura / Esquemes
+
+Per a un opositor, és vital diferenciar clarament els procediments d'adjudicació, ja que cada un respon a necessitats diferents i té requisits específics. La següent taula comparativa sintetitza les característiques clau dels procediments més rellevants.
+Procediment
+Articles LCSP
+Característica Principal
+Quan s'utilitza
+Nivell de Concurrència
+Obert
+156-158
+Qualsevol empresari interessat pot presentar una proposició. No hi ha negociació.
+És el procediment ordinari i preferent.
+Màxim
+Obert Simplificat
+159
+Versió àgil de l'obert amb terminis reduïts i tràmits simplificats.
+Contractes per sota de certs llindars (p. ex., obres ≤ $2.000.000$ €).
+Alt
+Obert Simplificat Abreujat
+159.6
+Versió "súper simplificada" per a contractes de baixa quantia (p. ex., obres < $80.000$ €).
+Necessitats de molt baix valor econòmic.
+Alt
+Restringit
+160-165
+Qualsevol empresari pot sol·licitar participar, però només els seleccionats (mínim 5) poden presentar proposició.
+Quan es requereix una preselecció per la complexitat o especialització de la prestació.
+Mitjà-Alt
+Amb Negociació
+166-171
+L'òrgan de contractació negocia els termes del contracte amb un o diversos candidats seleccionats.
+Casos taxats per la llei (p. ex., prestacions que requereixen adaptació, contractes artístics). Requereix justificació.
+Baix-Mitjà
+Diàleg Competitiu
+172-176
+Per a contractes especialment complexos on l'administració no pot definir les solucions tècniques a priori. Es dialoga amb els candidats per desenvolupar solucions abans de presentar ofertes.
+Projectes complexos (p. ex., infraestructures tecnològiques integrades).
+Baix
+Associació per a la Innovació
+177-182
+Per desenvolupar i adquirir un producte, servei o obra innovadora que no existeix al mercat.
+Quan es busca una solució radicalment nova a una necessitat pública.
+Baix
+
+
+3) Principis / Regles
+
+La selecció del contractista es basa en un sistema de doble filtre: primer es comprova l'aptitud de l'empresa (solvència) i després es valora la qualitat de la seva oferta (criteris d'adjudicació). És un error greu, i motiu d'impugnació, confondre ambdós conceptes.
+
+Aptitud del Contractista (Solvència)
+
+La solvència és el conjunt de requisits mínims que ha de complir una empresa per demostrar que és capaç d'executar correctament el contracte. És un requisit de "apte/no apte" i no atorga punts. S'acredita mitjançant:
+Solvència econòmica i financera (Art. 87 LCSP): Demostra la salut financera de l'empresa. S'acredita, entre altres, mitjançant:
+Volum anual de negocis (màxim 1,5 vegades el valor estimat del contracte).
+Assegurança de responsabilitat civil per un import adequat.
+Patrimoni net al tancament de l'últim exercici.
+Solvència tècnica o professional (Arts. 88-91 LCSP): Demostra l'experiència i els mitjans tècnics i humans de l'empresa. Varia segons el tipus de contracte:
+Contractes d'obres (Art. 88): El mitjà principal és una relació de les obres executades en el curs dels últims deu anys. Aquesta és una modificació recent (abans eren cinc anys) introduïda per la Llei de Pressupostos Generals de l'Estat per a 2023, un detall important per a l'examen.
+Contractes de serveis (Art. 90): Relació dels principals serveis realitzats en els últims tres anys, indicació del personal tècnic, titulacions acadèmiques, etc.
+Classificació Empresarial (Art. 77 LCSP): Per a contractes d'obres amb un valor estimat igual o superior a $500.000$ €, és obligatori que l'empresa estigui classificada. Aquesta classificació, atorgada per la Junta Consultiva de Contractació Pública, acredita de forma genèrica la solvència de l'empresa per a determinats tipus i categories d'obres, evitant haver de demostrar-la en cada licitació.
+
+Valoració de les Ofertes (Criteris d'Adjudicació)
+
+Un cop verificada la solvència dels licitadors, es procedeix a valorar les seves ofertes per determinar quina presenta la millor relació qualitat-preu (Art. 145 LCSP).8 Aquests criteris sí que atorguen punts.
+Requisits: Han d'estar vinculats a l'objecte del contracte, ser objectius, no discriminatoris i estar publicats en els plecs.9
+Tipologia:
+Criteris avaluables mitjançant fórmules (automàtics): Principalment el preu, però també altres com el termini de lliurament o el rendiment.
+Criteris subjectes a judici de valor (no automàtics): Requereixen una valoració tècnica per part d'un comitè d'experts. Per exemple: la qualitat tècnica de la proposta, les característiques estètiques o funcionals, o l'organització de l'equip de treball.
+Exemples de criteris qualitatius (Art. 145.2 LCSP):
+Característiques socials: Estabilitat en l'ocupació, plans d'igualtat de gènere, inserció laboral de col·lectius vulnerables.9
+Característiques mediambientals: Reducció d'emissions, ús d'energies renovables, mesures d'eficiència energètica.9
+Altres: Servei postvenda, assistència tècnica, millores addicionals sense cost.
+La distinció és fonamental: la solvència es refereix a la capacitat general de l'empresa, mentre que els criteris d'adjudicació valoren les característiques específiques de l'oferta. Per exemple, exigir un volum de negoci de $2$ milions d'euros és un requisit de solvència. En canvi, atorgar punts per l'experiència del cap d'obra proposat per a aquest projecte concret pot ser un criteri d'adjudicació vàlid, ja que es vincula a la qualitat de l'execució de l'oferta presentada.9
+
+4) Procediment i aplicació administrativa
+
+La LCSP estableix diferents procediments i tramitacions per adaptar-se a la naturalesa i quantia de cada contracte.
+
+El Contracte Menor (Art. 118 LCSP)
+
+És un procediment d'adjudicació directa per a contractes de baixa quantia, però sotmès a controls estrictes per evitar el frau. La seva regulació detallada a la LCSP 2017 respon a la voluntat del legislador de limitar l'opacitat i el fraccionament indegut de contractes, pràctiques històricament associades a la corrupció.
+Llindars: Valor estimat inferior a $40.000$ € per a contractes d'obres, i inferior a $15.000$ € per a contractes de serveis i subministraments.12
+Durada: Màxim un any, sense possibilitat de pròrroga.12
+Expedient administratiu: Tot i ser d'adjudicació directa, requereix un expedient que inclogui:
+Informe de l'òrgan de contractació: Justificant la necessitat del contracte i que no s'està fraccionant artificialment un objecte contractual per eludir un procediment de major concurrència.
+Aprovació de la despesa.
+Factura corresponent.
+Requisits addicionals per a obres menors: S'ha d'incorporar a més el pressupost de les obres i, si és necessari, el projecte. Si l'obra afecta l'estabilitat o seguretat de l'edificació, es requereix un informe de l'oficina de supervisió de projectes.12
+
+El Procediment Obert Simplificat (Art. 159 LCSP)
+
+Aquesta va ser una de les grans novetats de la LCSP 2017, creada com una via intermèdia entre la rigidesa del procediment obert ordinari i l'excepcionalitat del contracte menor.
+Àmbit: Per a contractes d'obres de valor estimat igual o inferior a $2.000.000$ € i contractes de serveis i subministraments de valor estimat inferior a certs llindars (actualment $143.000$ € per a l'AGE).13
+Característiques: Terminis més curts, documentació simplificada (p. ex., inscripció al ROLECE substitueix la presentació de molts documents) i tramitació electrònica obligatòria.4
+Versió Abreujada o "Súper Simplificada" (Art. 159.6): Per a contractes de valor encara menor (obres < $80.000$ €; serveis i subministraments < $60.000$ €), amb tràmits encara més àgils.4
+
+Tipus de Tramitació
+
+Independentment del procediment d'adjudicació, la tramitació de l'expedient pot ser:
+Ordinària: La tramitació per defecte, seguint els terminis generals.
+Urgent (Art. 119 LCSP): Quan una necessitat inajornable ho requereixi, es redueixen a la meitat la majoria de terminis. Requereix una declaració motivada per l'òrgan de contractació.16
+D'emergència (Art. 120 LCSP): Per a situacions de greu perill (p. ex., catàstrofes naturals), l'Administració pot contractar directament el que sigui estrictament indispensable, sense cap tràmit formal previ, justificant-ho a posteriori.
+
+5) Normativa essencial (sigles — nom oficial — any/versió)
+
+LCSP — Llei 9/2017, de 8 de novembre, de Contractes del Sector Públic. És crucial consultar sempre la versió consolidada disponible al BOE, ja que ha estat objecte de nombroses modificacions.1
+Directiva 2014/24/UE — Directiva 2014/24/UE del Parlament Europeu i del Consell, de 26 de febrer de 2014, sobre contractació pública.
+Directiva 2014/23/UE — Directiva 2014/23/UE del Parlament Europeu i del Consell, de 26 de febrer de 2014, relativa a l'adjudicació de contractes de concessió.
+
+6) Exemples i casos
+
+Exemple (test): Segons l'article 16 de la LCSP, quin dels següents NO es considera un contracte de subministrament?
+a) L'adquisició d'energia primària.
+b) La redacció d'un projecte d'arquitectura.
+c) L'arrendament financer d'equips informàtics.
+(Orientació de resposta: La resposta correcta és la b. La redacció d'un projecte és una prestació de caràcter intel·lectual, classificada com a contracte de serveis segons l'article 17 de la LCSP).
+Micro-cas: Un Ajuntament necessita rehabilitar la coberta d'una biblioteca municipal. El valor estimat de l'obra és de $150.000$ €. No hi ha circumstàncies d'urgència. Quin procediment d'adjudicació seria el més adequat i per què? Quins requisits de solvència tècnica serien proporcionals?
+Orientació de resposta: El procediment més adequat és el procediment obert simplificat (Art. 159 LCSP), ja que el valor és inferior al llindar de $2.000.000$ €. Aquest procediment ofereix agilitat administrativa mantenint els principis de publicitat i concurrència. Com a requisits de solvència tècnica proporcionals, es podria exigir acreditar l'execució d'almenys una obra de rehabilitació de cobertes en els últims 10 anys per un import similar, i disposar d'un cap d'obra amb titulació d'arquitecte tècnic i experiència demostrable.
+
+7) Errors típics i mnemotècnies
+
+Error 1: Fraccionament il·legal del contracte. Dividir una actuació global (p. ex., la reforma integral d'un edifici de $60.000$ €) en dos contractes menors (p. ex., un de $35.000$ € per a paleteria i un altre de $25.000$ € per a instal·lacions) per eludir el procediment obert simplificat és una causa de nul·litat de ple dret.
+Error 2: Confondre solvència amb criteris d'adjudicació. Utilitzar un requisit de capacitat de l'empresa (p. ex., la seva facturació anual) com a criteri per puntuar la seva oferta és il·legal. La solvència és un filtre previ; els criteris valoren l'oferta.
+Error 3: Ometre documentació en contractes menors d'obres. No incloure el pressupost de l'obra o, si escau, l'informe de supervisió, invalida l'expedient del contracte menor.12
+Mnemotècnia: S.A.C. -> Solvència (ets Apte?), Criteris (ets el millor?). Primer, l'Administració comprova si l'empresa és apta per executar el contracte (filtre de solvència). Després, entre les aptes, tria la millor oferta (valoració de criteris).
+
+8) Glossari mínim
+
+Perfil de contractant: L'espai dins del lloc web institucional de cada òrgan de contractació on es publica tota la informació relativa a la seva activitat contractual (anuncis, plecs, adjudicacions), garantint la transparència.
+ROLECE: Registre Oficial de Licitadors i Empreses Classificades del Sector Públic. Registre públic que centralitza la documentació administrativa de les empreses, simplificant la seva participació en licitacions.
+SARA: Subjecte a Regulació Harmonitzada. Contractes que, per superar uns llindars econòmics elevats fixats per la UE, estan subjectes a normes de publicitat i procediment més estrictes, incloent la publicació al DOUE.19
+DOUE: Diari Oficial de la Unió Europea. El butlletí on s'han de publicar obligatòriament els anuncis de licitació dels contractes SARA per garantir la concurrència a nivell europeu.
+
+Resum final
+
+La contractació pública és un procés reglat que busca garantir l'eficiència en la despesa i el compliment dels principis de concurrència i igualtat. El procés de selecció del contractista es desenvolupa en dues fases clarament diferenciades: una primera fase de verificació de l'aptitud de l'empresa a través de la solvència econòmica i tècnica, i una segona fase de valoració comparativa de les ofertes mitjançant criteris d'adjudicació per identificar la millor relació qualitat-preu. La correcta elecció del procediment d'adjudicació (obert, restringit, menor, etc.) depèn de la naturalesa, el valor i la complexitat del contracte, sent el procediment obert la regla general per maximitzar la competència.
+
+Bloc d’examen
+
+Preguntes tipus test:
+D'acord amb la darrera modificació de la LCSP, quin és el període màxim de referència per acreditar la solvència tècnica en un contracte d'obres mitjançant la relació d'obres executades?
+a) 3 anys.
+b) 5 anys.
+c) 10 anys.
+d) 15 anys.
+Un ajuntament adjudica la gestió de la piscina municipal a una empresa. L'empresa assumeix els costos de personal i manteniment, i la seva retribució prové íntegrament de la venda d'entrades, assumint el risc que hi hagi pocs usuaris. Com es qualifica aquest contracte?
+a) Contracte de serveis.
+b) Contracte de concessió de serveis.
+c) Contracte mixt de serveis i subministraments.
+d) Contracte menor de serveis.
+Per a la tramitació d'un contracte menor d'obres de $35.000$ € que consisteix en la reparació d'un element estructural d'un edifici públic, quin document, a més de l'informe de necessitat i l'aprovació de la despesa, és imprescindible?
+a) Una declaració responsable del contractista.
+b) La publicació de l'adjudicació al perfil de contractant.
+c) L'informe de l'oficina de supervisió de projectes.
+d) La constitució d'una garantia definitiva.
+Micro-cas pràctic:
+Una Diputació Provincial vol licitar la construcció d'un nou centre cívic amb un pressupost base de licitació de $3.000.000$ € (IVA exclòs). En els plecs, vol prioritzar l'eficiència energètica de l'edifici i l'ús de materials reciclats.
+Es demana:
+Quin és el procediment d'adjudicació més adequat? Justifiqui la resposta.
+Proposi dos requisits de solvència tècnica proporcionals i vinculats a l'objecte del contracte.
+Proposi tres criteris d'adjudicació (un basat en el preu i dos de qualitatius) que responguin als objectius mediambientals de la Diputació.
+Punts clau de la resolució:
+Procediment: El procediment adequat és el procediment obert, ja que el valor estimat del contracte ($3.000.000$ €) supera el llindar del procediment obert simplificat per a obres ($2.000.000$ €). A més, en no complir cap dels supòsits excepcionals, s'ha d'aplicar el procediment ordinari que garanteix la màxima concurrència.
+Solvència tècnica:
+Haver executat, en els últims 10 anys, almenys una obra de construcció d'edificació d'ús públic per un import igual o superior al 70% de l'anualitat mitjana del contracte.
+Disposar d'un equip tècnic adscrit a l'obra que inclogui, com a mínim, un/a arquitecte/a com a cap d'obra i un/a arquitecte/a tècnic/a com a cap de producció, ambdós amb més de 5 anys d'experiència en obres similars.
+Criteris d'adjudicació:
+Criteri avaluable amb fórmula (40 punts): Oferta econòmica (preu).
+Criteri qualitatiu 1 (35 punts): Proposta tècnica de millora de l'eficiència energètica de l'edifici per sobre dels mínims del projecte, valorant aspectes com la reducció de la demanda energètica i la millora del rendiment de les instal·lacions.
+Criteri qualitatiu 2 (25 punts): Pla de gestió ambiental de l'obra, on es valorarà el percentatge de materials amb segell reciclat a utilitzar i les mesures per a la minimització i valorització de residus de construcció i demolició.
+

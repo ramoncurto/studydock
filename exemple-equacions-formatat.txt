@@ -1,0 +1,87 @@
+EQUACIONS DE SEGON GRAU
+
+Les equacions de segon grau són expressions algebraiques de la forma **ax² + bx + c = 0** on a ≠ 0.
+
+
+Fórmula general:
+
+La solució s'obté mitjançant la **fórmula quadràtica**:
+
+x = (-b ± √(b² - 4ac)) / 2a
+
+
+Components de la fórmula:
+
+- a: coeficient del terme quadràtic
+- b: coeficient del terme lineal
+- c: terme independent
+- Discriminant: b² - 4ac
+
+
+TIPUS DE SOLUCIONS
+
+El discriminant determina el nombre de solucions:
+
+
+Discriminant positiu (b² - 4ac > 0):
+- Dues solucions reals diferents
+- La paràbola talla l'eix X en dos punts
+
+
+Discriminant zero (b² - 4ac = 0):
+- Una solució real doble
+- La paràbola és tangent a l'eix X
+
+
+Discriminant negatiu (b² - 4ac < 0):
+- No hi ha solucions reals
+- Dues solucions complexes conjugades
+- La paràbola no talla l'eix X
+
+
+MÈTODE DE RESOLUCIÓ
+
+Passos per resoldre:
+
+1. Identificar els coeficients a, b i c
+2. Calcular el discriminant b² - 4ac
+3. Aplicar la fórmula quadràtica
+4. Simplificar les solucions
+
+
+Exemple pràctic:
+
+Resoldre: x² - 5x + 6 = 0
+
+Identifiquem:
+- a = 1
+- b = -5
+- c = 6
+
+Calculem el discriminant:
+- Δ = (-5)² - 4(1)(6) = 25 - 24 = 1
+
+Apliquem la fórmula:
+- x = (5 ± √1) / 2
+- x₁ = (5 + 1) / 2 = 3
+- x₂ = (5 - 1) / 2 = 2
+
+
+APLICACIONS PRÀCTIQUES
+
+Les equacions quadràtiques s'utilitzen en:
+
+- Física: moviment parabòlic
+- Economia: anàlisi de costos i beneficis
+- Enginyeria: disseny d'estructures
+- Geometria: problemes d'àrees
+
+
+CONCEPTES CLAU
+
+Recorda que:
+
+- **El coeficient "a" mai pot ser zero**
+- El discriminant indica el tipus de solucions
+- Sempre verifica les teves solucions substituint-les
+- Les solucions també s'anomenen "arrels" o "zeros"

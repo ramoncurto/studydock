@@ -1,0 +1,182 @@
+3. L'organització de l'Estat: La Corona, les Corts Generals i el Govern.
+1) La Corona (Títol II CE, Arts. 56-65)
+
+
+1.1) Concepte i naturalesa jurídica
+
+El Rei és el Cap de l'Estat, símbol de la seva unitat i permanència.1 La seva figura, en el marc de la monarquia parlamentària (art. 1.3 CE), arbitra i modera el funcionament regular de les institucions. Aquesta funció es caracteritza per ser no executiva i per situar-se per sobre de les disputes partidistes, actuant com un element d'estabilitat i continuïtat de l'Estat. El monarca "regna però no governa", la qual cosa significa que no participa en la presa de decisions polítiques quotidianes, que corresponen al Govern.
+
+1.2) Inviolabilitat i Responsabilitat: El Refrendo (Contrasignatura)
+
+L'article 56.3 de la CE estableix que la persona del Rei és inviolable i no està subjecta a responsabilitat. Aquesta inviolabilitat és una protecció jurídica absoluta, tant en l'àmbit polític com en el penal.
+Aquest privilegi, que podria semblar incompatible amb un estat democràtic, es legitima a través del mecanisme del refrendo o contrasignatura, regulat a l'article 64 de la CE. Tots els actes del Rei han de ser refrendats, generalment pel President del Govern o els ministres competents.4 Aquest acte de contrasignatura transfereix la responsabilitat jurídica i política de l'acte del monarca a la persona que el refrenda, que sí que està subjecta al control parlamentari i judicial. Per tant, la inviolabilitat i el refrendo són dues figures jurídiques inseparables que garanteixen que el Cap de l'Estat es mantingui al marge del debat polític mentre es preserva la responsabilitat democràtica.
+L'única excepció a l'obligació de refrendo són els actes relatius al nomenament i cessament dels membres civils i militars de la seva Casa (art. 65.2 CE).2
+
+1.3) Funcions del Rei (Arts. 62 i 63 CE)
+
+Les funcions del Rei són taxades i estan establertes a la Constitució. Les principals es poden agrupar de la següent manera 2:
+En relació amb les Corts Generals:
+Sancionar i promulgar les lleis (art. 62.a).
+Convocar i dissoldre les Corts Generals i convocar eleccions en els termes previstos a la Constitució (art. 62.b).
+En relació amb el Govern:
+Proposar el candidat a President del Govern, nomenar-lo i posar fi a les seves funcions (art. 62.d).
+Nomenar i separar els membres del Govern a proposta del seu President (art. 62.e).
+Ser informat dels afers d'Estat i presidir, a aquests efectes, les sessions del Consell de Ministres, a petició del President del Govern (art. 62.g).
+En la política internacional:
+Assumir la més alta representació de l'Estat espanyol (art. 56.1).
+Acreditar els ambaixadors i altres representants diplomàtics, i manifestar el consentiment de l'Estat per obligar-se internacionalment per mitjà de tractats (art. 63.1 i 63.2).
+Declarar la guerra i fer la pau, amb l'autorització prèvia de les Corts Generals (art. 63.3).
+Altres funcions:
+Exercir el comandament suprem de les Forces Armades (art. 62.h).
+Exercir el dret de gràcia d'acord amb la llei, que no podrà autoritzar indults generals (art. 62.i).
+
+2) Les Corts Generals (Títol III CE, Arts. 66-96)
+
+
+2.1) Composició i Estructura: Un Bicameralisme Asimètric
+
+Les Corts Generals representen el poble espanyol i estan formades pel Congrés dels Diputats i el Senat (art. 66.1 CE).9
+Congrés dels Diputats: Es compon d'un mínim de 300 i un màxim de 400 diputats, elegits per sufragi universal, lliure, igual, directe i secret. La circumscripció electoral és la província (art. 68 CE).9
+Senat: És la cambra de representació territorial (art. 69.1 CE). La seva composició és mixta: senadors elegits per província i senadors designats per les Assemblees Legislatives de les Comunitats Autònomes.10
+El sistema parlamentari espanyol és un bicameralisme asimètric o desigual. Aquesta asimetria es manifesta en el fet que la Constitució atorga un paper polític preponderant al Congrés dels Diputats. La investidura del President del Govern (art. 99 CE), la validació de la qüestió de confiança (art. 112 CE) i l'aprovació de la moció de censura (art. 113 CE) són competències exclusives del Congrés. A més, en el procediment legislatiu, el Congrés té sempre l'última paraula, ja que pot aixecar els vetos o rebutjar les esmenes del Senat (art. 90 CE).11 El centre de gravetat polític del sistema resideix, per tant, de manera inequívoca en el Congrés.
+
+2.2) Funcions de les Corts Generals (Art. 66.2 CE)
+
+Les Corts Generals exerceixen tres funcions principals 12:
+Potestat Legislativa: És la funció de crear i aprovar les lleis. El procediment legislatiu ordinari consta de les fases següents: iniciativa (Govern, Corts, CCAA, iniciativa popular), tramitació al Congrés, remissió al Senat (que pot aprovar, esmenar o vetar), decisió final al Congrés, i finalment, sanció reial, promulgació i publicació.11
+Funció Pressupostària: Consisteix en l'aprovació dels Pressupostos Generals de l'Estat mitjançant una llei. Aquesta llei té particularitats, com ara que la iniciativa legislativa correspon exclusivament al Govern (art. 134 CE).
+Control de l'Acció del Govern: Les Corts supervisen i controlen l'activitat del Govern a través de diversos mecanismes, com les preguntes, les interpel·lacions, les mocions o les comissions d'investigació.14
+
+2.3) Taula Comparativa: Congrés dels Diputats vs. Senat
+
+Criteri
+Congrés dels Diputats
+Senat
+Representació
+El poble espanyol en el seu conjunt (art. 66.1 CE).
+Cambra de representació territorial (art. 69.1 CE).
+Composició
+Entre 300 i 400 diputats (art. 68.1 CE).
+Nombre variable; senadors provincials i autonòmics (art. 69 CE).
+Sistema Electoral
+Representació proporcional (art. 68.3 CE).
+Sistema majoritari per als provincials; proporcional per als autonòmics (art. 69 CE).
+Relació amb el Govern
+Investeix el President (art. 99 CE); exigeix responsabilitat política (censura/confiança, arts. 112-113 CE).
+No té un paper directe en la investidura ni en la censura.
+Funció Legislativa
+Rol preeminent; té la decisió final sobre vetos i esmenes del Senat (art. 90 CE).
+Cambra de segona lectura; pot proposar vetos o esmenes (art. 90 CE).
+Durada del Mandat
+4 anys, tret de dissolució anticipada (art. 68.4 CE).
+4 anys per als senadors electes; variable per als designats.
+
+
+3) El Govern (Títol IV CE, Arts. 97-107)
+
+
+3.1) Funcions i Potestats (Art. 97 CE)
+
+L'article 97 de la CE és la clau de volta del poder executiu i li atribueix les següents funcions 17:
+Dirigeix la política interior i exterior, l'Administració civil i militar i la defensa de l'Estat: Aquesta és la funció de direcció política, que implica establir els objectius estratègics de l'Estat i impulsar-ne l'acció.
+Exerceix la funció executiva: Consisteix a aplicar les lleis i gestionar els serveis públics per satisfer els interessos generals.
+Exerceix la potestat reglamentària: És la capacitat de dictar normes jurídiques de rang inferior a la llei (com els Reials Decrets) per desenvolupar-les i executar-les, sempre amb subjecció a la llei.20
+Aquestes funcions són desenvolupades per la Llei 50/1997, de 27 de novembre, del Govern.6
+
+3.2) Composició i Estructura (Llei 50/1997)
+
+El Govern es compon del President, el Vicepresident o Vicepresidents (si n'hi ha) i els Ministres (art. 98.1 CE; art. 1.2 Llei 50/1997).21
+President: Dirigeix l'acció del Govern i coordina les funcions dels altres membres (art. 98.2 CE; art. 2 Llei 50/1997).
+Vicepresident(s): Assumeixen les funcions que els encomana el President.
+Ministres: Són els titulars dels seus respectius departaments ministerials.
+Òrgans Col·legiats: Els membres del Govern es reuneixen en el Consell de Ministres i en les Comissions Delegades del Govern.23
+
+3.3) El Govern en Funcions (Llei 50/1997)
+
+El Govern cessa i passa a estar "en funcions" després de la celebració d'eleccions generals, en els casos de pèrdua de la confiança parlamentària, o per dimissió o mort del seu President (art. 101 CE).8
+La seva actuació es limita al despatx ordinari dels assumptes públics i ha d'abstenir-se d'adoptar altres mesures, excepte en casos d'urgència degudament acreditats o per raons d'interès general (art. 21 Llei 50/1997).22 Les limitacions més importants són 22:
+El President en funcions no pot proposar al Rei la dissolució de les Corts, plantejar la qüestió de confiança ni proposar la convocatòria d'un referèndum consultiu.
+El Govern en funcions no pot aprovar el Projecte de Llei de Pressupostos Generals de l'Estat ni presentar projectes de llei a les Corts.
+
+4) Les Relacions entre el Govern i les Corts Generals (Títol V CE, Arts. 108-116)
+
+
+4.1) El Principi de Responsabilitat Política
+
+El Govern respon solidàriament de la seva gestió política davant el Congrés dels Diputats (art. 108 CE).16 Aquest principi és la base del sistema parlamentari: el Govern necessita la confiança del Parlament per mantenir-se en el poder.
+
+4.2) Mecanismes de Control Ordinari
+
+Informació i presència: Les cambres poden sol·licitar informació i la presència dels membres del Govern (arts. 109 i 110 CE).16
+Preguntes i interpel·lacions: Els parlamentaris poden formular preguntes al Govern. Les interpel·lacions són de caràcter més general i poden donar lloc a una moció en què la cambra manifesta la seva posició (art. 111 CE).16
+
+4.3) Mecanismes de Control Extraordinari: L'Exigència de Responsabilitat
+
+La Constitució estableix un model de "parlamentarisme racionalitzat", que busca reforçar l'estabilitat del Govern. Això es reflecteix en els mecanismes d'exigència de responsabilitat, que fan més difícil destituir un govern que atorgar-li la confiança.
+La Qüestió de Confiança (art. 112 CE):
+Iniciativa: Correspon al President del Govern, amb deliberació prèvia del Consell de Ministres.
+Objectiu: Verificar el suport del Congrés al seu programa o a una declaració de política general.
+Requisit: Requereix el vot a favor de la majoria simple dels diputats.
+Conseqüència del fracàs: El Govern ha de presentar la dimissió (art. 114.1 CE).16
+La Moció de Censura Constructiva (art. 113 CE):
+Iniciativa: Ha de ser proposada, com a mínim, per la desena part dels diputats.
+Objectiu: Retirar la confiança al Govern i, simultàniament, investir un nou President.
+Requisit: Ha d'incloure un candidat a la Presidència del Govern i requereix el vot favorable de la majoria absoluta del Congrés per ser aprovada.
+Conseqüència de l'èxit: El Govern cessa i el candidat proposat s'entén automàticament investit President (art. 114.2 CE).16 El caràcter "constructiu" d'aquesta moció evita buits de poder, ja que no es pot destituir un govern sense haver acordat prèviament qui el substituirà.
+
+5) Normativa essencial (sigles — nom oficial — any/versió)
+
+CE — Constitución Española — 1978 (text consolidat a 17/02/2024).28
+LG — Ley 50/1997, de 27 de noviembre, del Gobierno (text consolidat a 03/01/2025).21
+RCD — Reglamento del Congreso de los Diputados — 1982 (revisió vigent des de 31/07/2025).30
+RS — Reglamento del Senado — 1994 (revisió vigent des de 08/07/2025).31
+
+6) Exemples i casos
+
+Exemple (test): Segons l'article 64 de la CE, qui refrenda la proposta i el nomenament del President del Govern?
+a) El Rei.
+b) El President del Govern sortint.
+c) El President del Congrés dels Diputats.
+d) El President del Senat.
+(Orientació de resposta: La correcta és la c)).
+Micro-cas (1–3 frases) + orientació de resposta: El Govern perd una votació clau sobre els pressupostos al Congrés. Pot l'oposició presentar immediatament una moció de censura? Quins requisits ha de complir per prosperar i quina seria la conseqüència immediata del seu èxit?
+(Orientació de resposta: Sí, pot presentar-la. Per prosperar, ha de ser proposada per almenys 1/10 dels diputats, incloure un candidat a President i ser aprovada per majoria absoluta. Si té èxit, el Govern cessa i el candidat és nomenat President automàticament (art. 113 i 114 CE).)
+
+7) Errors típics i mnemotècnies
+
+Error típic: Confondre el comandament suprem simbòlic de les Forces Armades del Rei amb la direcció efectiva de la política de defensa, que correspon al Govern.
+Error típic: Creure que el Senat té el mateix poder legislatiu que el Congrés. El bicameralisme és asimètric.
+Mnemotècnia: Per a la moció de censura (art. 113 CE): "Un Dècim per Proposar, majoria Absoluta per Deposar" (sigles DPAD).
+
+8) Glossari mínim
+
+Refrendo (Contrasignatura): Acte mitjançant el qual una autoritat legitimada (President del Govern, ministre) valida un acte del Cap de l'Estat, assumint-ne la responsabilitat.
+Potestat Reglamentària: Facultat del poder executiu per dictar normes de caràcter general amb rang inferior a la llei.
+Moció de Censura Constructiva: Procediment parlamentari que exigeix a l'oposició proposar un candidat alternatiu a la Presidència per poder destituir el govern vigent.
+Bicameralisme Asimètric: Sistema parlamentari amb dues cambres en què una (a Espanya, el Congrés) ostenta una posició de superioritat política i funcional sobre l'altra.
+Resum final (4–6 línies):
+L'Estat espanyol s'organitza com una monarquia parlamentària on la Corona exerceix una funció arbitral i simbòlica, desproveïda de poder polític efectiu. El poder legislatiu recau en les Corts Generals, un parlament bicameral asimètric on el Congrés dels Diputats té la primacia política. El Govern, dirigit pel President, ostenta el poder executiu i la direcció política, però està sotmès al control constant del Parlament, del qual necessita la confiança per governar. Aquesta interrelació, regulada per mecanismes de parlamentarisme racionalitzat, busca un equilibri entre la representació democràtica i l'estabilitat governamental.
+Bloc d’examen
+3–5 preguntes tipus test, amb una resposta correcta i distractors plausibles.
+D'acord amb la Llei 50/1997, un Govern en funcions té prohibit:
+a) Nomenar nous Secretaris d'Estat.
+b) Aprovar el Projecte de Llei de Pressupostos Generals de l'Estat.
+c) Respondre a preguntes parlamentàries de control.
+d) Gestionar els serveis públics essencials.
+En el procediment legislatiu ordinari, si el Senat aprova un veto a un projecte de llei per majoria absoluta, el Congrés pot:
+a) Ignorar el veto i enviar la llei a sanció reial directament.
+b) Aixecar el veto amb el vot favorable de la majoria simple dels seus membres.
+c) Aixecar el veto amb el vot favorable de la majoria absoluta, o de la majoria simple un cop transcorreguts dos mesos.
+d) Modificar el projecte de llei i tornar-lo a enviar al Senat per a una nova deliberació.
+Quina de les següents funcions del Rei NO requereix refrendo?
+a) El nomenament del President del Govern.
+b) La convocatòria d'eleccions generals.
+c) L'expedició dels Reials Decrets acordats en Consell de Ministres.
+d) El nomenament dels membres civils de la seva Casa.
+1 micro-cas pràctic amb punts clau de resolució.
+Micro-cas: Després de dos mesos d'intenses negociacions posteriors a unes eleccions generals, el candidat proposat pel Rei no aconsegueix la confiança del Congrés en la segona votació d'investidura. Quina és la conseqüència constitucional immediata i qui és l'encarregat de formalitzar-la?
+Punts clau de resolució:
+Identificació del supòsit: Fracàs del procés d'investidura després del termini màxim establert a l'article 99.5 de la CE.
+Conseqüència: La Constitució preveu que, si transcorreguts dos mesos des de la primera votació d'investidura cap candidat obté la confiança, el Rei ha de dissoldre ambdues Cambres i convocar noves eleccions.
+Formalització de l'acte: Aquest acte de dissolució i convocatòria electoral ha de ser refrendat pel President del Congrés dels Diputats, tal com estableix l'article 99.5 de la CE. Aquesta és una excepció a la regla general de refrendo per part de membres del Govern.
+

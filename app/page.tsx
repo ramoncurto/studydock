@@ -1,7 +1,7 @@
 'use client'
 
 import React, { useState, useEffect, useRef } from 'react';
-import { Upload, BookOpen, FileText, Volume2, Play, Pause, CheckCircle, XCircle, ArrowLeft, Plus, Trash2, Sun, Moon, BarChart3, TrendingUp, Clock, Edit3, Check, X, Headphones, SkipBack, SkipForward, LogOut, Share2, Users, Copy, Link as LinkIcon } from 'lucide-react';
+import { Upload, BookOpen, FileText, Volume2, Play, Pause, CheckCircle, XCircle, ArrowLeft, Plus, Trash2, Sun, Moon, BarChart3, TrendingUp, Clock, Edit3, Check, X, Headphones, SkipBack, SkipForward, LogOut, Share2, Users, Copy, Link as LinkIcon, Target, Lightbulb, AlertTriangle, TrendingDown, ArrowRight, File, Sparkles, Home, Info } from 'lucide-react';
 import { getAllNotes, getAllTests, addNote, addTest, updateNote, updateTest, deleteNote, deleteTest, addNoteSession, addTestAttempt, getAllNoteSessions, getAllTestAttempts, getAllAudioBooks, addAudioBook, updateAudioBook, deleteAudioBook, NoteSession, TestAttempt, AudioBook, createInvitation, getInvitation, acceptInvitation, getUserInvitations, getSharedAccess, revokeAccess, deleteInvitation, Invitation, SharedAccess } from '@/lib/firebaseService';
 import { User, onAuthStateChanged, signInWithEmailAndPassword, createUserWithEmailAndPassword, signOut } from 'firebase/auth';
 import { auth } from '@/lib/firebase';
@@ -224,12 +224,12 @@ function ListeningView({
           <span className="font-medium">Tornar</span>
         </button>
 
-        <div className={`${theme.card} p-8 rounded-2xl border-2 ${theme.border} shadow-lg`}>
+        <div className="card p-8">
           <div className="text-center mb-8">
-            <div className="w-32 h-32 mx-auto mb-4 rounded-full bg-gradient-to-br from-purple-500 to-pink-500 flex items-center justify-center shadow-xl">
-              <Headphones size={64} className="text-white" />
+            <div className={`w-32 h-32 mx-auto mb-4 rounded-full ${isDark ? 'bg-primary-900/30' : 'bg-primary-100'} flex items-center justify-center`}>
+              <Headphones size={64} className={theme.accent} />
             </div>
-            <h2 className="text-2xl font-bold mb-2">{currentAudio.title}</h2>
+            <h2 className={`text-2xl font-bold mb-2 ${theme.text}`}>{currentAudio.title}</h2>
             <p className={`${theme.textSecondary}`}>Audiollibre</p>
           </div>
 
@@ -242,10 +242,10 @@ function ListeningView({
               onChange={handleSeek}
               className="w-full h-2 rounded-full appearance-none cursor-pointer"
               style={{
-                background: `linear-gradient(to right, ${isDark ? '#f472b6' : '#a855f7'} 0%, ${isDark ? '#f472b6' : '#a855f7'} ${(currentTime / (duration || 1)) * 100}%, ${isDark ? '#581c87' : '#fce7f3'} ${(currentTime / (duration || 1)) * 100}%, ${isDark ? '#581c87' : '#fce7f3'} 100%)`
+                background: `linear-gradient(to right, ${isDark ? '#0284c7' : '#0284c7'} 0%, ${isDark ? '#0284c7' : '#0284c7'} ${(currentTime / (duration || 1)) * 100}%, ${isDark ? '#262626' : '#e5e5e5'} ${(currentTime / (duration || 1)) * 100}%, ${isDark ? '#262626' : '#e5e5e5'} 100%)`
               }}
             />
-            <div className="flex justify-between text-sm mt-2">
+            <div className={`flex justify-between text-sm mt-2 ${theme.textSecondary}`}>
               <span>{formatTime(currentTime)}</span>
               <span>{formatTime(duration)}</span>
             </div>
@@ -351,21 +351,21 @@ export default function StudyApp() {
   const utteranceRef = useRef<SpeechSynthesisUtterance | null>(null);
   const audioRef = useRef<HTMLAudioElement | null>(null);
 
-  // Theme colors - Girly pastel palette
+  // Theme colors - Professional neutral palette
   const theme = {
-    bg: isDark ? 'bg-purple-950' : 'bg-pink-50',
-    text: isDark ? 'text-pink-100' : 'text-purple-900',
-    textSecondary: isDark ? 'text-purple-300' : 'text-purple-500',
-    card: isDark ? 'bg-purple-900' : 'bg-white',
-    cardHover: isDark ? 'hover:bg-purple-800' : 'hover:bg-pink-100',
-    button: isDark ? 'bg-pink-400 text-purple-950 hover:bg-pink-300' : 'bg-purple-400 text-white hover:bg-purple-500',
-    buttonSecondary: isDark ? 'bg-purple-800 hover:bg-purple-700 border-purple-600' : 'bg-pink-200 hover:bg-pink-300 border-pink-300',
-    border: isDark ? 'border-purple-700' : 'border-pink-200',
-    success: isDark ? 'bg-emerald-900' : 'bg-green-100',
-    error: isDark ? 'bg-rose-900' : 'bg-rose-100',
-    progressBar: isDark ? 'bg-purple-800' : 'bg-pink-200',
-    progressFill: isDark ? 'bg-pink-400' : 'bg-purple-400',
-    accent: isDark ? 'text-pink-400' : 'text-purple-400'
+    bg: isDark ? 'bg-neutral-950' : 'bg-neutral-50',
+    text: isDark ? 'text-neutral-50' : 'text-neutral-900',
+    textSecondary: isDark ? 'text-neutral-400' : 'text-neutral-600',
+    card: isDark ? 'bg-neutral-900' : 'bg-white',
+    cardHover: isDark ? 'hover:bg-neutral-850' : 'hover:bg-neutral-100',
+    button: isDark ? 'bg-primary-600 text-white hover:bg-primary-700' : 'bg-primary-600 text-white hover:bg-primary-700',
+    buttonSecondary: isDark ? 'bg-neutral-800 hover:bg-neutral-750 border-neutral-700' : 'bg-white hover:bg-neutral-50 border-neutral-300',
+    border: isDark ? 'border-neutral-800' : 'border-neutral-200',
+    success: isDark ? 'bg-emerald-900/50 border-emerald-800' : 'bg-emerald-50 border-emerald-200',
+    error: isDark ? 'bg-rose-900/50 border-rose-800' : 'bg-rose-50 border-rose-200',
+    progressBar: isDark ? 'bg-neutral-800' : 'bg-neutral-200',
+    progressFill: isDark ? 'bg-primary-600' : 'bg-primary-600',
+    accent: isDark ? 'text-primary-400' : 'text-primary-600'
   };
 
   // Authentication listener
@@ -835,11 +835,11 @@ export default function StudyApp() {
 
     // Show summary message
     if (errorCount === 0) {
-      alert(`✅ S'han pujat ${uploadedCount} ${type === 'note' ? 'apunts' : 'tests'} correctament!`);
+      alert(`S'han pujat ${uploadedCount} ${type === 'note' ? 'apunts' : 'tests'} correctament!`);
     } else if (uploadedCount === 0) {
-      alert(`❌ Error en pujar els arxius:\n${errors.join('\n')}`);
+      alert(`Error en pujar els arxius:\n${errors.join('\n')}`);
     } else {
-      alert(`⚠️ Pujats ${uploadedCount} arxius correctament.\nErrors en ${errorCount} arxius:\n${errors.join('\n')}`);
+      alert(`Pujats ${uploadedCount} arxius correctament.\nErrors en ${errorCount} arxius:\n${errors.join('\n')}`);
     }
 
     // Reset file input
@@ -897,7 +897,7 @@ export default function StudyApp() {
 
       // Show success message with the URL that will be used
       if (audioUrl.includes('drive.google.com/uc')) {
-        alert(`✅ Àudio afegit correctament!\n\n⚠️ Nota: Estem usant Google Drive. Si l'àudio no es reprodueix, és degut a les limitacions de CORS de Google Drive.\n\nURL convertida:\n${audioUrl}\n\nRecomanem usar Dropbox per a millor compatibilitat.`);
+        alert(`Àudio afegit correctament!\n\nNota: Estem usant Google Drive. Si l'àudio no es reprodueix, és degut a les limitacions de CORS de Google Drive.\n\nURL convertida:\n${audioUrl}\n\nRecomanem usar Dropbox per a millor compatibilitat.`);
       }
 
       setUploadType(null);
@@ -1197,22 +1197,22 @@ export default function StudyApp() {
 
           <div className="mb-8">
             <div className="flex justify-between items-center mb-2">
-              <h1 className="text-4xl font-bold bg-gradient-to-r from-purple-500 to-pink-500 bg-clip-text text-transparent">✨ StudyDock</h1>
+              <h1 className={`text-4xl font-bold ${theme.text}`}>StudyDock</h1>
               <div className="flex gap-2">
                 <button
                   onClick={toggleTheme}
-                  className={`p-3 rounded-full ${theme.card} ${theme.cardHover} transition shadow-lg`}
+                  className={`p-3 rounded-xl ${theme.card} border ${theme.border} hover:border-neutral-400 dark:hover:border-neutral-600 transition-all shadow-soft hover:shadow-medium`}
                   aria-label="Toggle theme"
                 >
-                  {isDark ? <Sun size={24} className="text-pink-300" /> : <Moon size={24} className="text-purple-500" />}
+                  {isDark ? <Sun size={20} className={theme.accent} /> : <Moon size={20} className={theme.accent} />}
                 </button>
                 <button
                   onClick={handleLogout}
-                  className={`p-3 rounded-full ${theme.card} ${theme.cardHover} transition shadow-lg`}
+                  className={`p-3 rounded-xl ${theme.card} border ${theme.border} hover:border-neutral-400 dark:hover:border-neutral-600 transition-all shadow-soft hover:shadow-medium`}
                   aria-label="Tancar sessió"
                   title="Tancar sessió"
                 >
-                  <LogOut size={24} className={isDark ? "text-pink-300" : "text-purple-500"} />
+                  <LogOut size={20} className={theme.accent} />
                 </button>
               </div>
             </div>
@@ -1223,92 +1223,87 @@ export default function StudyApp() {
             )}
           </div>
 
-        <div className="space-y-4">
+        <div className="space-y-3">
           <button
             onClick={() => setScreen('notes')}
-            className={`w-full ${theme.button} p-6 rounded-2xl flex items-center justify-between transition transform hover:scale-105 shadow-lg`}
+            className={`w-full card-hover p-5 flex items-center gap-4 transition-all`}
           >
-            <div className="flex items-center gap-4">
-              <div className={`p-3 rounded-xl ${isDark ? 'bg-purple-800' : 'bg-white/50'}`}>
-                <BookOpen size={28} />
-              </div>
-              <div className="text-left">
-                <div className="font-bold text-xl">📚 Els Meus Apunts</div>
-                <div className={`text-sm ${isDark ? 'text-purple-700' : 'text-purple-200'}`}>{notes.length} documents</div>
-              </div>
+            <div className={`p-3 rounded-xl ${isDark ? 'bg-primary-900/30' : 'bg-primary-50'}`}>
+              <BookOpen size={24} className={theme.accent} />
             </div>
+            <div className="text-left flex-1">
+              <div className={`font-semibold text-lg ${theme.text}`}>Els Meus Apunts</div>
+              <div className={`text-sm ${theme.textSecondary}`}>{notes.length} documents</div>
+            </div>
+            <ArrowRight size={20} className={theme.textSecondary} />
           </button>
 
           <button
             onClick={() => setScreen('tests')}
-            className={`w-full ${theme.button} p-6 rounded-2xl flex items-center justify-between transition transform hover:scale-105 shadow-lg`}
+            className={`w-full card-hover p-5 flex items-center gap-4 transition-all`}
           >
-            <div className="flex items-center gap-4">
-              <div className={`p-3 rounded-xl ${isDark ? 'bg-purple-800' : 'bg-white/50'}`}>
-                <FileText size={28} />
-              </div>
-              <div className="text-left">
-                <div className="font-bold text-xl">✏️ Els Meus Tests</div>
-                <div className={`text-sm ${isDark ? 'text-purple-700' : 'text-purple-200'}`}>{tests.length} tests</div>
-              </div>
+            <div className={`p-3 rounded-xl ${isDark ? 'bg-primary-900/30' : 'bg-primary-50'}`}>
+              <Edit3 size={24} className={theme.accent} />
             </div>
+            <div className="text-left flex-1">
+              <div className={`font-semibold text-lg ${theme.text}`}>Els Meus Tests</div>
+              <div className={`text-sm ${theme.textSecondary}`}>{tests.length} tests</div>
+            </div>
+            <ArrowRight size={20} className={theme.textSecondary} />
           </button>
 
           <button
             onClick={() => setScreen('audiobooks')}
-            className={`w-full ${theme.button} p-6 rounded-2xl flex items-center justify-between transition transform hover:scale-105 shadow-lg`}
+            className={`w-full card-hover p-5 flex items-center gap-4 transition-all`}
           >
-            <div className="flex items-center gap-4">
-              <div className={`p-3 rounded-xl ${isDark ? 'bg-purple-800' : 'bg-white/50'}`}>
-                <Headphones size={28} />
-              </div>
-              <div className="text-left">
-                <div className="font-bold text-xl">🎧 Escoltar Audiollibre</div>
-                <div className={`text-sm ${isDark ? 'text-purple-700' : 'text-purple-200'}`}>{audioBooks.length} àudios</div>
-              </div>
+            <div className={`p-3 rounded-xl ${isDark ? 'bg-primary-900/30' : 'bg-primary-50'}`}>
+              <Headphones size={24} className={theme.accent} />
             </div>
+            <div className="text-left flex-1">
+              <div className={`font-semibold text-lg ${theme.text}`}>Àudios</div>
+              <div className={`text-sm ${theme.textSecondary}`}>{audioBooks.length} àudios</div>
+            </div>
+            <ArrowRight size={20} className={theme.textSecondary} />
           </button>
 
           <button
             onClick={() => setScreen('stats')}
-            className={`w-full ${theme.button} p-6 rounded-2xl flex items-center justify-between transition transform hover:scale-105 shadow-lg`}
+            className={`w-full card-hover p-5 flex items-center gap-4 transition-all`}
           >
-            <div className="flex items-center gap-4">
-              <div className={`p-3 rounded-xl ${isDark ? 'bg-purple-800' : 'bg-white/50'}`}>
-                <BarChart3 size={28} />
-              </div>
-              <div className="text-left">
-                <div className="font-bold text-xl">📊 Les Meves Estadístiques</div>
-                <div className={`text-sm ${isDark ? 'text-purple-700' : 'text-purple-200'}`}>Progrés i rendiment</div>
-              </div>
+            <div className={`p-3 rounded-xl ${isDark ? 'bg-primary-900/30' : 'bg-primary-50'}`}>
+              <BarChart3 size={24} className={theme.accent} />
             </div>
+            <div className="text-left flex-1">
+              <div className={`font-semibold text-lg ${theme.text}`}>Estadístiques</div>
+              <div className={`text-sm ${theme.textSecondary}`}>Progrés i rendiment</div>
+            </div>
+            <ArrowRight size={20} className={theme.textSecondary} />
           </button>
 
           <button
             onClick={() => setScreen('sharing')}
-            className={`w-full ${theme.button} p-6 rounded-2xl flex items-center justify-between transition transform hover:scale-105 shadow-lg`}
+            className={`w-full card-hover p-5 flex items-center gap-4 transition-all`}
           >
-            <div className="flex items-center gap-4">
-              <div className={`p-3 rounded-xl ${isDark ? 'bg-purple-800' : 'bg-white/50'}`}>
-                <Share2 size={28} />
-              </div>
-              <div className="text-left">
-                <div className="font-bold text-xl">🤝 Compartir Materials</div>
-                <div className={`text-sm ${isDark ? 'text-purple-700' : 'text-purple-200'}`}>
-                  {sharedAccess.length > 0 ? `Accés a ${sharedAccess.length} compte${sharedAccess.length > 1 ? 's' : ''}` : 'Gestionar invitacions'}
-                </div>
+            <div className={`p-3 rounded-xl ${isDark ? 'bg-primary-900/30' : 'bg-primary-50'}`}>
+              <Share2 size={24} className={theme.accent} />
+            </div>
+            <div className="text-left flex-1">
+              <div className={`font-semibold text-lg ${theme.text}`}>Compartir Materials</div>
+              <div className={`text-sm ${theme.textSecondary}`}>
+                {sharedAccess.length > 0 ? `Accés a ${sharedAccess.length} compte${sharedAccess.length > 1 ? 's' : ''}` : 'Gestionar invitacions'}
               </div>
             </div>
+            <ArrowRight size={20} className={theme.textSecondary} />
           </button>
 
           {/* Only show upload button if not in read-only mode */}
           {!isReadOnlyMode && (
             <button
               onClick={() => setUploadType('upload')}
-              className={`w-full ${theme.buttonSecondary} ${theme.text} p-6 rounded-2xl flex items-center justify-center gap-3 transition transform hover:scale-105 border-2 border-dashed ${theme.border} shadow-md`}
+              className={`w-full btn-primary p-5 mt-4 rounded-xl`}
             >
-              <Plus size={28} />
-              <span className="font-bold text-lg">✨ Pujar Contingut</span>
+              <Plus size={20} />
+              <span className="font-semibold">Pujar Contingut</span>
             </button>
           )}
 
@@ -1337,19 +1332,19 @@ export default function StudyApp() {
           <span className="font-medium">Tornar</span>
         </button>
 
-        <h2 className="text-3xl font-bold mb-6 flex items-center gap-2">
-          <span className="bg-gradient-to-r from-purple-500 to-pink-500 bg-clip-text text-transparent">✨ Pujar Contingut</span>
+        <h2 className={`text-3xl font-bold mb-6 ${theme.text}`}>
+          Pujar Contingut
         </h2>
 
-        <div className="space-y-4">
+        <div className="space-y-3">
           <label className="block">
-            <div className={`${theme.button} p-6 rounded-2xl cursor-pointer transition transform hover:scale-105 flex items-center gap-4 shadow-lg`}>
-              <div className={`p-3 rounded-xl ${isDark ? 'bg-purple-800' : 'bg-white/50'}`}>
-                <Upload size={32} />
+            <div className="card-hover p-5 cursor-pointer flex items-center gap-4 transition-all">
+              <div className={`p-3 rounded-xl ${isDark ? 'bg-primary-900/30' : 'bg-primary-50'}`}>
+                <BookOpen size={24} className={theme.accent} />
               </div>
-              <div>
-                <div className="font-bold text-lg">📚 Pujar Apunts</div>
-                <div className={`text-sm ${isDark ? 'text-purple-700' : 'text-purple-200'}`}>Arxius de text (.txt o .json) - pots seleccionar múltiples</div>
+              <div className="flex-1 text-left">
+                <div className={`font-semibold text-base ${theme.text}`}>Pujar Apunts</div>
+                <div className={`text-sm ${theme.textSecondary}`}>Arxius .txt o .json (múltiples)</div>
               </div>
             </div>
             <input
@@ -1362,13 +1357,13 @@ export default function StudyApp() {
           </label>
 
           <label className="block">
-            <div className={`${theme.button} p-6 rounded-2xl cursor-pointer transition transform hover:scale-105 flex items-center gap-4 shadow-lg`}>
-              <div className={`p-3 rounded-xl ${isDark ? 'bg-purple-800' : 'bg-white/50'}`}>
-                <Upload size={32} />
+            <div className="card-hover p-5 cursor-pointer flex items-center gap-4 transition-all">
+              <div className={`p-3 rounded-xl ${isDark ? 'bg-primary-900/30' : 'bg-primary-50'}`}>
+                <Edit3 size={24} className={theme.accent} />
               </div>
-              <div>
-                <div className="font-bold text-lg">✏️ Pujar Test</div>
-                <div className={`text-sm ${isDark ? 'text-purple-700' : 'text-purple-200'}`}>Arxius de text (.txt) - pots seleccionar múltiples</div>
+              <div className="flex-1 text-left">
+                <div className={`font-semibold text-base ${theme.text}`}>Pujar Test</div>
+                <div className={`text-sm ${theme.textSecondary}`}>Arxius .txt (múltiples)</div>
               </div>
             </div>
             <input
@@ -1381,13 +1376,13 @@ export default function StudyApp() {
           </label>
 
           <button onClick={handleAddAudioLink} className="block w-full">
-            <div className={`${theme.button} p-6 rounded-2xl cursor-pointer transition transform hover:scale-105 flex items-center gap-4 shadow-lg`}>
-              <div className={`p-3 rounded-xl ${isDark ? 'bg-purple-800' : 'bg-white/50'}`}>
-                <Upload size={32} />
+            <div className="card-hover p-5 cursor-pointer flex items-center gap-4 transition-all">
+              <div className={`p-3 rounded-xl ${isDark ? 'bg-primary-900/30' : 'bg-primary-50'}`}>
+                <Headphones size={24} className={theme.accent} />
               </div>
-              <div className="text-left">
-                <div className="font-bold text-lg">🎧 Afegir Enllaç d&apos;Àudio</div>
-                <div className={`text-sm ${isDark ? 'text-purple-700' : 'text-purple-200'}`}>Enganxa l&apos;URL del teu arxiu M4A, MP3, etc.</div>
+              <div className="flex-1 text-left">
+                <div className={`font-semibold text-base ${theme.text}`}>Afegir Enllaç d&apos;Àudio</div>
+                <div className={`text-sm ${theme.textSecondary}`}>URL d&apos;arxiu M4A, MP3, etc.</div>
               </div>
             </div>
           </button>
@@ -1405,29 +1400,29 @@ export default function StudyApp() {
           <span className="font-medium">Tornar</span>
         </button>
 
-        <h2 className="text-3xl font-bold mb-6 flex items-center gap-2">
-          📚 <span className="bg-gradient-to-r from-purple-500 to-pink-500 bg-clip-text text-transparent">Els Meus Apunts</span>
+        <h2 className={`text-3xl font-bold mb-6 ${theme.text}`}>
+          Els Meus Apunts
         </h2>
 
         {notes.length === 0 ? (
           <div className={`text-center ${theme.textSecondary} mt-12 p-8`}>
             <BookOpen size={64} className="mx-auto mb-4 opacity-30" />
             <p className="text-lg font-semibold">No hi ha apunts encara</p>
-            <p className="text-sm mt-2">✨ Puja el teu primer document</p>
+            <p className="text-sm mt-2">Puja el teu primer document</p>
           </div>
         ) : (
           <div className="space-y-3">
             {notes.map(note => (
-              <div key={note.id} className={`${theme.card} p-4 rounded-2xl border-2 ${theme.border} shadow-md hover:shadow-lg transition`}>
+              <div key={note.id} className="card-hover p-4">
                 {editingNoteId === note.id ? (
                   // Editing mode
                   <div className="flex items-center gap-2">
-                    <span className="text-xl">📄</span>
+                    <FileText size={20} className={theme.accent} />
                     <input
                       type="text"
                       value={editingNoteName}
                       onChange={(e) => setEditingNoteName(e.target.value)}
-                      className={`flex-1 px-3 py-2 rounded-lg border-2 ${theme.border} ${theme.bg} ${theme.text} focus:outline-none focus:border-purple-400`}
+                      className={`flex-1 px-3 py-2 rounded-lg border ${theme.border} ${theme.bg} ${theme.text} focus:outline-none focus:ring-2 focus:ring-primary-500`}
                       autoFocus
                       onKeyDown={(e) => {
                         if (e.key === 'Enter') saveNoteRename(note.id);
@@ -1436,15 +1431,15 @@ export default function StudyApp() {
                     />
                     <button
                       onClick={() => saveNoteRename(note.id)}
-                      className={`p-2 rounded-lg ${isDark ? 'text-emerald-400 hover:bg-emerald-900' : 'text-emerald-600 hover:bg-emerald-100'} transition`}
+                      className={`p-2 rounded-lg ${isDark ? 'text-emerald-400 hover:bg-emerald-900/50' : 'text-emerald-600 hover:bg-emerald-50'} transition`}
                     >
-                      <Check size={20} />
+                      <Check size={18} />
                     </button>
                     <button
                       onClick={cancelEditingNote}
-                      className={`p-2 rounded-lg ${isDark ? 'text-gray-400 hover:bg-gray-800' : 'text-gray-600 hover:bg-gray-100'} transition`}
+                      className={`p-2 rounded-lg ${theme.textSecondary} ${isDark ? 'hover:bg-neutral-800' : 'hover:bg-neutral-100'} transition`}
                     >
-                      <X size={20} />
+                      <X size={18} />
                     </button>
                   </div>
                 ) : (
@@ -1457,24 +1452,24 @@ export default function StudyApp() {
                       }}
                       className="flex-1 text-left"
                     >
-                      <div className="font-bold flex items-center gap-2">
-                        <span className="text-xl">📄</span>
+                      <div className={`font-semibold flex items-center gap-3 ${theme.text}`}>
+                        <FileText size={20} className={theme.accent} />
                         {note.title}
                       </div>
-                      <div className={`text-sm ${theme.textSecondary} ml-7`}>{note.date}</div>
+                      <div className={`text-sm ${theme.textSecondary} ml-8`}>{note.date}</div>
                     </button>
-                    <div className="flex items-center gap-2">
+                    <div className="flex items-center gap-1">
                       <button
                         onClick={() => startEditingNote(note)}
-                        className={`p-2 rounded-lg ${isDark ? 'text-blue-400 hover:bg-blue-900' : 'text-blue-600 hover:bg-blue-100'} transition`}
+                        className={`p-2 rounded-lg ${isDark ? 'text-primary-400 hover:bg-primary-900/30' : 'text-primary-600 hover:bg-primary-50'} transition`}
                       >
-                        <Edit3 size={20} />
+                        <Edit3 size={18} />
                       </button>
                       <button
                         onClick={() => deleteItem(note.id, 'note')}
-                        className={`p-2 rounded-lg ${isDark ? 'text-rose-400 hover:bg-rose-900' : 'text-rose-500 hover:bg-rose-100'} transition`}
+                        className={`p-2 rounded-lg ${isDark ? 'text-rose-400 hover:bg-rose-900/30' : 'text-rose-500 hover:bg-rose-50'} transition`}
                       >
-                        <Trash2 size={20} />
+                        <Trash2 size={18} />
                       </button>
                     </div>
                   </div>
@@ -1579,8 +1574,8 @@ export default function StudyApp() {
             <span className="font-medium">Tornar</span>
           </button>
 
-          <h2 className="text-2xl font-bold mb-4 flex items-center gap-2">
-            <span className="text-2xl">📖</span>
+          <h2 className={`text-2xl font-bold mb-4 flex items-center gap-3 ${theme.text}`}>
+            <BookOpen size={24} className={theme.accent} />
             {currentNote?.title}
           </h2>
 
@@ -1588,11 +1583,11 @@ export default function StudyApp() {
           <div className="mb-4">
             <div className="flex items-center justify-between text-sm mb-2">
               <span className={theme.textSecondary}>Progrés de lectura</span>
-              <span className="font-bold">{readingProgress}%</span>
+              <span className={`font-semibold ${theme.accent}`}>{readingProgress}%</span>
             </div>
-            <div className={`w-full h-2 ${isDark ? 'bg-gray-700' : 'bg-gray-200'} rounded-full overflow-hidden`}>
+            <div className={`w-full h-2 ${theme.progressBar} rounded-full overflow-hidden`}>
               <div
-                className="h-full bg-gradient-to-r from-purple-500 to-pink-500 transition-all duration-300 ease-out"
+                className={`h-full ${theme.progressFill} transition-all duration-300 ease-out`}
                 style={{ width: `${readingProgress}%` }}
               />
             </div>
@@ -1602,25 +1597,25 @@ export default function StudyApp() {
             {relatedAudio ? (
               <button
                 onClick={() => playAudio(relatedAudio)}
-                className={`w-full ${theme.button} p-4 rounded-2xl flex items-center justify-center gap-3 transition transform hover:scale-105 font-bold shadow-lg`}
+                className="w-full btn-primary p-4 rounded-xl"
               >
-                <Headphones size={24} />
-                🎧 Escoltar Audiollibre
+                <Headphones size={20} />
+                <span className="font-semibold">Escoltar Audiollibre</span>
               </button>
             ) : (
               <button
                 onClick={toggleReading}
-                className={`w-full ${theme.button} p-4 rounded-2xl flex items-center justify-center gap-3 transition transform hover:scale-105 font-bold shadow-lg`}
+                className="w-full btn-primary p-4 rounded-xl"
               >
                 {isReading ? (
                   <>
-                    <Pause size={24} />
-                    ⏸️ Pausar Lectura
+                    <Pause size={20} />
+                    <span className="font-semibold">Pausar Lectura</span>
                   </>
                 ) : (
                   <>
-                    <Volume2 size={24} />
-                    🔊 Escoltar Text-to-Speech
+                    <Volume2 size={20} />
+                    <span className="font-semibold">Escoltar Text-to-Speech</span>
                   </>
                 )}
               </button>
@@ -1645,7 +1640,7 @@ export default function StudyApp() {
               }
               if (item.type === 'h3') {
                 return (
-                  <h3 key={idx} className={`text-lg font-semibold mb-2 mt-4 ${isDark ? 'text-pink-200' : 'text-purple-700'}`}>
+                  <h3 key={idx} className={`text-lg font-semibold mb-2 mt-4 ${theme.accent}`}>
                     {item.content}
                   </h3>
                 );
@@ -1653,7 +1648,7 @@ export default function StudyApp() {
               if (item.type === 'li') {
                 return (
                   <div key={idx} className="flex gap-2 mb-2 ml-4">
-                    <span className={isDark ? 'text-purple-400' : 'text-pink-400'}>•</span>
+                    <span className={theme.accent}>•</span>
                     <span className="flex-1" dangerouslySetInnerHTML={{ __html: item.content }} />
                   </div>
                 );
@@ -1663,10 +1658,10 @@ export default function StudyApp() {
               }
               if (item.type === 'formula') {
                 return (
-                  <div key={idx} className={`my-4 p-4 rounded-xl ${isDark ? 'bg-purple-900 border-purple-700' : 'bg-pink-100 border-pink-300'} border-2`}>
+                  <div key={idx} className={`my-4 p-4 rounded-xl ${isDark ? 'bg-primary-950/30 border-primary-800' : 'bg-primary-50 border-primary-200'} border`}>
                     {item.label && (
-                      <div className={`text-sm font-semibold mb-2 ${isDark ? 'text-pink-300' : 'text-purple-600'}`}>
-                        🧮 <span dangerouslySetInnerHTML={{ __html: item.label || '' }} />:
+                      <div className={`text-sm font-semibold mb-2 ${theme.accent}`}>
+                        <span dangerouslySetInnerHTML={{ __html: item.label || '' }} />:
                       </div>
                     )}
                     <code className="text-base font-mono block text-center" dangerouslySetInnerHTML={{ __html: item.content }} />
@@ -1675,16 +1670,16 @@ export default function StudyApp() {
               }
               if (item.type === 'definition') {
                 return (
-                  <div key={idx} className={`my-3 p-4 rounded-xl ${isDark ? 'bg-purple-900/50' : 'bg-pink-50'} border-l-4 ${isDark ? 'border-pink-400' : 'border-purple-400'}`}>
-                    <div className="font-bold mb-2 flex items-center gap-2">
-                      <span>📖</span>
+                  <div key={idx} className={`my-3 p-4 rounded-xl ${isDark ? 'bg-primary-950/30' : 'bg-primary-50'} border-l-4 ${isDark ? 'border-primary-400' : 'border-primary-600'}`}>
+                    <div className={`font-bold mb-2 flex items-center gap-2 ${theme.text}`}>
+                      <BookOpen size={18} className={theme.accent} />
                       <span dangerouslySetInnerHTML={{ __html: item.term || '' }} />
                     </div>
                     {item.details && item.details.length > 0 && (
                       <div className="space-y-1 ml-3">
                         {item.details.map((detail, dIdx) => (
                           <div key={dIdx} className="flex gap-2">
-                            <span className={isDark ? 'text-purple-400' : 'text-pink-400'}>→</span>
+                            <ArrowRight size={16} className={theme.accent} />
                             <span className="flex-1 text-sm" dangerouslySetInnerHTML={{ __html: detail }} />
                           </div>
                         ))}
@@ -1695,15 +1690,15 @@ export default function StudyApp() {
               }
               if (item.type === 'highlight') {
                 const bgColor = item.importance === 'high'
-                  ? (isDark ? 'bg-yellow-900/30 border-yellow-500' : 'bg-yellow-100 border-yellow-400')
+                  ? (isDark ? 'bg-yellow-900/30 border-yellow-600' : 'bg-yellow-100 border-yellow-400')
                   : item.importance === 'medium'
-                  ? (isDark ? 'bg-yellow-900/30 border-yellow-500' : 'bg-yellow-100 border-yellow-400')
-                  : (isDark ? 'bg-cyan-900/30 border-cyan-500' : 'bg-cyan-50 border-cyan-300');
-                const icon = item.importance === 'high' ? '⭐' : item.importance === 'medium' ? '💡' : 'ℹ️';
+                  ? (isDark ? 'bg-blue-900/30 border-blue-600' : 'bg-blue-100 border-blue-400')
+                  : (isDark ? 'bg-cyan-900/30 border-cyan-600' : 'bg-cyan-50 border-cyan-400');
+                const IconComponent = item.importance === 'high' ? Sparkles : item.importance === 'medium' ? Lightbulb : Info;
                 return (
-                  <div key={idx} className={`my-4 p-4 rounded-xl ${bgColor} border-2`}>
-                    <div className="flex items-start gap-2">
-                      <span className="text-2xl">{icon}</span>
+                  <div key={idx} className={`my-4 p-4 rounded-xl ${bgColor} border`}>
+                    <div className="flex items-start gap-3">
+                      <IconComponent size={20} className={item.importance === 'high' ? 'text-yellow-600 dark:text-yellow-400' : item.importance === 'medium' ? 'text-blue-600 dark:text-blue-400' : 'text-cyan-600 dark:text-cyan-400'} />
                       <div className="flex-1">
                         {item.content.split('\n').map((line, lIdx) => (
                           <div key={lIdx} className="mb-1 last:mb-0" dangerouslySetInnerHTML={{ __html: line }} />
@@ -1715,10 +1710,11 @@ export default function StudyApp() {
               }
               if (item.type === 'example') {
                 return (
-                  <div key={idx} className={`my-4 p-4 rounded-xl ${isDark ? 'bg-emerald-900/30 border-emerald-600' : 'bg-emerald-50 border-emerald-400'} border-2`}>
+                  <div key={idx} className={`my-4 p-4 rounded-xl ${isDark ? 'bg-emerald-950/30 border-emerald-700' : 'bg-emerald-50 border-emerald-300'} border`}>
                     {item.label && (
-                      <div className={`text-sm font-semibold mb-2 ${isDark ? 'text-emerald-300' : 'text-emerald-700'}`}>
-                        📝 <span dangerouslySetInnerHTML={{ __html: item.label || '' }} />
+                      <div className={`text-sm font-semibold mb-2 flex items-center gap-2 ${isDark ? 'text-emerald-400' : 'text-emerald-700'}`}>
+                        <FileText size={16} />
+                        <span dangerouslySetInnerHTML={{ __html: item.label || '' }} />
                       </div>
                     )}
                     <div className="text-sm" dangerouslySetInnerHTML={{ __html: item.content }} />
@@ -1727,12 +1723,12 @@ export default function StudyApp() {
               }
               if (item.type === 'table') {
                 return (
-                  <div key={idx} className={`my-4 overflow-x-auto rounded-xl ${isDark ? 'bg-slate-900/50' : 'bg-gray-50'} border-2 ${isDark ? 'border-slate-700' : 'border-gray-200'}`}>
+                  <div key={idx} className={`my-4 overflow-x-auto rounded-xl ${isDark ? 'bg-neutral-900/50' : 'bg-neutral-50'} border ${theme.border}`}>
                     <table className="w-full text-sm">
-                      <thead className={isDark ? 'bg-slate-800' : 'bg-gray-100'}>
+                      <thead className={isDark ? 'bg-neutral-850' : 'bg-neutral-100'}>
                         <tr>
                           {item.headers?.map((header, hIdx) => (
-                            <th key={hIdx} className={`px-4 py-3 text-left font-semibold ${isDark ? 'text-slate-200' : 'text-gray-700'}`}>
+                            <th key={hIdx} className={`px-4 py-3 text-left font-semibold ${theme.text}`}>
                               {header}
                             </th>
                           ))}
@@ -1740,7 +1736,7 @@ export default function StudyApp() {
                       </thead>
                       <tbody>
                         {item.rows?.map((row, rIdx) => (
-                          <tr key={rIdx} className={`border-t ${isDark ? 'border-slate-700' : 'border-gray-200'} ${rIdx % 2 === 0 ? (isDark ? 'bg-slate-900/30' : 'bg-white') : ''}`}>
+                          <tr key={rIdx} className={`border-t ${theme.border} ${rIdx % 2 === 0 ? (isDark ? 'bg-neutral-900/30' : 'bg-white') : ''}`}>
                             {row.map((cell, cIdx) => (
                               <td key={cIdx} className="px-4 py-3" dangerouslySetInnerHTML={{ __html: cell }} />
                             ))}
@@ -1774,28 +1770,30 @@ export default function StudyApp() {
           <span className="font-medium">Tornar</span>
         </button>
 
-        <h2 className="text-3xl font-bold mb-6 flex items-center gap-2">
-          ✏️ <span className="bg-gradient-to-r from-purple-500 to-pink-500 bg-clip-text text-transparent">Els Meus Tests</span>
+        <h2 className={`text-3xl font-bold mb-6 ${theme.text}`}>
+          Els Meus Tests
         </h2>
 
         {tests.length >= 2 && (
           <button
             onClick={() => showTestConfig({ id: -1, title: 'Test General (Tots els Tests)', questions: [], date: '' } as Test)}
-            className={`w-full mb-4 ${theme.card} p-6 rounded-2xl border-2 ${isDark ? 'border-yellow-600 bg-gradient-to-r from-yellow-900/30 to-orange-900/30' : 'border-yellow-400 bg-gradient-to-r from-yellow-50 to-orange-50'} shadow-lg hover:shadow-xl transition-all transform hover:scale-[1.02]`}
+            className={`w-full mb-4 card-hover p-5 ${isDark ? 'border-amber-600/50 bg-amber-950/20' : 'border-amber-300 bg-amber-50'} border-2`}
           >
             <div className="flex items-center justify-between">
-              <div className="flex items-center gap-3">
-                <span className="text-3xl">🎯</span>
+              <div className="flex items-center gap-4">
+                <div className={`p-3 rounded-xl ${isDark ? 'bg-amber-900/30' : 'bg-amber-100'}`}>
+                  <Target size={24} className={isDark ? 'text-amber-400' : 'text-amber-600'} />
+                </div>
                 <div className="text-left">
-                  <div className={`font-bold text-lg ${isDark ? 'text-yellow-300' : 'text-yellow-700'}`}>
+                  <div className={`font-semibold text-lg ${isDark ? 'text-amber-300' : 'text-amber-900'}`}>
                     Test General
                   </div>
-                  <div className={`text-sm ${theme.textSecondary}`}>
+                  <div className={`text-sm ${isDark ? 'text-amber-400/70' : 'text-amber-700/70'}`}>
                     Combina preguntes de tots els tests
                   </div>
                 </div>
               </div>
-              <div className={`px-4 py-2 rounded-lg ${isDark ? 'bg-yellow-800/50' : 'bg-yellow-200'} ${isDark ? 'text-yellow-300' : 'text-yellow-800'} font-bold`}>
+              <div className={`px-3 py-1.5 rounded-lg text-sm ${isDark ? 'bg-amber-900/50 text-amber-300' : 'bg-amber-200 text-amber-900'} font-semibold`}>
                 {tests.reduce((sum, test) => sum + test.questions.length, 0)} preguntes
               </div>
             </div>
@@ -1806,21 +1804,21 @@ export default function StudyApp() {
           <div className={`text-center ${theme.textSecondary} mt-12 p-8`}>
             <FileText size={64} className="mx-auto mb-4 opacity-30" />
             <p className="text-lg font-semibold">No hi ha tests encara</p>
-            <p className="text-sm mt-2">✨ Puja el teu primer test</p>
+            <p className="text-sm mt-2">Puja el teu primer test</p>
           </div>
         ) : (
           <div className="space-y-3">
             {tests.map(test => (
-              <div key={test.id} className={`${theme.card} p-4 rounded-2xl border-2 ${theme.border} shadow-md hover:shadow-lg transition`}>
+              <div key={test.id} className="card-hover p-4">
                 {editingTestId === test.id ? (
                   // Editing mode
                   <div className="flex items-center gap-2">
-                    <span className="text-xl">📝</span>
+                    <FileText size={20} className={theme.accent} />
                     <input
                       type="text"
                       value={editingTestName}
                       onChange={(e) => setEditingTestName(e.target.value)}
-                      className={`flex-1 px-3 py-2 rounded-lg border-2 ${theme.border} ${theme.bg} ${theme.text} focus:outline-none focus:border-purple-400`}
+                      className={`flex-1 px-3 py-2 rounded-lg border ${theme.border} ${theme.bg} ${theme.text} focus:outline-none focus:ring-2 focus:ring-primary-500`}
                       autoFocus
                       onKeyDown={(e) => {
                         if (e.key === 'Enter') saveTestRename(test.id);
@@ -1829,15 +1827,15 @@ export default function StudyApp() {
                     />
                     <button
                       onClick={() => saveTestRename(test.id)}
-                      className={`p-2 rounded-lg ${isDark ? 'text-emerald-400 hover:bg-emerald-900' : 'text-emerald-600 hover:bg-emerald-100'} transition`}
+                      className={`p-2 rounded-lg ${isDark ? 'text-emerald-400 hover:bg-emerald-900/50' : 'text-emerald-600 hover:bg-emerald-50'} transition`}
                     >
-                      <Check size={20} />
+                      <Check size={18} />
                     </button>
                     <button
                       onClick={cancelEditingTest}
-                      className={`p-2 rounded-lg ${isDark ? 'text-gray-400 hover:bg-gray-800' : 'text-gray-600 hover:bg-gray-100'} transition`}
+                      className={`p-2 rounded-lg ${theme.textSecondary} ${isDark ? 'hover:bg-neutral-800' : 'hover:bg-neutral-100'} transition`}
                     >
-                      <X size={20} />
+                      <X size={18} />
                     </button>
                   </div>
                 ) : (
@@ -1847,26 +1845,26 @@ export default function StudyApp() {
                       onClick={() => showTestConfig(test)}
                       className="flex-1 text-left"
                     >
-                      <div className="font-bold flex items-center gap-2">
-                        <span className="text-xl">📝</span>
+                      <div className={`font-semibold flex items-center gap-3 ${theme.text}`}>
+                        <FileText size={20} className={theme.accent} />
                         {test.title}
                       </div>
-                      <div className={`text-sm ${theme.textSecondary} ml-7`}>
+                      <div className={`text-sm ${theme.textSecondary} ml-8`}>
                         {test.questions.length} preguntes • {test.date}
                       </div>
                     </button>
-                    <div className="flex items-center gap-2">
+                    <div className="flex items-center gap-1">
                       <button
                         onClick={() => startEditingTest(test)}
-                        className={`p-2 rounded-lg ${isDark ? 'text-blue-400 hover:bg-blue-900' : 'text-blue-600 hover:bg-blue-100'} transition`}
+                        className={`p-2 rounded-lg ${isDark ? 'text-primary-400 hover:bg-primary-900/30' : 'text-primary-600 hover:bg-primary-50'} transition`}
                       >
-                        <Edit3 size={20} />
+                        <Edit3 size={18} />
                       </button>
                       <button
                         onClick={() => deleteItem(test.id, 'test')}
-                        className={`p-2 rounded-lg ${isDark ? 'text-rose-400 hover:bg-rose-900' : 'text-rose-500 hover:bg-rose-100'} transition`}
+                        className={`p-2 rounded-lg ${isDark ? 'text-rose-400 hover:bg-rose-900/30' : 'text-rose-500 hover:bg-rose-50'} transition`}
                       >
-                        <Trash2 size={20} />
+                        <Trash2 size={18} />
                       </button>
                     </div>
                   </div>
@@ -1908,9 +1906,9 @@ export default function StudyApp() {
             <span className="font-medium">Tornar</span>
           </button>
 
-          <div className={`${theme.card} p-6 rounded-2xl mb-6 border-2 ${isMixedTest ? (isDark ? 'border-yellow-600 bg-gradient-to-r from-yellow-900/20 to-orange-900/20' : 'border-yellow-400 bg-gradient-to-r from-yellow-50 to-orange-50') : theme.border} shadow-lg`}>
-            <h2 className="text-2xl font-bold mb-2 flex items-center gap-2">
-              <span className="text-3xl">{isMixedTest ? '🎯' : '📝'}</span>
+          <div className={`card p-6 mb-6 ${isMixedTest ? (isDark ? 'border-amber-600/50 bg-amber-950/20' : 'border-amber-300 bg-amber-50') : ''} ${isMixedTest ? 'border-2' : ''}`}>
+            <h2 className={`text-2xl font-bold mb-2 flex items-center gap-3 ${theme.text}`}>
+              {isMixedTest ? <Target size={28} className={isDark ? 'text-amber-400' : 'text-amber-600'} /> : <FileText size={28} className={theme.accent} />}
               {selectedTestForConfig.title}
             </h2>
             <p className={`${theme.textSecondary} text-sm`}>
@@ -1918,9 +1916,9 @@ export default function StudyApp() {
             </p>
           </div>
 
-          <div className={`${theme.card} p-6 rounded-2xl border-2 ${theme.border} shadow-lg`}>
-            <h3 className="text-lg font-bold mb-4 flex items-center gap-2">
-              <span className="text-xl">🎯</span>
+          <div className="card p-6">
+            <h3 className={`text-lg font-semibold mb-4 flex items-center gap-2 ${theme.text}`}>
+              <Target size={20} className={theme.accent} />
               Quantes preguntes vols fer?
             </h3>
 
@@ -1929,16 +1927,16 @@ export default function StudyApp() {
                 <button
                   key={count}
                   onClick={() => startTest(selectedTestForConfig, count)}
-                  className={`${theme.button} p-4 rounded-xl font-bold text-lg shadow-md hover:shadow-lg transform hover:scale-105 transition-all`}
+                  className="btn-primary p-4 rounded-xl font-semibold text-lg"
                 >
                   {count === totalQuestions ? `Totes (${count})` : count}
                 </button>
               ))}
             </div>
 
-            <div className={`mt-4 p-3 ${isDark ? 'bg-purple-800/50' : 'bg-pink-100'} rounded-lg`}>
-              <p className={`text-sm ${theme.textSecondary} flex items-start gap-2`}>
-                <span className="text-base">💡</span>
+            <div className={`mt-4 p-3 ${isDark ? 'bg-primary-950/30 border-primary-800' : 'bg-primary-50 border-primary-200'} border rounded-lg`}>
+              <p className={`text-sm flex items-start gap-2 ${theme.text}`}>
+                <Info size={16} className={theme.accent} />
                 <span>Les preguntes s&apos;escolliran aleatòriament del conjunt total</span>
               </p>
             </div>
@@ -1962,21 +1960,21 @@ export default function StudyApp() {
           </button>
 
           <div className="mb-6">
-            <div className={`text-sm ${theme.textSecondary} mb-3 font-medium`}>
-              ✨ Pregunta {testProgress.current + 1} de {currentTest!.questions.length}
+            <div className={`text-sm ${theme.textSecondary} mb-3 font-medium flex items-center gap-2`}>
+              <FileText size={16} />
+              Pregunta {testProgress.current + 1} de {currentTest!.questions.length}
             </div>
-            <div className={`${theme.progressBar} h-3 rounded-full overflow-hidden shadow-inner`}>
+            <div className={`${theme.progressBar} h-2 rounded-full overflow-hidden`}>
               <div
-                className={`${theme.progressFill} h-full transition-all duration-500 rounded-full shadow-lg`}
+                className={`${theme.progressFill} h-full transition-all duration-500`}
                 style={{ width: `${((testProgress.current + 1) / currentTest!.questions.length) * 100}%` }}
               />
             </div>
           </div>
 
-          <div className={`${theme.card} p-6 rounded-2xl mb-6 border-2 ${theme.border} shadow-lg`}>
-            <h3 className="text-xl font-bold mb-2 flex items-start gap-2">
-              <span className="text-2xl">💭</span>
-              <span>{currentQ.question}</span>
+          <div className={`card p-6 mb-6`}>
+            <h3 className={`text-xl font-semibold ${theme.text}`}>
+              {currentQ.question}
             </h3>
           </div>
 
@@ -2020,11 +2018,11 @@ export default function StudyApp() {
                   <span className={`w-8 h-8 rounded-full flex items-center justify-center font-bold ${
                     showFeedback && (isSelected || shouldShowCorrect)
                       ? 'bg-white/30'
-                      : isDark ? 'bg-purple-800' : 'bg-white/50'
+                      : isDark ? 'bg-primary-900/30' : 'bg-neutral-100'
                   }`}>
-                    {showFeedback && isSelected && answerIsCorrect && '✓'}
-                    {showFeedback && isSelected && !answerIsCorrect && '✗'}
-                    {showFeedback && shouldShowCorrect && '✓'}
+                    {showFeedback && isSelected && answerIsCorrect && <Check size={18} />}
+                    {showFeedback && isSelected && !answerIsCorrect && <X size={18} />}
+                    {showFeedback && shouldShowCorrect && <Check size={18} />}
                     {(!showFeedback || (!isSelected && !shouldShowCorrect)) && String.fromCharCode(65 + idx)}
                   </span>
                   <span className="flex-1">{option}</span>
@@ -2034,9 +2032,10 @@ export default function StudyApp() {
           </div>
 
           {showFeedback && !answerIsCorrect && (
-            <div className="mt-4 p-4 bg-green-100 dark:bg-green-900/30 border-2 border-green-500 rounded-xl">
-              <p className="text-sm font-medium text-green-800 dark:text-green-300">
-                <span className="font-bold">✓ Resposta correcta:</span> {currentQ.correct}
+            <div className={`mt-4 p-4 ${isDark ? 'bg-emerald-900/30 border-emerald-700' : 'bg-emerald-50 border-emerald-300'} border rounded-xl`}>
+              <p className={`text-sm font-medium flex items-center gap-2 ${isDark ? 'text-emerald-300' : 'text-emerald-800'}`}>
+                <Check size={16} />
+                <span><span className="font-bold">Resposta correcta:</span> {currentQ.correct}</span>
               </p>
             </div>
           )}
@@ -2054,12 +2053,12 @@ export default function StudyApp() {
           <span className="font-medium">Inici</span>
         </button>
 
-        <h2 className="text-3xl font-bold mb-6 flex items-center gap-2">
-          <span className="bg-gradient-to-r from-purple-500 to-pink-500 bg-clip-text text-transparent">🎧 Els Meus Àudios</span>
+        <h2 className={`text-3xl font-bold mb-6 ${theme.text}`}>
+          Els Meus Àudios
         </h2>
 
         {audioBooks.length === 0 ? (
-          <div className={`${theme.card} p-8 rounded-2xl text-center ${theme.textSecondary} border-2 border-dashed ${theme.border}`}>
+          <div className={`card p-8 text-center ${theme.textSecondary} border-2 border-dashed`}>
             <Headphones size={48} className="mx-auto mb-4 opacity-50" />
             <p>No tens cap àudio encara.</p>
             <p className="mt-2">Puja àudios des del menú principal!</p>
@@ -2067,43 +2066,43 @@ export default function StudyApp() {
         ) : (
           <div className="space-y-3">
             {audioBooks.map((audio) => (
-              <div key={audio.id} className={`${theme.card} p-4 rounded-xl border-2 ${theme.border} shadow-md hover:shadow-lg transition`}>
+              <div key={audio.id} className="card-hover p-4">
                 {editingAudioId === audio.id ? (
                   // Editing mode
                   <div className="space-y-3">
                     <div className="flex items-center gap-2">
-                      <span className="text-xl">🎵</span>
+                      <Headphones size={20} className={theme.accent} />
                       <input
                         type="text"
                         value={editingAudioName}
                         onChange={(e) => setEditingAudioName(e.target.value)}
-                        className={`flex-1 px-3 py-2 rounded-lg border-2 ${theme.border} ${isDark ? 'bg-gray-800 text-white' : 'bg-white text-gray-900'} focus:outline-none focus:ring-2 focus:ring-purple-500`}
+                        className={`flex-1 px-3 py-2 rounded-lg border ${theme.border} ${theme.bg} ${theme.text} focus:outline-none focus:ring-2 focus:ring-primary-500`}
                         placeholder="Nom de l'àudio"
                       />
                     </div>
                     <div className="flex items-center gap-2">
-                      <span className="text-sm">🔗</span>
+                      <LinkIcon size={16} className={theme.accent} />
                       <input
                         type="text"
                         value={editingAudioUrl}
                         onChange={(e) => setEditingAudioUrl(e.target.value)}
-                        className={`flex-1 px-3 py-2 rounded-lg border-2 ${theme.border} ${isDark ? 'bg-gray-800 text-white' : 'bg-white text-gray-900'} focus:outline-none focus:ring-2 focus:ring-purple-500 text-sm`}
+                        className={`flex-1 px-3 py-2 rounded-lg border ${theme.border} ${theme.bg} ${theme.text} focus:outline-none focus:ring-2 focus:ring-primary-500 text-sm`}
                         placeholder="URL de l'àudio"
                       />
                     </div>
                     <div className="flex items-center gap-2 justify-end">
                       <button
                         onClick={() => saveAudioEdit(audio.id)}
-                        className={`px-4 py-2 rounded-lg ${isDark ? 'bg-green-600 hover:bg-green-700' : 'bg-green-500 hover:bg-green-600'} text-white transition flex items-center gap-2`}
+                        className={`px-4 py-2 rounded-lg ${isDark ? 'bg-emerald-600 hover:bg-emerald-700' : 'bg-emerald-500 hover:bg-emerald-600'} text-white transition flex items-center gap-2`}
                       >
-                        <Check size={18} />
+                        <Check size={16} />
                         Desar
                       </button>
                       <button
                         onClick={cancelEditingAudio}
-                        className={`px-4 py-2 rounded-lg ${isDark ? 'bg-gray-700 hover:bg-gray-600' : 'bg-gray-200 hover:bg-gray-300'} transition flex items-center gap-2`}
+                        className="btn-secondary px-4 py-2 flex items-center gap-2"
                       >
-                        <X size={18} />
+                        <X size={16} />
                         Cancel·lar
                       </button>
                     </div>
@@ -2115,11 +2114,11 @@ export default function StudyApp() {
                       onClick={() => playAudio(audio)}
                       className="flex-1 text-left"
                     >
-                      <div className="font-bold flex items-center gap-2">
-                        <span className="text-xl">🎵</span>
+                      <div className={`font-semibold flex items-center gap-3 ${theme.text}`}>
+                        <Headphones size={20} className={theme.accent} />
                         {audio.title}
                       </div>
-                      <div className={`text-sm ${theme.textSecondary} ml-7`}>
+                      <div className={`text-sm ${theme.textSecondary} ml-8`}>
                         {audio.relatedNoteTitle && (
                           <div className="flex items-center gap-1 mb-1">
                             <BookOpen size={14} />
@@ -2129,18 +2128,18 @@ export default function StudyApp() {
                         {audio.date}
                       </div>
                     </button>
-                    <div className="flex items-center gap-2">
+                    <div className="flex items-center gap-1">
                       <button
                         onClick={() => startEditingAudio(audio)}
-                        className={`p-2 rounded-lg ${isDark ? 'text-blue-400 hover:bg-blue-900' : 'text-blue-500 hover:bg-blue-100'} transition`}
+                        className={`p-2 rounded-lg ${isDark ? 'text-primary-400 hover:bg-primary-900/30' : 'text-primary-600 hover:bg-primary-50'} transition`}
                       >
-                        <Edit3 size={20} />
+                        <Edit3 size={18} />
                       </button>
                       <button
                         onClick={() => deleteItem(audio.id, 'audio')}
-                        className={`p-2 rounded-lg ${isDark ? 'text-rose-400 hover:bg-rose-900' : 'text-rose-500 hover:bg-rose-100'} transition`}
+                        className={`p-2 rounded-lg ${isDark ? 'text-rose-400 hover:bg-rose-900/30' : 'text-rose-500 hover:bg-rose-50'} transition`}
                       >
-                        <Trash2 size={20} />
+                        <Trash2 size={18} />
                       </button>
                     </div>
                   </div>
@@ -2242,12 +2241,12 @@ export default function StudyApp() {
             <span className="font-medium">Tornar</span>
           </button>
 
-          <div className={`${theme.card} p-8 rounded-2xl border-2 ${theme.border} shadow-lg`}>
+          <div className="card p-8">
             <div className="text-center mb-8">
-              <div className="w-32 h-32 mx-auto mb-4 rounded-full bg-gradient-to-br from-purple-500 to-pink-500 flex items-center justify-center shadow-xl">
-                <Headphones size={64} className="text-white" />
+              <div className={`w-32 h-32 mx-auto mb-4 rounded-full ${isDark ? 'bg-primary-900/30' : 'bg-primary-100'} flex items-center justify-center`}>
+                <Headphones size={64} className={theme.accent} />
               </div>
-              <h2 className="text-2xl font-bold mb-2">{currentAudio.title}</h2>
+              <h2 className={`text-2xl font-bold mb-2 ${theme.text}`}>{currentAudio.title}</h2>
               <p className={`${theme.textSecondary}`}>Audiollibre</p>
             </div>
 
@@ -2261,10 +2260,10 @@ export default function StudyApp() {
                 onChange={handleSeek}
                 className="w-full h-2 rounded-full appearance-none cursor-pointer"
                 style={{
-                  background: `linear-gradient(to right, ${isDark ? '#f472b6' : '#a855f7'} 0%, ${isDark ? '#f472b6' : '#a855f7'} ${(currentTime / duration) * 100}%, ${isDark ? '#581c87' : '#fce7f3'} ${(currentTime / duration) * 100}%, ${isDark ? '#581c87' : '#fce7f3'} 100%)`
+                  background: `linear-gradient(to right, ${isDark ? '#0284c7' : '#0284c7'} 0%, ${isDark ? '#0284c7' : '#0284c7'} ${(currentTime / duration) * 100}%, ${isDark ? '#262626' : '#e5e5e5'} ${(currentTime / duration) * 100}%, ${isDark ? '#262626' : '#e5e5e5'} 100%)`
                 }}
               />
-              <div className="flex justify-between text-sm mt-2">
+              <div className={`flex justify-between text-sm mt-2 ${theme.textSecondary}`}>
                 <span>{formatTime(currentTime)}</span>
                 <span>{formatTime(duration)}</span>
               </div>
@@ -2274,30 +2273,31 @@ export default function StudyApp() {
             <div className="flex items-center justify-center gap-6">
               <button
                 onClick={skipBackward}
-                className={`p-4 rounded-full ${theme.buttonSecondary} ${theme.text} transition transform hover:scale-110 shadow-md`}
+                className="btn-secondary p-4 rounded-full"
               >
-                <SkipBack size={24} />
+                <SkipBack size={20} />
               </button>
 
               <button
                 onClick={togglePlayPause}
-                className={`p-6 rounded-full ${theme.button} transition transform hover:scale-110 shadow-lg`}
+                className="btn-primary p-6 rounded-full"
               >
-                {isPlaying ? <Pause size={32} /> : <Play size={32} />}
+                {isPlaying ? <Pause size={28} /> : <Play size={28} />}
               </button>
 
               <button
                 onClick={skipForward}
-                className={`p-4 rounded-full ${theme.buttonSecondary} ${theme.text} transition transform hover:scale-110 shadow-md`}
+                className="btn-secondary p-4 rounded-full"
               >
-                <SkipForward size={24} />
+                <SkipForward size={20} />
               </button>
             </div>
 
             {/* Help text */}
-            <div className={`mt-4 p-3 ${isDark ? 'bg-purple-800/50' : 'bg-pink-100'} rounded-lg text-xs`}>
-              <p className={`${theme.textSecondary}`}>
-                💡 Si l&apos;àudio no es reprodueix, assegura&apos;t que l&apos;URL és un enllaç directe de descàrrega. Consulta <strong>GUIA-AUDIO-LINKS.md</strong>
+            <div className={`mt-4 p-3 ${isDark ? 'bg-primary-950/30 border-primary-800' : 'bg-primary-50 border-primary-200'} border rounded-lg text-xs`}>
+              <p className={`flex items-start gap-2 ${theme.text}`}>
+                <Info size={14} className={`flex-shrink-0 mt-0.5 ${theme.accent}`} />
+                <span>Si l&apos;àudio no es reprodueix, assegura&apos;t que l&apos;URL és un enllaç directe de descàrrega. Consulta <strong>GUIA-AUDIO-LINKS.md</strong></span>
               </p>
             </div>
           </div>
@@ -2308,9 +2308,9 @@ export default function StudyApp() {
               console.error('Audio error:', e);
               const isGoogleDrive = currentAudio?.url.includes('drive.google.com');
               if (isGoogleDrive) {
-                alert('❌ Error: Google Drive té limitacions de CORS que impedeixen la reproducció directa d\'àudio.\n\n💡 Solucions:\n1. Usa Dropbox (més recomanat)\n2. Puja l\'arxiu a OneDrive\n3. Comparteix l\'arxiu des d\'un altre servei\n\nConsulta la guia GUIA-AUDIO-LINKS.md per més detalls.');
+                alert('Error: Google Drive té limitacions de CORS que impedeixen la reproducció directa d\'àudio.\n\nSolucions:\n1. Usa Dropbox (més recomanat)\n2. Puja l\'arxiu a OneDrive\n3. Comparteix l\'arxiu des d\'un altre servei\n\nConsulta la guia GUIA-AUDIO-LINKS.md per més detalls.');
               } else {
-                alert('Error carregant l\'àudio.\n\nVerifica que:\n✓ L\'URL és correcta\n✓ És un enllaç directe de descàrrega\n✓ L\'arxiu és accessible públicament');
+                alert('Error carregant l\'àudio.\n\nVerifica que:\n- L\'URL és correcta\n- És un enllaç directe de descàrrega\n- L\'arxiu és accessible públicament');
               }
             }}
           />
@@ -2381,17 +2381,17 @@ export default function StudyApp() {
             <span className="font-medium">Tornar</span>
           </button>
 
-          <h2 className="text-3xl font-bold mb-6 flex items-center gap-2">
-            📊 <span className="bg-gradient-to-r from-purple-500 to-pink-500 bg-clip-text text-transparent">Les Meves Estadístiques</span>
+          <h2 className={`text-3xl font-bold mb-6 ${theme.text}`}>
+            Les Meves Estadístiques
           </h2>
 
           {/* Total Study Time Card */}
-          <div className={`${theme.card} p-6 rounded-2xl mb-4 border-2 ${theme.border} shadow-lg`}>
+          <div className="card p-6 mb-4">
             <div className="flex items-center gap-3 mb-2">
-              <Clock size={28} className={theme.accent} />
-              <h3 className="text-xl font-bold">Temps Total d&apos;Estudi</h3>
+              <Clock size={24} className={theme.accent} />
+              <h3 className={`text-xl font-semibold ${theme.text}`}>Temps Total d&apos;Estudi</h3>
             </div>
-            <div className="text-4xl font-bold mt-4">
+            <div className={`text-4xl font-bold mt-4 ${theme.text}`}>
               {totalStudyHours > 0 && <span>{totalStudyHours}h </span>}
               <span>{remainingMinutes}min</span>
             </div>
@@ -2401,18 +2401,18 @@ export default function StudyApp() {
           </div>
 
           {/* Test Performance Summary */}
-          <div className={`${theme.card} p-6 rounded-2xl mb-4 border-2 ${theme.border} shadow-lg`}>
+          <div className="card p-6 mb-4">
             <div className="flex items-center gap-3 mb-2">
-              <BarChart3 size={28} className={theme.accent} />
-              <h3 className="text-xl font-bold">Rendiment en Tests</h3>
+              <BarChart3 size={24} className={theme.accent} />
+              <h3 className={`text-xl font-semibold ${theme.text}`}>Rendiment en Tests</h3>
             </div>
             <div className="grid grid-cols-2 gap-4 mt-4">
               <div>
-                <div className="text-3xl font-bold">{totalTestAttempts}</div>
+                <div className={`text-3xl font-bold ${theme.text}`}>{totalTestAttempts}</div>
                 <p className={`text-sm ${theme.textSecondary}`}>Tests realitzats</p>
               </div>
               <div>
-                <div className="text-3xl font-bold">{averageScore}%</div>
+                <div className={`text-3xl font-bold ${theme.text}`}>{averageScore}%</div>
                 <p className={`text-sm ${theme.textSecondary}`}>Puntuació mitjana</p>
               </div>
             </div>
@@ -2420,16 +2420,17 @@ export default function StudyApp() {
 
           {/* Most Studied Notes */}
           {topStudiedNotes.length > 0 && (
-            <div className={`${theme.card} p-6 rounded-2xl mb-4 border-2 ${theme.border} shadow-lg`}>
-              <h3 className="text-xl font-bold mb-4 flex items-center gap-2">
-                📚 Apunts Més Estudiats
+            <div className="card p-6 mb-4">
+              <h3 className={`text-xl font-semibold mb-4 flex items-center gap-2 ${theme.text}`}>
+                <BookOpen size={20} className={theme.accent} />
+                Apunts Més Estudiats
               </h3>
               <div className="space-y-3">
                 {topStudiedNotes.map(([title, count]) => (
-                  <div key={title} className={`p-3 rounded-xl ${isDark ? 'bg-purple-900' : 'bg-pink-100'}`}>
+                  <div key={title} className={`p-3 rounded-xl ${isDark ? 'bg-primary-950/30' : 'bg-primary-50'}`}>
                     <div className="flex justify-between items-center">
-                      <span className="font-medium">{title}</span>
-                      <span className={`px-3 py-1 rounded-full text-sm font-bold ${isDark ? 'bg-purple-800' : 'bg-pink-200'}`}>
+                      <span className={`font-medium ${theme.text}`}>{title}</span>
+                      <span className={`px-3 py-1 rounded-full text-sm font-semibold ${isDark ? 'bg-primary-900/50 text-primary-300' : 'bg-primary-100 text-primary-700'}`}>
                         {count} {count === 1 ? 'vegada' : 'vegades'}
                       </span>
                     </div>
@@ -2441,9 +2442,9 @@ export default function StudyApp() {
 
           {/* Test Improvement Tracking */}
           {Object.keys(testPerformance).length > 0 && (
-            <div className={`${theme.card} p-6 rounded-2xl mb-4 border-2 ${theme.border} shadow-lg`}>
-              <h3 className="text-xl font-bold mb-4 flex items-center gap-2">
-                <TrendingUp size={24} className={theme.accent} />
+            <div className="card p-6 mb-4">
+              <h3 className={`text-xl font-semibold mb-4 flex items-center gap-2 ${theme.text}`}>
+                <TrendingUp size={20} className={theme.accent} />
                 Progrés per Test
               </h3>
               <div className="space-y-4">
@@ -2452,26 +2453,26 @@ export default function StudyApp() {
                   if (!trend) return null;
 
                   return (
-                    <div key={testTitle} className={`p-4 rounded-xl ${isDark ? 'bg-purple-900' : 'bg-pink-100'}`}>
-                      <div className="font-bold mb-2">{testTitle}</div>
+                    <div key={testTitle} className={`p-4 rounded-xl ${isDark ? 'bg-primary-950/30' : 'bg-primary-50'}`}>
+                      <div className={`font-semibold mb-2 ${theme.text}`}>{testTitle}</div>
                       <div className="text-sm space-y-1">
                         <div className="flex justify-between">
                           <span className={theme.textSecondary}>Intents:</span>
-                          <span className="font-semibold">{trend.attempts}</span>
+                          <span className={`font-semibold ${theme.text}`}>{trend.attempts}</span>
                         </div>
                         <div className="flex justify-between">
                           <span className={theme.textSecondary}>Primer intent:</span>
-                          <span className="font-semibold">{trend.firstScore}%</span>
+                          <span className={`font-semibold ${theme.text}`}>{trend.firstScore}%</span>
                         </div>
                         <div className="flex justify-between">
                           <span className={theme.textSecondary}>Últim intent:</span>
-                          <span className="font-semibold">{trend.lastScore}%</span>
+                          <span className={`font-semibold ${theme.text}`}>{trend.lastScore}%</span>
                         </div>
-                        <div className="flex justify-between items-center mt-2 pt-2 border-t border-opacity-20" style={{ borderColor: isDark ? '#fff' : '#000' }}>
+                        <div className={`flex justify-between items-center mt-2 pt-2 border-t ${theme.border}`}>
                           <span className={theme.textSecondary}>Progrés:</span>
-                          <span className={`font-bold ${trend.isImproving ? 'text-green-500' : trend.improvement === 0 ? 'text-yellow-500' : 'text-orange-500'}`}>
+                          <span className={`font-bold flex items-center gap-1 ${trend.isImproving ? 'text-emerald-500' : trend.improvement === 0 ? 'text-amber-500' : 'text-orange-500'}`}>
                             {trend.improvement > 0 ? '+' : ''}{trend.improvement}%
-                            {trend.isImproving ? ' 📈' : trend.improvement === 0 ? ' ➡️' : ' 📉'}
+                            {trend.isImproving ? <TrendingUp size={16} /> : trend.improvement === 0 ? <ArrowRight size={16} /> : <TrendingDown size={16} />}
                           </span>
                         </div>
                       </div>
@@ -2484,14 +2485,17 @@ export default function StudyApp() {
 
           {/* Recent Test Attempts */}
           {recentAttempts.length > 0 && (
-            <div className={`${theme.card} p-6 rounded-2xl mb-4 border-2 ${theme.border} shadow-lg`}>
-              <h3 className="text-xl font-bold mb-4">📝 Últims Tests</h3>
+            <div className="card p-6 mb-4">
+              <h3 className={`text-xl font-semibold mb-4 flex items-center gap-2 ${theme.text}`}>
+                <FileText size={20} className={theme.accent} />
+                Últims Tests
+              </h3>
               <div className="space-y-3">
                 {recentAttempts.map((attempt, idx) => (
-                  <div key={idx} className={`p-3 rounded-xl ${isDark ? 'bg-purple-900' : 'bg-pink-100'}`}>
+                  <div key={idx} className={`p-3 rounded-xl ${isDark ? 'bg-primary-950/30' : 'bg-primary-50'}`}>
                     <div className="flex justify-between items-start mb-1">
-                      <span className="font-medium">{attempt.testTitle}</span>
-                      <span className={`text-xl font-bold ${attempt.percentage >= 70 ? 'text-green-500' : 'text-orange-500'}`}>
+                      <span className={`font-medium ${theme.text}`}>{attempt.testTitle}</span>
+                      <span className={`text-xl font-bold ${attempt.percentage >= 70 ? 'text-emerald-500' : 'text-orange-500'}`}>
                         {attempt.percentage}%
                       </span>
                     </div>
@@ -2509,7 +2513,7 @@ export default function StudyApp() {
             <div className={`text-center ${theme.textSecondary} mt-12 p-8`}>
               <BarChart3 size={64} className="mx-auto mb-4 opacity-30" />
               <p className="text-lg font-semibold">No hi ha estadístiques encara</p>
-              <p className="text-sm mt-2">✨ Comença a estudiar per veure el teu progrés</p>
+              <p className="text-sm mt-2">Comença a estudiar per veure el teu progrés</p>
             </div>
           )}
         </div>
@@ -2532,43 +2536,43 @@ export default function StudyApp() {
           </button>
 
           <div className="text-center mb-8">
-            <h2 className="text-4xl font-bold mb-4 bg-gradient-to-r from-purple-500 to-pink-500 bg-clip-text text-transparent">
-              {percentage >= 70 ? '🎉 Test Completat!' : '💪 Test Completat'}
+            <h2 className={`text-4xl font-bold mb-4 ${theme.text}`}>
+              Test Completat!
             </h2>
-            <div className={`text-7xl font-bold my-6 ${percentage >= 70 ? 'bg-gradient-to-r from-purple-500 to-pink-500 bg-clip-text text-transparent' : ''}`}>
+            <div className={`text-7xl font-bold my-6 ${theme.text}`}>
               {percentage}%
             </div>
             <div className={`text-xl ${theme.textSecondary} font-medium`}>
-              ✨ {correct} de {total} correctes
+              {correct} de {total} correctes
             </div>
           </div>
 
-          <div className="space-y-4">
+          <div className="space-y-3">
             {testProgress.answers.map((answer, idx) => (
-              <div key={idx} className={`p-5 rounded-2xl border-2 shadow-md ${answer.isCorrect ?
-                (isDark ? 'bg-emerald-900 border-emerald-700' : 'bg-green-100 border-green-300') :
-                (isDark ? 'bg-rose-900 border-rose-700' : 'bg-rose-100 border-rose-300')
-              }`}>
+              <div key={idx} className={`card p-5 ${answer.isCorrect ?
+                (isDark ? 'border-emerald-700/50 bg-emerald-950/20' : 'border-emerald-300 bg-emerald-50') :
+                (isDark ? 'border-rose-700/50 bg-rose-950/20' : 'border-rose-300 bg-rose-50')
+              } border-2`}>
                 <div className="flex items-start gap-3 mb-2">
                   {answer.isCorrect ? (
                     <div className="flex-shrink-0">
-                      <CheckCircle size={28} className={isDark ? 'text-emerald-300' : 'text-green-600'} />
+                      <CheckCircle size={24} className={isDark ? 'text-emerald-400' : 'text-emerald-600'} />
                     </div>
                   ) : (
                     <div className="flex-shrink-0">
-                      <XCircle size={28} className={isDark ? 'text-rose-300' : 'text-rose-600'} />
+                      <XCircle size={24} className={isDark ? 'text-rose-400' : 'text-rose-600'} />
                     </div>
                   )}
                   <div className="flex-1">
-                    <div className="font-bold mb-3 text-base">{answer.question}</div>
+                    <div className={`font-semibold mb-3 text-base ${theme.text}`}>{answer.question}</div>
                     <div className="text-sm space-y-1">
-                      <div className={`p-2 rounded-lg ${answer.isCorrect ? (isDark ? 'bg-emerald-800/50' : 'bg-green-50') : (isDark ? 'bg-rose-800/50' : 'bg-rose-50')}`}>
+                      <div className={`p-2 rounded-lg ${answer.isCorrect ? (isDark ? 'bg-emerald-900/30' : 'bg-emerald-100/50') : (isDark ? 'bg-rose-900/30' : 'bg-rose-100/50')}`}>
                         <span className="font-semibold">La teva resposta:</span> {answer.answer}
                       </div>
                       {!answer.isCorrect && (
-                        <div className={`p-2 rounded-lg ${isDark ? 'bg-emerald-800/50' : 'bg-green-50'}`}>
-                          <span className={`font-semibold ${isDark ? 'text-emerald-200' : 'text-green-700'}`}>Correcta:</span>
-                          <span className={isDark ? 'text-emerald-200' : 'text-green-700'}> {answer.correct}</span>
+                        <div className={`p-2 rounded-lg ${isDark ? 'bg-emerald-900/30' : 'bg-emerald-100/50'}`}>
+                          <span className={`font-semibold ${isDark ? 'text-emerald-300' : 'text-emerald-700'}`}>Correcta:</span>
+                          <span className={isDark ? 'text-emerald-300' : 'text-emerald-700'}> {answer.correct}</span>
                         </div>
                       )}
                     </div>
@@ -2580,9 +2584,10 @@ export default function StudyApp() {
 
           <button
             onClick={() => showTestConfig(currentTest!)}
-            className={`w-full mt-6 ${theme.button} p-4 rounded-2xl font-bold transition transform hover:scale-105 shadow-lg flex items-center justify-center gap-2`}
+            className="w-full mt-6 btn-primary p-4 rounded-xl"
           >
-            🔄 Repetir Test
+            <ArrowRight size={20} />
+            <span className="font-semibold">Repetir Test</span>
           </button>
         </div>
       </div>
@@ -2853,16 +2858,16 @@ export default function StudyApp() {
 
     return (
       <div className={`min-h-screen ${theme.bg} ${theme.text} p-6 flex items-center justify-center`}>
-        <div className={`max-w-md w-full ${theme.card} p-8 rounded-2xl border-2 ${theme.border} shadow-xl`}>
+        <div className={`max-w-md w-full card p-8`}>
           <div className="text-center mb-6">
-            <div className="w-20 h-20 mx-auto mb-4 rounded-full bg-gradient-to-br from-purple-500 to-pink-500 flex items-center justify-center">
-              <Share2 size={40} className="text-white" />
+            <div className={`w-20 h-20 mx-auto mb-4 rounded-full ${isDark ? 'bg-primary-900/30' : 'bg-primary-100'} flex items-center justify-center`}>
+              <Share2 size={40} className={theme.accent} />
             </div>
-            <h1 className="text-2xl font-bold mb-2">Invitació Rebuda</h1>
+            <h1 className={`text-2xl font-bold mb-2 ${theme.text}`}>Invitació Rebuda</h1>
             <p className={theme.textSecondary}>T&apos;han convidat a accedir a materials d&apos;estudi</p>
           </div>
 
-          <div className={`p-4 rounded-lg ${isDark ? 'bg-purple-800/50' : 'bg-pink-100'} border ${theme.border} mb-6`}>
+          <div className={`p-4 rounded-lg ${isDark ? 'bg-primary-950/30 border-primary-800' : 'bg-primary-50 border-primary-200'} border mb-6`}>
             <div className="text-sm space-y-2">
               <div><span className="font-semibold">De:</span> {pendingInvitation.ownerEmail}</div>
               <div><span className="font-semibold">Codi:</span> <span className="font-mono">{pendingInvitation.code}</span></div>
@@ -2873,9 +2878,10 @@ export default function StudyApp() {
           <div className="space-y-3">
             <button
               onClick={handleAccept}
-              className={`w-full ${theme.button} p-4 rounded-xl font-bold transition transform hover:scale-105`}
+              className="w-full btn-primary p-4 rounded-xl flex items-center justify-center gap-2"
             >
-              ✅ Acceptar Invitació
+              <Check size={20} />
+              <span className="font-semibold">Acceptar Invitació</span>
             </button>
             <button
               onClick={handleDecline}

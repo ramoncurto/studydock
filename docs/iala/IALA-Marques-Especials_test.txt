@@ -1,0 +1,239 @@
+Q: Què indiquen les marques especials?
+IMG: funcio-especials.jpg | Zones o característiques especials
+- Àrees o característiques especials que no són perills de navegació
+- Límits de canals
+- Perills aïllats
+- Aigües segures
+A: Àrees o característiques especials que no són perills de navegació
+
+Q: Quin és el color característic de les marques especials?
+IMG: color-groc.jpg | Color groc/taronja
+- Vermell
+- Verd
+- GROC
+- Blanc
+A: GROC
+
+Q: De quin color és la topmark d'una marca especial?
+IMG: topmark-groga.jpg | X de color groc
+- Vermella
+- Verda
+- GROGA
+- Blanca
+A: GROGA
+
+Q: Quina forma té la topmark d'una marca especial?
+IMG: forma-x.jpg | Forma de X o aspa
+- Un con
+- Una esfera
+- Una X (aspa)
+- Una creu vertical
+A: Una X (aspa)
+
+Q: De quin color és la llum d'una marca especial?
+IMG: llum-groga.jpg | Llum de color groc
+- Vermella
+- Verda
+- Blanca
+- GROGA
+A: GROGA
+
+Q: Quin ritme de llum poden tenir les marques especials?
+IMG: ritme-variable.jpg | Diversos ritmes possibles
+- Qualsevol ritme que NO conflicti amb altres marques
+- Només llum fixa
+- Només destellos ràpids
+- Només grup de 2
+A: Qualsevol ritme que NO conflicti amb altres marques
+
+Q: Quins ritmes NO pot tenir una marca especial?
+IMG: ritmes-prohibits.jpg | Ritmes reservats per altres marques
+- Ritmes reservats per cardinals, laterals o altres marques
+- Pot tenir qualsevol ritme
+- Només llum contínua
+- Només 3 destellos
+A: Ritmes reservats per cardinals, laterals o altres marques
+
+Q: Què indiquen normalment les marques especials grogues?
+IMG: usos-especials.jpg | Zones militars, recreatives, cables
+- Zones militars, recreatives, cables, conductes, mesurament
+- Perills de navegació
+- Canals principals
+- Límits de port
+A: Zones militars, recreatives, cables, conductes, mesurament
+
+Q: Les marques especials indiquen perill?
+IMG: no-perill.jpg | No són perills, són informatives
+- Sí, sempre
+- NO, indiquen zones especials però no perills de navegació
+- Només de nit
+- Només de dia
+A: NO, indiquen zones especials però no perills de navegació
+
+Q: On has de consultar el significat exacte d'una marca especial?
+IMG: consultar-carta.jpg | Carta nàutica amb llegenda
+- A la CARTA NÀUTICA i publicacions nàutiques
+- No cal consultar res
+- A internet
+- Preguntar a altres vaixells
+A: A la CARTA NÀUTICA i publicacions nàutiques
+
+Q: Pots navegar per una zona amb marca especial?
+IMG: navegar-precaucio.jpg | Sí, però amb precaució segons la zona
+- Depèn del tipus de zona, consultar carta
+- Mai
+- Sempre lliurement
+- Només de dia
+A: Depèn del tipus de zona, consultar carta
+
+Q: Què pot indicar una marca especial groga en zona de costa?
+IMG: cables-submarins.jpg | Cables o conductes submarins
+- Cables submarins o conductes
+- Sempre un perill
+- Zona de bany
+- Límit de velocitat
+A: Cables submarins o conductes
+
+Q: Què pot indicar una marca especial en mar obert?
+IMG: zona-militar.jpg | Zona d'exercicis militars
+- Zona d'exercicis militars o mesuraments oceanogràfics
+- Límit de canal
+- Perill aïllat
+- Port proper
+A: Zona d'exercicis militars o mesuraments oceanogràfics
+
+Q: Les marques especials són iguals a Regió A i Regió B?
+IMG: universals-especials.jpg | Iguals en totes les regions
+- No, són diferents
+- Sí, són IGUALS en ambdues regions
+- Només canvia el color
+- Només canvia la topmark
+A: Sí, són IGUALS en ambdues regions
+
+Q: Identifica: Color groc, topmark X groga, llum groga
+IMG: identificar-especial.jpg | Marca especial completa
+- Marca lateral
+- Marca cardinal
+- Marca ESPECIAL
+- Marca de perill aïllat
+A: Marca ESPECIAL
+
+Q: Si veus una X groga com a topmark, què és?
+IMG: veure-x-groga.jpg | Característica de marca especial
+- Marca lateral
+- Marca ESPECIAL
+- Marca cardinal
+- Marca d'aigües segures
+A: Marca ESPECIAL
+
+Q: De nit, veus una llum groga. Què pot ser?
+IMG: llum-groga-nit.jpg | Llum característica d'especial
+- Marca lateral
+- Marca ESPECIAL o Marca de Nous Perills
+- Marca cardinal
+- Marca de perill aïllat
+A: Marca ESPECIAL o Marca de Nous Perills
+
+Q: Pots amarrar a una marca especial?
+IMG: no-amarrar-especial.jpg | Prohibit amarrar
+- Sí, sempre
+- NO, són ajudes a la navegació
+- Només si és groga
+- Només de nit
+A: NO, són ajudes a la navegació
+
+Q: Què significa veure una marca groga prop de la costa amb símbols de cable?
+IMG: zona-cables.jpg | Zona de cables submarins
+- Zona amb cables submarins, evitar ancorar
+- Zona de bany
+- Zona de pesca
+- Port esportiu
+A: Zona amb cables submarins, evitar ancorar
+
+Q: Pots ancorar en una zona marcada amb marques especials de cables?
+IMG: no-ancorar-cables.jpg | Prohibit per no danyar cables
+- NO, pots danyar cables/conductes submarins
+- Sí, sempre
+- Només de dia
+- Només amb permís
+A: NO, pots danyar cables/conductes submarins
+
+Q: Què indica una marca especial en zona de recreació?
+IMG: zona-recreo.jpg | Límits de zona recreativa
+- Límit de zona recreativa (banys, motos d'aigua, etc.)
+- Perill
+- Canal principal
+- Port militar
+A: Límit de zona recreativa (banys, motos d'aigua, etc.)
+
+Q: Com diferencies una marca especial d'una de nous perills?
+IMG: diferencia-nous-perills.jpg | Especial tot groc, nous perills franges blau-groc
+- Especial: GROGA sòlida | Nous Perills: franges VERTICALS blau-groc
+- No es poden diferenciar
+- Només per la llum
+- Només per la posició
+A: Especial: GROGA sòlida | Nous Perills: franges VERTICALS blau-groc
+
+Q: Què són les boies ODAS?
+IMG: boies-odas.jpg | Sistemes d'adquisició de dades oceanogràfiques
+- Boies de mesurament oceanogràfic (marques especials)
+- Boies de perill
+- Boies de canal
+- Boies de pesca
+A: Boies de mesurament oceanogràfic (marques especials)
+
+Q: Les boies ODAS quin color tenen?
+IMG: odas-grogues.jpg | Color groc com especials
+- GROC (són marques especials)
+- Vermell
+- Verd
+- Blanc
+A: GROC (són marques especials)
+
+Q: Què has de fer si veus una marca especial groga?
+IMG: accio-especial.jpg | Identificar, consultar carta, respectar zona
+- Identificar-la, consultar CARTA per saber la zona, respectar restriccions
+- Ignorar-la
+- Apropar-me
+- Amarrar-hi
+A: Identificar-la, consultar CARTA per saber la zona, respectar restriccions
+
+Q: Una marca especial pot tenir forma cilíndrica?
+IMG: formes-varies.jpg | Diverses formes possibles
+- Sí, pot tenir diverses formes però sempre color GROC
+- No, sempre cònica
+- No, sempre esfèrica
+- No té forma definida
+A: Sí, pot tenir diverses formes però sempre color GROC
+
+Q: Per què és important respectar les zones marcades amb marques especials?
+IMG: importancia-respectar.jpg | Seguretat i normativa
+- Seguretat (cables, conductes) i compliment de normativa (zones militars, protegides)
+- No és important
+- Només per estètica
+- Només per tradició
+A: Seguretat (cables, conductes) i compliment de normativa (zones militars, protegides)
+
+Q: Si pescant enganxes l'àncora en zona de marca especial de cables, què pot passar?
+IMG: dany-cables.jpg | Dany a infraestructures crítiques
+- Pots danyar cables de comunicacions o conductes importants
+- Res
+- Només perdre l'àncora
+- Només multa
+A: Pots danyar cables de comunicacions o conductes importants
+
+Q: Les marques especials poden portar llegendes o símbols?
+IMG: simbols-especials.jpg | Poden portar pictogrames informatius
+- Sí, poden portar PICTOGRAMES o llegendes explicatives
+- No, mai
+- Només números
+- Només lletres
+A: Sí, poden portar PICTOGRAMES o llegendes explicatives
+
+Q: Resum: Color, topmark i llum de marca especial
+IMG: resum-especial.jpg | GROC, X groga, llum groga variable
+- GROC, topmark X groga, llum GROGA ritme variable
+- Vermell, cilindre, llum vermella
+- Verd, con, llum verda
+- Blanc i vermell, esfera, llum blanca
+A: GROC, topmark X groga, llum GROGA ritme variable

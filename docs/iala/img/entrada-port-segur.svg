@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 150">
+  <!-- Port -->
+  <rect x="150" y="50" width="50" height="50" fill="gray"/>
+  <text x="175" y="80" text-anchor="middle">Port</text>
+  
+  <!-- Safe Water Mark -->
+  <circle cx="100" cy="75" r="10" fill="red" stroke="white" stroke-width="2"/>
+  <rect x="95" y="50" width="10" height="50" fill="white"/>
+  <rect x="95" y="50" width="10" height="25" fill="red"/>
+</svg>

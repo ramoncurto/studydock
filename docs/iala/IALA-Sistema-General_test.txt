@@ -1,0 +1,239 @@
+Q: Què significa IALA?
+IMG: logo-iala.jpg | Logo de la IALA (International Association of Marine Aids to Navigation and Lighthouse Authorities)
+- International Association for Lateral Aids
+- International Association of Marine Aids to Navigation and Lighthouse Authorities
+- International Association of Lighthouses and Anchors
+- International Air and Land Association
+A: International Association of Marine Aids to Navigation and Lighthouse Authorities
+
+Q: Quantes regions de balisament IALA existeixen?
+IMG: mapa-regions-iala.jpg | Mapa mundial mostrant Regió A i Regió B
+- Una regió universal
+- Dues regions: Regió A i Regió B
+- Tres regions: A, B i C
+- Quatre regions segons els continents
+A: Dues regions: Regió A i Regió B
+
+Q: Quins continents/zones utilitzen la Regió A de la IALA?
+IMG: regio-a-mapa.jpg | Mapa destacant Europa, Àfrica, Àsia i Oceania
+- Europa, Àfrica, Oceania i la major part d'Àsia
+- Amèrica del Nord i del Sud
+- Només Europa
+- Tot el món menys Amèrica
+A: Europa, Àfrica, Oceania i la major part d'Àsia
+
+Q: Quins continents/zones utilitzen la Regió B de la IALA?
+IMG: regio-b-mapa.jpg | Mapa destacant Amèriques, Japó, Corea i Filipines
+- Amèrica del Nord, Amèrica Central, Amèrica del Sud, Japó, Corea i Filipines
+- Europa i Àfrica
+- Àsia i Oceania
+- Només els Estats Units
+A: Amèrica del Nord, Amèrica Central, Amèrica del Sud, Japó, Corea i Filipines
+
+Q: Quina és la principal diferència entre Regió A i Regió B?
+IMG: comparacio-regions.jpg | Taula comparativa dels colors laterals
+- Els colors de les marques laterals (babord i estribor) estan INVERTITS
+- Les formes són diferents
+- Les llums són diferents
+- No hi ha cap diferència significativa
+A: Els colors de les marques laterals (babord i estribor) estan INVERTITS
+
+Q: En quin any es va crear el sistema IALA?
+IMG: cronologia-iala.jpg | Línia temporal del desenvolupament IALA
+- 1982 (després de la Conferència de Mònaco)
+- 1970
+- 1990
+- 2000
+A: 1982 (després de la Conferència de Mònaco)
+
+Q: Quin és el "sentit convencional del balisament"?
+IMG: sentit-convencional.jpg | Vaixell entrant a port des del mar
+- Entrant a port des del mar o riu amunt
+- Sortint de port cap al mar
+- Sempre direcció Nord
+- Qualsevol direcció segons el vent
+A: Entrant a port des del mar o riu amunt
+
+Q: Què passa si navegues en SENTIT CONTRARI al sentit convencional del balisament?
+IMG: sentit-invers.jpg | Vaixell sortint amb marques invertides
+- S'inverteix la interpretació de les marques laterals
+- Les marques deixen de funcionar
+- Has de buscar un canal diferent
+- Res, es manté igual
+A: S'inverteix la interpretació de les marques laterals
+
+Q: Les marques CARDINALS són iguals en Regió A i Regió B?
+IMG: cardinals-universals.jpg | Marques cardinals Nord, Sud, Est, Oest
+- Sí, són UNIVERSALS (iguals a tot el món)
+- No, canvien els colors
+- No, canvien les formes
+- Només existeixen a la Regió A
+A: Sí, són UNIVERSALS (iguals a tot el món)
+
+Q: Les marques de PERILL AÏLLAT són iguals en Regió A i Regió B?
+IMG: perill-aillat-universal.jpg | Marca negra amb bandes vermelles horitzontals
+- Sí, són UNIVERSALS (iguals a tot el món)
+- No, canvien segons la regió
+- Només existeixen a la Regió B
+- Només s'usen de nit
+A: Sí, són UNIVERSALS (iguals a tot el món)
+
+Q: Les marques d'AIGÜES SEGURES són iguals en Regió A i Regió B?
+IMG: aigues-segures-universal.jpg | Marca esfèrica vermella i blanca amb bandes verticals
+- Sí, són UNIVERSALS (iguals a tot el món)
+- No, el color canvia segons la regió
+- Només existeixen a la Regió A
+- No existeixen en el sistema IALA
+A: Sí, són UNIVERSALS (iguals a tot el món)
+
+Q: Quines marques IALA són les úniques que canvien entre Regió A i Regió B?
+IMG: laterals-diferents.jpg | Comparativa de marques laterals A vs B
+- Les marques LATERALS (babord i estribor)
+- Les marques cardinals
+- Les marques de perill aïllat
+- Totes les marques
+A: Les marques LATERALS (babord i estribor)
+
+Q: Per què existeixen dues regions IALA diferents?
+IMG: historia-iala.jpg | Context històric de la unificació
+- Perquè no es va aconseguir un acord mundial complet i es va optar per dues variants
+- Per raons climàtiques
+- Perquè els oceans són diferents
+- Per facilitar la navegació
+A: Perquè no es va aconseguir un acord mundial complet i es va optar per dues variants
+
+Q: En REGIÓ A, quin color té la marca lateral de BABOR?
+IMG: babor-regio-a.jpg | Boia cilíndrica vermella
+- VERMELL
+- VERD
+- GROC
+- BLANC
+A: VERMELL
+
+Q: En REGIÓ A, quin color té la marca lateral d'ESTRIBOR?
+IMG: estribor-regio-a.jpg | Boia cònica verda
+- VERD
+- VERMELL
+- GROC
+- BLANC
+A: VERD
+
+Q: En REGIÓ B, quin color té la marca lateral de BABOR?
+IMG: babor-regio-b.jpg | Boia cilíndrica verda
+- VERD
+- VERMELL
+- GROC
+- BLANC
+A: VERD
+
+Q: En REGIÓ B, quin color té la marca lateral d'ESTRIBOR?
+IMG: estribor-regio-b.jpg | Boia cònica vermella
+- VERMELL
+- VERD
+- GROC
+- BLANC
+A: VERMELL
+
+Q: La forma de les marques laterals és igual en ambdues regions?
+IMG: formes-laterals.jpg | Cilindre i con en ambdues regions
+- Sí, només canvien els COLORS
+- No, tot és diferent
+- Depèn del port
+- No hi ha formes estandarditzades
+A: Sí, només canvien els COLORS
+
+Q: En ambdues regions, quina forma té una marca de BABOR?
+IMG: forma-babor-universal.jpg | Forma cilíndrica o espeque
+- CILÍNDRICA (tipus llauna) o espeque
+- CÒNICA (amb con apuntant amunt)
+- ESFÈRICA
+- QUADRADA
+A: CILÍNDRICA (tipus llauna) o espeque
+
+Q: En ambdues regions, quina forma té una marca d'ESTRIBOR?
+IMG: forma-estribor-universal.jpg | Forma cònica amb punt amunt
+- CÒNICA (con apuntant cap amunt) o castillete
+- CILÍNDRICA (tipus llauna)
+- ESFÈRICA
+- QUADRADA
+A: CÒNICA (con apuntant cap amunt) o castillete
+
+Q: Què és una "marca de bifurcació de canal"?
+IMG: bifurcacio.jpg | Canal dividint-se en dos
+- Una marca que indica que el canal es divideix i mostra quin és el canal preferent
+- Una marca que indica perills
+- Una marca d'aigües segures
+- Una marca cardinal
+A: Una marca que indica que el canal es divideix i mostra quin és el canal preferent
+
+Q: Com s'identifica una marca de bifurcació de canal?
+IMG: identificar-bifurcacio.jpg | Marca amb bandes horitzontals de colors
+- Porta una BANDA HORITZONTAL d'un color diferent al principal
+- És totalment groga
+- Porta dues esferes negres
+- Té forma de creu
+A: Porta una BANDA HORITZONTAL d'un color diferent al principal
+
+Q: Quin ritme de llum està RESERVAT per les marques de bifurcació?
+IMG: ritme-bifurcacio.jpg | Diagrama de llum 2+1
+- Grup de 2+1 destellos
+- Llum fixa
+- Destellos ràpids continus
+- Llum groga
+A: Grup de 2+1 destellos
+
+Q: Si estàs navegant entre Europa i Amèrica, quan has de canviar la interpretació de les marques laterals?
+IMG: travessa-atlantic.jpg | Ruta transatlàntica
+- Quan creues la línia divisòria entre Regió A i Regió B (aproximadament a mig Atlàntic)
+- Quan surts del port
+- Quan arribes a l'equador
+- Mai, el sistema és universal
+A: Quan creuis la línia divisòria entre Regió A i Regió B (aproximadament a mig Atlàntic)
+
+Q: És perillós confondre la Regió A amb la Regió B?
+IMG: perill-confusio.jpg | Vaixell navegant pel costat incorrecte
+- Sí, molt perillós: podries navegar pel costat incorrecte del canal i encallar
+- No, només és informatiu
+- Només és perillós de nit
+- No afecta la navegació
+A: Sí, molt perillós: podries navegar pel costat incorrecte del canal i encallar
+
+Q: Abans de navegar en aigües internacionals, què has de verificar?
+IMG: carta-nautica.jpg | Carta nàutica amb indicació de regió
+- Quina Regió IALA (A o B) s'aplica en aquelles aigües
+- La temperatura de l'aigua
+- La profunditat màxima
+- El color del cel
+A: Quina Regió IALA (A o B) s'aplica en aquelles aigües
+
+Q: Les marques ESPECIALS (groc) són iguals en Regió A i Regió B?
+IMG: marques-especials.jpg | Boia groga amb creu
+- Sí, són UNIVERSALS
+- No, canvien de color
+- Només existeixen a la Regió A
+- Depèn del país
+A: Sí, són UNIVERSALS
+
+Q: Quantes categories principals de marques té el sistema IALA?
+IMG: categories-iala.jpg | Les 5 categories principals
+- CINC: Laterals, Cardinals, Perill Aïllat, Aigües Segures i Especials
+- TRES: Laterals, Cardinals i Especials
+- QUATRE: només laterals i cardinals
+- SIS categories
+A: CINC: Laterals, Cardinals, Perill Aïllat, Aigües Segures i Especials
+
+Q: Què indica una carta nàutica quan posa "IALA-A" o "IALA-B"?
+IMG: llegenda-carta.jpg | Detall de llegenda amb sistema IALA
+- Quin sistema de balisament lateral s'aplica en aquella zona
+- La data de publicació
+- El tipus de fons marí
+- La zona horària
+A: Quin sistema de balisament lateral s'aplica en aquella zona
+
+Q: Si navegues per la costa d'Espanya, quin sistema IALA has d'utilitzar?
+IMG: costa-espanya.jpg | Mapa d'Espanya amb marques
+- Sistema IALA Regió A
+- Sistema IALA Regió B
+- Sistema mixt
+- No s'aplica cap sistema
+A: Sistema IALA Regió A

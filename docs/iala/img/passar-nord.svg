@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 150">
+  <!-- North Cardinal Mark -->
+  <rect x="90" y="50" width="20" height="50" fill="yellow"/>
+  <rect x="90" y="50" width="20" height="25" fill="black"/>
+  <polygon points="95,40 105,40 100,30" fill="black"/>
+  <polygon points="95,45 105,45 100,35" fill="black"/>
+  
+  <!-- Boat -->
+  <path d="M 50 100 L 70 100 L 80 90 L 40 90 Z" fill="brown"/>
+  <rect x="55" y="80" width="10" height="10" fill="white"/>
+  
+  <!-- Path -->
+  <path d="M 20 110 Q 60 120 100 110 T 180 110" fill="none" stroke="blue" stroke-dasharray="5,5"/>
+  <text x="10" y="130" font-size="10">NORTH</text>
+</svg>

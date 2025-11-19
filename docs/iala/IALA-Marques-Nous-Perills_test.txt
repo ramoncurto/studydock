@@ -1,0 +1,239 @@
+Q: Què indica una marca de nous perills o emergència?
+IMG: funcio-nous-perills.jpg | Perill recentment descobert no documentat
+- Perill recentment descobert NO documentat a les cartes
+- Límits de canal
+- Aigües segures
+- Zona de recreació
+A: Perill recentment descobert NO documentat a les cartes
+
+Q: Quin tipus de perills senyalitzen les marques de nous perills?
+IMG: tipus-nous-perills.jpg | Naufragis recents, contenidors, obstruccions
+- Naufragis recents, contenidors a la deriva, obstruccions noves
+- Canals antics
+- Ports
+- Zones de pesca
+A: Naufragis recents, contenidors a la deriva, obstruccions noves
+
+Q: Per què es diuen marques de "nous" perills?
+IMG: perill-recent.jpg | Descoberts recentment, encara no a cartes
+- Perills descoberts recentment, encara NO a cartes nàutiques
+- Perills antics
+- Perills permanents
+- No són perills
+A: Perills descoberts recentment, encara NO a cartes nàutiques
+
+Q: Quants colors té una marca de nous perills?
+IMG: dos-colors-nous.jpg | Blau i groc
+- Un color
+- Dos colors (BLAU i GROC)
+- Tres colors
+- Quatre colors
+A: Dos colors (BLAU i GROC)
+
+Q: Com són les franges d'una marca de nous perills?
+IMG: franges-verticals.jpg | Franges verticals blaves i grogues
+- Franges VERTICALS blaves i grogues
+- Franges horitzontals blaves i grogues
+- Tot blau
+- Tot groc
+A: Franges VERTICALS blaves i grogues
+
+Q: Quantes franges verticals té una marca de nous perills?
+IMG: 4-8-franges.jpg | Mínim 4, màxim 8 franges
+- 2 franges
+- Entre 4 i 8 franges (mínim 4, màxim 8)
+- 10 franges
+- No té franges
+A: Entre 4 i 8 franges (mínim 4, màxim 8)
+
+Q: Les franges són iguals en amplada?
+IMG: franges-iguals.jpg | Franges d'igual mida
+- Sí, franges d'amplada IGUAL
+- No, aleatòries
+- Blau més ample
+- Groc més ample
+A: Sí, franges d'amplada IGUAL
+
+Q: Quina forma té la topmark d'una marca de nous perills?
+IMG: topmark-creu.jpg | Creu vertical groga
+- Un con
+- Una esfera
+- Una X
+- Una CREU VERTICAL groga
+A: Una CREU VERTICAL groga
+
+Q: De quin color és la topmark de nous perills?
+IMG: creu-groga.jpg | Color groc
+- Blava
+- GROGA
+- Blanca
+- Vermella
+A: GROGA
+
+Q: Com està orientada la creu de la topmark?
+IMG: creu-vertical.jpg | Vertical, perpendicular al mar
+- Horitzontal
+- VERTICAL (perpendicular al mar)
+- Diagonal
+- No té orientació
+A: VERTICAL (perpendicular al mar)
+
+Q: De quin color és la llum d'una marca de nous perills?
+IMG: llum-alternant.jpg | Alternant blau i groc
+- Blanca
+- ALTERNANT blau i groc
+- Només blau
+- Només groc
+A: ALTERNANT blau i groc
+
+Q: Com funciona la llum alternant de nous perills?
+IMG: ritme-alternant.jpg | 1s blau, 1s groc, 0.5s eclipsi
+- Llum BLAVA 1 segon, llum GROGA 1 segon, 0.5 segons d'eclipsi
+- Llum contínua
+- Només destellos
+- Llum fixa
+A: Llum BLAVA 1 segon, llum GROGA 1 segon, 0.5 segons d'eclipsi
+
+Q: Quant dura la llum blava?
+IMG: 1-segon-blau.jpg | 1 segon
+- 0.5 segons
+- 1 segon
+- 2 segons
+- 3 segons
+A: 1 segon
+
+Q: Quant dura la llum groga?
+IMG: 1-segon-groc.jpg | 1 segon
+- 0.5 segons
+- 1 segon
+- 2 segons
+- 3 segons
+A: 1 segon
+
+Q: Quant dura l'eclipsi entre llums?
+IMG: 05-eclipsi.jpg | 0.5 segons
+- 0.5 segons
+- 1 segon
+- 2 segons
+- No hi ha eclipsi
+A: 0.5 segons
+
+Q: Les marques de nous perills poden portar Racon?
+IMG: racon-codi-d.jpg | Sí, codi Morse D
+- No
+- Sí, poden portar Racon amb codi Morse "D"
+- Només AIS
+- Només de dia
+A: Sí, poden portar Racon amb codi Morse "D"
+
+Q: Quin codi Morse mostra el Racon d'una marca de nous perills?
+IMG: morse-d.jpg | Codi D (- ● ●)
+- Codi A
+- Codi B
+- Codi D (- ● ●)
+- Codi E
+A: Codi D (- ● ●)
+
+Q: Les marques de nous perills poden portar AIS?
+IMG: ais-nous-perills.jpg | Sí, per millorar detecció
+- No
+- Sí, per millorar la detecció i advertència
+- Només Racon
+- Només llums
+A: Sí, per millorar la detecció i advertència
+
+Q: Les marques de nous perills són permanents?
+IMG: temporals.jpg | Temporals fins senyalització permanent
+- Sí, permanents
+- NO, són TEMPORALS fins establir senyalització permanent
+- Només d'estiu
+- Només d'hivern
+A: NO, són TEMPORALS fins establir senyalització permanent
+
+Q: Què passa amb una marca de nous perills després d'un temps?
+IMG: substituir-permanent.jpg | Es substitueix per marca permanent adequada
+- Es queda per sempre
+- Es substitueix per marca PERMANENT adequada (cardinal, perill aïllat, etc.)
+- Desapareix
+- Es mou
+A: Es substitueix per marca PERMANENT adequada (cardinal, perill aïllat, etc.)
+
+Q: Per què són temporals les marques de nous perills?
+IMG: rao-temporal.jpg | Fins actualitzar cartes i establir balisament definitiu
+- Fins actualitzar cartes nàutiques i establir balisament definitiu
+- Perquè són barates
+- Perquè són fàcils d'instal·lar
+- No són temporals
+A: Fins actualitzar cartes nàutiques i establir balisament definitiu
+
+Q: Com has de reaccionar si veus una marca de nous perills?
+IMG: reaccio-prudent.jpg | Màxima precaució, mantenir distància
+- Apropar-me a investigar
+- MÀXIMA PRECAUCIÓ, mantenir gran distància
+- Ignorar-la
+- Amarrar-hi
+A: MÀXIMA PRECAUCIÓ, mantenir gran distància
+
+Q: Per què has de tenir més precaució amb nous perills que amb altres marques?
+IMG: perill-no-documentat.jpg | Perill no estudiat, extensió desconeguda
+- Perill NO estudiat, extensió i naturalesa poden ser DESCONEGUDES
+- Són més grans
+- Són més perillosos sempre
+- No cal més precaució
+A: Perill NO estudiat, extensió i naturalesa poden ser DESCONEGUDES
+
+Q: Identifica: Franges verticals blau-groc, creu groga, llum alternant blau-groc
+IMG: identificar-nous-perills.jpg | Marca de nous perills completa
+- Marca lateral
+- Marca especial
+- Marca de NOUS PERILLS / Emergència
+- Marca d'aigües segures
+A: Marca de NOUS PERILLS / Emergència
+
+Q: Si veus franges verticals blaves i grogues, què és?
+IMG: veure-franges-verticals.jpg | Característica de nous perills
+- Marca lateral
+- Marca NOUS PERILLS
+- Marca cardinal
+- Marca especial
+A: Marca NOUS PERILLS
+
+Q: De nit, veus llum alternant blau i groc. Què és?
+IMG: llum-alternant-nit.jpg | Marca de nous perills
+- Marca lateral
+- Marca especial
+- Marca de NOUS PERILLS
+- Marca cardinal
+A: Marca de NOUS PERILLS
+
+Q: Com diferencies una marca especial d'una de nous perills?
+IMG: diferencia-especial.jpg | Especial groc sòlid, nous perills franges verticals
+- Especial: groc SÒLID | Nous Perills: franges VERTICALS blau-groc
+- No es pot
+- Només per la topmark
+- Només per la llum
+A: Especial: groc SÒLID | Nous Perills: franges VERTICALS blau-groc
+
+Q: Les marques de nous perills són iguals a Regió A i Regió B?
+IMG: universals-nous.jpg | Iguals en totes les regions
+- No, són diferents
+- Sí, són IGUALS en ambdues regions
+- Només canvia el color
+- Només canvia la topmark
+A: Sí, són IGUALS en ambdues regions
+
+Q: Si veus una marca de nous perills, on pots trobar més informació?
+IMG: avisos-navegants.jpg | Avisos als navegants i autoritats marítimes
+- AVISOS als NAVEGANTS i autoritats marítimes locals
+- A internet
+- A la carta (encara no actualitzada)
+- No cal més informació
+A: AVISOS als NAVEGANTS i autoritats marítimes locals
+
+Q: Resum: Què caracteritza visualment una marca de nous perills?
+IMG: resum-nous-perills.jpg | Franges verticals blau-groc, creu groga, llum alternant
+- Franges VERTICALS blau-groc (4-8), creu VERTICAL groga, llum ALTERNANT blau-groc
+- Tot groc
+- Tot blau
+- Franges horitzontals
+A: Franges VERTICALS blau-groc (4-8), creu VERTICAL groga, llum ALTERNANT blau-groc

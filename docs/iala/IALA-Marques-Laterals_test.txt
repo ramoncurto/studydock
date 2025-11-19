@@ -1,0 +1,239 @@
+Q: Quantes regions de balisament IALA existeixen?
+IMG: mapa-regions-iala.jpg | Mapa mundial mostrant Regió A i Regió B
+- Una regió universal
+- Dues regions: Regió A i Regió B
+- Tres regions: A, B i C
+- Quatre regions segons els continents
+A: Dues regions: Regió A i Regió B
+
+Q: Quins continents/zones utilitzen la Regió A de la IALA?
+IMG: regio-a-mapa.jpg | Mapa destacant Europa, Àfrica, Àsia i Oceania
+- Europa, Àfrica, Oceania i la major part d'Àsia
+- Amèrica del Nord i del Sud
+- Només Europa
+- Tot el món menys Amèrica
+A: Europa, Àfrica, Oceania i la major part d'Àsia
+
+Q: En la Regió A, quin color té una marca lateral de BABOR?
+IMG: babor-regio-a-vermell.jpg | Boia cilíndrica vermella
+- VERD
+- VERMELL
+- GROC
+- BLANC I VERMELL
+A: VERMELL
+
+Q: En la Regió A, quina forma té una marca lateral de BABOR?
+IMG: forma-cilindrica-babor.jpg | Boia cilíndrica tipus llauna
+- Cònica
+- Cilíndrica (tipus llauna)
+- Esfèrica
+- Quadrada
+A: Cilíndrica (tipus llauna)
+
+Q: En la Regió A, quin color té una marca lateral d'ESTRIBOR?
+IMG: estribor-regio-a-verd.jpg | Boia cònica verda
+- VERMELL
+- VERD
+- GROC
+- BLANC
+A: VERD
+
+Q: En la Regió A, quina forma té una marca lateral d'ESTRIBOR?
+IMG: forma-conica-estribor.jpg | Boia cònica amb con apuntant amunt
+- Cilíndrica
+- Cònica (con apuntant cap amunt)
+- Esfèrica
+- Quadrada
+A: Cònica (con apuntant cap amunt)
+
+Q: En la Regió B, quin color té una marca lateral de BABOR?
+IMG: babor-regio-b-verd.jpg | Boia cilíndrica verda (Regió B)
+- VERMELL
+- VERD
+- GROC
+- BLAU
+A: VERD
+
+Q: En la Regió B, quin color té una marca lateral d'ESTRIBOR?
+IMG: estribor-regio-b-vermell.jpg | Boia cònica vermella (Regió B)
+- VERD
+- VERMELL
+- GROC
+- BLANC
+A: VERMELL
+
+Q: Quina és la principal diferència entre Regió A i Regió B?
+IMG: comparacio-regions.jpg | Taula comparativa dels colors
+- Els colors de babord i estribord estan INVERTITS
+- Les formes són diferents
+- Les llums són diferents
+- No hi ha cap diferència
+A: Els colors de babord i estribord estan INVERTITS
+
+Q: Quin és el "sentit convencional del balisament"?
+IMG: sentit-convencional.jpg | Vaixell entrant a port des del mar
+- Entrant a port des del mar o riu amunt
+- Sortint de port cap al mar
+- Sempre direcció Nord
+- Qualsevol direcció
+A: Entrant a port des del mar o riu amunt
+
+Q: En la Regió A, si entres a port amb boies verdes a la dreta, estàs navegant correctament?
+IMG: entrada-port-correcta.jpg | Vista des del vaixell amb boies verdes a estribor
+- Sí, correcte
+- No, hauries d'anar més a la dreta
+- No, hauries d'anar més a l'esquerra
+- Estàs fora del canal
+A: Sí, correcte
+
+Q: Quin color de llum mostra una marca lateral de BABOR en Regió A?
+IMG: llum-vermella-babor-a.jpg | Llum vermella de nit
+- Llum VERDA
+- Llum VERMELLA
+- Llum BLANCA
+- Llum GROGA
+A: Llum VERMELLA
+
+Q: Quin color de llum mostra una marca lateral d'ESTRIBOR en Regió A?
+IMG: llum-verda-estribor-a.jpg | Llum verda de nit
+- Llum VERMELLA
+- Llum VERDA
+- Llum BLANCA
+- Llum GROGA
+A: Llum VERDA
+
+Q: Quin ritme de llum NO poden tenir les marques laterals normals?
+IMG: ritme-prohibit-lateral.jpg | Diagrama de ritme 2+1
+- Destellos continus
+- Llum fixa
+- Grup de 2+1 destellos
+- Destellos ràpids
+A: Grup de 2+1 destellos
+
+Q: Per què el ritme 2+1 està reservat?
+IMG: bifurcacio-canal.jpg | Marca de bifurcació amb ritme especial
+- Per marques de bifurcació de canal
+- Per marques cardinals
+- Per marques de perill
+- No està reservat
+A: Per marques de bifurcació de canal
+
+Q: En Regió A, una marca vermella amb banda verda horitzontal indica què?
+IMG: marca-bifurcacio-estribor.jpg | Boia vermella amb banda verda
+- Canal preferent a ESTRIBOR
+- Canal preferent a BABOR
+- Perill aïllat
+- Aigües segures
+A: Canal preferent a ESTRIBOR
+
+Q: En Regió A, una marca verda amb banda vermella horitzontal indica què?
+IMG: marca-bifurcacio-babor.jpg | Boia verda amb banda vermella
+- Canal preferent a ESTRIBOR
+- Canal preferent a BABOR
+- Zona prohibida
+- Aigües segures
+A: Canal preferent a BABOR
+
+Q: Quin ritme luminós tenen les marques de bifurcació?
+IMG: ritme-2-1-bifurcacio.jpg | Diagrama del ritme Fl(2+1)
+- Destellos continus
+- Grup de 2+1 destellos Fl(2+1)
+- Llum fixa
+- Destellos ràpids
+A: Grup de 2+1 destellos Fl(2+1)
+
+Q: En Regió A, si veus marca vermella cilíndrica amb banda verda, per quin costat la passes?
+IMG: passar-bifurcacio-estribor.jpg | Vaixell passant marca per babord
+- Per BABORD (esquerra) i girar a dreta
+- Per ESTRIBOR (dreta)
+- Per qualsevol costat
+- No pots passar
+A: Per BABORD (esquerra) i girar a dreta
+
+Q: Quina mnemotècnica ajuda a recordar Regió A?
+IMG: mnemotecnica-regio-a.jpg | VeRmell = BaboRd (R compartida)
+- VeRmell = BaboRd (comparteixen R)
+- Verd = Babord
+- Vermell = Estribord
+- No hi ha cap regla
+A: VeRmell = BaboRd (comparteixen R)
+
+Q: Quina mnemotècnica s'usa en Regió B?
+IMG: mnemotecnica-regio-b.jpg | Red Right Returning
+- Red Right Returning (Vermell Dreta Retornant)
+- Green Right Returning
+- Red Left Returning
+- No n'hi ha
+A: Red Right Returning (Vermell Dreta Retornant)
+
+Q: Com es numeren les marques laterals en Regió A seguint el sentit convencional?
+IMG: numeracio-marques-a.jpg | Boies numerades parells/imparells
+- Parells en VERMELL, Imparells en VERD
+- Parells en VERD, Imparells en VERMELL
+- Totes amb números parells
+- Sense numeració
+A: Parells en VERMELL, Imparells en VERD
+
+Q: Si navegues per Amèrica (Regió B) i veus una marca vermella, per on passes?
+IMG: passar-vermell-regio-b.jpg | Navegació en Regió B
+- Deixar-la a ESTRIBOR (dreta) entrant a port
+- Deixar-la a BABOR (esquerra) entrant a port
+- Passar per qualsevol costat
+- Evitar la zona
+A: Deixar-la a ESTRIBOR (dreta) entrant a port
+
+Q: Quina forma té SEMPRE una marca de babord, independentment de la regió?
+IMG: forma-babord-universal.jpg | Formes cilíndriques
+- Cònica
+- Cilíndrica
+- Esfèrica
+- Variable
+A: Cilíndrica
+
+Q: Quina forma té SEMPRE una marca d'estribor, independentment de la regió?
+IMG: forma-estribor-universal.jpg | Formes còniques
+- Cilíndrica
+- Cònica
+- Esfèrica
+- Variable
+A: Cònica
+
+Q: En una bifurcació de Regió A, si el canal preferent va a babord, quina marca veuràs?
+IMG: preferent-babor-a.jpg | Marca verda amb banda vermella
+- Vermella amb banda verda
+- Verda amb banda vermella
+- Vermella sense banda
+- Verda sense banda
+A: Verda amb banda vermella
+
+Q: Quina característica comparteixen les marques de bifurcació de totes dues regions?
+IMG: caracteristica-comuna-bifurcacio.jpg | Ritme 2+1 en ambdues regions
+- Ritme de llum 2+1 destellos
+- Color groc
+- Forma esfèrica
+- No comparteixen res
+A: Ritme de llum 2+1 destellos
+
+Q: Si veus una marca lateral sense llum (de dia) en Regió A i és verda cònica, què és?
+IMG: identificacio-dia-estribor.jpg | Boia verda cònica
+- Marca d'ESTRIBOR
+- Marca de BABOR
+- Marca cardinal
+- Marca especial
+A: Marca d'ESTRIBOR
+
+Q: En quin cas una marca vermella estaria a la dreta entrant a port?
+IMG: vermell-dreta-regio.jpg | Comparació Regió A vs B
+- Mai a Regió A, sempre a Regió B
+- Mai a Regió B, sempre a Regió A
+- Sempre en ambdues regions
+- Mai en cap regió
+A: Mai a Regió A, sempre a Regió B
+
+Q: Identifica: Regió A, navegant entrant a port, marca cilíndrica vermella a la teva esquerra
+IMG: situacio-correcta-a.jpg | Navegació correcta en Regió A
+- Navegació CORRECTA pel canal
+- Massa a l'esquerra del canal
+- Massa a la dreta del canal
+- Fora del canal completament
+A: Navegació CORRECTA pel canal

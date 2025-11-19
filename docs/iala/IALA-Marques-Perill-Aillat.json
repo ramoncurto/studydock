@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "title": "Sistema IALA - Marques de Perill Aïllat",
+    "subject": "Navegació i Balisament",
+    "topic": "Sistema IALA",
+    "keywords": [
+      "IALA",
+      "perill aïllat"
+    ],
+    "difficulty": "bàsic",
+    "estimatedTime": "10 min"
+  },
+  "sections": [
+    {
+      "id": "perill-aillat",
+      "title": "Marques de Perill Aïllat",
+      "level": 1,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Indica un perill aïllat (roca, naufragi) amb aigües navegables al seu voltant."
+        },
+        {
+          "type": "highlight",
+          "importance": "high",
+          "items": [
+            "Color: NEGRE amb bandes horitzontals VERMELLES",
+            "Topmark: 2 esferes negres superposades",
+            "Llum: BLANC, grup de 2 centelleigs Fl(2)",
+            "Aigües navegables al voltant, però manté distància segura"
+          ]
+        }
+      ]
+    }
+  ]
+}

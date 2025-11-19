@@ -1,0 +1,239 @@
+Q: Què indiquen les marques cardinals?
+IMG: funcio-cardinals.svg | Marca cardinal indicant perill i zona segura
+- La posició d'un perill i el costat segur per passar
+- Els límits d'un canal
+- Aigües segures al voltant
+- Zones militars
+A: La posició d'un perill i el costat segur per passar
+
+Q: Quantes marques cardinals diferents existeixen?
+IMG: quatre-cardinals.svg | Les 4 marques cardinals: N, S, E, O
+- Dues (Nord i Sud)
+- Tres (Nord, Sud, Est)
+- Quatre (Nord, Sud, Est, Oest)
+- Vuit (una per cada punt cardinal)
+A: Quatre (Nord, Sud, Est, Oest)
+
+Q: Quins colors s'utilitzen en les marques cardinals?
+IMG: colors-cardinals.svg | Colors negre i groc
+- Vermell i verd
+- Negre i groc
+- Blanc i vermell
+- Blau i groc
+A: Negre i groc
+
+Q: Com és una marca cardinal NORD (color)?
+IMG: cardinal-nord-color.svg | Negre dalt, groc baix
+- Negre dalt, groc baix
+- Groc dalt, negre baix
+- Negre-Groc-Negre (franges horitzontals)
+- Groc-Negre-Groc (franges horitzontals)
+A: Negre dalt, groc baix
+
+Q: Com és la marca de tope d'una cardinal NORD?
+IMG: topmark-nord.svg | Dos cons amb puntes cap amunt
+- 2 cons amb les puntes cap AMUNT (↑↑)
+- 2 cons amb les puntes cap AVALL (↓↓)
+- 2 cons oposats per les bases (◇)
+- 2 cons oposats per les puntes (⧗)
+A: 2 cons amb les puntes cap AMUNT (↑↑)
+
+Q: Quin ritme de llum té una marca cardinal NORD?
+IMG: llum-nord.svg | Llum blanca contínua
+- Llum BLANCA contínua (Q o VQ)
+- 3 destellos
+- 6 destellos + 1 llarg
+- 9 destellos
+A: Llum BLANCA contínua (Q o VQ)
+
+Q: Per on passes si veus una marca cardinal NORD?
+IMG: passar-nord.svg | Vaixell passant al NORD de la marca
+- Al NORD de la marca
+- Al SUD de la marca
+- A l'EST de la marca
+- A l'OEST de la marca
+A: Al NORD de la marca
+
+Q: Com és una marca cardinal SUD (color)?
+IMG: cardinal-sud-color.svg | Groc dalt, negre baix
+- Negre dalt, groc baix
+- Groc dalt, negre baix
+- Tot negre
+- Tot groc
+A: Groc dalt, negre baix
+
+Q: Com és la marca de tope d'una cardinal SUD?
+IMG: topmark-sud.svg | Dos cons amb puntes cap avall
+- 2 cons amb les puntes cap AMUNT (↑↑)
+- 2 cons amb les puntes cap AVALL (↓↓)
+- 2 cons oposats per les bases (◇)
+- 2 cons oposats per les puntes (⧗)
+A: 2 cons amb les puntes cap AVALL (↓↓)
+
+Q: Quin ritme de llum té una marca cardinal SUD?
+IMG: llum-sud.svg | 6 destellos + 1 destello llarg
+- Llum contínua
+- 3 destellos
+- 6 destellos + 1 destello llarg
+- 9 destellos
+A: 6 destellos + 1 destello llarg
+
+Q: Quina mnemotècnica ajuda a recordar la cardinal SUD?
+IMG: mnemotecnica-sud.svg | SUD = 6 lletres, 6 destellos
+- SUD té 6 lletres al català? No, però es recorda com "6 destellos baixant"
+- Els cons apunten avall com el Sud en un mapa
+- Groc com el sol del sud
+- Totes les anteriors
+A: Els cons apunten avall com el Sud en un mapa
+
+Q: Com és una marca cardinal EST (color)?
+IMG: cardinal-est-color.svg | Negre-Groc-Negre (franges horitzontals)
+- Negre dalt, groc baix
+- Groc dalt, negre baix
+- Negre-Groc-Negre (franges horitzontals)
+- Groc-Negre-Groc (franges horitzontals)
+A: Negre-Groc-Negre (franges horitzontals)
+
+Q: Com és la marca de tope d'una cardinal EST?
+IMG: topmark-est.svg | Dos cons oposats per les bases formant diamant
+- 2 cons puntes amunt (↑↑)
+- 2 cons puntes avall (↓↓)
+- 2 cons oposats per les BASES formant diamant (◇)
+- 2 cons oposats per les puntes (⧗)
+A: 2 cons oposats per les BASES formant diamant (◇)
+
+Q: Quin ritme de llum té una marca cardinal EST?
+IMG: llum-est.svg | 3 destellos ràpids
+- Llum contínua
+- 3 destellos ràpids Q(3) o VQ(3)
+- 6 destellos + llarg
+- 9 destellos
+A: 3 destellos ràpids Q(3) o VQ(3)
+
+Q: Quina mnemotècnica ajuda a recordar la cardinal EST?
+IMG: mnemotecnica-est.svg | E de EST = 3 línies horitzontals
+- EST: E té 3 línies horitzontals = 3 destellos
+- EST: bandes horitzontals Negre-Groc-Negre = 3 colors
+- Els cons formen un ou (EGG)
+- Totes les anteriors
+A: Totes les anteriors
+
+Q: Com és una marca cardinal OEST (color)?
+IMG: cardinal-oest-color.svg | Groc-Negre-Groc (franges horitzontals)
+- Negre dalt, groc baix
+- Groc dalt, negre baix
+- Negre-Groc-Negre
+- Groc-Negre-Groc (franges horitzontals)
+A: Groc-Negre-Groc (franges horitzontals)
+
+Q: Com és la marca de tope d'una cardinal OEST?
+IMG: topmark-oest.svg | Dos cons oposats per les puntes
+- 2 cons puntes amunt (↑↑)
+- 2 cons puntes avall (↓↓)
+- 2 cons oposats per les bases (◇)
+- 2 cons oposats per les PUNTES formant rellotge de sorra (⧗)
+A: 2 cons oposats per les PUNTES formant rellotge de sorra (⧗)
+
+Q: Quin ritme de llum té una marca cardinal OEST?
+IMG: llum-oest.svg | 9 destellos ràpids
+- Llum contínua
+- 3 destellos
+- 6 destellos + llarg
+- 9 destellos ràpids Q(9) o VQ(9)
+A: 9 destellos ràpids Q(9) o VQ(9)
+
+Q: Quina mnemotècnica ajuda a recordar la cardinal OEST?
+IMG: mnemotecnica-oest.svg | O de OEST = 9 en punt del rellotge
+- WEST en anglès, W té 9 puntes si fas 3 V's
+- Cons formen rellotge de sorra, 9 destellos
+- 9 lletres en "direcció oest"
+- Totes les anteriors
+A: WEST en anglès, W té 9 puntes si fas 3 V's
+
+Q: De quin color és la llum de TOTES les marques cardinals?
+IMG: color-llum-cardinals.svg | Llum blanca
+- Vermella
+- Verda
+- BLANCA
+- Groga
+A: BLANCA
+
+Q: Identifica: Negre dalt, groc baix, 2 cons puntes amunt, llum blanca contínua
+IMG: identificar-nord.svg | Marca cardinal Nord completa
+- Cardinal NORD
+- Cardinal SUD
+- Cardinal EST
+- Cardinal OEST
+A: Cardinal NORD
+
+Q: Identifica: Groc dalt, negre baix, 2 cons puntes avall, 6 destellos + llarg
+IMG: identificar-sud.svg | Marca cardinal Sud completa
+- Cardinal NORD
+- Cardinal SUD
+- Cardinal EST
+- Cardinal OEST
+A: Cardinal SUD
+
+Q: Identifica: Negre-Groc-Negre, cons formant diamant (◇), 3 destellos
+IMG: identificar-est.svg | Marca cardinal Est completa
+- Cardinal NORD
+- Cardinal SUD
+- Cardinal EST
+- Cardinal OEST
+A: Cardinal EST
+
+Q: Identifica: Groc-Negre-Groc, cons formant rellotge sorra (⧗), 9 destellos
+IMG: identificar-oest.svg | Marca cardinal Oest completa
+- Cardinal NORD
+- Cardinal SUD
+- Cardinal EST
+- Cardinal OEST
+A: Cardinal OEST
+
+Q: Si veus una marca amb franges horitzontals negre-groc-negre, per on passes?
+IMG: passar-est.svg | Passar a l'EST de la marca
+- Al NORD
+- Al SUD
+- A l'EST
+- A l'OEST
+A: A l'EST
+
+Q: Com recordes quina cardinal té llum contínua?
+IMG: recordar-nord-continua.svg | Nord = puntes amunt = continu
+- NORD: cons apunten amunt = llum "cap amunt" = contínua
+- SUD: té llum contínua
+- EST: té llum contínua
+- Cap no té llum contínua
+A: NORD: cons apunten amunt = llum "cap amunt" = contínua
+
+Q: Quin nombre de destellos té la cardinal que NO és ni 3, ni continu, ni 9?
+IMG: sud-6-mes-1.svg | 6+1 destellos de la SUD
+- 3 destellos (EST)
+- 6 destellos + 1 llarg (SUD)
+- 9 destellos (OEST)
+- Llum contínua (NORD)
+A: 6 destellos + 1 llarg (SUD)
+
+Q: Si navegues de nit i veus llum blanca amb 9 destellos ràpids, què és?
+IMG: llum-9-oest.svg | Llum amb 9 destellos
+- Cardinal NORD
+- Cardinal SUD
+- Cardinal EST
+- Cardinal OEST
+A: Cardinal OEST
+
+Q: Quina marca cardinal té la topmark que sembla un rellotge de sorra?
+IMG: rellotge-sorra-oest.svg | Topmark OEST (⧗)
+- NORD
+- SUD
+- EST
+- OEST
+A: OEST
+
+Q: Les marques cardinals són iguals a Regió A i Regió B?
+IMG: cardinals-universals.svg | Cardinals idèntiques en ambdues regions
+- No, són diferents
+- Sí, són IGUALS en totes dues regions
+- Només canvia el color
+- Només canvia la llum
+A: Sí, són IGUALS en totes dues regions

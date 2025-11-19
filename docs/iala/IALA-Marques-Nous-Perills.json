@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "title": "Sistema IALA - Marques de Nous Perills",
+    "subject": "Navegació i Balisament",
+    "topic": "Sistema IALA",
+    "keywords": [
+      "IALA",
+      "nous perills",
+      "naufragis"
+    ],
+    "difficulty": "mitjà",
+    "estimatedTime": "10 min"
+  },
+  "sections": [
+    {
+      "id": "nous-perills",
+      "title": "Marques de Nous Perills / Senyalització d Emergència",
+      "level": 1,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Indica perill recentment descobert (naufragi) no documentat encara a cartes."
+        },
+        {
+          "type": "highlight",
+          "importance": "high",
+          "items": [
+            "Color: Franges VERTICALS blaves i grogues (4-8 franges)",
+            "Topmark: Creu groga VERTICAL",
+            "Llum: Alternant BLAU 1s i GROC 1s (0.5s eclipsi)",
+            "Pot incloure Racon (codi D) i/o AIS",
+            "TEMPORAL fins establir senyalització permanent"
+          ]
+        }
+      ]
+    }
+  ]
+}

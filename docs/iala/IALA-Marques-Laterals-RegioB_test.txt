@@ -1,0 +1,159 @@
+Q: Quina marca lateral s'utilitza per indicar el costat de BABOR d'un canal en la Regió B de la IALA?
+IMG: lateral-babor-region-b.jpg | Boia cilíndrica verda amb marca de tope cilíndrica
+- Marca cilíndrica o espeque de color VERD
+- Marca cilíndrica o espeque de color VERMELL
+- Marca cònica de color VERD
+- Marca cònica de color VERMELL
+A: Marca cilíndrica o espeque de color VERD
+
+Q: Quin color de llum mostra una marca lateral de BABOR en la Regió B?
+IMG: llum-verda-babor-b.jpg | Llum verda intermitent de nit
+- Llum VERDA
+- Llum VERMELLA
+- Llum BLANCA
+- Llum GROGA
+A: Llum VERDA
+
+Q: Quina és la forma correcta d'una marca lateral d'ESTRIBOR en la Regió B?
+IMG: lateral-estribor-conica-b.jpg | Boia vermella de forma cònica amb con vermell apuntant amunt
+- Forma CÒNICA, castillete o espeque
+- Forma CILÍNDRICA, castillete o espeque
+- Forma ESFÈRICA
+- Forma de CREU
+A: Forma CÒNICA, castillete o espeque
+
+Q: Quin color té una marca lateral d'ESTRIBOR en la Regió B de la IALA?
+IMG: boia-vermella-estribor-b.jpg | Boia de color vermell indicant estribor
+- Color VERD
+- Color VERMELL
+- Color GROC
+- Color BLANC I VERD
+A: Color VERMELL
+
+Q: Quina marca de tope porta una boia lateral de BABOR en la Regió B?
+IMG: topmark-cilindre-verd.jpg | Cilindre verd únic a dalt de la boia
+- Un cilindre VERD únic
+- Un con VERMELL únic apuntant cap amunt
+- Dues esferes negres
+- Una creu groga
+A: Un cilindre VERD únic
+
+Q: Quina marca de tope porta una boia lateral d'ESTRIBOR en la Regió B?
+IMG: topmark-con-vermell.jpg | Con vermell apuntant cap amunt
+- Un con VERMELL únic apuntant cap amunt
+- Un cilindre VERD únic
+- Dues esferes negres
+- Una creu groga
+A: Un con VERMELL únic apuntant cap amunt
+
+Q: En la Regió B, si navegues entrant a port, per quin costat has de passar una marca VERDA?
+IMG: passar-marca-verda-b.jpg | Vaixell passant una boia verda per babor
+- Per BABOR (esquerra)
+- Per ESTRIBOR (dreta)
+- Per qualsevol costat
+- Pel centre
+A: Per BABOR (esquerra)
+
+Q: En la Regió B, si navegues entrant a port, per quin costat has de passar una marca VERMELLA?
+IMG: passar-marca-vermella-b.jpg | Vaixell passant una boia vermella per estribor
+- Per BABOR (esquerra)
+- Per ESTRIBOR (dreta)
+- Per qualsevol costat
+- Pel centre
+A: Per ESTRIBOR (dreta)
+
+Q: Quin color de llum mostra una marca lateral d'ESTRIBOR en Regió B?
+IMG: llum-vermella-estribor-b.jpg | Llum vermella de nit
+- Llum VERMELLA
+- Llum VERDA
+- Llum BLANCA
+- Llum GROGA
+A: Llum VERMELLA
+
+Q: En Regió B, quin color tenen les marques que indiquen el costat de BABOR quan entres a port?
+IMG: sistema-babor-b.jpg | Conjunt de boies verdes marcant babor
+- VERD
+- VERMELL
+- GROC
+- BLANC
+A: VERD
+
+Q: En Regió B, una marca verda amb banda vermella horitzontal indica què?
+IMG: marca-bifurcacio-estribor-b.jpg | Boia verda amb banda vermella
+- Canal preferent a ESTRIBOR (mantenir marca a estribor)
+- Canal preferent a BABOR (mantenir marca a babor)
+- Perill aïllat
+- Aigües segures
+A: Canal preferent a ESTRIBOR (mantenir marca a estribor)
+
+Q: En Regió B, una marca vermella amb banda verda horitzontal indica què?
+IMG: marca-bifurcacio-babor-b.jpg | Boia vermella amb banda verda
+- Canal preferent a BABOR (mantenir marca a babor)
+- Canal preferent a ESTRIBOR (mantenir marca a estribor)
+- Perill aïllat
+- Aigües segures
+A: Canal preferent a BABOR (mantenir marca a babor)
+
+Q: Quins països o zones utilitzen el sistema de Regió B de la IALA?
+IMG: mapa-regio-b.jpg | Mapa d'Amèrica destacat
+- Amèrica del Nord, Amèrica Central, Amèrica del Sud, Japó, Corea i Filipines
+- Europa i Àfrica
+- Àsia i Oceania
+- Tot el món menys Europa
+A: Amèrica del Nord, Amèrica Central, Amèrica del Sud, Japó, Corea i Filipines
+
+Q: En la Regió B, si veus una boia VERDA cilíndrica davant teu quan entres a port, què has de fer?
+IMG: decisio-boia-verda-b.jpg | Vista des del timoner amb boia verda al davant
+- Passar-la per BABOR (deixar-la a l'esquerra)
+- Passar-la per ESTRIBOR (deixar-la a la dreta)
+- Girar i sortir del canal
+- Aturar-te immediatament
+A: Passar-la per BABOR (deixar-la a l'esquerra)
+
+Q: En la Regió B, si veus una boia VERMELLA cònica davant teu quan entres a port, què has de fer?
+IMG: decisio-boia-vermella-b.jpg | Vista des del timoner amb boia vermella al davant
+- Passar-la per ESTRIBOR (deixar-la a la dreta)
+- Passar-la per BABOR (deixar-la a la dreta)
+- Girar i sortir del canal
+- Aturar-te immediatament
+A: Passar-la per ESTRIBOR (deixar-la a la dreta)
+
+Q: La forma de les marques laterals és la mateixa en Regió A i Regió B?
+IMG: comparacio-formes.jpg | Taula comparativa de formes en ambdues regions
+- Sí, només canvien els colors
+- No, tot és diferent
+- Sí, però només per les marques de babor
+- No hi ha cap forma estandarditzada
+A: Sí, només canvien els colors
+
+Q: En Regió B, quin ritme de llum pot tenir una marca lateral de BABOR?
+IMG: ritmes-llum-b.jpg | Diagrama amb diferents ritmes de llum
+- Qualsevol ritme excepte 2+1 destellos
+- Només llum fixa
+- Només destellos ràpids
+- No poden tenir llum
+A: Qualsevol ritme excepte 2+1 destellos
+
+Q: En la Regió B, una marca lateral amb ritme 2+1 (dos destellos seguits d'un) indica què?
+IMG: ritme-2-1-b.jpg | Marca amb llum parpellejant 2+1
+- Bifurcació de canal (el color principal indica el canal preferent)
+- Marca cardinal
+- Perill aïllat
+- Aigües segures
+A: Bifurcació de canal (el color principal indica el canal preferent)
+
+Q: Si navegues sortint d'un port en Regió B, com s'inverteix el sistema?
+IMG: sortida-port-b.jpg | Vaixell sortint amb marques en direcció contrària
+- Les marques VERDES ara queden a ESTRIBOR
+- Les marques VERDES ara queden a BABOR
+- El sistema no canvia
+- Has de buscar noves marques
+A: Les marques VERDES ara queden a ESTRIBOR
+
+Q: Per què és crucial saber si estàs navegant en Regió A o Regió B?
+IMG: error-regio.jpg | Vaixell encallat per confusió de regió
+- Perquè els colors de babord i estribor estan INVERTITS i podries encallar
+- Perquè les formes són completament diferents
+- Perquè les llums tenen colors diferents
+- No és important, el sistema és universal
+A: Perquè els colors de babord i estribor estan INVERTITS i podries encallar

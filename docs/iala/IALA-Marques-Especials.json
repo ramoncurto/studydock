@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "title": "Sistema IALA - Marques Especials",
+    "subject": "Navegació i Balisament",
+    "topic": "Sistema IALA",
+    "keywords": [
+      "IALA",
+      "marques especials"
+    ],
+    "difficulty": "bàsic",
+    "estimatedTime": "10 min"
+  },
+  "sections": [
+    {
+      "id": "especials",
+      "title": "Marques Especials",
+      "level": 1,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Indiquen àrea o característica especial (zones militars, recreo, cables, etc.). Consultar carta nàutica."
+        },
+        {
+          "type": "highlight",
+          "importance": "high",
+          "items": [
+            "Color: GROC",
+            "Topmark: X groga",
+            "Llum: GROC, qualsevol ritme que no conflicti",
+            "Ús: zones exercicis militars, recreo, cables/conductes, zones mesurament"
+          ]
+        }
+      ]
+    }
+  ]
+}

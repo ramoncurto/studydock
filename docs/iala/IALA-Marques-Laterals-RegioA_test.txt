@@ -1,0 +1,159 @@
+Q: Quina marca lateral s'utilitza per indicar el costat de BABOR d'un canal en la Regió A de la IALA?
+IMG: lateral-babor-region-a.jpg | Boia cilíndrica vermella amb marca de tope cilíndrica
+- Marca cilíndrica o espeque de color VERD
+- Marca cilíndrica o espeque de color VERMELL
+- Marca cònica de color VERD
+- Marca cònica de color VERMELL
+A: Marca cilíndrica o espeque de color VERMELL
+
+Q: Quin color de llum mostra una marca lateral de BABOR en la Regió A?
+IMG: llum-vermella-babor.jpg | Llum vermella intermitent de nit
+- Llum VERDA
+- Llum VERMELLA
+- Llum BLANCA
+- Llum GROGA
+A: Llum VERMELLA
+
+Q: Quina és la forma correcta d'una marca lateral d'ESTRIBOR en la Regió A?
+IMG: lateral-estribor-conica.jpg | Boia verda de forma cònica amb con verd apuntant amunt
+- Forma CÒNICA, castillete o espeque
+- Forma CILÍNDRICA, castillete o espeque
+- Forma ESFÈRICA
+- Forma de CREU
+A: Forma CÒNICA, castillete o espeque
+
+Q: Quin color té una marca lateral d'ESTRIBOR en la Regió A de la IALA?
+IMG: boia-verda-estribor.jpg | Boia de color verd indicant estribor
+- Color VERD
+- Color VERMELL
+- Color GROC
+- Color BLANC I VERMELL
+A: Color VERD
+
+Q: Quina marca de tope porta una boia lateral de BABOR en la Regió A?
+IMG: topmark-cilindre-vermell.jpg | Cilindre vermell únic a dalt de la boia
+- Un cilindre VERMELL únic
+- Un con VERD únic apuntant cap amunt
+- Dues esferes negres
+- Una creu groga
+A: Un cilindre VERMELL únic
+
+Q: Quina marca de tope porta una boia lateral d'ESTRIBOR en la Regió A?
+IMG: topmark-con-verd.jpg | Con verd apuntant cap amunt
+- Un con VERD únic apuntant cap amunt
+- Un cilindre VERMELL únic
+- Dues esferes negres
+- Una creu groga
+A: Un con VERD únic apuntant cap amunt
+
+Q: En la Regió A, si navegues entrant a port, per quin costat has de passar una marca VERMELLA?
+IMG: passar-marca-vermella.jpg | Vaixell passant una boia vermella per babor
+- Deixar la marca a BABOR (esquerra)
+- Deixar la marca a ESTRIBOR (dreta)
+- Passar per qualsevol costat
+- No pots passar per aquesta zona
+A: Deixar la marca a BABOR (esquerra)
+
+Q: Quina marca indica el canal PRINCIPAL a ESTRIBOR en una bifurcació de canal a la Regió A?
+IMG: canal-principal-estribor.jpg | Boia vermella amb banda horitzontal verda ampla
+- Marca VERMELLA amb una banda horitzontal ampla VERDA
+- Marca VERDA amb una banda horitzontal ampla VERMELLA
+- Marca completament VERMELLA
+- Marca completament VERDA
+A: Marca VERMELLA amb una banda horitzontal ampla VERDA
+
+Q: Quin ritme de llum té una marca de canal principal en la Regió A?
+IMG: ritme-llum-2-1.jpg | Llum amb ritme grup de 2+1 destellos
+- Grup de (2 + 1) destellos
+- Destellos ràpids continus
+- Un destello cada 3 segons
+- Llum fixa
+A: Grup de (2 + 1) destellos
+
+Q: En navegació nocturna per la Regió A, veus una llum VERDA. Què indica?
+IMG: llum-verda-nit.jpg | Llum verda de nit en una marca lateral
+- Marca lateral d'ESTRIBOR - mantenir-la a la dreta
+- Marca lateral de BABOR - mantenir-la a l'esquerra
+- Marca cardinal Nord
+- Marca d'aigües navegables
+A: Marca lateral d'ESTRIBOR - mantenir-la a la dreta
+
+Q: Quina combinació de color i forma identifica el costat de BABOR d'un canal a la Regió A?
+IMG: babor-vermell-cilindric.jpg | Boia cilíndrica vermella
+- VERMELL + forma CILÍNDRICA
+- VERD + forma CILÍNDRICA
+- VERMELL + forma CÒNICA
+- VERD + forma CÒNICA
+A: VERMELL + forma CILÍNDRICA
+
+Q: Si navegues entrant a port i veus boies VERDES a la teva dreta a la Regió A, què significa?
+IMG: navegacio-correcta-port.jpg | Vaixell navegant amb boies verdes a estribor
+- Estàs navegant correctament pel canal
+- Has d'anar més a la dreta
+- Has d'anar més a l'esquerra
+- Estàs fora del canal
+A: Estàs navegant correctament pel canal
+
+Q: Quina marca indica que el canal principal continua a BABOR en una bifurcació (Regió A)?
+IMG: canal-principal-babor.jpg | Boia verda amb banda horitzontal vermella ampla
+- Marca VERDA amb banda horitzontal ampla VERMELLA
+- Marca VERMELLA amb banda horitzontal ampla VERDA
+- Marca totalment VERDA
+- Marca totalment VERMELLA
+A: Marca VERDA amb banda horitzontal ampla VERMELLA
+
+Q: En la Regió A, com es numeren les marques laterals seguint el sentit convencional del balisament?
+IMG: numeracio-boies.jpg | Boies numerades amb números parells i imparells
+- Números PARELLS en VERMELL, números IMPARELLS en VERD
+- Números PARELLS en VERD, números IMPARELLS en VERMELL
+- Totes amb números parells
+- No es numeren
+A: Números PARELLS en VERMELL, números IMPARELLS en VERD
+
+Q: Identifica aquesta marca: forma cònica de color verd amb con verd apuntant cap amunt
+IMG: marca-conica-verda-completa.jpg | Boia cònica verda amb topmark cònic verd
+- Marca lateral d'ESTRIBOR - deixar a la dreta en sentit convencional
+- Marca lateral de BABOR - deixar a l'esquerra en sentit convencional
+- Marca cardinal Est
+- Marca especial
+A: Marca lateral d'ESTRIBOR - deixar a la dreta en sentit convencional
+
+Q: Segons el sistema IALA Regió A, quina diferència hi ha entre una boia de BABOR i una d'ESTRIBOR de dia?
+IMG: comparacio-babor-estribor.jpg | Comparació visual entre boia vermella cilíndrica i verda cònica
+- Babor: VERMELLA i CILÍNDRICA / Estribor: VERDA i CÒNICA
+- Babor: VERDA i CILÍNDRICA / Estribor: VERMELLA i CÒNICA
+- Babor: VERMELLA i CÒNICA / Estribor: VERDA i CILÍNDRICA
+- No hi ha diferència visual
+A: Babor: VERMELLA i CILÍNDRICA / Estribor: VERDA i CÒNICA
+
+Q: Què indica una marca lateral amb franges horitzontals ROGES i VERDES a la Regió A?
+IMG: marca-canal-preferent.jpg | Boia amb bandes horitzontals vermelles i verdes
+- Marca de CANAL PRINCIPAL o PREFERENT
+- Marca cardinal
+- Marca d'aigües segures
+- Marca de perill aïllat
+A: Marca de CANAL PRINCIPAL o PREFERENT
+
+Q: En quin sentit s'aplica el "sentit convencional del balisament" a la Regió A?
+IMG: sentit-convencional.jpg | Diagrama mostrant la direcció d'entrada a port des del mar
+- Entrant a port, badia, riu o estuari des del mar
+- Sortint de port cap al mar
+- En qualsevol direcció
+- Només de nit
+A: Entrant a port, badia, riu o estuari des del mar
+
+Q: Quines característiques de llum pot tenir una marca lateral de BABOR a la Regió A?
+IMG: ritmes-llum-vermella.jpg | Diferents ritmes de llum vermella
+- Qualsevol ritme EXCEPTE grup de (2+1)
+- Només llum fixa
+- Només destellos ràpids
+- No pot tenir llum
+A: Qualsevol ritme EXCEPTE grup de (2+1)
+
+Q: Si veus aquesta configuració: boia vermella cilíndrica amb cilindre vermell a dalt i llum vermella, què és?
+IMG: identificacio-completa-babor.jpg | Boia de babor amb totes les característiques visibles
+- Marca lateral de BABOR en Regió A
+- Marca lateral d'ESTRIBOR en Regió A
+- Marca cardinal Sud
+- Marca especial
+A: Marca lateral de BABOR en Regió A

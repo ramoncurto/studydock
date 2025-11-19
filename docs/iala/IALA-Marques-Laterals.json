@@ -1,0 +1,260 @@
+{
+  "metadata": {
+    "title": "Sistema IALA - Marques Laterals",
+    "subject": "Navegació i Balisament",
+    "topic": "Sistema IALA de Balisament Marítim",
+    "keywords": ["IALA", "marques laterals", "babord", "estribord", "Regió A", "Regió B", "balisament"],
+    "difficulty": "mitjà",
+    "estimatedTime": "20 min"
+  },
+  "sections": [
+    {
+      "id": "marques-laterals-intro",
+      "title": "Marques Laterals - Introducció",
+      "level": 1,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Les marques laterals indiquen les vores dels canals navegables. La direcció del balisament generalment es considera entrant a port des del mar o riu amunt."
+        },
+        {
+          "type": "highlight",
+          "importance": "high",
+          "items": [
+            "Hi ha DOS sistemes IALA: Regió A (Europa, Àfrica, Oceania, Àsia) i Regió B (Amèrica, Japó, Corea, Filipines)",
+            "La diferència principal: els colors de babord i estribord estan INVERTITS entre regions",
+            "REGIÓ A: Vermell a babord, Verd a estribord | REGIÓ B: Verd a babord, Vermell a estribord"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "regio-a",
+      "title": "Regió A - Europa, Àfrica, Oceania, major part d'Àsia",
+      "level": 1,
+      "content": [
+        {
+          "type": "subsection",
+          "title": "Marques a BABORD (esquerra del vaixell entrant)",
+          "items": [
+            {
+              "type": "definition",
+              "term": "Color",
+              "details": [
+                "VERMELL"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Forma",
+              "details": [
+                "Cilíndrica (tipus 'llauna' o 'tambor')",
+                "Fàcil recordar: 'lata verMELLa' té dos L's (Lateral Left)"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Llum (si en porta)",
+              "details": [
+                "Color: VERMELL",
+                "Ritme: Qualsevol ritme EXCEPTE 2+1 centelleigs"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "Marques a ESTRIBORD (dreta del vaixell entrant)",
+          "items": [
+            {
+              "type": "definition",
+              "term": "Color",
+              "details": [
+                "VERD"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Forma",
+              "details": [
+                "Cònica (amb el con apuntant cap amunt)",
+                "Recordatori: Verd = Right (dreta) en Regió A"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Llum (si en porta)",
+              "details": [
+                "Color: VERD",
+                "Ritme: Qualsevol ritme EXCEPTE 2+1 centelleigs"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "formula",
+          "label": "Mnemotècnica Regió A",
+          "text": "VeRmell = BaboRd (comparteixen la R) | Verd = Estribord"
+        }
+      ]
+    },
+    {
+      "id": "regio-b",
+      "title": "Regió B - Amèrica del Nord, Central i del Sud, Japó, Corea, Filipines",
+      "level": 1,
+      "content": [
+        {
+          "type": "subsection",
+          "title": "Marques a BABORD (esquerra del vaixell entrant)",
+          "items": [
+            {
+              "type": "definition",
+              "term": "Color",
+              "details": [
+                "VERD (invers a Regió A)"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Forma",
+              "details": [
+                "Cilíndrica (tipus 'llauna')"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Llum (si en porta)",
+              "details": [
+                "Color: VERD",
+                "Ritme: Qualsevol ritme EXCEPTE 2+1"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "Marques a ESTRIBORD (dreta del vaixell entrant)",
+          "items": [
+            {
+              "type": "definition",
+              "term": "Color",
+              "details": [
+                "VERMELL (invers a Regió A)"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Forma",
+              "details": [
+                "Cònica (con apuntant amunt)"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Llum (si en porta)",
+              "details": [
+                "Color: VERMELL",
+                "Ritme: Qualsevol ritme EXCEPTE 2+1"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "formula",
+          "label": "Mnemotècnica Regió B",
+          "text": "Red Right Returning (Vermell a la Dreta Retornant a port)"
+        }
+      ]
+    },
+    {
+      "id": "bifurcacions",
+      "title": "Marques de Bifurcació de Canal",
+      "level": 1,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Quan un canal es bifurca, s'utilitza una marca MODIFICADA per indicar el canal preferent. Porta una BANDA HORITZONTAL del color oposat."
+        },
+        {
+          "type": "highlight",
+          "importance": "high",
+          "items": [
+            "Ritme lluminós especial: Grup de 2+1 centelleigs (Fl(2+1))",
+            "Aquest ritme 2+1 NOMÉS s'utilitza per marques de bifurcació"
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "Regió A - Bifurcacions",
+          "items": [
+            {
+              "type": "definition",
+              "term": "Canal preferent a ESTRIBORD (seguir per la dreta)",
+              "details": [
+                "Marca de babord (VERMELLA) amb banda horitzontal VERDA",
+                "Forma: Cilíndrica",
+                "Llum: VERMELL, ritme 2+1",
+                "Deixar per BABORD (esquerra)"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Canal preferent a BABORD (seguir per l'esquerra)",
+              "details": [
+                "Marca d'estribord (VERDA) amb banda horitzontal VERMELLA",
+                "Forma: Cònica",
+                "Llum: VERD, ritme 2+1",
+                "Deixar per ESTRIBORD (dreta)"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "Regió B - Bifurcacions",
+          "items": [
+            {
+              "type": "definition",
+              "term": "Canal preferent a ESTRIBORD",
+              "details": [
+                "Marca de babord (VERDA) amb banda horitzontal VERMELLA",
+                "Forma: Cilíndrica",
+                "Llum: VERD, ritme 2+1"
+              ]
+            },
+            {
+              "type": "definition",
+              "term": "Canal preferent a BABORD",
+              "details": [
+                "Marca d'estribord (VERMELLA) amb banda horitzontal VERDA",
+                "Forma: Cònica",
+                "Llum: VERMELL, ritme 2+1"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "label": "Exemple pràctic - Regió A",
+          "text": "Entres a un port (Regió A, Europa). Veus una boies verda cònica a la teva dreta i una boies vermella cilíndrica a la teva esquerra. Correcte: segueixes pel mig del canal. De cop veus una boies vermella cilíndrica amb una banda verda horitzontal. ATENCIÓ: bifurcació! El canal preferent continua a ESTRIBORD. Deixa aquesta marca per babord i gira lleugerament a la dreta."
+        }
+      ]
+    },
+    {
+      "id": "resum-taula",
+      "title": "Taula Resum Comparativa",
+      "level": 1,
+      "content": [
+        {
+          "type": "highlight",
+          "importance": "high",
+          "items": [
+            "REGIÓ A (Europa): Babord=Vermell/Cilíndrica | Estribord=Verd/Cònica",
+            "REGIÓ B (Amèrica): Babord=Verd/Cilíndrica | Estribord=Vermell/Cònica",
+            "BIFURCACIÓ: Ritme 2+1 centelleigs + banda horitzontal color oposat"
+          ]
+        }
+      ]
+    }
+  ]
+}

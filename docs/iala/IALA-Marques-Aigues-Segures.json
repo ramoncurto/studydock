@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "title": "Sistema IALA - Marques d Aigües Segures",
+    "subject": "Navegació i Balisament",
+    "topic": "Sistema IALA",
+    "keywords": [
+      "IALA",
+      "aigües segures"
+    ],
+    "difficulty": "bàsic",
+    "estimatedTime": "10 min"
+  },
+  "sections": [
+    {
+      "id": "aigues-segures",
+      "title": "Marques d Aigües Segures",
+      "level": 1,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Indica aigües navegables al seu voltant. Marca inici de canal, ruta segura o centre de canal."
+        },
+        {
+          "type": "highlight",
+          "importance": "high",
+          "items": [
+            "Forma: Esfèrica, pilar o espeque",
+            "Color: Franges VERTICALS vermelles i blanques",
+            "Topmark: 1 esfera VERMELLA",
+            "Llum: BLANC, Isofase, Ocultacions o LFl 10s (Morse A)",
+            "Aigües navegables al voltant de la marca"
+          ]
+        }
+      ]
+    }
+  ]
+}

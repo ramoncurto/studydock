@@ -1,0 +1,239 @@
+Q: Què indica una marca de perill aïllat?
+IMG: perill-aillat-funcio.jpg | Marca sobre naufragi amb aigües segures al voltant
+- Un perill aïllat amb aigües navegables al seu voltant
+- Límits d'un canal
+- Aigües segures per tot arreu
+- Zona militar
+A: Un perill aïllat amb aigües navegables al seu voltant
+
+Q: Quin tipus de perills senyalitza una marca de perill aïllat?
+IMG: tipus-perills.jpg | Roca, naufragi, obstrucció
+- Roques, naufragis, obstruccions aïllades
+- Canals navegables
+- Zones de pesca
+- Límits de port
+A: Roques, naufragis, obstruccions aïllades
+
+Q: Quin és el color principal d'una marca de perill aïllat?
+IMG: color-base-negre.jpg | Base de color negre
+- Vermell
+- Verd
+- NEGRE
+- Groc
+A: NEGRE
+
+Q: Quines bandes té una marca de perill aïllat?
+IMG: bandes-vermelles.jpg | Bandes horitzontals vermelles sobre negre
+- Bandes horitzontals VERMELLES
+- Bandes horitzontals grogues
+- Bandes verticals vermelles
+- Bandes verticals blanques
+A: Bandes horitzontals VERMELLES
+
+Q: Quants colors té una marca de perill aïllat?
+IMG: dos-colors.jpg | Negre i vermell
+- Un color (negre)
+- Dos colors (NEGRE i VERMELL)
+- Tres colors (negre, vermell i blanc)
+- Quatre colors
+A: Dos colors (NEGRE i VERMELL)
+
+Q: Quin patró de colors mostra una marca de perill aïllat?
+IMG: patro-negre-vermell.jpg | Negre amb franges vermelles horitzontals
+- NEGRE amb bandes horitzontals VERMELLES
+- Vermell amb bandes negres
+- Franges verticals negre i vermell
+- Tot negre
+A: NEGRE amb bandes horitzontals VERMELLES
+
+Q: Quina és la forma de la topmark d'una marca de perill aïllat?
+IMG: topmark-esferes.jpg | Dues esferes negres una sobre l'altra
+- Un con
+- Una esfera
+- Dues ESFERES negres superposades
+- Una creu
+A: Dues ESFERES negres superposades
+
+Q: De quin color és la topmark d'una marca de perill aïllat?
+IMG: esferes-negres.jpg | Esferes de color negre
+- Vermella
+- Groga
+- Blanca
+- NEGRA
+A: NEGRA
+
+Q: Quantes esferes té la topmark d'una perill aïllat?
+IMG: dues-esferes.jpg | Dues esferes superposades
+- Una esfera
+- Dues esferes
+- Tres esferes
+- Cap esfera
+A: Dues esferes
+
+Q: Com estan col·locades les esferes de la topmark?
+IMG: esferes-superposades.jpg | Una esfera damunt de l'altra verticalment
+- Una al costat de l'altra
+- Una damunt de l'altra (SUPERPOSADES verticalment)
+- Formant un triangle
+- Formant un diamant
+A: Una damunt de l'altra (SUPERPOSADES verticalment)
+
+Q: De quin color és la llum d'una marca de perill aïllat?
+IMG: llum-blanca.jpg | Llum de color blanc
+- Vermella
+- Verda
+- BLANCA
+- Groga
+A: BLANCA
+
+Q: Quin ritme de llum té una marca de perill aïllat?
+IMG: ritme-grup-2.jpg | Grup de 2 destellos Fl(2)
+- Llum contínua
+- 3 destellos
+- Grup de 2 destellos Fl(2)
+- 9 destellos
+A: Grup de 2 destellos Fl(2)
+
+Q: Quants destellos fa la llum d'una marca de perill aïllat?
+IMG: dos-destellos.jpg | Dos destellos en grup
+- Un destello
+- Dos destellos en grup
+- Tres destellos
+- Sis destellos
+A: Dos destellos en grup
+
+Q: Per on pots navegar respecte una marca de perill aïllat?
+IMG: passar-voltant.jpg | Vaixell navegant pels costats de la marca
+- Per qualsevol costat mantenint distància SEGURA
+- Només pel nord
+- Només pel sud
+- No pots passar prop
+A: Per qualsevol costat mantenint distància SEGURA
+
+Q: Què significa "aigües navegables al voltant"?
+IMG: aigues-navegables-voltant.jpg | Aigües segures rodeant el perill
+- Pots passar pels costats però NO sobre la marca
+- Pots passar per sobre
+- No pots passar prop
+- Només un costat és segur
+A: Pots passar pels costats però NO sobre la marca
+
+Q: Quina distància de seguretat has de mantenir?
+IMG: distancia-seguretat.jpg | Vaixell mantenint distància prudent
+- Cal consultar la carta nàutica per saber l'abast del perill
+- 10 metres sempre
+- 100 metres sempre
+- No cal mantenir distància
+A: Cal consultar la carta nàutica per saber l'abast del perill
+
+Q: On se situa normalment una marca de perill aïllat?
+IMG: posicio-marca.jpg | Marca sobre o molt prop del perill
+- Lluny del perill
+- Sobre o molt a prop del perill
+- Al nord del perill
+- A la costa
+A: Sobre o molt a prop del perill
+
+Q: Identifica: Negre amb bandes vermelles, 2 esferes negres, llum blanca Fl(2)
+IMG: identificar-perill-aillat.jpg | Marca completa de perill aïllat
+- Marca lateral
+- Marca cardinal
+- Marca de PERILL AÏLLAT
+- Marca especial
+A: Marca de PERILL AÏLLAT
+
+Q: Si veus dues esferes negres com a topmark, què indica?
+IMG: veure-esferes.jpg | Topmark característica del perill aïllat
+- Marca lateral
+- Marca cardinal
+- Marca de PERILL AÏLLAT
+- Marca d'aigües segures
+A: Marca de PERILL AÏLLAT
+
+Q: De nit, veus llum blanca amb 2 destellos en grup. Què pot ser?
+IMG: llum-nit-2-destellos.jpg | Llum blanca Fl(2)
+- Marca lateral
+- Marca cardinal
+- Marca de PERILL AÏLLAT
+- Marca especial
+A: Marca de PERILL AÏLLAT
+
+Q: Les marques de perill aïllat són iguals a Regió A i Regió B?
+IMG: universals-perills.jpg | Iguals en totes les regions
+- No, són diferents
+- Sí, són IGUALS en ambdues regions
+- Només canvia el color
+- Només canvia la llum
+A: Sí, són IGUALS en ambdues regions
+
+Q: Per què s'usa el color negre en perill aïllat?
+IMG: color-perill.jpg | Negre simbolitzant perill/advertència
+- Negre indica PERILL o ADVERTÈNCIA
+- És més visible
+- És més econòmic
+- No hi ha raó específica
+A: Negre indica PERILL o ADVERTÈNCIA
+
+Q: Per què s'usen dues esferes com a topmark?
+IMG: esferes-recordatori.jpg | Fàcil de recordar i identificar
+- Fàcil d'identificar i no confondre amb altres marques
+- És més econòmic
+- És més resistent
+- No hi ha raó específica
+A: Fàcil d'identificar i no confondre amb altres marques
+
+Q: Quina diferència hi ha entre perill aïllat i marca cardinal?
+IMG: diferencia-cardinal.jpg | Cardinal indica costat, perill voltant
+- Cardinal indica costat segur, perill aïllat té aigües segures al VOLTANT
+- No hi ha diferència
+- Només el color
+- Només la forma
+A: Cardinal indica costat segur, perill aïllat té aigües segures al VOLTANT
+
+Q: Si el perill és molt extens, quina marca s'usa?
+IMG: perill-extens.jpg | Marques cardinals per perill gran
+- Marca de perill aïllat
+- Marques CARDINALS
+- Marca especial
+- Marca lateral
+A: Marques CARDINALS
+
+Q: Pots amarrar el teu vaixell a una marca de perill aïllat?
+IMG: no-amarrar.jpg | Prohibit amarrar a marques de navegació
+- Sí, sempre
+- NO, són ajudes a la navegació, no amarradors
+- Només de dia
+- Només si és una emergència
+A: NO, són ajudes a la navegació, no amarradors
+
+Q: Què has de fer si veus una marca de perill aïllat?
+IMG: accio-prudent.jpg | Consultar carta i mantenir distància
+- Passar molt a prop per veure-la bé
+- Mantenir distància segura i consultar CARTA NÀUTICA
+- Amarrar-hi
+- Ignorar-la
+A: Mantenir distància segura i consultar CARTA NÀUTICA
+
+Q: En una carta nàutica, què trobaràs prop d'una marca de perill aïllat?
+IMG: carta-nautica.jpg | Informació sobre profunditat i tipus de perill
+- Informació sobre el perill (roca, naufragi, profunditat)
+- Res
+- Només la posició de la marca
+- Informació meteorològica
+A: Informació sobre el perill (roca, naufragi, profunditat)
+
+Q: Recordatori visual: Què semblen les dues esferes negres superposades?
+IMG: recordatori-esferes.jpg | Dues bombes o bales de canó
+- Dues "bombes" o obstacles perillosos
+- Un vaixell
+- Un far
+- Una boia normal
+A: Dues "bombes" o obstacles perillosos
+
+Q: Si navegues i veus negre amb vermell, dues esferes i llum Fl(2), quina acció prens?
+IMG: accio-final.jpg | Identificar, consultar carta, mantenir distància
+- Identificar com PERILL AÏLLAT, consultar carta, mantenir distància segura
+- Apropar-me per investigar
+- Amarrar per descansar
+- Continuar sense canviar rumb
+A: Identificar com PERILL AÏLLAT, consultar carta, mantenir distància segura

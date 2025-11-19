@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "title": "Sistema IALA - Marques Cardinals",
+    "subject": "Navegació i Balisament",
+    "topic": "Sistema IALA",
+    "keywords": [
+      "IALA",
+      "cardinals"
+    ],
+    "difficulty": "mitjà",
+    "estimatedTime": "25 min"
+  },
+  "sections": [
+    {
+      "id": "cardinals",
+      "title": "Marques Cardinals",
+      "level": 1,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Les marques cardinals indiquen la posició dun perill i la direcció del costat segur per on passar."
+        },
+        {
+          "type": "highlight",
+          "importance": "high",
+          "items": [
+            "NORD: Negre dalt, Cons cap amunt, Llum continu",
+            "SUD: Groc dalt, Cons cap avall, 6 centelleigs + llarg",
+            "EST: Negre-Groc-Negre, Cons oposats, 3 centelleigs",
+            "OEST: Groc-Negre-Groc, Cons punta a punta, 9 centelleigs"
+          ]
+        }
+      ]
+    }
+  ]
+}

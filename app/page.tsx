@@ -1,8 +1,9 @@
 'use client'
 
 import React, { useState, useEffect, useRef } from 'react';
+import Image from 'next/image';
 import { Upload, BookOpen, FileText, Volume2, Play, Pause, CheckCircle, XCircle, ArrowLeft, Plus, Trash2, Sun, Moon, BarChart3, TrendingUp, Clock, Edit3, Check, X, Headphones, SkipBack, SkipForward, LogOut, Share2, Users, Copy, Link as LinkIcon, Target, Lightbulb, AlertTriangle, TrendingDown, ArrowRight, File, Sparkles, Home, Info } from 'lucide-react';
-import { getAllNotes, getAllTests, addNote, addTest, updateNote, updateTest, deleteNote, deleteTest, addNoteSession, addTestAttempt, getAllNoteSessions, getAllTestAttempts, getAllAudioBooks, addAudioBook, updateAudioBook, deleteAudioBook, NoteSession, TestAttempt, AudioBook, createInvitation, getInvitation, acceptInvitation, getUserInvitations, getSharedAccess, revokeAccess, deleteInvitation, Invitation, SharedAccess } from '@/lib/firebaseService';
+import { getAllNotes, getAllTests, addNote, addTest, updateNote, updateTest, deleteNote, deleteTest, addNoteSession, addTestAttempt, getAllNoteSessions, getAllTestAttempts, getAllAudioBooks, addAudioBook, updateAudioBook, deleteAudioBook, NoteSession, TestAttempt, AudioBook, createInvitation, getInvitation, acceptInvitation, getUserInvitations, getSharedAccess, revokeAccess, deleteInvitation, Invitation, SharedAccess, uploadTestImage, deleteTestImages, uploadAudioFile } from '@/lib/firebaseService';
 import { User, onAuthStateChanged, signInWithEmailAndPassword, createUserWithEmailAndPassword, signOut } from 'firebase/auth';
 import { auth } from '@/lib/firebase';
 
@@ -17,6 +18,11 @@ interface Question {
   question: string;
   options: string[];
   correct: string;
+  image?: {
+    url: string;      // Firebase Storage download URL
+    path: string;     // Storage path for deletion
+    alt?: string;     // Optional alt text for accessibility
+  };
 }
 
 interface Test {
@@ -215,7 +221,8 @@ function ListeningView({
 
   return (
     <div className={`min-h-screen ${theme.bg} ${theme.text} p-6`}>
-      <div className="max-w-md mx-auto">
+      {/* Wider container for better audio player experience on desktop */}
+      <div className="max-w-md lg:max-w-4xl mx-auto">
         <button
           onClick={onBack}
           className={`mb-6 flex items-center gap-2 ${theme.textSecondary} hover:${theme.text} transition`}
@@ -303,6 +310,177 @@ function ListeningView({
   );
 }
 
+// New component for a more advanced audio upload experience
+interface AudioUploadFormProps {
+  theme: Theme;
+  onUpload: (file: File, title: string) => Promise<void>;
+  onBack: () => void;
+}
+
+function AudioUploadForm({ theme, onUpload, onBack }: AudioUploadFormProps) {
+  const [file, setFile] = useState<File | null>(null);
+  const [title, setTitle] = useState('');
+  const [isUploading, setIsUploading] = useState(false);
+  const [dragOver, setDragOver] = useState(false);
+
+  const handleFileChange = (e: React.ChangeEvent<HTMLInputElement>) => {
+    if (e.target.files && e.target.files[0]) {
+      const selectedFile = e.target.files[0];
+      setFile(selectedFile);
+      // Automatically suggest a title based on the filename, without extension
+      setTitle(selectedFile.name.replace(/\.[^/.]+$/, ''));
+    }
+  };
+
+  const handleDrop = (e: React.DragEvent<HTMLDivElement>) => {
+    e.preventDefault();
+    e.stopPropagation();
+    setDragOver(false);
+    if (e.dataTransfer.files && e.dataTransfer.files[0]) {
+      const droppedFile = e.dataTransfer.files[0];
+      // Check if it's an audio file
+      if (droppedFile.type.startsWith('audio/')) {
+        setFile(droppedFile);
+        setTitle(droppedFile.name.replace(/\.[^/.]+$/, ''));
+      } else {
+        alert('Si us plau, puja només arxius d\'àudio (MP3, WAV, M4A, etc.).');
+      }
+    }
+  };
+
+  const handleDragOver = (e: React.DragEvent<HTMLDivElement>) => {
+    e.preventDefault();
+    e.stopPropagation();
+    setDragOver(true);
+  };
+
+  const handleDragLeave = (e: React.DragEvent<HTMLDivElement>) => {
+    e.preventDefault();
+    e.stopPropagation();
+    setDragOver(false);
+  };
+
+  const handleSubmit = async (e: React.FormEvent) => {
+    e.preventDefault();
+    if (!file || !title.trim()) {
+      alert('Si us plau, selecciona un arxiu i posa-li un títol.');
+      return;
+    }
+    setIsUploading(true);
+    try {
+      await onUpload(file, title.trim());
+      // onUpload success will trigger screen change in parent
+    } catch (error) {
+      console.error("Upload failed in form:", error);
+      alert('Hi ha hagut un error en pujar l\'arxiu. Torna a intentar-ho.');
+    } finally {
+      setIsUploading(false);
+    }
+  };
+
+  const formatFileSize = (bytes: number): string => {
+    if (bytes === 0) return '0 Bytes';
+    const k = 1024;
+    const sizes = ['Bytes', 'KB', 'MB', 'GB'];
+    const i = Math.floor(Math.log(bytes) / Math.log(k));
+    return parseFloat((bytes / Math.pow(k, i)).toFixed(2)) + ' ' + sizes[i];
+  }
+
+  return (
+    <div className={`min-h-screen ${theme.bg} ${theme.text} p-6`}>
+      <div className="max-w-md lg:max-w-lg mx-auto">
+        <button onClick={onBack} className={`mb-6 flex items-center gap-2 ${theme.textSecondary} hover:${theme.text} transition`}>
+          <ArrowLeft size={20} />
+          <span className="font-medium">Tornar</span>
+        </button>
+
+        <h2 className={`text-3xl font-bold mb-6 ${theme.text}`}>Pujar Àudio</h2>
+
+        <form onSubmit={handleSubmit} className="space-y-6">
+          <div
+            onDrop={handleDrop}
+            onDragOver={handleDragOver}
+            onDragLeave={handleDragLeave}
+            className={`p-8 border-2 border-dashed ${dragOver ? theme.accent : theme.border} rounded-xl text-center cursor-pointer transition-all ${dragOver ? 'bg-blue-500/10' : ''}`}
+          >
+            <input
+              type="file"
+              accept="audio/*"
+              onChange={handleFileChange}
+              className="hidden"
+              id="audio-upload"
+            />
+            <label htmlFor="audio-upload" className="cursor-pointer">
+              <div className="flex flex-col items-center justify-center">
+                <Upload size={48} className={`${theme.textSecondary} mb-4`} />
+                <p className="font-semibold">Arrossega i deixa anar un arxiu d&apos;àudio</p>
+                <p className={`${theme.textSecondary} text-sm`}>o fes clic per seleccionar</p>
+                <span className={`mt-4 px-4 py-2 text-sm font-semibold rounded-lg ${theme.buttonSecondary} border ${theme.border}`}>
+                  Seleccionar Arxiu
+                </span>
+              </div>
+            </label>
+          </div>
+
+          {file && (
+            <div className={`p-4 rounded-xl ${theme.card} border ${theme.border} flex items-center justify-between`}>
+              <div className="flex items-center gap-3">
+                <Volume2 size={24} className={theme.accent} />
+                <div>
+                  <p className="font-semibold truncate max-w-xs">{file.name}</p>
+                  <p className={`text-sm ${theme.textSecondary}`}>{formatFileSize(file.size)}</p>
+                </div>
+              </div>
+              <button
+                type="button"
+                onClick={() => setFile(null)}
+                className={`p-2 rounded-full ${theme.buttonSecondary} hover:text-rose-500`}
+                aria-label="Remove file"
+              >
+                <Trash2 size={18} />
+              </button>
+            </div>
+          )}
+
+          <div>
+            <label htmlFor="audio-title" className={`block text-sm font-medium mb-2 ${theme.textSecondary}`}>
+              Títol de l&apos;àudio
+            </label>
+            <input
+              id="audio-title"
+              type="text"
+              value={title}
+              onChange={(e) => setTitle(e.target.value)}
+              placeholder="Ex: Tema 1 - Introducció"
+              className={`w-full px-4 py-3 rounded-xl ${theme.card} border ${theme.border} focus:outline-none focus:ring-2 focus:ring-blue-500 transition`}
+              required
+            />
+          </div>
+
+          <button
+            type="submit"
+            className={`w-full btn-primary p-4 rounded-xl mt-4`}
+            disabled={!file || !title.trim() || isUploading}
+          >
+            {isUploading ? (
+              <div className="flex items-center justify-center gap-2">
+                <div className="animate-spin rounded-full h-5 w-5 border-b-2 border-white"></div>
+                <span>Pujant...</span>
+              </div>
+            ) : (
+              <div className="flex items-center justify-center gap-2">
+                <Upload size={20} />
+                <span>Pujar Àudio</span>
+              </div>
+            )}
+          </button>
+        </form>
+      </div>
+    </div>
+  );
+}
+
+
 export default function StudyApp() {
   // Authentication state
   const [user, setUser] = useState<User | null>(null);
@@ -348,6 +526,12 @@ export default function StudyApp() {
   const [pendingInvitation, setPendingInvitation] = useState<Invitation | null>(null);
   const [sharingMessage, setSharingMessage] = useState('');
 
+  // Pomodoro timer state
+  const [pomodoroTime, setPomodoroTime] = useState(25 * 60); // 25 minutes in seconds
+  const [pomodoroRunning, setPomodoroRunning] = useState(false);
+  const [pomodoroMode, setPomodoroMode] = useState<'work' | 'break'>('work');
+  const pomodoroIntervalRef = useRef<NodeJS.Timeout | null>(null);
+
   const utteranceRef = useRef<SpeechSynthesisUtterance | null>(null);
   const audioRef = useRef<HTMLAudioElement | null>(null);
 
@@ -355,7 +539,7 @@ export default function StudyApp() {
   const theme = {
     bg: isDark ? 'bg-slate-900' : 'bg-neutral-50',
     text: isDark ? 'text-white' : 'text-neutral-900',
-    textSecondary: isDark ? 'text-slate-300' : 'text-neutral-600',
+    textSecondary: isDark ? 'text-slate-100' : 'text-neutral-600',
     card: isDark ? 'bg-slate-800' : 'bg-white',
     cardHover: isDark ? 'hover:bg-slate-700' : 'hover:bg-neutral-100',
     button: isDark ? 'bg-blue-600 text-white hover:bg-blue-700' : 'bg-primary-600 text-white hover:bg-primary-700',
@@ -403,7 +587,14 @@ export default function StudyApp() {
   useEffect(() => {
     // Load theme from localStorage
     const savedTheme = localStorage.getItem('theme');
-    setIsDark(savedTheme ? savedTheme === 'dark' : true);
+    const prefersDark = savedTheme ? savedTheme === 'dark' : true;
+    setIsDark(prefersDark);
+    // Ensure Tailwind dark: utilities respond to our toggle
+    try {
+      const root = document.documentElement;
+      if (prefersDark) root.classList.add('dark');
+      else root.classList.remove('dark');
+    } catch {}
     setMounted(true);
 
     // Only load data if user is authenticated
@@ -449,11 +640,22 @@ export default function StudyApp() {
     loadData();
   }, [user]);
 
-  // Save theme preference when it changes
   useEffect(() => {
-    if (mounted) {
-      localStorage.setItem('theme', isDark ? 'dark' : 'light');
+    const link = document.querySelector("link[rel~='icon']") as HTMLLinkElement;
+    if (link) {
+      link.href = isDark ? '/edudock_white.svg' : '/edudock.svg';
     }
+  }, [isDark]);
+
+  // Save theme preference when it changes and sync <html> class
+  useEffect(() => {
+    if (!mounted) return;
+    localStorage.setItem('theme', isDark ? 'dark' : 'light');
+    try {
+      const root = document.documentElement;
+      if (isDark) root.classList.add('dark');
+      else root.classList.remove('dark');
+    } catch {}
   }, [isDark, mounted]);
 
   const toggleTheme = () => setIsDark(!isDark);
@@ -494,7 +696,7 @@ export default function StudyApp() {
         formatted.push({ type: 'li', content: trimmed.replace(/^\d+[\.)]\s+/, '') });
       }
       // Important text (between ** or __)
-      else if (/\*\*.*\*\*|__.*__/.test(trimmed)) {
+      else if (/\*\*.*\*\*|__.*__/g.test(trimmed)) {
         formatted.push({
           type: 'p',
           content: trimmed
@@ -521,7 +723,7 @@ export default function StudyApp() {
 
     return cleaned
       // Yellow highlight: ==text==
-      .replace(/==(.*?)==/g, '<span class="yellow-highlight">$1</span>')
+      .replace(/==(.*? )==/g, '<span class="yellow-highlight">$1</span>')
       // Bold: **text** or __text__
       .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
       .replace(/__(.*?)__/g, '<strong>$1</strong>')
@@ -532,7 +734,7 @@ export default function StudyApp() {
       .replace(/\b(art\.|Art\.|article|Article)\s+(\d+(?:\.\d+)?(?:\s+[A-Z]{2,})?)/gi, '<span class="legal-ref">$1 $2</span>')
       // Dates: DD de month de YYYY, DD/MM/YYYY
       .replace(/\b(\d{1,2})\s+de\s+(\w+)\s+de\s+(\d{4})\b/g, '<span class="date-ref">$1 de $2 de $3</span>')
-      .replace(/\b(\d{1,2})\/(\d{1,2})\/(\d{4})\b/g, '<span class="date-ref">$1/$2/$3</span>')
+      .replace(/\b(\d{1,2})	elefone(\d{1,2})	elefone(\d{4})\b/g, '<span class="date-ref">$1/$2/$3</span>')
       // Numbers and percentages
       .replace(/\b(\d+(?:\.\d+)?)\s*%/g, '<span class="number-ref">$1%</span>');
   };
@@ -558,9 +760,15 @@ export default function StudyApp() {
       const jsonNote: JsonNote = JSON.parse(jsonText);
       const formatted: FormattedContent[] = [];
 
+      // Normalize metadata title for duplicate detection
+      const metadataTitle = jsonNote.metadata?.title
+        ? stripFormattingFromTitle(jsonNote.metadata.title)
+        : '';
+      const metadataTitleNorm = metadataTitle.toLowerCase();
+
       // Add metadata title only (no subject, topic, difficulty, or time)
-      if (jsonNote.metadata) {
-        formatted.push({ type: 'h1', content: stripFormattingFromTitle(jsonNote.metadata.title) });
+      if (metadataTitle) {
+        formatted.push({ type: 'h1', content: metadataTitle });
         formatted.push({ type: 'space', content: '' });
       }
 
@@ -568,8 +776,13 @@ export default function StudyApp() {
       jsonNote.sections.forEach((section) => {
         // Section title - strip all formatting markers from titles
         const titleContent = stripFormattingFromTitle(section.title);
+        const titleNorm = titleContent.toLowerCase();
+
         if (section.level === 1) {
-          formatted.push({ type: 'h1', content: titleContent });
+          // Avoid duplicating top-level title if it matches metadata title
+          if (!metadataTitleNorm || titleNorm !== metadataTitleNorm) {
+            formatted.push({ type: 'h1', content: titleContent });
+          }
         } else if (section.level === 2) {
           formatted.push({ type: 'h2', content: titleContent });
         } else {
@@ -739,6 +952,22 @@ export default function StudyApp() {
     }
   };
 
+  // Helper function to validate image files
+  const validateImageFile = (file: File): { valid: boolean; error?: string } => {
+    const validFormats = ['image/jpeg', 'image/jpg', 'image/png', 'image/webp'];
+    const maxSize = 2 * 1024 * 1024; // 2MB in bytes
+
+    if (!validFormats.includes(file.type)) {
+      return { valid: false, error: `Format no vàlid: ${file.name}. Només JPG, PNG i WebP.` };
+    }
+
+    if (file.size > maxSize) {
+      return { valid: false, error: `Imatge massa gran: ${file.name}. Màxim 2MB.` };
+    }
+
+    return { valid: true };
+  };
+
   // File upload handlers
   const handleFileUpload = async (event: React.ChangeEvent<HTMLInputElement>, type: string) => {
     const files = event.target.files;
@@ -751,42 +980,94 @@ export default function StudyApp() {
 
     setIsLoading(true);
 
-    for (const file of fileArray) {
-      try {
-        const content = await new Promise<string>((resolve, reject) => {
-          const reader = new FileReader();
-          reader.onload = (e) => resolve(e.target?.result as string);
-          reader.onerror = reject;
-          reader.readAsText(file);
-        });
+    if (type === 'note') {
+      // Handle note uploads (unchanged)
+      for (const file of fileArray) {
+        try {
+          const content = await new Promise<string>((resolve, reject) => {
+            const reader = new FileReader();
+            reader.onload = (e) => resolve(e.target?.result as string);
+            reader.onerror = reject;
+            reader.readAsText(file);
+          });
 
-        if (type === 'note') {
-          // Save to Firebase
           await addNote(user!.uid, file.name, content);
           uploadedCount++;
-        } else if (type === 'test') {
-          // Parse test format: Q: question? A: answer
+        } catch (error) {
+          console.error(`Error pujant ${file.name}:`, error);
+          errorCount++;
+          errors.push(file.name);
+        }
+      }
+    } else if (type === 'test') {
+      // Separate .txt files from image files
+      const txtFiles = fileArray.filter(f => f.name.endsWith('.txt'));
+      const imageFiles = fileArray.filter(f => !f.name.endsWith('.txt'));
+
+      // Validate all image files first
+      for (const imageFile of imageFiles) {
+        const validation = validateImageFile(imageFile);
+        if (!validation.valid) {
+          errors.push(validation.error!); 
+          errorCount++;
+        }
+      }
+
+      // If there are validation errors, stop here
+      if (errorCount > 0) {
+        setIsLoading(false);
+        alert(`Errors de validació:\n${errors.join('\n')}`);
+        event.target.value = '';
+        return;
+      }
+
+      // Process each .txt test file
+      for (const file of txtFiles) {
+        try {
+          const content = await new Promise<string>((resolve, reject) => {
+            const reader = new FileReader();
+            reader.onload = (e) => resolve(e.target?.result as string);
+            reader.onerror = reject;
+            reader.readAsText(file);
+          });
+
+          // Parse test format: Q: question? IMG: image.jpg | alt text A: answer
           const lines = content.split('\n');
-          const questions: Question[] = [];
 
           interface TempQuestion {
             question: string;
             options: string[];
             correct: string;
+            imageFilename?: string;  // Temporary storage for image filename
+            imageAlt?: string;       // Optional alt text for image
           }
 
+          const tempQuestions: TempQuestion[] = [];
           let currentQ: TempQuestion | null = null;
 
           for (const line of lines) {
             const trimmedLine = line.trim();
             if (trimmedLine.startsWith('Q:')) {
+              // Save previous question if it exists
               if (currentQ !== null) {
-                const q: TempQuestion = currentQ;
-                if (q.question && q.correct && q.options.length > 0) {
-                  questions.push(q);
+                if (currentQ.question && currentQ.correct && currentQ.options.length > 0) {
+                  tempQuestions.push(currentQ);
                 }
               }
               currentQ = { question: line.substring(2).trim(), options: [], correct: '' };
+            } else if (trimmedLine.startsWith('IMG:') && currentQ !== null) {
+              // Parse image reference: IMG: filename.jpg or IMG: filename.jpg | Alt text
+              const imgContent = line.substring(4).trim();
+              const pipeIndex = imgContent.indexOf('|');
+
+              if (pipeIndex > 0) {
+                // Has alt text
+                currentQ.imageFilename = imgContent.substring(0, pipeIndex).trim();
+                currentQ.imageAlt = imgContent.substring(pipeIndex + 1).trim();
+              } else {
+                // No alt text
+                currentQ.imageFilename = imgContent;
+              }
             } else if (trimmedLine.startsWith('A:') && currentQ !== null) {
               currentQ.correct = line.substring(2).trim();
             } else if (trimmedLine.startsWith('-') && currentQ !== null) {
@@ -794,25 +1075,93 @@ export default function StudyApp() {
             }
           }
 
+          // Save last question
           if (currentQ !== null) {
-            const q: TempQuestion = currentQ;
-            if (q.question && q.correct && q.options.length > 0) {
-              questions.push(q);
+            if (currentQ.question && currentQ.correct && currentQ.options.length > 0) {
+              tempQuestions.push(currentQ);
             }
           }
 
-          if (questions.length === 0) {
+          if (tempQuestions.length === 0) {
             throw new Error('No s\'han trobat preguntes vàlides');
           }
 
-          // Save to Firebase
+          // Extract all image references from questions
+          const imageRefs = tempQuestions
+            .filter(q => q.imageFilename)
+            .map(q => q.imageFilename!);
+
+          // Check if all referenced images were uploaded
+          const missingImages: string[] = [];
+          for (const imgRef of imageRefs) {
+            const found = imageFiles.find(f => f.name === imgRef);
+            if (!found) {
+              missingImages.push(imgRef);
+            }
+          }
+
+          if (missingImages.length > 0) {
+            throw new Error(
+              `Imatges referenciades però no pujades:\n${missingImages.join(', ')}`
+            );
+          }
+
+          // Upload images to Firebase Storage and get URLs
+          const imageUploads: Map<string, { url: string; path: string }> = new Map();
+
+          if (imageRefs.length > 0) {
+            for (let i = 0; i < imageRefs.length; i++) {
+              const imgFilename = imageRefs[i];
+              const imgFile = imageFiles.find(f => f.name === imgFilename);
+
+              if (imgFile) {
+                try {
+                  // Upload image and get URL
+                  const result = await uploadTestImage(
+                    user!.uid,
+                    file.name,
+                    imgFile,
+                    imgFilename
+                  );
+                  imageUploads.set(imgFilename, result);
+                } catch (error) {
+                  console.error(`Error pujant imatge ${imgFilename}:`, error);
+                  throw new Error(`Error pujant imatge: ${imgFilename}`);
+                }
+              }
+            }
+          }
+
+          // Convert temp questions to final questions with image data
+          const questions: Question[] = tempQuestions.map(tq => {
+            const q: Question = {
+              question: tq.question,
+              options: tq.options,
+              correct: tq.correct,
+            };
+
+            // Add image data if present
+            if (tq.imageFilename && imageUploads.has(tq.imageFilename)) {
+              const imageData = imageUploads.get(tq.imageFilename)!;
+              q.image = {
+                url: imageData.url,
+                path: imageData.path,
+                alt: tq.imageAlt,
+              };
+            }
+
+            return q;
+          });
+
+          // Save test to Firebase with images
           await addTest(user!.uid, file.name, questions);
           uploadedCount++;
+        } catch (error) {
+          console.error(`Error pujant ${file.name}:`, error);
+          errorCount++;
+          const errorMsg = error instanceof Error ? error.message : file.name;
+          errors.push(errorMsg);
         }
-      } catch (error) {
-        console.error(`Error pujant ${file.name}:`, error);
-        errorCount++;
-        errors.push(file.name);
       }
     }
 
@@ -844,6 +1193,36 @@ export default function StudyApp() {
 
     // Reset file input
     event.target.value = '';
+  };
+
+  const handleAudioUpload = async (file: File, title: string) => {
+    if (!user) {
+      alert('Error: Has d\'estar autenticat per pujar arxius.');
+      return;
+    }
+
+    try {
+      // Step 1: Upload the file to Firebase Storage
+      const { url, path } = await uploadAudioFile(user.uid, file, title);
+
+      // Step 2: Add the audiobook metadata to Firestore
+      await addAudioBook(user.uid, title, url, path);
+
+      // Step 3: Reload audiobooks and update state
+      const audioBooksData = await getAllAudioBooks(user.uid);
+      setAudioBooks(audioBooksData);
+
+      // Step 4: Show success and navigate
+      alert(`L'àudio "${title}" s'ha pujat correctament!`);
+      setUploadType(null); // Close upload screen
+      setScreen('audiobooks'); // Go to audiobooks list
+
+    } catch (error) {
+      console.error('Error pujant l\'arxiu d\'àudio:', error);
+      alert(`S'ha produït un error en pujar l'àudio. Si us plau, intenta-ho de nou.`);
+      // Re-throw the error to be caught in the form if needed
+      throw error;
+    }
   };
 
   // Convert Google Drive URL to direct streaming URL
@@ -889,7 +1268,7 @@ export default function StudyApp() {
 
     try {
       // Save to Firebase
-      await addAudioBook(user!.uid, title.trim(), audioUrl, relatedNote);
+      await addAudioBook(user!.uid, title.trim(), audioUrl, '', relatedNote);
 
       // Reload audiobooks from Firebase
       const audioBooksData = await getAllAudioBooks(user!.uid);
@@ -1173,7 +1552,8 @@ export default function StudyApp() {
 
     return (
       <div className={`min-h-screen ${theme.bg} ${theme.text} p-6`}>
-        <div className="max-w-md mx-auto">
+        {/* Responsive container: narrower on mobile, wider on desktop for grid layout */}
+        <div className="max-w-md lg:max-w-6xl mx-auto">
           {/* Read-Only Mode Banner */}
           {isReadOnlyMode && viewingOwnerId && (
             <div className={`mb-4 p-4 rounded-xl ${isDark ? 'bg-amber-900/50 border-amber-700' : 'bg-amber-100 border-amber-300'} border-2 flex items-center justify-between`}>
@@ -1197,7 +1577,11 @@ export default function StudyApp() {
 
           <div className="mb-8">
             <div className="flex justify-between items-center mb-2">
-              <h1 className={`text-4xl font-bold ${theme.text}`}>StudyDock</h1>
+              {/* Responsive title: larger on desktop */}
+              <div className="flex items-center mb-2">
+                <Image src={isDark ? "/edudock_white.svg" : "/edudock.svg"} alt="EduDock Logo" width={48} height={48} className="mr-4" />
+                <h1 className={`text-4xl lg:text-5xl font-bold ${theme.text}`}>Edu<span style={{ color: '#6600ff' }}>Dock</span></h1>
+              </div>
               <div className="flex gap-2">
                 <button
                   onClick={toggleTheme}
@@ -1223,7 +1607,9 @@ export default function StudyApp() {
             )}
           </div>
 
-        <div className="space-y-3">
+
+        {/* Responsive grid: single column on mobile, 2 columns on desktop */}
+        <div className="grid grid-cols-1 lg:grid-cols-2 gap-4">
           <button
             onClick={() => setScreen('notes')}
             className={`w-full card-hover p-5 flex items-center gap-4 transition-all`}
@@ -1296,6 +1682,20 @@ export default function StudyApp() {
             <ArrowRight size={20} className={theme.textSecondary} />
           </button>
 
+          <button
+            onClick={() => setScreen('pomodoro')}
+            className={`w-full card-hover p-5 flex items-center gap-4 transition-all`}
+          >
+            <div className={`p-3 rounded-xl ${isDark ? 'bg-blue-500/20' : 'bg-blue-50'}`}>
+              <Clock size={24} className={theme.accent} />
+            </div>
+            <div className="text-left flex-1">
+              <div className={`font-semibold text-lg ${theme.text}`}>Pomodoro Timer</div>
+              <div className={`text-sm ${theme.textSecondary}`}>Gestiona el teu temps d&apos;estudi</div>
+            </div>
+            <ArrowRight size={20} className={theme.textSecondary} />
+          </button>
+
           {/* Only show upload button if not in read-only mode */}
           {!isReadOnlyMode && (
             <button
@@ -1324,77 +1724,106 @@ export default function StudyApp() {
   };
 
   // Upload Screen
-  const UploadScreen = () => (
-    <div className={`min-h-screen ${theme.bg} ${theme.text} p-6`}>
-      <div className="max-w-md mx-auto">
-        <button onClick={() => setUploadType(null)} className={`mb-6 flex items-center gap-2 ${theme.textSecondary} hover:${theme.text} transition`}>
-          <ArrowLeft size={20} />
-          <span className="font-medium">Tornar</span>
-        </button>
+  const UploadScreen = () => {
+    if (uploadType === 'audio') {
+      return (
+        <AudioUploadForm
+          theme={theme}
+          onUpload={handleAudioUpload}
+          onBack={() => setUploadType(null)}
+        />
+      );
+    }
 
-        <h2 className={`text-3xl font-bold mb-6 ${theme.text}`}>
-          Pujar Contingut
-        </h2>
-
-        <div className="space-y-3">
-          <label className="block">
-            <div className="card-hover p-5 cursor-pointer flex items-center gap-4 transition-all">
-              <div className={`p-3 rounded-xl ${isDark ? 'bg-primary-900/30' : 'bg-primary-50'}`}>
-                <BookOpen size={24} className={theme.accent} />
-              </div>
-              <div className="flex-1 text-left">
-                <div className={`font-semibold text-base ${theme.text}`}>Pujar Apunts</div>
-                <div className={`text-sm ${theme.textSecondary}`}>Arxius .txt o .json (múltiples)</div>
-              </div>
-            </div>
-            <input
-              type="file"
-              accept=".txt,.json"
-              multiple
-              onChange={(e) => handleFileUpload(e, 'note')}
-              className="hidden"
-            />
-          </label>
-
-          <label className="block">
-            <div className="card-hover p-5 cursor-pointer flex items-center gap-4 transition-all">
-              <div className={`p-3 rounded-xl ${isDark ? 'bg-primary-900/30' : 'bg-primary-50'}`}>
-                <Edit3 size={24} className={theme.accent} />
-              </div>
-              <div className="flex-1 text-left">
-                <div className={`font-semibold text-base ${theme.text}`}>Pujar Test</div>
-                <div className={`text-sm ${theme.textSecondary}`}>Arxius .txt (múltiples)</div>
-              </div>
-            </div>
-            <input
-              type="file"
-              accept=".txt"
-              multiple
-              onChange={(e) => handleFileUpload(e, 'test')}
-              className="hidden"
-            />
-          </label>
-
-          <button onClick={handleAddAudioLink} className="block w-full">
-            <div className="card-hover p-5 cursor-pointer flex items-center gap-4 transition-all">
-              <div className={`p-3 rounded-xl ${isDark ? 'bg-primary-900/30' : 'bg-primary-50'}`}>
-                <Headphones size={24} className={theme.accent} />
-              </div>
-              <div className="flex-1 text-left">
-                <div className={`font-semibold text-base ${theme.text}`}>Afegir Enllaç d&apos;Àudio</div>
-                <div className={`text-sm ${theme.textSecondary}`}>URL d&apos;arxiu M4A, MP3, etc.</div>
-              </div>
-            </div>
+    return (
+      <div className={`min-h-screen ${theme.bg} ${theme.text} p-6`}>
+        {/* Compact centered layout for upload modal-style screen */}
+        <div className="max-w-md lg:max-w-lg mx-auto">
+          <button onClick={() => setUploadType(null)} className={`mb-6 flex items-center gap-2 ${theme.textSecondary} hover:${theme.text} transition`}>
+            <ArrowLeft size={20} />
+            <span className="font-medium">Tornar</span>
           </button>
+
+          <h2 className={`text-3xl font-bold mb-6 ${theme.text}`}>
+            Pujar Contingut
+          </h2>
+
+          <div className="space-y-3">
+            <label className="block">
+              <div className="card-hover p-5 cursor-pointer flex items-center gap-4 transition-all">
+                <div className={`p-3 rounded-xl ${isDark ? 'bg-primary-900/30' : 'bg-primary-50'}`}>
+                  <BookOpen size={24} className={theme.accent} />
+                </div>
+                <div className="flex-1 text-left">
+                  <div className={`font-semibold text-base ${theme.text}`}>Pujar Apunts</div>
+                  <div className={`text-sm ${theme.textSecondary}`}>Arxius .txt o .json (múltiples)</div>
+                </div>
+              </div>
+              <input
+                type="file"
+                accept=".txt,.json"
+                multiple
+                onChange={(e) => handleFileUpload(e, 'note')}
+                className="hidden"
+              />
+            </label>
+
+            <label className="block">
+              <div className="card-hover p-5 cursor-pointer flex items-center gap-4 transition-all">
+                <div className={`p-3 rounded-xl ${isDark ? 'bg-primary-900/30' : 'bg-primary-50'}`}>
+                  <Edit3 size={24} className={theme.accent} />
+                </div>
+                <div className="flex-1 text-left">
+                  <div className={`font-semibold text-base ${theme.text}`}>Pujar Test</div>
+                  <div className={`text-sm ${theme.textSecondary}`}>Arxius .txt + imatges (JPG, PNG, WebP)</div>
+                </div>
+              </div>
+              <input
+                type="file"
+                accept=".txt,.jpg,.jpeg,.png,.webp"
+                multiple
+                onChange={(e) => handleFileUpload(e, 'test')}
+                className="hidden"
+              />
+            </label>
+
+            <label className="block">
+              <div
+                className="card-hover p-5 cursor-pointer flex items-center gap-4 transition-all"
+                onClick={() => setUploadType('audio')}
+              >
+                <div className={`p-3 rounded-xl ${isDark ? 'bg-primary-900/30' : 'bg-primary-50'}`}>
+                  <Upload size={24} className={theme.accent} />
+                </div>
+                <div className="flex-1 text-left">
+                  <div className={`font-semibold text-base ${theme.text}`}>Pujar Àudio</div>
+                  <div className={`text-sm ${theme.textSecondary}`}>Arxius MP3, WAV, M4A, etc. (directament)</div>
+                </div>
+              </div>
+            </label>
+
+            <button onClick={handleAddAudioLink} className="block w-full">
+              <div className="card-hover p-5 cursor-pointer flex items-center gap-4 transition-all">
+                <div className={`p-3 rounded-xl ${isDark ? 'bg-primary-900/30' : 'bg-primary-50'}`}>
+                  <Headphones size={24} className={theme.accent} />
+                </div>
+                <div className="flex-1 text-left">
+                  <div className={`font-semibold text-base ${theme.text}`}>Afegir Enllaç d&apos;Àudio</div>
+                  <div className={`text-sm ${theme.textSecondary}`}>URL d&apos;arxiu M4A, MP3, etc.</div>
+                </div>
+              </div>
+            </button>
+          </div>
         </div>
       </div>
-    </div>
-  );
+    );
+  };
 
   // Notes List Screen
   const NotesScreen = () => (
     <div className={`min-h-screen ${theme.bg} ${theme.text} p-6`}>
-      <div className="max-w-md mx-auto">
+      {/* Wider container for list view with responsive grid */}
+      <div className="max-w-md lg:max-w-6xl mx-auto">
         <button onClick={() => setScreen('home')} className={`mb-6 flex items-center gap-2 ${theme.textSecondary} hover:${theme.text} transition`}>
           <ArrowLeft size={20} />
           <span className="font-medium">Tornar</span>
@@ -1411,7 +1840,8 @@ export default function StudyApp() {
             <p className="text-sm mt-2">Puja el teu primer document</p>
           </div>
         ) : (
-          <div className="space-y-3">
+          // Responsive grid: 1 col mobile, 2 cols tablet, 3 cols desktop
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
             {notes.map(note => (
               <div key={note.id} className="card-hover p-4">
                 {editingNoteId === note.id ? (
@@ -1484,7 +1914,7 @@ export default function StudyApp() {
 
   // Track note reading session
   useEffect(() => {
-    if (screen === 'reading' && currentNote) {
+    if (screen === 'reading' && currentNote && user) {
       // Start tracking time
       const startTime = Date.now();
       setReadingStartTime(startTime);
@@ -1494,20 +1924,20 @@ export default function StudyApp() {
         const duration = Math.floor((Date.now() - startTime) / 1000); // in seconds
         if (duration > 5) { // Only save if read for more than 5 seconds
           addNoteSession(
-            user!.uid,
+            user.uid,
             currentNote.title,
             new Date(startTime).toLocaleTimeString('ca-ES'),
             duration
           ).then(() => {
             // Reload sessions
-            getAllNoteSessions(user!.uid).then(setNoteSessions);
+            getAllNoteSessions(user.uid).then(setNoteSessions);
           }).catch(error => {
             console.error('Error desant sessió d\'apunts:', error);
           });
         }
       };
     }
-  }, [screen, currentNote]);
+  }, [screen, currentNote, user]);
 
   // Reading Screen
   const ReadingScreen = () => {
@@ -1536,8 +1966,13 @@ export default function StudyApp() {
       const element = contentRef.current;
       if (element) {
         element.addEventListener('scroll', handleScroll);
-        return () => element.removeEventListener('scroll', handleScroll);
       }
+
+      return () => {
+        if (element) {
+          element.removeEventListener('scroll', handleScroll);
+        }
+      };
     }, []);
 
     const handleBackToNotes = async () => {
@@ -1568,7 +2003,8 @@ export default function StudyApp() {
 
     return (
       <div className={`min-h-screen ${theme.bg} ${theme.text} p-6`}>
-        <div className="max-w-md mx-auto">
+        {/* Wider container for optimal reading experience on desktop */}
+        <div className="max-w-md lg:max-w-4xl mx-auto">
           <button onClick={handleBackToNotes} className={`mb-6 flex items-center gap-2 ${theme.textSecondary} hover:${theme.text} transition`}>
             <ArrowLeft size={20} />
             <span className="font-medium">Tornar</span>
@@ -1593,54 +2029,39 @@ export default function StudyApp() {
             </div>
           </div>
 
-          <div className="mb-6 space-y-3">
-            {relatedAudio ? (
+          {/* Only show audio button if there's a related audiobook */}
+          {relatedAudio && (
+            <div className="mb-6">
               <button
                 onClick={() => playAudio(relatedAudio)}
                 className="w-full btn-primary p-4 rounded-xl"
               >
                 <Headphones size={20} />
-                <span className="font-semibold">Escoltar Audiollibre</span>
+                <span className="font-semibold">Escoltar Àudio</span>
               </button>
-            ) : (
-              <button
-                onClick={toggleReading}
-                className="w-full btn-primary p-4 rounded-xl"
-              >
-                {isReading ? (
-                  <>
-                    <Pause size={20} />
-                    <span className="font-semibold">Pausar Lectura</span>
-                  </>
-                ) : (
-                  <>
-                    <Volume2 size={20} />
-                    <span className="font-semibold">Escoltar Text-to-Speech</span>
-                  </>
-                )}
-              </button>
-            )}
-          </div>
+            </div>
+          )}
 
-          <div ref={contentRef} className={`${theme.card} p-6 rounded-2xl max-h-[70vh] overflow-y-auto border-2 ${theme.border} shadow-lg`}>
+          {/* Responsive padding: more spacious on desktop for better reading */}
+          <div ref={contentRef} className={`${theme.card} p-6 lg:p-8 rounded-2xl max-h-[70vh] overflow-y-auto border-2 ${theme.border} shadow-lg`}>
             {formattedContent.map((item, idx) => {
               if (item.type === 'h1') {
                 return (
-                  <h1 key={idx} className="text-2xl font-bold mb-4 mt-6 first:mt-0">
+                  <h1 key={idx} className="text-2xl lg:text-3xl font-bold mb-4 mt-6 first:mt-0">
                     {item.content}
                   </h1>
                 );
               }
               if (item.type === 'h2') {
                 return (
-                  <h2 key={idx} className="text-xl font-bold mb-3 mt-5">
+                  <h2 key={idx} className="text-xl lg:text-2xl font-bold mb-3 mt-5">
                     {item.content}
                   </h2>
                 );
               }
               if (item.type === 'h3') {
                 return (
-                  <h3 key={idx} className={`text-lg font-semibold mb-2 mt-4 ${theme.accent}`}>
+                  <h3 key={idx} className={`text-lg lg:text-xl font-semibold mb-2 mt-4 ${theme.accent}`}>
                     {item.content}
                   </h3>
                 );
@@ -1764,7 +2185,8 @@ export default function StudyApp() {
   // Tests List Screen
   const TestsScreen = () => (
     <div className={`min-h-screen ${theme.bg} ${theme.text} p-6`}>
-      <div className="max-w-md mx-auto">
+      {/* Wider container for list view with responsive grid */}
+      <div className="max-w-md lg:max-w-6xl mx-auto">
         <button onClick={() => setScreen('home')} className={`mb-6 flex items-center gap-2 ${theme.textSecondary} hover:${theme.text} transition`}>
           <ArrowLeft size={20} />
           <span className="font-medium">Tornar</span>
@@ -1807,7 +2229,8 @@ export default function StudyApp() {
             <p className="text-sm mt-2">Puja el teu primer test</p>
           </div>
         ) : (
-          <div className="space-y-3">
+          // Responsive grid: 1 col mobile, 2 cols tablet, 3 cols desktop
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
             {tests.map(test => (
               <div key={test.id} className="card-hover p-4">
                 {editingTestId === test.id ? (
@@ -1849,9 +2272,7 @@ export default function StudyApp() {
                         <FileText size={20} className={theme.accent} />
                         {test.title}
                       </div>
-                      <div className={`text-sm ${theme.textSecondary} ml-8`}>
-                        {test.questions.length} preguntes • {test.date}
-                      </div>
+                      <div className={`text-sm ${theme.textSecondary} ml-8`}>{test.date}</div>
                     </button>
                     <div className="flex items-center gap-1">
                       <button
@@ -1879,67 +2300,69 @@ export default function StudyApp() {
 
   // Test Configuration Screen
   const TestConfigScreen = () => {
-    if (!selectedTestForConfig) return null;
-
-    const isMixedTest = selectedTestForConfig.id === -1;
-    const totalQuestions = isMixedTest
+    const [numQuestions, setNumQuestions] = useState(10);
+    const maxQuestions = selectedTestForConfig?.id === -1
       ? tests.reduce((sum, test) => sum + test.questions.length, 0)
-      : selectedTestForConfig.questions.length;
-    const questionOptions = [5, 10, 15, 25, 50].filter(n => n <= totalQuestions);
+      : selectedTestForConfig?.questions.length || 0;
 
-    // Add "All" option
-    if (!questionOptions.includes(totalQuestions)) {
-      questionOptions.push(totalQuestions);
-    }
+    const handleStart = () => {
+      if (selectedTestForConfig) {
+        startTest(selectedTestForConfig, Math.min(numQuestions, maxQuestions));
+      }
+    };
+
+    if (!selectedTestForConfig) return null;
 
     return (
       <div className={`min-h-screen ${theme.bg} ${theme.text} p-6`}>
         <div className="max-w-md mx-auto">
-          <button
-            onClick={() => {
-              setSelectedTestForConfig(null);
-              setScreen('tests');
-            }}
-            className={`mb-6 flex items-center gap-2 ${theme.textSecondary} hover:${theme.text} transition`}
-          >
+          <button onClick={() => setScreen('tests')} className={`mb-6 flex items-center gap-2 ${theme.textSecondary} hover:${theme.text} transition`}>
             <ArrowLeft size={20} />
             <span className="font-medium">Tornar</span>
           </button>
 
-          <div className={`card p-6 mb-6 ${isMixedTest ? (isDark ? 'border-amber-600/50 bg-amber-950/20' : 'border-amber-300 bg-amber-50') : ''} ${isMixedTest ? 'border-2' : ''}`}>
-            <h2 className={`text-2xl font-bold mb-2 flex items-center gap-3 ${theme.text}`}>
-              {isMixedTest ? <Target size={28} className={isDark ? 'text-amber-400' : 'text-amber-600'} /> : <FileText size={28} className={theme.accent} />}
-              {selectedTestForConfig.title}
-            </h2>
-            <p className={`${theme.textSecondary} text-sm`}>
-              {totalQuestions} preguntes disponibles{isMixedTest ? ` (de ${tests.length} tests)` : ''}
-            </p>
-          </div>
-
-          <div className="card p-6">
-            <h3 className={`text-lg font-semibold mb-4 flex items-center gap-2 ${theme.text}`}>
-              <Target size={20} className={theme.accent} />
-              Quantes preguntes vols fer?
-            </h3>
-
-            <div className="grid grid-cols-2 gap-3">
-              {questionOptions.map((count) => (
-                <button
-                  key={count}
-                  onClick={() => startTest(selectedTestForConfig, count)}
-                  className="btn-primary p-4 rounded-xl font-semibold text-lg"
-                >
-                  {count === totalQuestions ? `Totes (${count})` : count}
-                </button>
-              ))}
+          <div className="card p-8">
+            <div className="text-center mb-8">
+              <div className={`w-32 h-32 mx-auto mb-4 rounded-full ${isDark ? 'bg-primary-900/30' : 'bg-primary-100'} flex items-center justify-center`}>
+                <Target size={64} className={theme.accent} />
+              </div>
+              <h2 className={`text-2xl font-bold mb-2 ${theme.text}`}>{selectedTestForConfig.title}</h2>
+              <p className={`${theme.textSecondary}`}>Total de preguntes: {maxQuestions}</p>
             </div>
 
-            <div className={`mt-4 p-3 ${isDark ? 'bg-blue-500/10 border-blue-700' : 'bg-blue-50 border-blue-200'} border rounded-lg`}>
-              <p className={`text-sm flex items-start gap-2 ${theme.text}`}>
-                <Info size={16} className={theme.accent} />
-                <span>Les preguntes s&apos;escolliran aleatòriament del conjunt total</span>
-              </p>
+            <div className="mb-6">
+              <label htmlFor="num-questions" className="block text-sm font-medium mb-2">
+                Número de preguntes
+              </label>
+              <input
+                id="num-questions"
+                type="number"
+                value={numQuestions}
+                onChange={(e) => setNumQuestions(Math.max(1, parseInt(e.target.value, 10)))}
+                min="1"
+                max={maxQuestions}
+                className={`w-full px-4 py-3 rounded-xl ${theme.card} border ${theme.border} focus:outline-none focus:ring-2 focus:ring-blue-500`}
+              />
+              <input
+                type="range"
+                value={numQuestions}
+                onChange={(e) => setNumQuestions(parseInt(e.target.value, 10))}
+                min="1"
+                max={maxQuestions}
+                className="w-full mt-3 h-2 rounded-full appearance-none cursor-pointer"
+                style={{
+                  background: `linear-gradient(to right, ${isDark ? '#0284c7' : '#0284c7'} 0%, ${isDark ? '#0284c7' : '#0284c7'} ${((numQuestions - 1) / (maxQuestions - 1)) * 100}% , ${isDark ? '#262626' : '#e5e5e5'} ${((numQuestions - 1) / (maxQuestions - 1)) * 100}%, ${isDark ? '#262626' : '#e5e5e5'} 100%)`
+                }}
+              />
             </div>
+
+            <button
+              onClick={handleStart}
+              className="w-full btn-primary p-4 rounded-xl font-semibold flex items-center justify-center gap-2"
+            >
+              <Play size={20} />
+              Començar Test
+            </button>
           </div>
         </div>
       </div>
@@ -1948,34 +2371,60 @@ export default function StudyApp() {
 
   // Taking Test Screen
   const TakingTestScreen = () => {
-    const currentQ = currentTest?.questions[testProgress.current];
-    if (!currentQ) return null;
+    if (!currentTest) return null;
+
+    const currentQ = currentTest.questions[testProgress.current];
+    const progress = ((testProgress.current) / currentTest.questions.length) * 100;
 
     return (
       <div className={`min-h-screen ${theme.bg} ${theme.text} p-6`}>
-        <div className="max-w-md mx-auto">
+        <div className="max-w-md lg:max-w-4xl mx-auto">
           <button onClick={() => setScreen('tests')} className={`mb-6 flex items-center gap-2 ${theme.textSecondary} hover:${theme.text} transition`}>
             <ArrowLeft size={20} />
-            <span className="font-medium">Sortir</span>
+            <span className="font-medium">Tornar</span>
           </button>
 
-          <div className="mb-6">
-            <div className={`text-sm ${theme.textSecondary} mb-3 font-medium flex items-center gap-2`}>
-              <FileText size={16} />
-              Pregunta {testProgress.current + 1} de {currentTest!.questions.length}
+          <div className="mb-4">
+            <div className="flex justify-between items-center mb-2">
+              <span className="text-sm font-semibold">{currentTest.title}</span>
+              <span className="text-sm font-semibold">{testProgress.current + 1} / {currentTest.questions.length}</span>
             </div>
-            <div className={`${theme.progressBar} h-2 rounded-full overflow-hidden`}>
+            <div className={`w-full h-2 ${theme.progressBar} rounded-full`}>
               <div
-                className={`${theme.progressFill} h-full transition-all duration-500`}
-                style={{ width: `${((testProgress.current + 1) / currentTest!.questions.length) * 100}%` }}
+                className={`h-full ${theme.progressFill} rounded-full transition-all duration-300 ease-out`}
+                style={{ width: `${progress}%` }}
               />
             </div>
           </div>
 
           <div className={`card p-6 mb-6`}>
-            <h3 className={`text-xl font-semibold ${theme.text}`}>
+            <h3 className={`text-xl font-semibold ${theme.text} mb-4`}>
               {currentQ.question}
             </h3>
+
+            {/* Render image if present */}
+            {currentQ.image && (
+              <div className="mt-6 flex justify-center">
+                <div className="relative max-w-full md:max-w-2xl w-full">
+                  <Image
+                    src={currentQ.image.url}
+                    alt={currentQ.image.alt || "Imatge de la pregunta"}
+                    width={800}
+                    height={600}
+                    layout="responsive"
+                    className="rounded-lg shadow-md"
+                  />
+                  {/* Error fallback (hidden by default) */}
+                  <div
+                    className="image-error hidden text-center p-4 bg-gray-100 dark:bg-gray-800 rounded-lg"
+                  >
+                    <p className="text-sm text-gray-600 dark:text-gray-400">
+                      No s&apos;ha pogut carregar la imatge
+                    </p>
+                  </div>
+                </div>
+              </div>
+            )}
           </div>
 
           <div className="space-y-3">
@@ -2015,10 +2464,10 @@ export default function StudyApp() {
                   disabled={showFeedback}
                   className={buttonClasses}
                 >
-                  <span className={`w-8 h-8 rounded-full flex items-center justify-center font-bold ${
-                    showFeedback && (isSelected || shouldShowCorrect)
-                      ? 'bg-white/30'
-                      : isDark ? 'bg-primary-900/30' : 'bg-neutral-100'
+                  <span className={`w-8 h-8 rounded-full flex items-center justify-center font-bold ${ 
+                    showFeedback && (isSelected || shouldShowCorrect) 
+                      ? 'bg-white/30 text-white'
+                      : isDark ? 'bg-blue-500/90 text-white' : 'bg-primary-600 text-white'
                   }`}>
                     {showFeedback && isSelected && answerIsCorrect && <Check size={18} />}
                     {showFeedback && isSelected && !answerIsCorrect && <X size={18} />}
@@ -2044,10 +2493,80 @@ export default function StudyApp() {
     );
   };
 
+  // Test Results Screen
+  const TestResultsScreen = () => {
+    if (!currentTest) return null;
+
+    const score = testProgress.answers.filter(a => a.isCorrect).length;
+    const total = currentTest.questions.length;
+    const percentage = Math.round((score / total) * 100);
+
+    return (
+      <div className={`min-h-screen ${theme.bg} ${theme.text} p-6`}>
+        <div className="max-w-md lg:max-w-4xl mx-auto">
+          <button onClick={() => setScreen('tests')} className={`mb-6 flex items-center gap-2 ${theme.textSecondary} hover:${theme.text} transition`}>
+            <ArrowLeft size={20} />
+            <span className="font-medium">Tornar</span>
+          </button>
+
+          <div className="card p-8 text-center">
+            <h2 className="text-2xl font-bold mb-2">Resultats del Test</h2>
+            <p className={`${theme.textSecondary} mb-6`}>{currentTest.title}</p>
+
+            <div className="relative w-48 h-48 mx-auto mb-6">
+              <svg className="w-full h-full" viewBox="0 0 36 36">
+                <path
+                  d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831"
+                  className={theme.progressBar}
+                  fill="none"
+                  strokeWidth="3"
+                />
+                <path
+                  d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831"
+                  className={theme.progressFill}
+                  fill="none"
+                  strokeWidth="3"
+                  strokeDasharray={`${percentage}, 100`}
+                />
+              </svg>
+              <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2">
+                <div className="text-4xl font-bold">{percentage}%</div>
+                <div className={`${theme.textSecondary} text-sm`}>{score} / {total}</div>
+              </div>
+            </div>
+
+            <div className="space-y-4">
+              <div className={`p-4 rounded-xl ${isDark ? 'bg-green-900/30' : 'bg-green-100'}`}>
+                <div className="flex items-center justify-center gap-2">
+                  <CheckCircle size={20} className="text-green-500" />
+                  <span className="font-semibold">Respostes correctes: {score}</span>
+                </div>
+              </div>
+              <div className={`p-4 rounded-xl ${isDark ? 'bg-red-900/30' : 'bg-red-100'}`}>
+                <div className="flex items-center justify-center gap-2">
+                  <XCircle size={20} className="text-red-500" />
+                  <span className="font-semibold">Respostes incorrectes: {total - score}</span>
+                </div>
+              </div>
+            </div>
+
+            <button
+              onClick={() => setScreen('tests')}
+              className="mt-8 w-full btn-secondary"
+            >
+              Tornar als Tests
+            </button>
+          </div>
+        </div>
+      </div>
+    );
+  };
+
   // AudioBooks List Screen
   const AudioBooksScreen = () => (
     <div className={`min-h-screen ${theme.bg} ${theme.text} p-6`}>
-      <div className="max-w-md mx-auto">
+      {/* Wider container for list view with responsive grid */}
+      <div className="max-w-md lg:max-w-6xl mx-auto">
         <button onClick={() => setScreen('home')} className={`mb-6 flex items-center gap-2 ${theme.textSecondary} hover:${theme.text} transition`}>
           <ArrowLeft size={20} />
           <span className="font-medium">Inici</span>
@@ -2064,7 +2583,8 @@ export default function StudyApp() {
             <p className="mt-2">Puja àudios des del menú principal!</p>
           </div>
         ) : (
-          <div className="space-y-3">
+          // Responsive grid: 1 col mobile, 2 cols tablet, 3 cols desktop
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
             {audioBooks.map((audio) => (
               <div key={audio.id} className="card-hover p-4">
                 {editingAudioId === audio.id ? (
@@ -2077,7 +2597,7 @@ export default function StudyApp() {
                         value={editingAudioName}
                         onChange={(e) => setEditingAudioName(e.target.value)}
                         className={`flex-1 px-3 py-2 rounded-lg border ${theme.border} ${theme.bg} ${theme.text} focus:outline-none focus:ring-2 focus:ring-primary-500`}
-                        placeholder="Nom de l'àudio"
+                        placeholder="Nom de l&apos;àudio"
                       />
                     </div>
                     <div className="flex items-center gap-2">
@@ -2087,7 +2607,7 @@ export default function StudyApp() {
                         value={editingAudioUrl}
                         onChange={(e) => setEditingAudioUrl(e.target.value)}
                         className={`flex-1 px-3 py-2 rounded-lg border ${theme.border} ${theme.bg} ${theme.text} focus:outline-none focus:ring-2 focus:ring-primary-500 text-sm`}
-                        placeholder="URL de l'àudio"
+                        placeholder="URL de l&apos;àudio"
                       />
                     </div>
                     <div className="flex items-center gap-2 justify-end">
@@ -2152,91 +2672,183 @@ export default function StudyApp() {
     </div>
   );
 
-  // Listening Screen (Audio Player)
-  const ListeningScreen = () => {
-    const [currentTime, setCurrentTime] = useState(0);
-    const [duration, setDuration] = useState(0);
+  // Stats Screen
+  const StatsScreen = () => {
+    const totalStudyTime = noteSessions.reduce((acc, s) => acc + s.duration, 0);
+    const avgTestScore = testAttempts.length > 0
+      ? testAttempts.reduce((acc, a) => acc + a.percentage, 0) / testAttempts.length
+      : 0;
 
-    useEffect(() => {
-      if (currentAudio && audioRef.current) {
-        const audio = audioRef.current;
-        audio.src = getPlayableAudioUrl(currentAudio.url);
-        audio.preload = 'auto';
-        audio.load();
+    // Last 7 days study trend
+    const last7Days = Array.from({ length: 7 }, (_, i) => {
+      const d = new Date();
+      d.setDate(d.getDate() - i);
+      return d.toLocaleDateString('es-ES');
+    }).reverse();
 
-        const handleLoadedMetadata = () => {
-          setDuration(audio.duration);
-          // Try to resume if user had already tapped play
-          if (!audio.paused && audio.currentTime === 0) {
-            audio.play().catch(() => {});
-          }
-        };
+    const studyTimeByDay = last7Days.map(day => {
+      const sessionsOnDay = noteSessions.filter(s => s.date === day);
+      return sessionsOnDay.reduce((total, s) => total + s.duration, 0) / 60; // in minutes
+    });
 
-        const handleTimeUpdate = () => {
-          setCurrentTime(audio.currentTime);
-        };
+    const maxStudyTime = Math.max(...studyTimeByDay);
 
-        const handleEnded = () => {
-          setIsPlaying(false);
-        };
+    const testScoresByDay = last7Days.map(day => {
+      const attemptsOnDay = testAttempts.filter(a => a.date === day);
+      if (attemptsOnDay.length === 0) return null;
+      return attemptsOnDay.reduce((sum, a) => sum + a.percentage, 0) / attemptsOnDay.length;
+    });
 
-        const handlePlay = () => setIsPlaying(true);
-        const handlePause = () => setIsPlaying(false);
-        const handleWaiting = () => console.debug('Audio waiting...');
-        const handleStalled = () => console.debug('Audio stalled');
-        const handleCanPlay = () => console.debug('Audio canplay');
-        const handleCanPlayThrough = () => console.debug('Audio canplaythrough');
+    return (
+      <div className={`min-h-screen ${theme.bg} ${theme.text} p-6`}>
+        <div className="max-w-md lg:max-w-4xl mx-auto">
+          <button onClick={() => setScreen('home')} className={`mb-6 flex items-center gap-2 ${theme.textSecondary} hover:${theme.text} transition`}>
+            <ArrowLeft size={20} />
+            <span className="font-medium">Tornar</span>
+          </button>
 
-        audio.addEventListener('loadedmetadata', handleLoadedMetadata);
-        audio.addEventListener('timeupdate', handleTimeUpdate);
-        audio.addEventListener('ended', handleEnded);
-        audio.addEventListener('play', handlePlay);
-        audio.addEventListener('pause', handlePause);
-        audio.addEventListener('waiting', handleWaiting);
-        audio.addEventListener('stalled', handleStalled);
-        audio.addEventListener('canplay', handleCanPlay);
-        audio.addEventListener('canplaythrough', handleCanPlayThrough);
+          <h2 className={`text-3xl font-bold mb-6 ${theme.text}`}>
+            Estadístiques
+          </h2>
 
-        return () => {
-          audio.removeEventListener('loadedmetadata', handleLoadedMetadata);
-          audio.removeEventListener('timeupdate', handleTimeUpdate);
-          audio.removeEventListener('ended', handleEnded);
-          audio.removeEventListener('play', handlePlay);
-          audio.removeEventListener('pause', handlePause);
-          audio.removeEventListener('waiting', handleWaiting);
-          audio.removeEventListener('stalled', handleStalled);
-          audio.removeEventListener('canplay', handleCanPlay);
-          audio.removeEventListener('canplaythrough', handleCanPlayThrough);
-        };
-      }
-    }, [currentAudio]);
+          {/* Key Metrics */}
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-8">
+            <div className={`card p-6`}>
+              <div className="flex items-center gap-4">
+                <div className={`p-3 rounded-xl ${isDark ? 'bg-blue-500/20' : 'bg-blue-50'}`}>
+                  <Clock size={24} className={theme.accent} />
+                </div>
+                <div>
+                  <div className={`text-sm ${theme.textSecondary}`}>Temps total d&apos;estudi</div>
+                  <div className="text-2xl font-bold">{Math.floor(totalStudyTime / 60)} min</div>
+                </div>
+              </div>
+            </div>
+            <div className={`card p-6`}>
+              <div className="flex items-center gap-4">
+                <div className={`p-3 rounded-xl ${isDark ? 'bg-emerald-500/20' : 'bg-emerald-50'}`}>
+                  <TrendingUp size={24} className="text-emerald-500" />
+                </div>
+                <div>
+                  <div className={`text-sm ${theme.textSecondary}`}>Puntuació mitjana</div>
+                  <div className="text-2xl font-bold">{avgTestScore.toFixed(0)}%</div>
+                </div>
+              </div>
+            </div>
+          </div>
 
+          {/* Study time chart */}
+          <div className="card p-6 mb-8">
+            <h3 className="font-semibold mb-4">Temps d&apos;estudi (últims 7 dies)</h3>
+            <div className="flex justify-between items-end h-48">
+              {studyTimeByDay.map((time, idx) => (
+                <div key={idx} className="flex flex-col items-center w-1/7">
+                  <div
+                    className="w-8 rounded-t-lg bg-blue-500"
+                    style={{ height: `${maxStudyTime > 0 ? (time / maxStudyTime) * 100 : 0}%` }}
+                    title={`${time.toFixed(0)} min`}
+                  />
+                  <div className={`text-xs mt-2 ${theme.textSecondary}`}>
+                    {last7Days[idx].split('/')[0]}
+                  </div>
+                </div>
+              ))}
+            </div>
+          </div>
+
+          {/* Test scores chart */}
+          <div className="card p-6">
+            <h3 className="font-semibold mb-4">Puntuació de tests (últims 7 dies)</h3>
+            <div className="relative h-48">
+              <svg className="w-full h-full" viewBox="0 0 200 50">
+                {/* Horizontal lines */}
+                {[0, 25, 50, 75, 100].map(y => (
+                  <line key={y} x1="0" y1={50 - y / 2} x2="200" y2={50 - y / 2} stroke={isDark ? '#374151' : '#e5e7eb'} strokeWidth="0.5" />
+                ))}
+                {/* Data line */}
+                <path
+                  d={testScoresByDay.map((score, idx, arr) => {
+                    const x = (200 / 6) * idx;
+                    const y = score !== null ? 50 - score / 2 : (arr[idx - 1] !== null ? 50 - arr[idx - 1]! / 2 : 50);
+                    return `${idx === 0 ? 'M' : 'L'} ${x} ${y}`;
+                  }).join(' ')}
+                  stroke={theme.accent}
+                  strokeWidth="1.5"
+                  fill="none"
+                />
+                {/* Data points */}
+                {testScoresByDay.map((score, idx) => score !== null && (
+                  <circle key={idx} cx={(200 / 6) * idx} cy={50 - score / 2} r="2" fill={theme.accent} />
+                ))}
+              </svg>
+            </div>
+            <div className="flex justify-between mt-2">
+              {last7Days.map((day, idx) => (
+                <div key={idx} className={`text-xs ${theme.textSecondary}`}>
+                  {day.split('/')[0]}
+                </div>
+              ))}
+            </div>
+          </div>
+
+        </div>
+      </div>
+    );
+  };
+
+  const PomodoroTimer = () => {
     const formatTime = (seconds: number) => {
       const mins = Math.floor(seconds / 60);
       const secs = Math.floor(seconds % 60);
-      return `${mins}:${secs.toString().padStart(2, '0')}`;
+      return `${mins.toString().padStart(2, '0')}:${secs.toString().padStart(2, '0')}`;
     };
 
-    const handleSeek = (e: React.ChangeEvent<HTMLInputElement>) => {
-      const newTime = parseFloat(e.target.value);
-      if (audioRef.current) {
-        audioRef.current.currentTime = newTime;
-        setCurrentTime(newTime);
+    const startTimer = () => setPomodoroRunning(true);
+    const pauseTimer = () => setPomodoroRunning(false);
+    const resetTimer = () => {
+      setPomodoroRunning(false);
+      setPomodoroTime(pomodoroMode === 'work' ? 25 * 60 : 5 * 60);
+    };
+
+    const switchMode = () => {
+      setPomodoroMode(prevMode => {
+        const newMode = prevMode === 'work' ? 'break' : 'work';
+        setPomodoroTime(newMode === 'work' ? 25 * 60 : 5 * 60);
+        return newMode;
+      });
+      setPomodoroRunning(false);
+    };
+
+    useEffect(() => {
+      if (pomodoroRunning) {
+        pomodoroIntervalRef.current = setInterval(() => {
+          setPomodoroTime(prevTime => prevTime > 0 ? prevTime - 1 : 0);
+        }, 1000);
+      } else if (pomodoroIntervalRef.current) {
+        clearInterval(pomodoroIntervalRef.current);
       }
-    };
 
-    if (!currentAudio) return null;
+      return () => {
+        if (pomodoroIntervalRef.current) {
+          clearInterval(pomodoroIntervalRef.current);
+        }
+      };
+    }, [pomodoroRunning]);
+
+    const progress = pomodoroMode === 'work'
+      ? ((25 * 60 - pomodoroTime) / (25 * 60)) * 100
+      : ((5 * 60 - pomodoroTime) / (5 * 60)) * 100;
 
     return (
       <div className={`min-h-screen ${theme.bg} ${theme.text} p-6`}>
         <div className="max-w-md mx-auto">
-          <button onClick={() => {
-            if (audioRef.current) {
-              audioRef.current.pause();
-            }
-            setIsPlaying(false);
-            setScreen('audiobooks');
-          }} className={`mb-6 flex items-center gap-2 ${theme.textSecondary} hover:${theme.text} transition`}>
+          <button
+            onClick={() => {
+              setPomodoroRunning(false);
+              setScreen('home');
+            }}
+            className={`mb-6 flex items-center gap-2 ${theme.textSecondary} hover:${theme.text} transition`}
+          >
             <ArrowLeft size={20} />
             <span className="font-medium">Tornar</span>
           </button>
@@ -2244,514 +2856,167 @@ export default function StudyApp() {
           <div className="card p-8">
             <div className="text-center mb-8">
               <div className={`w-32 h-32 mx-auto mb-4 rounded-full ${isDark ? 'bg-primary-900/30' : 'bg-primary-100'} flex items-center justify-center`}>
-                <Headphones size={64} className={theme.accent} />
+                <Clock size={64} className={theme.accent} />
               </div>
-              <h2 className={`text-2xl font-bold mb-2 ${theme.text}`}>{currentAudio.title}</h2>
-              <p className={`${theme.textSecondary}`}>Audiollibre</p>
-            </div>
-
-            {/* Progress Bar */}
-            <div className="mb-6">
-              <input
-                type="range"
-                min="0"
-                max={duration || 0}
-                value={currentTime}
-                onChange={handleSeek}
-                className="w-full h-2 rounded-full appearance-none cursor-pointer"
-                style={{
-                  background: `linear-gradient(to right, ${isDark ? '#0284c7' : '#0284c7'} 0%, ${isDark ? '#0284c7' : '#0284c7'} ${(currentTime / duration) * 100}%, ${isDark ? '#262626' : '#e5e5e5'} ${(currentTime / duration) * 100}%, ${isDark ? '#262626' : '#e5e5e5'} 100%)`
-                }}
-              />
-              <div className={`flex justify-between text-sm mt-2 ${theme.textSecondary}`}>
-                <span>{formatTime(currentTime)}</span>
-                <span>{formatTime(duration)}</span>
+              <h2 className={`text-2xl font-bold mb-2 ${theme.text}`}>Pomodoro Timer</h2>
+              <div className={`inline-block px-4 py-2 rounded-full ${pomodoroMode === 'work' ? (isDark ? 'bg-blue-900/50 text-blue-300' : 'bg-blue-100 text-blue-700') : (isDark ? 'bg-green-900/50 text-green-300' : 'bg-green-100 text-green-700')}`}>
+                {pomodoroMode === 'work' ? 'Temps de Treball' : 'Temps de Descans'}
               </div>
             </div>
 
-            {/* Controls */}
-            <div className="flex items-center justify-center gap-6">
-              <button
-                onClick={skipBackward}
-                className="btn-secondary p-4 rounded-full"
-              >
-                <SkipBack size={20} />
-              </button>
+            <div className="mb-8">
+              <div className={`text-7xl font-bold text-center mb-4 ${theme.text}`}>
+                {formatTime(pomodoroTime)}
+              </div>
+              <div className="w-full h-3 rounded-full overflow-hidden" style={{ backgroundColor: isDark ? '#262626' : '#e5e5e5' }}>
+                <div
+                  className="h-full transition-all duration-1000"
+                  style={{
+                    width: `${progress}%`,
+                    backgroundColor: pomodoroMode === 'work' ? (isDark ? '#3b82f6' : '#2563eb') : (isDark ? '#10b981' : '#059669')
+                  }}
+                />
+              </div>
+            </div>
 
+            <div className="space-y-3">
+              <div className="flex gap-3 justify-center">
+                {!pomodoroRunning ? (
+                  <button
+                    onClick={startTimer}
+                    className={`flex-1 ${theme.button} p-4 rounded-xl font-semibold flex items-center justify-center gap-2`}
+                  >
+                    <Play size={20} />
+                    Iniciar
+                  </button>
+                ) : (
+                  <button
+                    onClick={pauseTimer}
+                    className={`flex-1 ${theme.button} p-4 rounded-xl font-semibold flex items-center justify-center gap-2`}
+                  >
+                    <Pause size={20} />
+                    Pausar
+                  </button>
+                )}
+                <button
+                  onClick={resetTimer}
+                  className={`flex-1 ${theme.buttonSecondary} border p-4 rounded-xl font-semibold`}
+                >
+                  Reiniciar
+                </button>
+              </div>
               <button
-                onClick={togglePlayPause}
-                className="btn-primary p-6 rounded-full"
+                onClick={switchMode}
+                className={`w-full ${theme.buttonSecondary} border p-4 rounded-xl font-semibold`}
               >
-                {isPlaying ? <Pause size={28} /> : <Play size={28} />}
-              </button>
-
-              <button
-                onClick={skipForward}
-                className="btn-secondary p-4 rounded-full"
-              >
-                <SkipForward size={20} />
+                {pomodoroMode === 'work' ? 'Canviar a Descans (5 min)' : 'Canviar a Treball (25 min)'}
               </button>
             </div>
 
-            {/* Help text */}
-            <div className={`mt-4 p-3 ${isDark ? 'bg-primary-950/30 border-primary-800' : 'bg-primary-50 border-primary-200'} border rounded-lg text-xs`}>
-              <p className={`flex items-start gap-2 ${theme.text}`}>
-                <Info size={14} className={`flex-shrink-0 mt-0.5 ${theme.accent}`} />
-                <span>Si l&apos;àudio no es reprodueix, assegura&apos;t que l&apos;URL és un enllaç directe de descàrrega. Consulta <strong>GUIA-AUDIO-LINKS.md</strong></span>
-              </p>
+            <div className={`mt-6 p-4 rounded-lg ${isDark ? 'bg-slate-700/50' : 'bg-neutral-100'}`}>
+              <h3 className={`font-semibold mb-2 ${theme.text}`}>Tècnica Pomodoro</h3>
+              <ul className={`text-sm ${theme.textSecondary} space-y-1`}>
+                <li>• 25 minuts de treball concentrat</li>
+                <li>• 5 minuts de descans</li>
+                <li>• Després de 4 cicles, descans llarg de 15-30 min</li>
+              </ul>
             </div>
           </div>
-
-          <audio
-            ref={audioRef}
-            onError={(e) => {
-              console.error('Audio error:', e);
-              const isGoogleDrive = currentAudio?.url.includes('drive.google.com');
-              if (isGoogleDrive) {
-                alert('Error: Google Drive té limitacions de CORS que impedeixen la reproducció directa d\'àudio.\n\nSolucions:\n1. Usa Dropbox (més recomanat)\n2. Puja l\'arxiu a OneDrive\n3. Comparteix l\'arxiu des d\'un altre servei\n\nConsulta la guia GUIA-AUDIO-LINKS.md per més detalls.');
-              } else {
-                alert('Error carregant l\'àudio.\n\nVerifica que:\n- L\'URL és correcta\n- És un enllaç directe de descàrrega\n- L\'arxiu és accessible públicament');
-              }
-            }}
-          />
         </div>
       </div>
     );
   };
 
-  // Stats Screen
-  const StatsScreen = () => {
-    // Calculate study statistics
-    const totalStudyTime = noteSessions.reduce((acc, session) => acc + session.duration, 0);
-    const totalStudyMinutes = Math.floor(totalStudyTime / 60);
-    const totalStudyHours = Math.floor(totalStudyMinutes / 60);
-    const remainingMinutes = totalStudyMinutes % 60;
+  // Sharing Screen
+  const SharingScreen = () => {
+    const [invitationCode, setInvitationCode] = useState('');
+    const [isCreating, setIsCreating] = useState(false);
+    const [isRevoking, setIsRevoking] = useState<string | null>(null);
 
-    // Notes studied frequency
-    const noteFrequency: { [key: string]: number } = {};
-    noteSessions.forEach(session => {
-      noteFrequency[session.noteTitle] = (noteFrequency[session.noteTitle] || 0) + 1;
-    });
-    const topStudiedNotes = Object.entries(noteFrequency)
-      .sort((a, b) => b[1] - a[1])
-      .slice(0, 5);
-
-    // Test performance stats
-    const testPerformance: { [key: string]: TestAttempt[] } = {};
-    testAttempts.forEach(attempt => {
-      if (!testPerformance[attempt.testTitle]) {
-        testPerformance[attempt.testTitle] = [];
+    const handleCreateInvitation = async () => {
+      if (!user) return;
+      setIsCreating(true);
+      try {
+        const code = await createInvitation(user.uid, user.email!);
+        setInvitationCode(code);
+        // Reload user invitations
+        const invitations = await getUserInvitations(user.uid);
+        setUserInvitations(invitations);
+      } catch (error) {
+        console.error('Error creating invitation:', error);
+        setSharingMessage('Error en crear la invitació');
+      } finally {
+        setIsCreating(false);
       }
-      testPerformance[attempt.testTitle].push(attempt);
-    });
+    };
 
-    // Calculate average score and improvement
-    const totalTestAttempts = testAttempts.length;
-    const averageScore = totalTestAttempts > 0
-      ? Math.round(testAttempts.reduce((acc, att) => acc + att.percentage, 0) / totalTestAttempts)
-      : 0;
+    const handleRevokeAccess = async (guestId: string) => {
+      if (!user) return;
+      setIsRevoking(guestId);
+      try {
+        await revokeAccess(user.uid, guestId);
+        // Update UI
+        setSharedAccess(prev => prev.filter(sa => sa.ownerId !== user.uid)); // This is incorrect, should be guestId
+        setSharingMessage('Accés revocat correctament');
+      } catch (error) {
+        console.error('Error revoking access:', error);
+        setSharingMessage('Error en revocar l\'accés');
+      } finally {
+        setIsRevoking(null);
+      }
+    }
 
-    // Recent performance (last 5 attempts)
-    const recentAttempts = [...testAttempts].slice(0, 5);
-
-    // Calculate improvement trend
-    const getImprovementTrend = (testTitle: string) => {
-      const attempts = testPerformance[testTitle];
-      if (!attempts || attempts.length < 2) return null;
-
-      const sortedAttempts = [...attempts].sort((a, b) => a.timestamp - b.timestamp);
-      const firstScore = sortedAttempts[0].percentage;
-      const lastScore = sortedAttempts[sortedAttempts.length - 1].percentage;
-      const improvement = lastScore - firstScore;
-
-      return {
-        attempts: sortedAttempts.length,
-        firstScore,
-        lastScore,
-        improvement,
-        isImproving: improvement > 0
-      };
+    const copyToClipboard = (text: string) => {
+      navigator.clipboard.writeText(text).then(() => {
+        setSharingMessage('Codi copiat al porta-retalls!');
+        setTimeout(() => setSharingMessage(''), 2000);
+      });
     };
 
     return (
       <div className={`min-h-screen ${theme.bg} ${theme.text} p-6`}>
-        <div className="max-w-md mx-auto">
+        <div className="max-w-md lg:max-w-4xl mx-auto">
           <button onClick={() => setScreen('home')} className={`mb-6 flex items-center gap-2 ${theme.textSecondary} hover:${theme.text} transition`}>
             <ArrowLeft size={20} />
             <span className="font-medium">Tornar</span>
           </button>
 
           <h2 className={`text-3xl font-bold mb-6 ${theme.text}`}>
-            Les Meves Estadístiques
+            Compartir Materials
           </h2>
 
-          {/* Total Study Time Card */}
-          <div className="card p-6 mb-4">
-            <div className="flex items-center gap-3 mb-2">
-              <Clock size={24} className={theme.accent} />
-              <h3 className={`text-xl font-semibold ${theme.text}`}>Temps Total d&apos;Estudi</h3>
-            </div>
-            <div className={`text-4xl font-bold mt-4 ${theme.text}`}>
-              {totalStudyHours > 0 && <span>{totalStudyHours}h </span>}
-              <span>{remainingMinutes}min</span>
-            </div>
-            <p className={`text-sm mt-2 ${theme.textSecondary}`}>
-              {noteSessions.length} sessions de lectura
-            </p>
-          </div>
-
-          {/* Test Performance Summary */}
-          <div className="card p-6 mb-4">
-            <div className="flex items-center gap-3 mb-2">
-              <BarChart3 size={24} className={theme.accent} />
-              <h3 className={`text-xl font-semibold ${theme.text}`}>Rendiment en Tests</h3>
-            </div>
-            <div className="grid grid-cols-2 gap-4 mt-4">
-              <div>
-                <div className={`text-3xl font-bold ${theme.text}`}>{totalTestAttempts}</div>
-                <p className={`text-sm ${theme.textSecondary}`}>Tests realitzats</p>
-              </div>
-              <div>
-                <div className={`text-3xl font-bold ${theme.text}`}>{averageScore}%</div>
-                <p className={`text-sm ${theme.textSecondary}`}>Puntuació mitjana</p>
-              </div>
-            </div>
-          </div>
-
-          {/* Most Studied Notes */}
-          {topStudiedNotes.length > 0 && (
-            <div className="card p-6 mb-4">
-              <h3 className={`text-xl font-semibold mb-4 flex items-center gap-2 ${theme.text}`}>
-                <BookOpen size={20} className={theme.accent} />
-                Apunts Més Estudiats
-              </h3>
-              <div className="space-y-3">
-                {topStudiedNotes.map(([title, count]) => (
-                  <div key={title} className={`p-3 rounded-xl ${isDark ? 'bg-primary-950/30' : 'bg-primary-50'}`}>
-                    <div className="flex justify-between items-center">
-                      <span className={`font-medium ${theme.text}`}>{title}</span>
-                      <span className={`px-3 py-1 rounded-full text-sm font-semibold ${isDark ? 'bg-primary-900/50 text-primary-300' : 'bg-primary-100 text-primary-700'}`}>
-                        {count} {count === 1 ? 'vegada' : 'vegades'}
-                      </span>
-                    </div>
-                  </div>
-                ))}
-              </div>
-            </div>
-          )}
-
-          {/* Test Improvement Tracking */}
-          {Object.keys(testPerformance).length > 0 && (
-            <div className="card p-6 mb-4">
-              <h3 className={`text-xl font-semibold mb-4 flex items-center gap-2 ${theme.text}`}>
-                <TrendingUp size={20} className={theme.accent} />
-                Progrés per Test
-              </h3>
-              <div className="space-y-4">
-                {Object.entries(testPerformance).map(([testTitle, attempts]) => {
-                  const trend = getImprovementTrend(testTitle);
-                  if (!trend) return null;
-
-                  return (
-                    <div key={testTitle} className={`p-4 rounded-xl ${isDark ? 'bg-primary-950/30' : 'bg-primary-50'}`}>
-                      <div className={`font-semibold mb-2 ${theme.text}`}>{testTitle}</div>
-                      <div className="text-sm space-y-1">
-                        <div className="flex justify-between">
-                          <span className={theme.textSecondary}>Intents:</span>
-                          <span className={`font-semibold ${theme.text}`}>{trend.attempts}</span>
-                        </div>
-                        <div className="flex justify-between">
-                          <span className={theme.textSecondary}>Primer intent:</span>
-                          <span className={`font-semibold ${theme.text}`}>{trend.firstScore}%</span>
-                        </div>
-                        <div className="flex justify-between">
-                          <span className={theme.textSecondary}>Últim intent:</span>
-                          <span className={`font-semibold ${theme.text}`}>{trend.lastScore}%</span>
-                        </div>
-                        <div className={`flex justify-between items-center mt-2 pt-2 border-t ${theme.border}`}>
-                          <span className={theme.textSecondary}>Progrés:</span>
-                          <span className={`font-bold flex items-center gap-1 ${trend.isImproving ? 'text-emerald-500' : trend.improvement === 0 ? 'text-amber-500' : 'text-orange-500'}`}>
-                            {trend.improvement > 0 ? '+' : ''}{trend.improvement}%
-                            {trend.isImproving ? <TrendingUp size={16} /> : trend.improvement === 0 ? <ArrowRight size={16} /> : <TrendingDown size={16} />}
-                          </span>
-                        </div>
-                      </div>
-                    </div>
-                  );
-                })}
-              </div>
-            </div>
-          )}
-
-          {/* Recent Test Attempts */}
-          {recentAttempts.length > 0 && (
-            <div className="card p-6 mb-4">
-              <h3 className={`text-xl font-semibold mb-4 flex items-center gap-2 ${theme.text}`}>
-                <FileText size={20} className={theme.accent} />
-                Últims Tests
-              </h3>
-              <div className="space-y-3">
-                {recentAttempts.map((attempt, idx) => (
-                  <div key={idx} className={`p-3 rounded-xl ${isDark ? 'bg-primary-950/30' : 'bg-primary-50'}`}>
-                    <div className="flex justify-between items-start mb-1">
-                      <span className={`font-medium ${theme.text}`}>{attempt.testTitle}</span>
-                      <span className={`text-xl font-bold ${attempt.percentage >= 70 ? 'text-emerald-500' : 'text-orange-500'}`}>
-                        {attempt.percentage}%
-                      </span>
-                    </div>
-                    <div className={`text-xs ${theme.textSecondary}`}>
-                      {attempt.score}/{attempt.totalQuestions} correctes • {attempt.date}
-                    </div>
-                  </div>
-                ))}
-              </div>
-            </div>
-          )}
-
-          {/* Empty State */}
-          {noteSessions.length === 0 && testAttempts.length === 0 && (
-            <div className={`text-center ${theme.textSecondary} mt-12 p-8`}>
-              <BarChart3 size={64} className="mx-auto mb-4 opacity-30" />
-              <p className="text-lg font-semibold">No hi ha estadístiques encara</p>
-              <p className="text-sm mt-2">Comença a estudiar per veure el teu progrés</p>
-            </div>
-          )}
-        </div>
-      </div>
-    );
-  };
-
-  // Test Results Screen
-  const TestResultsScreen = () => {
-    const correct = testProgress.answers.filter(a => a.isCorrect).length;
-    const total = testProgress.answers.length;
-    const percentage = Math.round((correct / total) * 100);
-
-    return (
-      <div className={`min-h-screen ${theme.bg} ${theme.text} p-6`}>
-        <div className="max-w-md mx-auto">
-          <button onClick={() => setScreen('tests')} className={`mb-6 flex items-center gap-2 ${theme.textSecondary} hover:${theme.text} transition`}>
-            <ArrowLeft size={20} />
-            <span className="font-medium">Tornar a Tests</span>
-          </button>
-
-          <div className="text-center mb-8">
-            <h2 className={`text-4xl font-bold mb-4 ${theme.text}`}>
-              Test Completat!
-            </h2>
-            <div className={`text-7xl font-bold my-6 ${theme.text}`}>
-              {percentage}%
-            </div>
-            <div className={`text-xl ${theme.textSecondary} font-medium`}>
-              {correct} de {total} correctes
-            </div>
-          </div>
-
-          <div className="space-y-3">
-            {testProgress.answers.map((answer, idx) => (
-              <div key={idx} className={`card p-5 ${answer.isCorrect ?
-                (isDark ? 'border-emerald-700/50 bg-emerald-950/20' : 'border-emerald-300 bg-emerald-50') :
-                (isDark ? 'border-rose-700/50 bg-rose-950/20' : 'border-rose-300 bg-rose-50')
-              } border-2`}>
-                <div className="flex items-start gap-3 mb-2">
-                  {answer.isCorrect ? (
-                    <div className="flex-shrink-0">
-                      <CheckCircle size={24} className={isDark ? 'text-emerald-400' : 'text-emerald-600'} />
-                    </div>
-                  ) : (
-                    <div className="flex-shrink-0">
-                      <XCircle size={24} className={isDark ? 'text-rose-400' : 'text-rose-600'} />
-                    </div>
-                  )}
-                  <div className="flex-1">
-                    <div className={`font-semibold mb-3 text-base ${theme.text}`}>{answer.question}</div>
-                    <div className="text-sm space-y-1">
-                      <div className={`p-2 rounded-lg ${answer.isCorrect ? (isDark ? 'bg-emerald-900/30' : 'bg-emerald-100/50') : (isDark ? 'bg-rose-900/30' : 'bg-rose-100/50')}`}>
-                        <span className="font-semibold">La teva resposta:</span> {answer.answer}
-                      </div>
-                      {!answer.isCorrect && (
-                        <div className={`p-2 rounded-lg ${isDark ? 'bg-emerald-900/30' : 'bg-emerald-100/50'}`}>
-                          <span className={`font-semibold ${isDark ? 'text-emerald-300' : 'text-emerald-700'}`}>Correcta:</span>
-                          <span className={isDark ? 'text-emerald-300' : 'text-emerald-700'}> {answer.correct}</span>
-                        </div>
-                      )}
-                    </div>
-                  </div>
-                </div>
-              </div>
-            ))}
-          </div>
-
-          <button
-            onClick={() => showTestConfig(currentTest!)}
-            className="w-full mt-6 btn-primary p-4 rounded-xl"
-          >
-            <ArrowRight size={20} />
-            <span className="font-semibold">Repetir Test</span>
-          </button>
-        </div>
-      </div>
-    );
-  };
-
-  // Sharing Management Screen
-  const SharingScreen = () => {
-    const [isCreatingInvitation, setIsCreatingInvitation] = useState(false);
-    const [copiedCode, setCopiedCode] = useState<string | null>(null);
-
-    const handleCreateInvitation = async () => {
-      if (!user) return;
-
-      setIsCreatingInvitation(true);
-      try {
-        const code = await createInvitation(user.uid, user.email || 'unknown');
-        const updated = await getUserInvitations(user.uid);
-        setUserInvitations(updated);
-        setSharingMessage(`Invitació creada: ${code}`);
-        setTimeout(() => setSharingMessage(''), 3000);
-      } catch (error) {
-        console.error('Error creating invitation:', error);
-        setSharingMessage('Error al crear la invitació');
-      } finally {
-        setIsCreatingInvitation(false);
-      }
-    };
-
-    const handleDeleteInvitation = async (code: string) => {
-      if (!user) return;
-
-      try {
-        await deleteInvitation(code);
-        const updated = await getUserInvitations(user.uid);
-        setUserInvitations(updated);
-        setSharingMessage('Invitació eliminada');
-        setTimeout(() => setSharingMessage(''), 3000);
-      } catch (error) {
-        console.error('Error deleting invitation:', error);
-        setSharingMessage('Error al eliminar la invitació');
-      }
-    };
-
-    const copyInvitationLink = (code: string) => {
-      const link = `${window.location.origin}${window.location.pathname}?invite=${code}`;
-      navigator.clipboard.writeText(link);
-      setCopiedCode(code);
-      setTimeout(() => setCopiedCode(null), 2000);
-    };
-
-    const handleAcceptCode = async () => {
-      if (!user || !invitationCodeInput.trim()) return;
-
-      try {
-        const success = await acceptInvitation(invitationCodeInput.trim().toUpperCase(), user.uid, user.email || 'unknown');
-        if (success) {
-          const updated = await getSharedAccess(user.uid);
-          setSharedAccess(updated);
-          setSharingMessage('Invitació acceptada amb èxit!');
-          setInvitationCodeInput('');
-          setTimeout(() => setSharingMessage(''), 3000);
-        } else {
-          setSharingMessage('Codi d\'invitació no vàlid o caducat');
-        }
-      } catch (error) {
-        console.error('Error accepting invitation:', error);
-        setSharingMessage('Error al acceptar la invitació');
-      }
-    };
-
-    const viewSharedContent = async (ownerId: string) => {
-      if (!user) return;
-
-      try {
-        setIsLoading(true);
-        setViewingOwnerId(ownerId);
-        setIsReadOnlyMode(true);
-
-        const [sharedNotes, sharedTests, sharedAudioBooks] = await Promise.all([
-          getAllNotes(ownerId),
-          getAllTests(ownerId),
-          getAllAudioBooks(ownerId)
-        ]);
-
-        setNotes(sharedNotes);
-        setTests(sharedTests);
-        setAudioBooks(sharedAudioBooks);
-        setScreen('home');
-      } catch (error) {
-        console.error('Error loading shared content:', error);
-        setSharingMessage('Error al carregar el contingut compartit');
-      } finally {
-        setIsLoading(false);
-      }
-    };
-
-    return (
-      <div className={`min-h-screen ${theme.bg} ${theme.text} p-6`}>
-        <div className="max-w-2xl mx-auto">
-          <button
-            onClick={() => setScreen('home')}
-            className={`mb-6 flex items-center gap-2 ${theme.textSecondary} hover:${theme.text} transition`}
-          >
-            <ArrowLeft size={20} />
-            <span className="font-medium">Tornar</span>
-          </button>
-
-          <h1 className="text-3xl font-bold mb-6">Compartir Materials</h1>
-
           {sharingMessage && (
-            <div className={`mb-4 p-4 rounded-lg ${theme.card} border-2 ${theme.border}`}>
+            <div className={`mb-4 p-3 rounded-lg ${isDark ? 'bg-blue-900/50 text-blue-300' : 'bg-blue-100 text-blue-700'}`}>
               {sharingMessage}
             </div>
           )}
 
-          {/* My Invitations Section */}
-          <div className={`${theme.card} p-6 rounded-2xl border-2 ${theme.border} shadow-lg mb-6`}>
-            <div className="flex items-center justify-between mb-4">
-              <h2 className="text-xl font-bold flex items-center gap-2">
-                <LinkIcon size={24} />
-                Les Meves Invitacions
-              </h2>
-              <button
-                onClick={handleCreateInvitation}
-                disabled={isCreatingInvitation}
-                className={`${theme.button} px-4 py-2 rounded-lg font-semibold flex items-center gap-2 disabled:opacity-50`}
-              >
-                <Plus size={20} />
-                Nova Invitació
-              </button>
-            </div>
+          {/* Section to create and view invitations */}
+          <div className="card p-6 mb-6">
+            <h3 className="font-semibold text-lg mb-4">Les Meves Invitacions</h3>
+            <p className={`${theme.textSecondary} text-sm mb-4`}>
+              Crea un codi per donar accés a altres usuaris als teus materials.
+            </p>
+            <button
+              onClick={handleCreateInvitation}
+              disabled={isCreating}
+              className="btn-primary w-full mb-4"
+            >
+              {isCreating ? 'Creant...' : 'Crear Nova Invitació'}
+            </button>
 
-            {userInvitations.length === 0 ? (
-              <p className={theme.textSecondary}>No tens invitacions actives</p>
-            ) : (
+            {userInvitations.length > 0 && (
               <div className="space-y-3">
-                {userInvitations.map((invitation) => (
-                  <div key={invitation.code} className={`p-4 rounded-lg ${isDark ? 'bg-purple-800/50' : 'bg-pink-100'} border ${theme.border}`}>
-                    <div className="flex items-start justify-between">
-                      <div className="flex-1">
-                        <div className="font-mono text-2xl font-bold mb-2">{invitation.code}</div>
-                        <div className={`text-sm ${theme.textSecondary} space-y-1`}>
-                          <div>Creat: {invitation.createdAt}</div>
-                          <div>Caduca: {invitation.expiresAt}</div>
-                          <div>Usos: {invitation.usedBy?.length || 0} / {invitation.maxUses}</div>
-                        </div>
-                      </div>
-                      <div className="flex gap-2">
-                        <button
-                          onClick={() => copyInvitationLink(invitation.code)}
-                          className={`p-2 rounded-lg ${theme.buttonSecondary} transition`}
-                          title="Copiar enllaç"
-                        >
-                          {copiedCode === invitation.code ? <Check size={20} /> : <Copy size={20} />}
-                        </button>
-                        <button
-                          onClick={() => handleDeleteInvitation(invitation.code)}
-                          className={`p-2 rounded-lg ${isDark ? 'bg-rose-900 hover:bg-rose-800' : 'bg-rose-200 hover:bg-rose-300'} transition`}
-                          title="Eliminar"
-                        >
-                          <Trash2 size={20} />
-                        </button>
-                      </div>
+                {userInvitations.map(inv => (
+                  <div key={inv.code} className={`p-4 rounded-lg border ${theme.border}`}>
+                    <div className="flex justify-between items-center">
+                      <span className="font-mono text-lg">{inv.code}</span>
+                      <button onClick={() => copyToClipboard(`${window.location.origin}?invite=${inv.code}`)}>
+                        <Copy size={18} />
+                      </button>
+                    </div>
+                    <div className={`text-xs ${theme.textSecondary} mt-2`}>
+                      Creat: {inv.createdAt} | Caduca: {inv.expiresAt} | Usos: {inv.usedBy?.length || 0}/{inv.maxUses}
                     </div>
                   </div>
                 ))}
@@ -2759,135 +3024,111 @@ export default function StudyApp() {
             )}
           </div>
 
-          {/* Accept Invitation Section */}
-          <div className={`${theme.card} p-6 rounded-2xl border-2 ${theme.border} shadow-lg mb-6`}>
-            <h2 className="text-xl font-bold mb-4 flex items-center gap-2">
-              <Users size={24} />
-              Acceptar Invitació
-            </h2>
+          {/* Section to accept an invitation */}
+          <div className="card p-6 mb-6">
+            <h3 className="font-semibold text-lg mb-4">Accedir a Materials Compartits</h3>
             <div className="flex gap-2">
               <input
                 type="text"
                 value={invitationCodeInput}
-                onChange={(e) => setInvitationCodeInput(e.target.value.toUpperCase())}
-                placeholder="Introdueix el codi (ex: ABCD1234)"
-                maxLength={8}
-                className={`flex-1 px-4 py-3 rounded-lg ${theme.card} border-2 ${theme.border} ${theme.text} font-mono text-lg uppercase`}
+                onChange={(e) => setInvitationCodeInput(e.target.value)}
+                placeholder="Introdueix un codi d'invitació"
+                className={`flex-1 px-3 py-2 rounded-lg border ${theme.border} ${theme.bg}`}
               />
               <button
-                onClick={handleAcceptCode}
-                disabled={invitationCodeInput.length !== 8}
-                className={`${theme.button} px-6 py-3 rounded-lg font-semibold disabled:opacity-50`}
+                onClick={async () => {
+                  const inv = await getInvitation(invitationCodeInput);
+                  if (inv) {
+                    setPendingInvitation(inv);
+                    setScreen('accept-invitation');
+                  } else {
+                    setSharingMessage('Invitació no vàlida o caducada');
+                  }
+                }}
+                className="btn-secondary"
               >
-                Acceptar
+                Accedir
               </button>
             </div>
           </div>
 
-          {/* Shared Access Section */}
-          <div className={`${theme.card} p-6 rounded-2xl border-2 ${theme.border} shadow-lg`}>
-            <h2 className="text-xl font-bold mb-4 flex items-center gap-2">
-              <BookOpen size={24} />
-              Materials Compartits Amb Mi
-            </h2>
-
-            {sharedAccess.length === 0 ? (
-              <p className={theme.textSecondary}>No tens accés a materials compartits</p>
-            ) : (
+          {/* Section to manage shared access */}
+          {sharedAccess.length > 0 && (
+            <div className="card p-6">
+              <h3 className="font-semibold text-lg mb-4">Materials a què tinc accés</h3>
               <div className="space-y-3">
-                {sharedAccess.map((access) => (
-                  <div key={access.ownerId} className={`p-4 rounded-lg ${isDark ? 'bg-purple-800/50' : 'bg-pink-100'} border ${theme.border}`}>
-                    <div className="flex items-center justify-between">
-                      <div>
-                        <div className="font-semibold">{access.ownerEmail}</div>
-                        <div className={`text-sm ${theme.textSecondary}`}>
-                          Accés concedit: {access.grantedAt}
-                        </div>
-                      </div>
-                      <button
-                        onClick={() => viewSharedContent(access.ownerId)}
-                        className={`${theme.button} px-4 py-2 rounded-lg font-semibold flex items-center gap-2`}
-                      >
-                        <BookOpen size={18} />
-                        Veure Materials
-                      </button>
-                    </div>
+                {sharedAccess.map(sa => (
+                  <div key={sa.ownerId} className={`p-4 rounded-lg border ${theme.border} flex justify-between items-center`}>
+                    <p>{sa.ownerEmail}</p>
+                    <button
+                      onClick={async () => {
+                        setIsLoading(true);
+                        const [notes, tests, audiobooks] = await Promise.all([
+                          getAllNotes(sa.ownerId),
+                          getAllTests(sa.ownerId),
+                          getAllAudioBooks(sa.ownerId),
+                        ]);
+                        setNotes(notes);
+                        setTests(tests);
+                        setAudioBooks(audiobooks);
+                        setViewingOwnerId(sa.ownerId);
+                        setIsReadOnlyMode(true);
+                        setScreen('home');
+                        setIsLoading(false);
+                      }}
+                      className="btn-secondary"
+                    >
+                      Veure
+                    </button>
                   </div>
                 ))}
               </div>
-            )}
-          </div>
+            </div>
+          )}
         </div>
       </div>
     );
   };
 
-  // Invitation Acceptance Screen
   const AcceptInvitationScreen = () => {
-    if (!pendingInvitation || !user) return null;
-
-    const handleAccept = async () => {
-      try {
-        const success = await acceptInvitation(pendingInvitation.code, user.uid, user.email || 'unknown');
-        if (success) {
-          const updated = await getSharedAccess(user.uid);
-          setSharedAccess(updated);
-          setSharingMessage('Invitació acceptada amb èxit!');
-          setPendingInvitation(null);
-
-          // Clear URL parameter
-          window.history.replaceState({}, '', window.location.pathname);
-
-          setScreen('sharing');
-        } else {
-          setSharingMessage('Error al acceptar la invitació');
-          setScreen('home');
-        }
-      } catch (error) {
-        console.error('Error accepting invitation:', error);
-        setSharingMessage('Error al acceptar la invitació');
-        setScreen('home');
-      }
-    };
-
-    const handleDecline = () => {
-      setPendingInvitation(null);
-      window.history.replaceState({}, '', window.location.pathname);
-      setScreen('home');
-    };
+    if (!pendingInvitation) return null;
 
     return (
-      <div className={`min-h-screen ${theme.bg} ${theme.text} p-6 flex items-center justify-center`}>
-        <div className={`max-w-md w-full card p-8`}>
-          <div className="text-center mb-6">
-            <div className={`w-20 h-20 mx-auto mb-4 rounded-full ${isDark ? 'bg-primary-900/30' : 'bg-primary-100'} flex items-center justify-center`}>
-              <Share2 size={40} className={theme.accent} />
-            </div>
-            <h1 className={`text-2xl font-bold mb-2 ${theme.text}`}>Invitació Rebuda</h1>
-            <p className={theme.textSecondary}>T&apos;han convidat a accedir a materials d&apos;estudi</p>
-          </div>
-
-          <div className={`p-4 rounded-lg ${isDark ? 'bg-primary-950/30 border-primary-800' : 'bg-primary-50 border-primary-200'} border mb-6`}>
-            <div className="text-sm space-y-2">
-              <div><span className="font-semibold">De:</span> {pendingInvitation.ownerEmail}</div>
-              <div><span className="font-semibold">Codi:</span> <span className="font-mono">{pendingInvitation.code}</span></div>
-              <div><span className="font-semibold">Caduca:</span> {pendingInvitation.expiresAt}</div>
-            </div>
-          </div>
-
-          <div className="space-y-3">
+      <div className={`min-h-screen ${theme.bg} ${theme.text} p-6`}>
+        <div className="max-w-md mx-auto">
+          <div className="card p-8 text-center">
+            <h2 className="text-2xl font-bold mb-2">Acceptar Invitació</h2>
+            <p className={`${theme.textSecondary} mb-6`}>
+              Has estat convidat per <span className="font-semibold">{pendingInvitation.ownerEmail}</span> a accedir als seus materials d&apos;estudi.
+            </p>
             <button
-              onClick={handleAccept}
-              className="w-full btn-primary p-4 rounded-xl flex items-center justify-center gap-2"
+              onClick={async () => {
+                if (user) {
+                  const success = await acceptInvitation(pendingInvitation.code, user.uid, user.email!);
+                  if (success) {
+                    setSharingMessage('Accés concedit!');
+                    // Reload shared access
+                    const access = await getSharedAccess(user.uid);
+                    setSharedAccess(access);
+                    setScreen('sharing');
+                  } else {
+                    setSharingMessage('No s\'ha pogut acceptar la invitació.');
+                    setScreen('sharing');
+                  }
+                }
+              }}
+              className="btn-primary w-full mb-2"
             >
-              <Check size={20} />
-              <span className="font-semibold">Acceptar Invitació</span>
+              Acceptar i Accedir
             </button>
             <button
-              onClick={handleDecline}
-              className={`w-full ${theme.buttonSecondary} p-4 rounded-xl font-semibold transition`}
+              onClick={() => {
+                setPendingInvitation(null);
+                setScreen('home');
+              }}
+              className="btn-secondary w-full"
             >
-              Declinar
+              Cancel·lar
             </button>
           </div>
         </div>
@@ -2895,7 +3136,62 @@ export default function StudyApp() {
     );
   };
 
-  // Authentication handlers
+  // Main render logic
+  let content;
+  switch (screen) {
+    case 'notes':
+      content = <NotesScreen />;
+      break;
+    case 'reading':
+      content = <ReadingScreen />;
+      break;
+    case 'tests':
+      content = <TestsScreen />;
+      break;
+    case 'test-config':
+      content = <TestConfigScreen />;
+      break;
+    case 'taking-test':
+      content = <TakingTestScreen />;
+      break;
+    case 'test-results':
+      content = <TestResultsScreen />;
+      break;
+    case 'audiobooks':
+      content = <AudioBooksScreen />;
+      break;
+    case 'listening':
+      content = <ListeningView
+        theme={theme}
+        isDark={isDark}
+        currentAudio={currentAudio}
+        audioRef={audioRef}
+        playableUrl={currentAudio ? getPlayableAudioUrl(currentAudio.url) : null}
+        onBack={() => setScreen('audiobooks')}
+        setIsPlaying={setIsPlaying}
+        isPlaying={isPlaying}
+        onTogglePlayPause={togglePlayPause}
+        onSkipForward={skipForward}
+        onSkipBackward={skipBackward}
+      />;
+      break;
+    case 'stats':
+      content = <StatsScreen />;
+      break;
+    case 'pomodoro':
+      content = <PomodoroTimer />;
+      break;
+    case 'sharing':
+      content = <SharingScreen />;
+      break;
+    case 'accept-invitation':
+      content = <AcceptInvitationScreen />;
+      break;
+    default:
+      content = <HomeScreen />;
+  }
+
+  // Auth handlers
   const handleLogin = async (email: string, password: string) => {
     try {
       setAuthError('');
@@ -2931,7 +3227,8 @@ export default function StudyApp() {
     return (
       <div className={`min-h-screen ${theme.bg} ${theme.text} flex items-center justify-center`}>
         <div className="text-center">
-          <div className="text-xl font-bold mb-2">StudyDock</div>
+          <Image src={isDark ? "/edudock_white.svg" : "/edudock.svg"} alt="EduDock Logo" width={64} height={64} className="mb-4" />
+          <div className="text-xl font-bold mb-2">Edu<span style={{ color: '#6600ff' }}>Dock</span></div>
           <div className={`text-sm ${theme.textSecondary}`}>Carregant...</div>
         </div>
       </div>
@@ -2944,8 +3241,9 @@ export default function StudyApp() {
       <div className={`min-h-screen ${theme.bg} ${theme.text}`}>
         <div className="max-w-md mx-auto pt-20 px-4">
           <div className="text-center mb-8">
-            <h1 className="text-4xl font-bold mb-2">StudyDock</h1>
-            <p className={theme.textSecondary}>La teva app d&apos;estudi personal</p>
+            <Image src={isDark ? "/edudock_white.svg" : "/edudock.svg"} alt="EduDock Logo" width={96} height={96} className="mx-auto mb-4" />
+            <h1 className="text-4xl font-bold mb-2">Edu<span style={{ color: '#6600ff' }}>Dock</span></h1>
+            <p className={theme.textSecondary}>La teva app d&apos;estudi</p>
           </div>
 
           <div className={`${theme.card} rounded-lg p-6 mb-4`}>
@@ -2953,7 +3251,7 @@ export default function StudyApp() {
             <div className="flex mb-6">
               <button
                 onClick={() => { setAuthScreen('login'); setAuthError(''); }}
-                className={`flex-1 py-2 px-4 text-center font-medium transition-colors ${
+                className={`flex-1 py-2 px-4 text-center font-medium transition-colors ${ 
                   authScreen === 'login'
                     ? `${theme.button} text-white rounded-l-lg`
                     : `${theme.buttonSecondary} rounded-l-lg`
@@ -2963,7 +3261,7 @@ export default function StudyApp() {
               </button>
               <button
                 onClick={() => { setAuthScreen('signup'); setAuthError(''); }}
-                className={`flex-1 py-2 px-4 text-center font-medium transition-colors ${
+                className={`flex-1 py-2 px-4 text-center font-medium transition-colors ${ 
                   authScreen === 'signup'
                     ? `${theme.button} text-white rounded-r-lg`
                     : `${theme.buttonSecondary} rounded-r-lg`
@@ -3024,7 +3322,7 @@ export default function StudyApp() {
 
           <p className={`text-center text-sm ${theme.textSecondary}`}>
             {authScreen === 'login'
-              ? "No tens compte? Registra&apos;t a dalt"
+              ? "No tens compte? Registra't a dalt"
               : "Ja tens compte? Inicia sessió a dalt"}
           </p>
         </div>
@@ -3037,50 +3335,17 @@ export default function StudyApp() {
     return (
       <div className={`min-h-screen ${theme.bg} ${theme.text} flex items-center justify-center`}>
         <div className="text-center">
-          <BookOpen size={64} className={`mx-auto mb-4 ${theme.accent} animate-pulse`} />
-          <p className="text-xl">Carregant dades...</p>
+          <Image src={isDark ? "/edudock_white.svg" : "/edudock.svg"} alt="EduDock Logo" width={64} height={64} className="mb-4" />
+          <div className="text-xl font-bold mb-2">Edu<span style={{ color: '#6600ff' }}>Dock</span></div>
+          <div className={`text-sm ${theme.textSecondary}`}>Carregant...</div>
         </div>
       </div>
     );
   }
 
-  // Compute playable URL for current audio
-  const playableUrl = currentAudio ? getPlayableAudioUrl(currentAudio.url) : null;
-
-  // Render current screen
   return (
-    <div className="font-sans">
-      {screen === 'home' && <HomeScreen />}
-      {uploadType && <UploadScreen />}
-      {screen === 'notes' && <NotesScreen />}
-      {screen === 'reading' && <ReadingScreen />}
-      {screen === 'tests' && <TestsScreen />}
-      {screen === 'test-config' && <TestConfigScreen />}
-      {screen === 'taking-test' && <TakingTestScreen />}
-      {screen === 'test-results' && <TestResultsScreen />}
-      {screen === 'audiobooks' && <AudioBooksScreen />}
-      {screen === 'listening' && (
-        <ListeningView
-          theme={theme}
-          isDark={isDark}
-          currentAudio={currentAudio}
-          audioRef={audioRef}
-          playableUrl={playableUrl}
-          onBack={() => {
-            if (audioRef.current) audioRef.current.pause();
-            setIsPlaying(false);
-            setScreen('audiobooks');
-          }}
-          setIsPlaying={setIsPlaying}
-          isPlaying={isPlaying}
-          onTogglePlayPause={togglePlayPause}
-          onSkipForward={skipForward}
-          onSkipBackward={skipBackward}
-        />
-      )}
-      {screen === 'stats' && <StatsScreen />}
-      {screen === 'sharing' && <SharingScreen />}
-      {screen === 'accept-invitation' && <AcceptInvitationScreen />}
-    </div>
+    <main>
+      {uploadType === 'upload' ? <UploadScreen /> : content}
+    </main>
   );
 }

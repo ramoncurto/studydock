@@ -1,4 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
-  <polygon points="40,50 60,50 50,30" fill="black"/>
-  <polygon points="40,50 60,50 50,70" fill="black" transform="rotate(180 50 50)"/>
-</svg>

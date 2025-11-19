@@ -1,5 +1,5 @@
 Q: Què indiquen les marques d'aigües segures?
-IMG: funcio-aigues-segures.svg | Aigües navegables al voltant de la marca
+IMG: funcio-aigues-segures.jpg | Aigües navegables al voltant de la marca
 - Aigües navegables al seu voltant en totes direccions
 - Límits d'un canal
 - Un perill aïllat
@@ -7,7 +7,7 @@ IMG: funcio-aigues-segures.svg | Aigües navegables al voltant de la marca
 A: Aigües navegables al seu voltant en totes direccions
 
 Q: On es col·loquen les marques d'aigües segures?
-IMG: posicio-aigues-segures.svg | Inici de canal, centre, ruta segura
+IMG: posicio-aigues-segures.jpg | Inici de canal, centre, ruta segura
 - Inici de canal, centre de canal, indicació de ruta segura
 - Als costats del canal
 - Sobre perills
@@ -15,7 +15,7 @@ IMG: posicio-aigues-segures.svg | Inici de canal, centre, ruta segura
 A: Inici de canal, centre de canal, indicació de ruta segura
 
 Q: Quin és el propòsit principal d'una marca d'aigües segures?
-IMG: proposit-marca.svg | Indicar aigües navegables al voltant
+IMG: proposit-marca.jpg | Indicar aigües navegables al voltant
 - Indicar que pots navegar per TOTS els costats de la marca
 - Indicar un perill
 - Marcar un límit
@@ -23,7 +23,7 @@ IMG: proposit-marca.svg | Indicar aigües navegables al voltant
 A: Indicar que pots navegar per TOTS els costats de la marca
 
 Q: Quants colors té una marca d'aigües segures?
-IMG: dos-colors-segures.svg | Vermell i blanc
+IMG: dos-colors-segures.jpg | Vermell i blanc
 - Un color
 - Dos colors (VERMELL i BLANC)
 - Tres colors
@@ -31,7 +31,7 @@ IMG: dos-colors-segures.svg | Vermell i blanc
 A: Dos colors (VERMELL i BLANC)
 
 Q: Com són les franges d'una marca d'aigües segures?
-IMG: franges-verticals-rb.svg | Franges verticals vermelles i blanques
+IMG: franges-verticals-rb.jpg | Franges verticals vermelles i blanques
 - Franges VERTICALS vermelles i blanques
 - Franges horitzontals vermelles i blanques
 - Tot vermell
@@ -39,7 +39,7 @@ IMG: franges-verticals-rb.svg | Franges verticals vermelles i blanques
 A: Franges VERTICALS vermelles i blanques
 
 Q: Quina és l'orientació de les franges?
-IMG: orientacio-vertical.svg | Verticals de dalt a baix
+IMG: orientacio-vertical.jpg | Verticals de dalt a baix
 - Horitzontals
 - VERTICALS (de dalt a baix)
 - Diagonals
@@ -47,7 +47,7 @@ IMG: orientacio-vertical.svg | Verticals de dalt a baix
 A: VERTICALS (de dalt a baix)
 
 Q: Quina forma pot tenir una marca d'aigües segures?
-IMG: formes-possibles.svg | Esfèrica, pilar o espeque
+IMG: formes-possibles.jpg | Esfèrica, pilar o espeque
 - Només cilíndrica
 - Només cònica
 - ESFÈRICA, pilar o espeque amb topmark esfèrica
@@ -55,7 +55,7 @@ IMG: formes-possibles.svg | Esfèrica, pilar o espeque
 A: ESFÈRICA, pilar o espeque amb topmark esfèrica
 
 Q: Quina és la forma més comuna per a aigües segures?
-IMG: forma-esferica.svg | Forma esfèrica (bola)
+IMG: forma-esferica.jpg | Forma esfèrica (bola)
 - Cilíndrica
 - Cònica
 - ESFÈRICA (bola)
@@ -63,7 +63,7 @@ IMG: forma-esferica.svg | Forma esfèrica (bola)
 A: ESFÈRICA (bola)
 
 Q: Quina forma té la topmark d'una marca d'aigües segures?
-IMG: topmark-esfera.svg | Una esfera
+IMG: topmark-esfera.jpg | Una esfera
 - Un con
 - Una ESFERA única
 - Dues esferes
@@ -71,7 +71,7 @@ IMG: topmark-esfera.svg | Una esfera
 A: Una ESFERA única
 
 Q: De quin color és la topmark d'aigües segures?
-IMG: esfera-vermella.svg | Color vermell
+IMG: esfera-vermella.jpg | Color vermell
 - Blanca
 - VERMELLA
 - Groga
@@ -79,7 +79,7 @@ IMG: esfera-vermella.svg | Color vermell
 A: VERMELLA
 
 Q: Quantes esferes té la topmark d'aigües segures?
-IMG: una-esfera.svg | Una única esfera
+IMG: una-esfera.jpg | Una única esfera
 - Dues esferes
 - Una ÚNICA esfera vermella
 - Tres esferes
@@ -87,7 +87,7 @@ IMG: una-esfera.svg | Una única esfera
 A: Una ÚNICA esfera vermella
 
 Q: Com diferencies la topmark d'aigües segures de la de perill aïllat?
-IMG: diferencia-esferes.svg | Aigües segures 1 esfera, perill aïllat 2
+IMG: diferencia-esferes.jpg | Aigües segures 1 esfera, perill aïllat 2
 - Aigües segures: 1 esfera VERMELLA | Perill aïllat: 2 esferes NEGRES
 - No es poden diferenciar
 - Mateix color diferent mida
@@ -95,7 +95,7 @@ IMG: diferencia-esferes.svg | Aigües segures 1 esfera, perill aïllat 2
 A: Aigües segures: 1 esfera VERMELLA | Perill aïllat: 2 esferes NEGRES
 
 Q: De quin color és la llum d'una marca d'aigües segures?
-IMG: llum-blanca.svg | Color blanc
+IMG: llum-blanca.jpg | Color blanc
 - Vermella
 - Verda
 - BLANCA
@@ -103,7 +103,7 @@ IMG: llum-blanca.svg | Color blanc
 A: BLANCA
 
 Q: Quin ritme de llum pot tenir una marca d'aigües segures?
-IMG: ritmes-aigues-segures.svg | Isofase, ocultacions, LFl 10s o Morse A
+IMG: ritmes-aigues-segures.jpg | Isofase, ocultacions, LFl 10s o Morse A
 - Destellos ràpids
 - Isofase, Ocultacions, destello llarg cada 10s (LFl 10s) o Morse "A"
 - Grup de 2
@@ -111,7 +111,7 @@ IMG: ritmes-aigues-segures.svg | Isofase, ocultacions, LFl 10s o Morse A
 A: Isofase, Ocultacions, destello llarg cada 10s (LFl 10s) o Morse "A"
 
 Q: Què és una llum isofase?
-IMG: llum-isofase.svg | Igual temps de llum i obscuritat
+IMG: llum-isofase.jpg | Igual temps de llum i obscuritat
 - Llum contínua
 - Igual temps de LLUM i OBSCURITAT
 - Només destellos
@@ -119,7 +119,7 @@ IMG: llum-isofase.svg | Igual temps de llum i obscuritat
 A: Igual temps de LLUM i OBSCURITAT
 
 Q: Què és una llum d'ocultacions?
-IMG: llum-ocultacions.svg | Llum majoritàriament encesa amb breus eclipsis
+IMG: llum-ocultacions.jpg | Llum majoritàriament encesa amb breus eclipsis
 - Llum sempre apagada
 - Llum sempre encesa
 - Llum majoritàriament ENCESA amb breus eclipsis
@@ -127,7 +127,7 @@ IMG: llum-ocultacions.svg | Llum majoritàriament encesa amb breus eclipsis
 A: Llum majoritàriament ENCESA amb breus eclipsis
 
 Q: Què significa LFl 10s?
-IMG: lfl-10s.svg | Destello llarg cada 10 segons
+IMG: lfl-10s.jpg | Destello llarg cada 10 segons
 - Destello curt cada 10 segons
 - Destello LLARG cada 10 segons
 - 10 destellos seguits
@@ -135,7 +135,7 @@ IMG: lfl-10s.svg | Destello llarg cada 10 segons
 A: Destello LLARG cada 10 segons
 
 Q: Què és el codi Morse "A" en llums?
-IMG: morse-a.svg | Un destello curt i un llarg (● –)
+IMG: morse-a.jpg | Un destello curt i un llarg (● –)
 - Un destello llarg
 - Un destello curt i un destello LLARG (● –)
 - Dos destellos curts
@@ -143,7 +143,7 @@ IMG: morse-a.svg | Un destello curt i un llarg (● –)
 A: Un destello curt i un destello LLARG (● –)
 
 Q: Per què es fa servir el Morse "A" en aigües segures?
-IMG: recordatori-morse-a.svg | A de All-round (segur tot al voltant)
+IMG: recordatori-morse-a.jpg | A de All-round (segur tot al voltant)
 - A de "All-round safe water" (aigües segures tot al voltant)
 - Perquè és fàcil
 - Perquè és bonic
@@ -151,7 +151,7 @@ IMG: recordatori-morse-a.svg | A de All-round (segur tot al voltant)
 A: A de "All-round safe water" (aigües segures tot al voltant)
 
 Q: Pots passar per qualsevol costat d'una marca d'aigües segures?
-IMG: passar-qualsevol-costat.svg | Sí, aigües segures al voltant
+IMG: passar-qualsevol-costat.jpg | Sí, aigües segures al voltant
 - No, només per un costat
 - Sí, aigües navegables al VOLTANT
 - Només pel nord
@@ -159,7 +159,7 @@ IMG: passar-qualsevol-costat.svg | Sí, aigües segures al voltant
 A: Sí, aigües navegables al VOLTANT
 
 Q: On pots trobar una marca d'aigües segures?
-IMG: ubicacions-aigues-segures.svg | Entrada port, centre canal, inici ruta
+IMG: ubicacions-aigues-segures.jpg | Entrada port, centre canal, inici ruta
 - Entrada a port, enmig del canal, inici de ruta navegable
 - Sempre a la costa
 - Només en rius
@@ -167,7 +167,7 @@ IMG: ubicacions-aigues-segures.svg | Entrada port, centre canal, inici ruta
 A: Entrada a port, enmig del canal, inici de ruta navegable
 
 Q: Què indica una marca d'aigües segures a l'entrada d'un port?
-IMG: entrada-port-segur.svg | Punt de recalada segur
+IMG: entrada-port-segur.jpg | Punt de recalada segur
 - Punt de RECALADA segur, aigües navegables al voltant
 - Perill
 - Límit de port
@@ -175,7 +175,7 @@ IMG: entrada-port-segur.svg | Punt de recalada segur
 A: Punt de RECALADA segur, aigües navegables al voltant
 
 Q: Què indica una marca d'aigües segures al centre d'un canal?
-IMG: centre-canal.svg | Eix del canal, segur pels dos costats
+IMG: centre-canal.jpg | Eix del canal, segur pels dos costats
 - Eix del canal, pots passar pels DOS costats
 - Perill
 - Límit
